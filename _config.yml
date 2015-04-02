@@ -1,12 +1,12 @@
 # Dependencies
-markdown:         kramdown
+markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        /keywords/archives/:year/:month/:day/:title/
 relative_permalinks: true
 
-excerpt_separator: "<!--more-->"
+excerpt_separator: "&lt;!--more--&gt;"
 
 # Setup
 
