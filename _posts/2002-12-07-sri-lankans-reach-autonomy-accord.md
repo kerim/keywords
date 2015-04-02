@@ -1,0 +1,20 @@
+---
+title: Sri Lankans Reach Autonomy Accord
+author: Kerim
+layout: post
+permalink: /archives/2002/12/07/sri-lankans-reach-autonomy-accord/
+categories:
+  - Old Blog Import
+---
+And sometimes people get tired of war &#8230;
+
+> <div>
+>   &#8220;Sri Lanka&#8217;s government and ethnic Tamil rebels agreed today to work out regional autonomy within a federal system, a major breakthrough toward ending a 19-year separatist war on the Indian Ocean island.&#8221;
+> </div>
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A16006-2002Dec5.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A16006-2002Dec5.html', '(washingtonpost.com)']);" >(washingtonpost.com)</a>
+
+<div id="themify_builder_content-771" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

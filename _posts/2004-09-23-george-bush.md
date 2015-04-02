@@ -1,0 +1,24 @@
+---
+title: George Bush
+author: Kerim
+layout: post
+permalink: /archives/2004/09/23/george-bush/
+dsq_thread_id:
+  - 825168857
+categories:
+  - Academic
+  - Culture
+  - Politics
+---
+Not the President, or his father, but the brother of their ancestor, Timothy Bush. I just visited the New York Public Library&#8217;s exhibit: <a href="http://nypl.org/research/calendar/exhib/hssl/hsslexhibdesc.cfm?id=377" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://nypl.org/research/calendar/exhib/hssl/hsslexhibdesc.cfm?id=377', 'Jewes in America: Conquistadors, Knickerbockers, Pilgrims, and the Hope of Israel']);" >Jewes in America: Conquistadors, Knickerbockers, Pilgrims, and the Hope of Israel</a>. One of the more &#8220;recent&#8221; items in the exhibit is a text entitled *The Valley of Vision, or, The Dry Bones of Israel Revived*, published in 1844. The author is George Bush. Here is what the exhibition guide has to say about him:
+
+> When New York University was founded in 1830 as a nonsectarian, democratic alternative to elitist, Episcopalian Columbia, it hired much the ablest Hebraist in America, Isaac Nodheimer, a former student in Slovakia of Rabbi Moses Schreiber &#8211; as its inaugural professor of Arabic. It is a paradox that the city&#8217;s first secular institution of higher learning should have considered it impossible to permit a Jew to teach the Holy Tongue, when Christians as early as St. Jerome had been willing to travel the world to drink, as they saw it, from the living source. But somewhat paradoxical, too, was their choice, as professor of Hebrew, of George Bush. Competent Christian Hebraist as he was, he was known at the time only as the author of the first American book on Islam &#8211; a biography of Muhammad, whom he insisted on referring to throughout as &#8220;the Impostor.&#8221; his tenure was punctuated by a succession of well-received publications, the first of which was his *Treatiese on the Millenium* (1832), in which he described the &#8220;millennium or New Jerusalem&#8221; as &#8220;one of the most baseless of all the extravaganzas of prophetic hallucination.&#8221; Not that he rejected the idea of the restoration of the Jews to the land of Israel. On the contrary, he believed, and in his *Valley of Vision* offered &#8220;an attempted proof,&#8221; that nothing in the biblical promises required fulfillment under apocalyptic circumstances but might equally well be accomplished in the normal course of worldevents. Providence might even achieve its object by appealing to &#8220;the worldly and selfish principles of the Jewish midn. It is by no means improbably the affairs of the nations or the progress of civilization may take such a turn as to offer the Jews the same carnal inducements to remove to Syria as now promote them to emigrate to this country.&#8221; At just the same time as he was making this case for a rational approach, Bush&#8217;s own mind took a sharp turn in the other direction. Bush had made his name as a critic of what he considered disreputable movements &#8211; Islam, millenarianism &#8211; but now he emerged as the leading American advocate of a couple of controversial movements of more recent vintage: the occult religion of Emanuel Swedenborg and the alternative medicine of Anton Mesmer. He left NYU and spent the remainder of his life ministering to the Swedenborgian Church of the New Jerusalem in Brooklyn. George Bush&#8217;s more famous namesakes are the direct descendants of his brother, Timothy.
+
+There seem to be a <a href="http://www.clements.umich.edu/Webguides/B/Bush.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.clements.umich.edu/Webguides/B/Bush.html', 'collection of Bush&#8217;s papers']);" >collection of Bush&#8217;s papers</a> at the University of Michigan Library.
+
+UPDATE: There was no wikipedia entry on this George Bush, so I added a quick one. It was a mess, just intended to see if someone would clean it up and properly format it. Sure enough, they did &#8211; they even moved it to a better location. You can see it <a href="http://en.wikipedia.org/wiki/George_Bush_%28biblical_scholar%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/George_Bush_%28biblical_scholar%29', 'here']);" >here</a>. There isn&#8217;t much information there yet, just the external links I originally added, but its a start. I&#8217;m very impressed with how quickly this was done by the wikipedia gnomes.
+
+<div id="themify_builder_content-1877" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

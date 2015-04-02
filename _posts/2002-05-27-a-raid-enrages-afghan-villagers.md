@@ -1,0 +1,18 @@
+---
+title: A Raid Enrages Afghan Villagers
+author: Kerim
+layout: post
+permalink: /archives/2002/05/27/a-raid-enrages-afghan-villagers/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   &#8220;But local officials said the raid on Bandi Temur, a poor collection of houses on the edge of the scalding, stony desert, less than 60 miles from Kandahar, may have served little purpose other than to increase distrust of foreign troops, and even to turn Afghans against the American-backed government of Hamid Karzai.&#8221;
+> </div>
+
+<a href="http://www.nytimes.com/2002/05/27/international/asia/27AFGH.html?tntemail0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/05/27/international/asia/27AFGH.html?tntemail0', '(NY Times)']);" >(NY Times)</a>
+
+<div id="themify_builder_content-163" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

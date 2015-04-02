@@ -1,0 +1,41 @@
+---
+title: Finance Software for OS X
+author: Kerim Friedman
+layout: post
+permalink: /archives/2009/08/14/finance-software-for-os-x/
+posterous_678df9ff4da7c424c7dc64d0b819e75e_post_id:
+  - 'O:16:"SimpleXMLElement":1:{i:0;s:7:"2015907";}'
+posterous_678df9ff4da7c424c7dc64d0b819e75e_permalink:
+  - http://scrapbook.oxus.net/finance-software-for-os-x
+categories:
+  - Old Blog Import
+tags:
+  - applications
+  - finance
+  - mac os x
+  - software
+---
+Despite not making much money, we have inordinately complex finances &#8211; largely because we run a film company. It hasn&#8217;t made money yet, but we need to keep careful track of our expenses, which are in multiple currencies. Unfortunately, the choices for finance software on Mac OS X just aren&#8217;t very good. I spent the last 6 hours trying all of them, and the results make me want to cry. Still, so that I don&#8217;t feel my day was a total waste, I thought I&#8217;d share my findings here for anyone else who might be in a similar situation.
+
+  * Quicken 
+      * Quicken 2007 is crap (just read the Amazon.com reviews). They&#8217;ve been promising a new product since 2008. Now it seems <a href="https://quicken.custhelp.com/cgi-bin/quicken.cfg/php/enduser/std_adp.php?p_faqid=6941" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://quicken.custhelp.com/cgi-bin/quicken.cfg/php/enduser/std_adp.php?p_faqid=6941', 'slated for 2010']);" >slated for 2010</a>&#8230;
+  * <a href="http://moneydance.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://moneydance.com/', 'Moneydance']);" >Moneydance</a> 
+      * This is what we&#8217;ve been using for the past few years. It is a solid product, and certainly one of the best options out there right now, but it can be maddenly frustrating at times. Category management is a nightmare, and the program has some major flaws, such as the fact that the formats it imports from are not the same as those it exports to. What led to my 6 hour ordeal today was the inability to import a multiple currency document I had created in the same program. It insisted on importing all the accounts in the file as a single currency&#8230; But after looking around, I&#8217;m not sure there is anything better.
+  * <a href="http://www.iggsoftware.com/ibank/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iggsoftware.com/ibank/', 'iBank']);" >iBank</a> 
+      * I wanted to like this program, but the fact that the &#8220;currency&#8221; drop down menu from which I could set the currency for each account was entirely blank (there are multiple choices, just no text appearing to let you know which choice is which), was a major stumbling block. The fact that the demo was limited to 15 min at a time is another major problem. Why not let me use it for a week? And the nail in the coffin was the inability to set up a custom report the way I wanted. There are custom reports, but they are very limited in terms of what you can do. 
+  * <a href="http://www.liquidledger.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.liquidledger.com/', 'LiquidLedger']);" >LiquidLedger</a> 
+      * Lack of custom reporting was the thing that killed LiquidLedger as well. It otherwise seems like a decent enough program.
+  * <a href="http://www.jumsoft.com/money/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jumsoft.com/money/', 'Money']);" >Money</a> 
+      * Of the three programs with a native Mac OS X look-and-feel (iBank, LiquidLedger, and Money), Money has the nicest user interface, and generates the nicest reports. This would be my favorite if it wasn&#8217;t so buggy. Generating a report can crash the program and cause data loss. Also, there is no way to match multiple accounts in an OFX file to individual accounts in Money, making it unusable for downloading my bank data. And even though the GUI is generally nice, there is really no need for CoverFlow in an accounting program&#8230; One good thing I have to say is that the customer support is fantastic. I had a lot of back-and-forth with the developers and I&#8217;m hopeful that they are working to address these problems. 
+  * <a href="http://www.fortora.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fortora.com/', 'Fortora Fresh Finance']);" >Fortora Fresh Finance</a> 
+      * Fortora is the only program I found which seems to match Moneydance in terms of overall speed and performance. The interface is terribly ugly, and not particularly pleasant to use, but it does the job. If I wasn&#8217;t already using Moneydance I might consider this, but I&#8217;m not sure it offers anything more than Moneydance.
+  * <a href="http://nothirst.com/moneywell/overview.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://nothirst.com/moneywell/overview.html', 'MoneyWell']);" >MoneyWell</a> 
+      * After writing this report someone suggested I try MoneyWell. I&#8217;d tried it a few years ago, but then it was simply a program for balancing your budget using &#8220;envelope&#8221; budgeting. The interface was awful and it didn&#8217;t do what I needed. However, now it has evolved into a full-fledged finance app. It is actually one of the best ones out there, but a couple of flaws keep me from using it. The biggest is probably the fact that it is still designed around envelope budgeting, what it calls &#8220;buckets.&#8221; This means it is good if your main concern is not spending too much, but not so good if you want to track your previous expenses and make reports. Although the reporting mechanism is in some ways better than the competition, the &#8220;bucket&#8221; system breaks how categories work on all other finance applications. Another problem is the inability to download exchange rates so they have to be entered manually. That, and the weird decision to make you enter the default currency in the OS X system preferences rather than the application itself. (A problem if you are an expat.) I don&#8217;t mean to sound too nagative, because it really is a nice application, but the &#8220;bucket&#8221; thing just kills it for me &#8211; maybe it will work better for you?
+  * Others 
+      * There were a bunch of other programs I tried (Cha-Ching, MoneyGuru, Squirrel, Checkbook Pro, iCompta etc.), but they are so limited and/or buggy that I didn&#8217;t think they were worth linking to or discussing.
+      * There are also now a bunch of online offerings, such as <a href="http://mint.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://mint.com', 'Mint']);" >Mint</a>, <a href="https://money.strands.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://money.strands.com/', 'MoneyStrands']);" >MoneyStrands</a>, <a href="http://www.wesabe.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wesabe.com/', 'Wesabe']);" >Wesabe</a>, <a href="http://www.buxfer.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.buxfer.com/', 'Buxfer']);" >Buxfer</a>, <a href="https://www.geezeo.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.geezeo.com/', 'Geezeo']);" >Geezeo</a>, <a href="http://www.yodlee.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.yodlee.com/', 'Yodlee']);" >Yodlee</a>, <a href="https://www.clearcheckbook.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.clearcheckbook.com/', 'ClearCheckbook']);" >ClearCheckbook</a>, and <a href="http://quicken.intuit.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://quicken.intuit.com/', 'Quicken Online']);" >Quicken Online</a>, but so far none of them is powerful enough to substitute for desktop software. For one thing, they are quite limited in terms of being able to import and export QIF files &#8211; the standard format for moving data between financial software. 
+
+<div id="themify_builder_content-2904" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

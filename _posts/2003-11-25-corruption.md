@@ -1,0 +1,16 @@
+---
+title: Corruption
+author: Kerim
+layout: post
+permalink: /archives/2003/11/25/corruption/
+categories:
+  - Law
+  - Politics
+  - The Economy
+---
+In my travels in the developing world, I&#8217;ve often been struck by how even those who hate the United States for its foreign policy have a very idealized image of what life is like in the U.S. &#8220;Even the poor people have cars and flush toilets!&#8221; You hear. Well, it isn&#8217;t true. There are plenty of people in the U.S. who don&#8217;t even have running water. But nobody would believe me. Another one that I&#8217;ve heard is that &#8220;Corruption isn&#8217;t a problem in the U.S., like it is here.&#8221; (Wherever here is.) Well, it is true that it isn&#8217;t so common to have to bribe a policeman, government inspector, or other low-level officials. But this is mostly because people with government jobs are paid much better in the U.S. and don&#8217;t rely upon bribes for their daily bread. So that means that ordinary people are less likely to encounter corruption in the daily course of their lives. Not to say that it doesn&#8217;t happen, or that such officials won&#8217;t take bribes &#8211; just that when you go to get your driver&#8217;s license you aren&#8217;t made to wait three weeks because you *didn&#8217;t* bribe someone! No, the great thing about corruption in the United States is that *most of it is legal*! We call it &#8220;<a href="http://www.commoncause.org/laundromat/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.commoncause.org/laundromat/', 'soft money']);" >soft money</a>&#8221; or &#8220;<a href="http://www.calpundit.com/archives/002718.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/002718.html', 'pork']);" >pork</a>&#8221; or &#8220;<a href="http://www.chron.com/cs/CDA/ssistory.mpl/metropolitan/2249990" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.chron.com/cs/CDA/ssistory.mpl/metropolitan/2249990', 'consulting']);" >consulting</a>&#8221; or &#8220;<a href="http://www.alternet.org/story.html?StoryID=12602" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/story.html?StoryID=12602', 'lobbying']);" >lobbying</a>&#8220;. To make sure that corruption remains legal, they even removed provisions from the President&#8217;s bill for reconstructing Iraq that would have made it illegal for U.S. corporations to engage in <a href="http://www.senate.gov/~feinstein/03Releases/warprof103103.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.senate.gov/~feinstein/03Releases/warprof103103.htm', 'profiteering']);" >profiteering</a>. Unfortunately, as long as this happens &#8220;out of sight,&#8221; it seems to remain &#8220;out of mind&#8221; as well. I guess we&#8217;ll have to wait for the cops to start randomly stopping cars to collect bribes before people get angry enough to demand change.
+
+<div id="themify_builder_content-1407" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

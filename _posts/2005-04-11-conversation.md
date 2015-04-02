@@ -1,0 +1,28 @@
+---
+title: Conversation
+author: Kerim
+layout: post
+permalink: /archives/2005/04/11/conversation/
+dsq_thread_id:
+  - 825169002
+categories:
+  - Labor
+---
+Mark Liberman, <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/002052.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/002052.html', 'commenting']);" >commenting</a> on a story that the FAA is considering <a href="http://www.washingtonpost.com/wp-dyn/articles/A35523-2005Apr7.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A35523-2005Apr7.html', 'lifting the ban']);" >lifting the ban</a> on in-flight cell phone use, points out that the problem is not that there will be more conversation on the airplanes, but the specific nature of the conversations:
+
+> As I&#8217;ve <a href="http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000095.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000095.html', 'observed']);" >observed</a> before, there&#8217;s something funny about this. People do still have face-to-face conversations, and many people do this on airplanes, in my experience. So a phone-free airplane is not a place where &#8220;the unwanted conversation of other people&#8221; is absent. It could be that the survey respondents feel that cell phone availability in planes would cause the number of conversations to increase, and they might be right about that. But as <a href="http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000641.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000641.html', 'Mark Twain']);" >Mark Twain</a> was the first to point out, and as controlled experiments have since confirmed, listening to one side of a conversation is <a href="http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000756.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000756.html', 'much more annoying']);" >much more annoying</a> than listening to a whole conversation at the same distance and volume level.
+
+Fortunately, thanks to <a href="http://www.newscientist.com/article.ns?id=dn7247&#038;feedId=online-news_rss20" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newscientist.com/article.ns?id=dn7247&feedId=online-news_rss20', 'DARPA researchers']);" >DARPA researchers</a>, we may no longer need to even listen to half of a conversation.
+
+> DARPA, the US Department of Defense&#8217;s research agency, is working on a project known as Advanced Speech Encoding, aimed at replacing microphones with non-acoustic sensors that detect speech via the speaker&#8217;s nerve and muscle activity, rather than sound itself.
+
+If they can make commercial applications of such technology it would be fantastic. Unfortunately the person at the other end of the phone would hear a computer synthesized voice rendering <a href="http://www.nasa.gov/home/hqnews/2004/mar/HQ_04093_subvocal_speech.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nasa.gov/home/hqnews/2004/mar/HQ_04093_subvocal_speech.html', 'sub vocal speech']);" >sub vocal speech</a> (not to be confused with <a href="http://en.wikipedia.org/wiki/Subvocalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Subvocalization', 'subvocalization']);" >subvocalization</a>), rather than the speaker&#8217;s natural voice. Everyone else would hear nothing but blissful silence. That and babies crying.
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://technorati.com/tag/sub vocal speech" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/sub vocal speech', 'sub vocal speech']);"  rel="tag">sub vocal speech</a>, <a href="http://technorati.com/tag/subvocalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/subvocalization', 'subvocalization']);"  rel="tag">subvocalization</a>, <a href="http://technorati.com/tag/cell phones" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/cell phones', 'cell phones']);"  rel="tag">cell phones</a>, <a href="http://technorati.com/tag/airplains" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/airplains', 'airplains']);"  rel="tag">airplains</a>, <a href="http://technorati.com/tag/FAA" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/FAA', 'FAA']);"  rel="tag">FAA</a>, <a href="http://technorati.com/tag/conversation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/conversation', 'conversation']);"  rel="tag">conversation</a>}</span>
+</div>
+
+<div id="themify_builder_content-2130" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

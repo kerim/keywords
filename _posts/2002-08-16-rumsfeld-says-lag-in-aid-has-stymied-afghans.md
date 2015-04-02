@@ -1,0 +1,22 @@
+---
+title: Rumsfeld Says Lag in Aid Has Stymied Afghans
+author: Kerim
+layout: post
+permalink: /archives/2002/08/16/rumsfeld-says-lag-in-aid-has-stymied-afghans/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   &#8220;"The problem, in my view, in Afghanistan is not security," Mr. Rumsfled said. "It is, rather, the challenge of bolstering the new government, the new central government, and the fact that the international community is not yet delivering the level of assistance to President Karzai and his team that is needed."</p> 
+>   
+>   <p>
+>     He said the new government, led by Hamid Karzai, has appointed ministers but has no other bureaucratic structures or budget in place. "They need to get on their feet," Mr. Rumsfeld said at a Pentagon news conference. "To do that, they need resources."&#8221;
+>   </p>
+> </div>
+
+<a href="http://www.nytimes.com/2002/08/16/international/asia/16MILI.html?tntemail0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/16/international/asia/16MILI.html?tntemail0', 'NY Times']);" >NY Times</a>
+
+<div id="themify_builder_content-444" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

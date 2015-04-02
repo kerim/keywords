@@ -1,0 +1,29 @@
+---
+title: Libraries
+author: Kerim
+layout: post
+permalink: /archives/2004/04/25/libraries/
+categories:
+  - Academic
+  - Info Tech
+---
+A while a go I wrote a post asking, <a href="http://keywords.oxus.net/archives/000395.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000395.html', 'why can&#8217;t academic research be more like blogging']);" >why can&#8217;t academic research be more like blogging</a>? Well, I&#8217;m happy to say that I am not the only one thinking this. Here is <a href="http://www.swarthmore.edu/SocSci/tburke1/perma12004.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.swarthmore.edu/SocSci/tburke1/perma12004.html', 'Timothy Burke']);" >Timothy Burke</a> at Swarthmore:
+
+> Electronic catalogs, wherever you go in the academic world, have become a horrible crazy-quilt assemblage of incompatible interfaces and vendor-constrained listings. Working through Tripod&#8217;s article and specialized subject indices, in a relatively small collection, you still have to navigate at least five completely different interfaces for searching. Historical epochs of data collection and cataloguing lie indigestibly atop one another. The Library of Congress subject headings, which long ago slid into uselessness, now actively misrepresent existing nodes and clusters of knowledge in many academic fields. Or sometimes, the LC headings are so insanely specific that they are inhabited and may always be inhabited forever and ever by one or two monographs, using subject headings that could never be found intuitively by a researcher, but only by someone who already knew about the one or two monographs anyway. At their outer reaches, the categories sometimes become positively Borgesian, as if they&#8217;re part of the planned expansion of human knowledge to some infinite point of universality.
+> 
+> To get a catalog to associate materials that I know are associated in scholarly practice, I often have to execute exotic combinations of keywords and authors. Disciplines don&#8217;t guide me to those clusters of scholarship, subject headings don&#8217;t guide me to them, and even the keywords that most obviously ought to guide me indiscriminately lump those clusters in with works that have almost no relationship to them.
+
+(Note, the post has no back-link to his blog, which is <a href="http://www.swarthmore.edu/SocSci/tburke1/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.swarthmore.edu/SocSci/tburke1/', 'here']);" >here</a>.)
+
+Someone named Daniel Chudnov at Yale has put a lot of thought into <a href="http://curtis.med.yale.edu/dchud/writings/blm.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://curtis.med.yale.edu/dchud/writings/blm.html', 'specific solutions']);" >specific solutions</a> that Libraries might implement to improve things:
+
+> This informal paper proposes that libraries could merge the functions of weblogging, reference management, and link resolution into a new library groupware infrastructure, helping users to better manage the entire lifecycle of the bibliographic research process. Several scenarios explore how such an application suite might help library users by integrating their bibliographic research more closely with communication &#8212; scholarly and otherwise, from private annotation to public discussion. A discussion of related architectural issues suggests a new model of &#8220;link routing&#8221; to augment &#8220;link resolution,&#8221; and describes how link routing systems could enable library visitors to become users of our groupware services as much as they already are users of the information resources we procure.
+
+<a href="http://netapps.muohio.edu/movabletype/darcusb/darcusb/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://netapps.muohio.edu/movabletype/darcusb/darcusb/', 'Darcusblog']);" >Darcusblog</a> and <a href="http://digitallibrarian.org/archives/000049.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://digitallibrarian.org/archives/000049.html', 'Digital Librarian']);" >Digital Librarian</a> have looked at one of the solutions discussed by Chudov, which is called &#8220;social linking&#8221; or &#8220;link stacking.&#8221; Even though my <a href="http://www.kung-foo.tv/ecto/index.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.kung-foo.tv/ecto/index.php', 'ecto']);" >ecto</a> blogging software works with the <a href="http://del.icio.us/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://del.icio.us/', 'delicious']);" >delicious</a> service, I personally prefer <a href="http://www.furl.net/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.furl.net/', 'Furl']);" >Furl</a> because Furl is the only one I&#8217;ve seen that actually maintains a local cache of the pages you bookmark. This means you won&#8217;t loose access to the pages because of linkrot. (Although it refuses to cache NY Times pages, unless you use the <a href="http://nytimes.blogspace.com/genlink" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://nytimes.blogspace.com/genlink', 'NY Times Link Generator']);" >NY Times Link Generator</a> first.)
+
+UPDATE: Crooked Timber asks &#8220;<a href="http://www.crookedtimber.org/archives/001780.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/001780.html', 'What can you not find online']);" >What can you <em>not</em> find online</a>?&#8221;
+
+<div id="themify_builder_content-1654" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

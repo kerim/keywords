@@ -1,0 +1,18 @@
+---
+title: Bush holding Israeli Peace plan hostage
+author: Kerim
+layout: post
+permalink: /archives/2003/03/11/bush-holding-israeli-peace-plan-hostage/
+categories:
+  - Old Blog Import
+---
+The <a href="http://www.nytimes.com/2003/03/09/international/middleeast/09PEAC.html?pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/09/international/middleeast/09PEAC.html?pagewanted=all&position=top', 'NY Times']);" >NY Times</a> this past Sunday had an article that made it very clear that Bush considers peace in Israel nothing more than another piece of leverage he can use to try to impose his will upon our allies. Even Blair is supposedly pissed off at Bush on this one. The administration even has the nerve to say that &#8220;it makes no sense to publish the peace plan and push the effort now with a possible war on the horizon&#8221;!!! Supposedly Powell is upset as well, but I have lost all respect for the man since he showed his willingness to push a pack of <a href="http://nowar.oxusnet.net/tiki-index.php?page=PowellUN" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://nowar.oxusnet.net/tiki-index.php?page=PowellUN', 'half-truths']);" >half-truths</a> at the U.N. 
+
+Part of the story is that this is yet another example of Bush failing to come through on his promises. His unreliability has already lost him the support of some key allies in the security council &#8211; like <a href="http://www.prospect.org/weblog/archives/2003/03/index.html#000778" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/weblog/archives/2003/03/index.html#000778', 'Mexico']);" >Mexico</a>. But it also shows how topsy-turvy the world has become. Whereas a peaceful two-state solution to Israel would undermine the what little legitimacy of Bin Laden and his ilk might have in the Arab world, Bush is thinking of supplying Sharon with more weapons, and pushing an unjust war against the wishes of our allies, not to mention our enemies. 
+
+In Jimmy Carter&#8217;s recent <a href="http://www.nytimes.com/2003/03/09/opinion/09CART.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/09/opinion/09CART.html', 'Op-Ed piece']);" >Op-Ed piece</a> he makes a not-too subtle jab at the &#8220;Southern Baptist Convention who are greatly influenced by their commitment to Israel based on eschatological, or final days, theology.&#8221; It is perhaps possible that such a belief system is guiding Bush&#8217;s policy, but I think it is more likely to be a simplistic world-view in which might-makes-right. As the NY Times article states, the administration believes that they can impose the peace they want on Israel after they show the power of the US by killing <a href="http://www.cesr.org/iraq/docs/humancosts.pdf" onclick="_gaq.push(['_trackEvent','download','http://www.cesr.org/iraq/docs/humancosts.pdf']);" >tens of thousands</a> of Iraqi civilians. (Note: last link is a PDF file.) But can truly lasting peace be imposed? Israel has been trying to do so for a long time and it has failed, why would a victory in Iraq make a difference?
+
+<div id="themify_builder_content-998" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

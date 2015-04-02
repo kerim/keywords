@@ -1,0 +1,18 @@
+---
+title: Rights group slams Nigeria over killings
+author: Kerim
+layout: post
+permalink: /archives/2002/05/20/rights-group-slams-nigeria-over-killings/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   &#8220;The Nigerian Government is under pressure to disband state sponsored vigilantes operating in Eastern Nigeria.&#8221;
+> </div>
+
+<a href="http://news.bbc.co.uk/hi/english/world/africa/newsid_1997000/1997705.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/world/africa/newsid_1997000/1997705.stm', '(BBC)']);" >(BBC)</a>
+
+<div id="themify_builder_content-144" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

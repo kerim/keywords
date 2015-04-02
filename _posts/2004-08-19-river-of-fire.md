@@ -1,0 +1,21 @@
+---
+title: River of Fire
+author: Kerim
+layout: post
+permalink: /archives/2004/08/19/river-of-fire/
+categories:
+  - Culture
+  - Language
+---
+I&#8217;ve just finished reading Qurratulain Hyder&#8217;s *<a href="http://www.addall.com/New/LinkToUs.cgi?isbn=0811215334&#038;dispCurr=USD&#038;title=River+of+Fire" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.addall.com/New/LinkToUs.cgi?isbn=0811215334&dispCurr=USD&title=River+of+Fire', 'River of Fire']);" >River of Fire</a>*. Written in 1959 in Urdu, and translated into English by the author, this sprawling history of India is one of the classics of Indian literature. It has unfortunately gone fairly unnoticed in the United States, and I am not surprised. One feels that the translation should have been done by someone other than the author, and indeed one review reports that a single chapter of the book was far <a href="http://www.shelterbelt.com/RELIT/URDU/riverfire.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.shelterbelt.com/RELIT/URDU/riverfire.html', 'superior in another translation']);" >superior in another translation</a>. Still, there are so many delights hidden in this book, that I urge everyone to make the effort. If nothing else, it presents a history of India that reveals how interwoven Hindu and Muslim culture have been throughout the ages.
+
+The fact that the book was written in Urdu is itself now worth remarking upon, since after the partition Urdu became the official language of Pakistan, and its use in India declined. In fact, Hindi and Urdu used to be much closer to each other than they are now, with Hindi slowly getting more Sanskritized and Urdu adopting more Persian and Arabic influences. It is not uncommon to see these two languages referred to as &#8220;<a href="http://www.indianchild.com/hindi.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.indianchild.com/hindi.htm', 'essentially one language with two scripts']);" >essentially one language with two scripts</a>,&#8221; although I&#8217;m not sure how accurate that is. It is even more confusing in that these terms often seem to refer to the standard, written, varieties of the languages, while the vernacular (of both languages) is often referred to as <a href="http://en.wikipedia.org/wiki/Hindustani_language" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Hindustani_language', 'Hindustani']);" >Hindustani</a>. (Although most seem to reserve the term Hindustani for the vernacular that *used* to be spoken in the North of India, implying that it differs from contemporary vernacular Hindi and Urdu.) In many ways, this linguistic change is very much what the novel is about. As one character, the Communist son of a Hindu landowner who migrates to Pakistan after land reforms destroy his family&#8217;s wealth, writes in a letter:
+
+> In the demand for Pakistan, Urdu was most thoughtlessly declared to be language of a &#8220;separate Muslim nation&#8221;, so now it is also paying the price for the creation of the &#8220;homeland&#8221;. In India it has almost become a non-language. The word &#8216;Urdu&#8217; is no associated with Pakistan and creates an emotional and psychological block for most Hindus. Therefore it continues to be the language of films and film songs but is called Hindi. By abolishing Urdu in schools they have also impoverished their own culture.
+
+The novel covers thousands of years of history, with the same characters reappearing in different incarnations. There are four time periods covered: Ancient India (Fourth Century B.C.), The Mughal Empire (16th Century), Colonial India (19th Century &#8211; before and after the 1857 rebellion), and &#8220;contemporary&#8221; India (1940s, before and after partition). The last period takes up nearly half the book, which is unfortunate because it was my least favorite. Mostly because the self-indulgent upper class kids of this era are the least interesting of her characters. But I&#8217;m being too negative. The author&#8217;s acute insight and wit permeate even the least effective chapters, making it a pleasure to read.
+
+<div id="themify_builder_content-1815" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

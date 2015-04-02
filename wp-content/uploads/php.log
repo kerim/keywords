@@ -1,0 +1,239 @@
+[24-Feb-2007 05:09:03] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:03] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:03] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date.  < 85
+[24-Feb-2007 05:09:03] WPOpenID plugin core is disabled -- Check Options -> OpenID tab for a full diagnositic report.
+[24-Feb-2007 05:09:03] WPOpenID Status: userinterface hooks: Disabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:09:03] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:03] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:03] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:03] WPOpenID plugin core is disabled -- Check Options -> OpenID tab for a full diagnositic report.
+[24-Feb-2007 05:09:03] WPOpenID Status: userinterface hooks: Disabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:09:11] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:11] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:11] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:11] WPOpenID plugin core is disabled -- Check Options -> OpenID tab for a full diagnositic report.
+[24-Feb-2007 05:09:11] WPOpenID Status: userinterface hooks: Disabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:09:14] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:14] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:14] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:14] WPOpenID plugin core is disabled -- Check Options -> OpenID tab for a full diagnositic report.
+[24-Feb-2007 05:09:14] WPOpenID Status: userinterface hooks: Disabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:09:16] WPOpenID Plugin: Late Binding Now
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: openid-registration.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Services/Yadis/PlainHTTPFetcher.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Services/Yadis/Yadis.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Auth/OpenID.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Auth/OpenID/Discover.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Auth/OpenID/DatabaseConnection.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Auth/OpenID/MySQLStore.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: wpdb-pear-wrapper.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: loading file: Auth/OpenID/Consumer.php [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: unknown library variable: php_errormsg [fail]: This library variable is unknown, left unset.
+[24-Feb-2007 05:09:16] WPOpenID Status: database: Wordpress' table prefix [info]: wordtest_
+[24-Feb-2007 05:09:16] WPOpenID Status: object: OpenID Store [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: object: OpenID Consumer [ok]
+[24-Feb-2007 05:09:16] Bootstrap -- checking tables
+[24-Feb-2007 05:09:16] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:16] WPOpenID Status: database tables [fail]: Tables not created properly. Trying to create..
+[24-Feb-2007 05:09:16] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:16] OpenID Consumer could not be activated, something bad happened. Skipping table create. Check libraries.
+[24-Feb-2007 05:09:16] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:16] WPOpenID Status: database tables [fail]: Table wordtest_openid_associations doesn't exist. Table wordtest_openid_nonces doesn't exist. Table wordtest_openid_settings doesn't exist. Table wordtest_openid_identities doesn't exist.
+[24-Feb-2007 05:09:16] WPOpenID Status: Plugin Database Version [fail]: Plugin database is out of date. 0 < 85
+[24-Feb-2007 05:09:16] WPOpenID Plugin: Enabled (start of wordpress options page)
+[24-Feb-2007 05:09:16] WPOpenID Status: Include Path [info]: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/plugins/wpopenid/ /usr/local/share/smarty/ /usr/local/lib/php/pear/
+[24-Feb-2007 05:09:16] WPOpenID Status: WordPress version [info]: 2.0.4
+[24-Feb-2007 05:09:16] WPOpenID Status: MySQL version [info]: 4.1.18
+[24-Feb-2007 05:09:16] WPOpenID Status: PHP version [info]: 5.1.4
+[24-Feb-2007 05:09:16] WPOpenID Status: Curl version [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: library: GMP compiled into in PHP [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: library: BCMath compiled into in PHP [ok]
+[24-Feb-2007 05:09:16] WPOpenID Status: Loaded long integer library [info]: gmp
+[24-Feb-2007 05:09:18] WPOpenID Status: Plugin version [info]: Running version 85. Latest stable release is 86. A new version of this plugin is available.
+[24-Feb-2007 05:09:18] WPOpenID Status: Plugin Database Version [info]: Plugin database is currently at revision 85
+[24-Feb-2007 05:09:18] WPOpenID Status: Overall Plugin Status [ok]
+[24-Feb-2007 05:09:18] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:18] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:18] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:09:36] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:36] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:36] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:09:38] -------------------wpopenid-------------------
+[24-Feb-2007 05:09:38] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:09:38] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:10:21] -------------------wpopenid-------------------
+[24-Feb-2007 05:10:21] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:10:21] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:10:27] -------------------wpopenid-------------------
+[24-Feb-2007 05:10:27] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:10:27] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:07] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:07] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:07] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:07] WPOpenID Plugin: Late Binding Now
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: openid-registration.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Services/Yadis/PlainHTTPFetcher.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Services/Yadis/Yadis.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Auth/OpenID.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Auth/OpenID/Discover.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Auth/OpenID/DatabaseConnection.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Auth/OpenID/MySQLStore.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: wpdb-pear-wrapper.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: loading file: Auth/OpenID/Consumer.php [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: unknown library variable: php_errormsg [fail]: This library variable is unknown, left unset.
+[24-Feb-2007 05:16:07] WPOpenID Status: database: Wordpress' table prefix [info]: wordtest_
+[24-Feb-2007 05:16:07] WPOpenID Status: object: OpenID Store [ok]
+[24-Feb-2007 05:16:07] WPOpenID Status: object: OpenID Consumer [ok]
+[24-Feb-2007 05:16:07] Bootstrap -- checking tables
+[24-Feb-2007 05:16:07] WPOpenID Status: database tables [fail]: Tables not created properly. Trying to create..
+[24-Feb-2007 05:16:07] WPOpenID Status: database tables [info]: Table wordtest_openid_associations exists. Table wordtest_openid_nonces exists. Table wordtest_openid_settings exists. Table wordtest_openid_identities exists.
+[24-Feb-2007 05:16:08] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:08] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:08] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:10] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:10] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:10] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:12] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:12] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:12] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:15] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:15] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:15] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:19] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:19] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:19] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:20] WPOpenID Plugin: Late Binding Now
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: openid-registration.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Services/Yadis/PlainHTTPFetcher.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Services/Yadis/Yadis.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Auth/OpenID.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Auth/OpenID/Discover.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Auth/OpenID/DatabaseConnection.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Auth/OpenID/MySQLStore.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: wpdb-pear-wrapper.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: loading file: Auth/OpenID/Consumer.php [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: unknown library variable: php_errormsg [fail]: This library variable is unknown, left unset.
+[24-Feb-2007 05:16:20] WPOpenID Status: database: Wordpress' table prefix [info]: wordtest_
+[24-Feb-2007 05:16:20] WPOpenID Status: object: OpenID Store [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: object: OpenID Consumer [ok]
+[24-Feb-2007 05:16:20] Bootstrap -- checking tables
+[24-Feb-2007 05:16:20] WPOpenID Status: database tables [info]: Table wordtest_openid_associations exists. Table wordtest_openid_nonces exists. Table wordtest_openid_settings exists. Table wordtest_openid_identities exists.
+[24-Feb-2007 05:16:20] WPOpenID Plugin: Enabled (start of wordpress options page)
+[24-Feb-2007 05:16:20] WPOpenID Status: Include Path [info]: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/plugins/wpopenid/ /usr/local/share/smarty/ /usr/local/lib/php/pear/
+[24-Feb-2007 05:16:20] WPOpenID Status: WordPress version [info]: 2.0.4
+[24-Feb-2007 05:16:20] WPOpenID Status: MySQL version [info]: 4.1.18
+[24-Feb-2007 05:16:20] WPOpenID Status: PHP version [info]: 5.1.4
+[24-Feb-2007 05:16:20] WPOpenID Status: Curl version [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: library: GMP compiled into in PHP [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: library: BCMath compiled into in PHP [ok]
+[24-Feb-2007 05:16:20] WPOpenID Status: Loaded long integer library [info]: gmp
+[24-Feb-2007 05:16:21] WPOpenID Status: Plugin version [info]: Running version 85. Latest stable release is 86. A new version of this plugin is available.
+[24-Feb-2007 05:16:21] WPOpenID Status: Plugin Database Version [info]: Plugin database is currently at revision 85
+[24-Feb-2007 05:16:21] WPOpenID Status: Overall Plugin Status [ok]
+[24-Feb-2007 05:16:36] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:36] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:36] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:37] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:37] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:37] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:16:39] WPOpenID Plugin: Late Binding Now
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: openid-registration.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Services/Yadis/PlainHTTPFetcher.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Services/Yadis/Yadis.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Auth/OpenID.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Auth/OpenID/Discover.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Auth/OpenID/DatabaseConnection.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Auth/OpenID/MySQLStore.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: wpdb-pear-wrapper.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: loading file: Auth/OpenID/Consumer.php [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: unknown library variable: php_errormsg [fail]: This library variable is unknown, left unset.
+[24-Feb-2007 05:16:39] WPOpenID Status: database: Wordpress' table prefix [info]: wordtest_
+[24-Feb-2007 05:16:39] WPOpenID Status: object: OpenID Store [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: object: OpenID Consumer [ok]
+[24-Feb-2007 05:16:39] Bootstrap -- checking tables
+[24-Feb-2007 05:16:39] WPOpenID Status: database tables [info]: Table wordtest_openid_associations exists. Table wordtest_openid_nonces exists. Table wordtest_openid_settings exists. Table wordtest_openid_identities exists.
+[24-Feb-2007 05:16:39] WPOpenID Plugin: Enabled (start of wordpress options page)
+[24-Feb-2007 05:16:39] WPOpenID Status: Include Path [info]: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/plugins/wpopenid/ /usr/local/share/smarty/ /usr/local/lib/php/pear/
+[24-Feb-2007 05:16:39] WPOpenID Status: WordPress version [info]: 2.0.4
+[24-Feb-2007 05:16:39] WPOpenID Status: MySQL version [info]: 4.1.18
+[24-Feb-2007 05:16:39] WPOpenID Status: PHP version [info]: 5.1.4
+[24-Feb-2007 05:16:39] WPOpenID Status: Curl version [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: library: GMP compiled into in PHP [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: library: BCMath compiled into in PHP [ok]
+[24-Feb-2007 05:16:39] WPOpenID Status: Loaded long integer library [info]: gmp
+[24-Feb-2007 05:16:40] WPOpenID Status: Plugin version [info]: Running version 85. Latest stable release is 86. A new version of this plugin is available.
+[24-Feb-2007 05:16:40] WPOpenID Status: Plugin Database Version [info]: Plugin database is currently at revision 85
+[24-Feb-2007 05:16:40] WPOpenID Status: Overall Plugin Status [ok]
+[24-Feb-2007 05:16:46] -------------------wpopenid-------------------
+[24-Feb-2007 05:16:46] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:16:46] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:02] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:02] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:02] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:07] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:07] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:07] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:16] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:16] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:16] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:24] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:24] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:24] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:30] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:30] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:30] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:35] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:35] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:35] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:41] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:41] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:41] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:54] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:54] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:54] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:17:55] -------------------wpopenid-------------------
+[24-Feb-2007 05:17:55] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:17:55] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:18:08] -------------------wpopenid-------------------
+[24-Feb-2007 05:18:08] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:18:08] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:20:47] -------------------wpopenid-------------------
+[24-Feb-2007 05:20:47] -------------------wpopenid-------------------
+[24-Feb-2007 05:20:47] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:20:47] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:20:47] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:20:47] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:20:49] -------------------wpopenid-------------------
+[24-Feb-2007 05:20:49] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:20:49] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:21:07] -------------------wpopenid-------------------
+[24-Feb-2007 05:21:07] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:21:07] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:22:07] -------------------wpopenid-------------------
+[24-Feb-2007 05:22:07] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:22:07] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:22:54] -------------------wpopenid-------------------
+[24-Feb-2007 05:22:54] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:22:54] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:14] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:14] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:14] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:14] PHP Parse error:  syntax error, unexpected $end in /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/themes/gentle_calm_mod/comments.php on line 104
+[24-Feb-2007 05:23:16] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:16] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:16] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:31] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:31] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:31] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:48] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:48] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:48] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:48] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:48] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:48] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:54] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:54] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:54] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)
+[24-Feb-2007 05:23:54] -------------------wpopenid-------------------
+[24-Feb-2007 05:23:54] WPOpenID Status: file:error_log [info]: Logging errors via PHP's error_log faculty to: /users/home/kerimfriedman/domains/oxus.net/web/public/keywords/wp-content/uploads/php.log
+[24-Feb-2007 05:23:54] WPOpenID Status: userinterface hooks: Enabled (finished including and instantiating, passing control back to wordpress)

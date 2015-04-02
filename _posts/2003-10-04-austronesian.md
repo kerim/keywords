@@ -1,0 +1,45 @@
+---
+title: Austronesian
+author: Kerim
+layout: post
+permalink: /archives/2003/10/04/austronesian/
+categories:
+  - Language
+  - Politics
+---
+<img src="http://keywords.oxus.net/images/abodist.jpg" height="401" width="294" align="left" border="0" hspace="10" vspace="10" />There is a lot of talk about languages in Taiwan these days, especially since the announcement of a draft of a proposed &#8220;<a href="http://www.taipeitimes.com/News/edit/archives/2003/09/25/2003069193" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/edit/archives/2003/09/25/2003069193', 'national languages development law']);" >national languages development law</a>&#8220;:
+
+> <div>
+>   The intent behind this legislation is to protect and preserve disadvantaged languages which are in danger of extinction after being marginalized by the forced usage of Mandarin for so many decades. Under the proposed law, all languages used in Taiwan would become national languages and be given equal status.
+> </div>
+
+This is great news, but there is a serious problem with such an effort, it seems people are not quite sure just how many languages are there in Taiwan? Even the President is a little confused:
+
+> <div>
+>   Chen said that there are 29 languages spoken in Taiwan, including Taiwanese, mandarin, Hakka and more than a dozen aboriginal languages.
+> </div>
+
+However, the paper corrects him, saying:
+
+> <div>
+>   According to UNESCO statistics, however, there are only 22 languages left in Taiwan and the other seven have disappeared.
+> </div>
+
+22? How did they get that number? There are three Chinese languages: <a href="http://www.zhongwen.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.zhongwen.com/', 'Mandarin']);" >Mandarin</a>, <a href="http://www.hoklo.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hoklo.org/', 'Hakka, and Hoklo']);" >Hakka, and Hoklo</a>, there is no dispute about that. (Well, you could say there are more if you count the languages spoken by <a href="http://www.taipeitimes.com/News/taiwan/archives/2003/10/01/2003069953" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2003/10/01/2003069953', 'foreign brides']);" >foreign brides</a>, older immigrants from the Mainland, and foreign workers, but lets not get too complicated&#8230;) And Japanese is counted, because many older people who lived in Taiwan during the <a href="http://www.wikipedia.org/wiki/History_of_Taiwan#Japanese_Rule" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wikipedia.org/wiki/History_of_Taiwan#Japanese_Rule', 'Japanese Colonial Era']);" >Japanese Colonial Era</a>, still speak Japanese. Maybe they count English as well? Who knows?
+
+Where the real confusion comes in is in the issue of Aboriginal languages, generally referred to as &#8220;<a href="http://www.ethnologue.com/show_country.asp?name=Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ethnologue.com/show_country.asp?name=Taiwan', 'Austronesian&#8221; langauges']);" >Austronesian&#8221; langauges</a>. (Most of them are categorized as Formosan Austronesian, with the exception of Yami, which is Malayo-Polynesian Austronesian.) At the end of World War II there were 17 Austronesian languages spoken in Taiwan. That, with the languages listed above, would give us a total of 22. But this is really pushing what it means for a language to still be spoken.
+
+For a whole bunch of Austroneisan langauges (Babuza, Kanakanabu, Saaroa, Thao) there are less than 10 speakers left. And for Pazeh, there is just <a href="http://muse.jhu.edu/journals/oceanic_linguistics/v038/38.2blust.pdf" onclick="_gaq.push(['_trackEvent','download','http://muse.jhu.edu/journals/oceanic_linguistics/v038/38.2blust.pdf']);" >one speaker</a> (link to PDF file) &#8211; and she&#8217;s 89 years old! Others (Basay, Hoanya, Kavalan, Ketangalan, Kulun, Papora, Siraiya, and Taokas) are already extinct. That leaves about 10 languages left (Amis, Atyal, Paiwan, Taroko/Sediq, Bunun, Puyuma, Rukai, Yami/Tao, Saisiyat, and Tsou). Many of these are in serious danger of dying out, with less than half of them having more than five thousand speakers.
+
+It is important to note that the actual Aborigine populations are much larger than the number of speakers of Austronesian languages. There are about 400,000 Aborigines altogether, but, as a result of decades of Mandarin-only language policy (in effect until the early 1990s), the younger generation has very limited ability in their mother tounge. Some can understand their grandparents when they speak, but are unable to produce a single sentence themselves. This year the government started teaching these languages in primary schools, but only for one or two periods a week, far too little to have much of an impact on the more endangered languages.
+
+Here is a good page about <a href="http://www.taiwanfirstnations.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taiwanfirstnations.org/', 'Taiwanese Aborigine Rights']);" >Taiwanese Aborigine Rights</a>. And there are <a href="http://www.sino.uni-heidelberg.de/staff/rudolph/aborres.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sino.uni-heidelberg.de/staff/rudolph/aborres.htm', 'more links here']);" >more links here</a>. And here is <a href="http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/chpt02.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/chpt02.htm', 'the official government report on Language and Population in Taiwan']);" >the official government report on Language and Population in Taiwan</a>, with nice color charts of the geographic distribution of different languages and ethnic groups (including the one to the left). And here is <a href="http://www.kokugakuin.ac.jp/ijcc/wp/global/07tsao.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.kokugakuin.ac.jp/ijcc/wp/global/07tsao.html', 'a paper on language decline in Taiwan']);" >a paper on language decline in Taiwan</a> that looks at all the native languages.
+
+(Note: The <a href="http://www.ethnologue.com/nearly_extinct.asp#Asia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ethnologue.com/nearly_extinct.asp#Asia', 'Ethnologue Database']);" >Ethnologue Database</a> lists over a hundred speakers for some of the Austronesian languages I&#8217;ve listed as having 10 or less. However, personal communication with SIL researcher, <a href="http://www.sil.org/acpub/author.asp?auth=Greg_Huteson" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sil.org/acpub/author.asp?auth=Greg_Huteson', 'Greg Huteson']);" >Greg Huteson</a>, who has been speaking to many of Taiwan&#8217;s top linguist about the topic, suggests that these statistics are inaccurate.)
+
+**UPDATE**: In addition to cleaning up the text a little, and adding the picture, I realized that I forgot two languages that are possibly counted as languages of Taiwan, although one usually doesn&#8217;t think of them as such: Mongolian and Tibetan. This is because during the early years of <a href="http://www.wikipedia.org/wiki/History_of_Taiwan#Beginnings_of_Nationalist_Rule" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wikipedia.org/wiki/History_of_Taiwan#Beginnings_of_Nationalist_Rule', 'Nationalist (KMT) Rule']);" >Nationalist (KMT) Rule</a> in Taiwan, the KMT claimed to be the official government of all of China, including Mongolia and Tibet. At first, Taiwan&#8217;s Aborigines were even grouped together with Mongolians and Tibetans as &#8220;border-area minorities&#8221;! <a href="http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/chpt02.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/chpt02.htm', 'According to the government']);" >According to the government</a>, today &#8220;there are nearly 400 Mongolians and 400 Tibetans living in Taiwan &#8221; By way of comparision, in 1991 there were <a href="http://fpeng.peopledaily.com.cn/200103/23/eng20010323_65751.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://fpeng.peopledaily.com.cn/200103/23/eng20010323_65751.html', 'over 326,000 foreign workers']);" >over 326,000 foreign workers</a> in Taiwan from the Philippines, Thailand, Indonesia and Vietnam. And those are just the official statistics. Foreign workers probably exceed the Aboriginal population, but most of them are only allowed to stay for a few years, and with very limited rights (that&#8217;s the subject of another post&#8230;.), so their languages &#8220;don&#8217;t count&#8221; as Taiwanese languages&#8230;
+
+<div id="themify_builder_content-1347" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

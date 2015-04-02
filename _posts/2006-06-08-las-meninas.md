@@ -1,0 +1,31 @@
+---
+title: Las Meninas
+author: Kerim
+layout: post
+permalink: /archives/2006/06/08/las-meninas/
+categories:
+  - Culture
+  - Images
+---
+<a href="http://www.flickr.com/photos/kerim/163450055/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/kerim/163450055/', '']);"  title="Photo Sharing"><img src="http://static.flickr.com/75/163450055_c0ba7bc0bc_m.jpg" width="211" height="240" alt="velazquez Las Meninas" /></a>
+
+A lot has been written about *Las Meninas* by Velazquez, most notably Foucault in *<a href="http://www.amazon.com/exec/obidos/redirect?tag=shashwaticom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0679753354%2526tag=shashwaticom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0679753354%25253FSubscriptionId=02ZH6J1W0649DTNS6002" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/exec/obidos/redirect?tag=shashwaticom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0679753354%2526tag=shashwaticom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0679753354%25253FSubscriptionId=02ZH6J1W0649DTNS6002', 'The Order of Things']);" >The Order of Things</a>*, and later Searle&#8217;s response in &#8220;<a href="http://www.uchicago.edu/research/jnl-crit-inq/issues/v6/v6n3.searle.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.uchicago.edu/research/jnl-crit-inq/issues/v6/v6n3.searle.html', 'Las Meninas and the Paradoxes of Pictorial Representation']);" ><em>Las Meninas</em> and the Paradoxes of Pictorial Representation</a>.&#8221; It has also been copied and emulated by numerous painters, such as <a href="http://www.artchive.com/artchive/P/picasso/meninas.jpg.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.artchive.com/artchive/P/picasso/meninas.jpg.html', 'Picasso']);" >Picasso</a>. So I was surprised to learn recently that the painting originally looked much differently than it does now. Changes which have profound implications for our understanding of the picture.
+
+One of my colleagues, <a href="http://www.ndhu.edu.tw/~iart/teacher/teacher_lee.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ndhu.edu.tw/~iart/teacher/teacher_lee.htm', 'Chaoying Lee']);" >Chaoying Lee</a>, is an art historian who lived in France for fifteen years. In a recent talk, she discussed an essay by Daniel Arasse entitled &#8220;L&#8217;oeil du maître.&#8221; It appears in a recent collection (2000) entitled * <a href="http://www.frenchpubagency.com/?fuseaction=title.main&#038;tid=691&#038;category_id=20&#038;rightslist_id=6" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.frenchpubagency.com/?fuseaction=title.main&tid=691&category_id=20&rightslist_id=6', 'On n’y voit rien!']);" >On n’y voit rien!</a>* (We can&#8217;t see a thing!) which has yet to be translated into English. In his essay Arasse draws on an article by <a href="http://dialnet.unirioja.es/servlet/autor?codigo=7685" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dialnet.unirioja.es/servlet/autor?codigo=7685', 'Manuela Mena-Marques']);" >Manuela Mena-Marques</a> (1984): “La restauración de ‘Las Meninas’ de Velázquez”, published in the *Boletín del Museo del Prado* [5 (14), 87-107]. In the process of taking x-rays they discovered that the original painting did not include the painter himself, and there were other important changes as well. Most notably, a piece of jewelry carried by one of the figures in the foreground has been removed. This once symbolized that the princess at the center of the painting would eventually inherit the throne; however, with the later birth of a male heir, her status changed, and Velázquez was asked to change the painting, thus creating the masterpiece that has caused so much discussion.
+
+I&#8217;m a little fuzzy about the details, as I my French is too rusty to read the Arasse article myself, and the only online information I could find was <a href="http://wodka.over-blog.com/article-2856341.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wodka.over-blog.com/article-2856341.html', 'this French blog entry']);" >this French blog entry</a> (scroll down). Chaoying is translating the article into Chinese, but that isn&#8217;t finished yet. I did, however, find one additional interesting bit of information. According to <a href="http://foucault.info/Foucault-L/archive/msg01630.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://foucault.info/Foucault-L/archive/msg01630.shtml', 'this e-mail']);" >this e-mail</a> by E. Heroux (who I assume is the same as the <a href="http://heroux.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://heroux.blogspot.com/', 'Taiwan-based blogger']);" >Taiwan-based blogger</a>), Foucault&#8217;s chapter on Velázquez was not originally intended to be a part of the book *The Order of Things*, but was added on the insistence of his publisher.
+
+Trying to sort out the implications of all these texts, modified by kings and publishers is not an easy task. I apologize for not being able to offer more analysis, but hopefully this post will inspire someone will take up the task of translating Arasse&#8217;s article into English.
+
+<!-- technorati tags start -->
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Las Meninas" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Las Meninas', 'Las Meninas']);"  rel="tag">Las Meninas</a>, <a href="http://www.technorati.com/tag/Velazquez" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Velazquez', 'Velazquez']);"  rel="tag">Velazquez</a>, <a href="http://www.technorati.com/tag/Foucault" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Foucault', 'Foucault']);"  rel="tag">Foucault</a>}</span>
+</div>
+
+<!-- technorati tags end -->
+
+<div id="themify_builder_content-2464" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

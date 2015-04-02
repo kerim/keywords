@@ -1,0 +1,31 @@
+---
+title: The KMT in Burma
+author: Kerim Friedman
+layout: post
+permalink: /archives/2008/04/27/the-kmt-in-burma/
+dsq_thread_id:
+  - 824853121
+categories:
+  - Politics
+  - Taiwan
+---
+<a href="http://news.bbc.co.uk/2/hi/asia-pacific/7069417.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/asia-pacific/7069417.stm', '']);"  title="warlord Khun Sa"><img src="http://farm3.static.flickr.com/2390/2444536538_a522845cb9_o.jpg" width="203" height="300" alt="warlord Khun Sa" /></a>
+
+Reading Panaj Mishra&#8217;s *NYRB* article about Burma, &#8220;<a href="http://www.nybooks.com/articles/article-preview?article_id=21032" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nybooks.com/articles/article-preview?article_id=21032', 'The Revolt of the Monks']);" >The Revolt of the Monks</a>,&#8221; I was reminded of the KMT&#8217;s adventures in Burma, a remarkable episode in the inglorious history of Taiwan&#8217;s ruling party. After several pages discussing the brutal suppression of last year&#8217;s protest by Burma&#8217;s monks, Mishra turns to the political-economic foundation of military rule:
+
+> But the larger explanation of its strength and longevity lies in a much-ignored fact: that Burma has been in a state of uninterrupted civil war since independence in 1948, with dozens of ethnic-minority insurgent groups, which operate in or control between one quarter and one third of the country, ranged against a Burman-dominated state. 
+
+It is in the context of discussing the history of this prolonged civil war that he briefly mentions the story of the KMT in Burma. Curious to know more I turned to Google, and found <a href="http://www.drugtext.org/library/books/McCoy/book/29.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.drugtext.org/library/books/McCoy/book/29.htm', 'this excellent chapter']);" >this excellent chapter</a> from McCoy&#8217;s 1972 book, *<a href="http://www.amazon.com/politics-heroin-Southeast-Asia/dp/0060129018" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/politics-heroin-Southeast-Asia/dp/0060129018', 'The politics of heroin in Southeast Asia']);" >The politics of heroin in Southeast Asia</a>*: 
+
+> The precipitous collapse of the Nationalist Chinese (Kuomintang, or KMT) government in 1949 convinced the Truman administration that it had to stem &#8220;the southward flow of communism&#8221; into Southeast Asia. In 1950 the Defense Department extended military aid to the French in Indochina. In that same year, the CIA began regrouping those remnants of the defeated Kuomintang army in the Burmese Shan States for a projected invasion of southern China. Although the KMT army was to fail in its military operations, it succeeded in monopolizing and expanding the Shan States&#8217; opium trade.
+> 
+> &#8230; With CIA support, the KMT remained in Burma until 1961, when a Burmese army offensive drove them into Laos and Thailand. By this time, however, the Kuomintang had already used their control over the tribal populations to expand Shan State opium production by almost 1,000 percent-from less than 40 tons after World War 11 to an estimated three hundred to four hundred tons by 1962. From bases in northern Thailand the KMT have continued to send huge mule caravans into the Shan States to bring out the opium harvest. Today [1972], over twenty years after the CIA first began supporting KMT troops in the Golden Triangle region, these KMT caravans control almost a third of the world&#8217;s total illicit opium supply and have a growing share of Southeast Asia&#8217;s thriving heroin business. 
+
+When the KMT were driven out of the Shan state the trade was taken over by warlord Khun Sa (pictured above), whose <a href="http://www.mutantfrog.com/2007/10/30/more-skeletons-in-the-kmt-closet/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.mutantfrog.com/2007/10/30/more-skeletons-in-the-kmt-closet/', 'death']);" >death</a> last year was noted by Mutant Frog&#8217;s Roy Berman. Berman also <a href="http://www.mutantfrog.com/2007/11/05/a-bit-more-on-kmt-remnant-in-se-asia/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.mutantfrog.com/2007/11/05/a-bit-more-on-kmt-remnant-in-se-asia/', 'linked']);" >linked</a> to to <a href="http://www.taipeitimes.com/News/taiwan/archives/2007/11/03/2003385991" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2007/11/03/2003385991', 'this Taipei Times article']);" >this <em>Taipei Times</em> article</a> about the plight of &#8220;&#8216;stateless&#8217; descendants of former Chinese Nationalist Party (KMT) troops.&#8221; 
+
+Further information: <a href="http://en.wikipedia.org/wiki/Chinese_Civil_War#Relationship_between_the_two_sides_since_1950" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Chinese_Civil_War#Relationship_between_the_two_sides_since_1950', 'Wikipedia']);" >Wikipedia</a>, <a href="http://www.chinahistoryforum.com/index.php?showtopic=1704" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.chinahistoryforum.com/index.php?showtopic=1704', 'China History Forum']);" >China History Forum</a>, <a href="http://www.time.com/time/asia/covers/1101021216/story2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.time.com/time/asia/covers/1101021216/story2.html', 'Time Magazine']);" >Time Magazine</a>.
+
+<div id="themify_builder_content-2802" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

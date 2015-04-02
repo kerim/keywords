@@ -1,0 +1,18 @@
+---
+title: Said on Israel
+author: Kerim
+layout: post
+permalink: /archives/2002/04/23/said-on-israel/
+categories:
+  - Old Blog Import
+---
+<a href="http://www.thenation.com/doc.mhtml?i=20020506&c=2&s=said" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thenation.com/doc.mhtml?i=20020506&c=2&s=said', '(Nation)']);" >(Nation)</a>
+
+By what inhuman calculus did Israel&#8217;s army, using dozens of tanks and armored personnel carriers, along with hundreds of missile strikes from US-supplied Apache helicopter gunships, besiege Jenin&#8217;s refugee camp for over a week, a one-square-kilometer patch of shacks housing 15,000 refugees and a few dozen men armed with automatic rifles and no missiles or tanks, and call it a response to terrorist violence and a threat to Israel&#8217;s survival? There are reported to be hundreds buried in the rubble, which Israeli bulldozers began heaping over the camp&#8217;s ruins after the fighting ended. Are Palestinian civilian men, women and children no more than rats or cockroaches that can be attacked and killed in the thousands without so much as a word of compassion or in their defense? And what about the capture of thousands of men who have been taken off by Israeli soldiers, the destitution and homelessness of so many ordinary people trying to survive in the ruins created by Israeli bulldozers all over the West Bank, the siege that has now gone on for months and months, the cutting off of electricity and water in Palestinian towns, the long days of total curfew, the shortage of food and medicine, the wounded who have bled to death, the systematic attacks on ambulances and aid workers that even the mild-mannered Kofi Annan has decried as outrageous? Those actions will not be pushed so easily into the memory hole. Its friends must ask Israel how its suicidal policies can possibly gain it peace, acceptance and security. 
+
+&#8230;In 1988 the PLO made the concession of accepting partition of Palestine into two states. This was reaffirmed on numerous occasions, and certainly in the Oslo documents. But only the Palestinians explicitly recognized the notion of partition. Israel never has. This is why there are now more than 170 settlements on Palestinian land, why there is a 300-mile road network connecting them to each other and totally impeding Palestinian movement &#8230;, and why no Israeli prime minister has ever conceded any real sovereignty to the Palestinians, and why the settlements have grown on an annual basis. The merest glance at the accompanying map reveals what Israel has been doing throughout the peace process, and what the consequent geographical discontinuity and shrinkage in Palestinian life has been. In effect, Israel considers itself and the Jewish people to own all of Palestine. There are land ownership laws in Israel itself guaranteeing this, but in the West Bank and Gaza the settlements, roads and refusal to concede sovereign land rights to the Palestinians serve the same function.
+
+<div id="themify_builder_content-95" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

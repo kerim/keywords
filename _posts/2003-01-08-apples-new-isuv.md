@@ -1,0 +1,18 @@
+---
+title: 'Apple&#8217;s New iSUV'
+author: Kerim
+layout: post
+permalink: /archives/2003/01/08/apples-new-isuv/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   &#8220;Most computer users will find a 17-inch screen and gigabit data jacks about as useful as 4-wheel drive and roll bars.&#8221;
+> </div>
+
+<a href="http://slate.msn.com/id/2076481/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/id/2076481/', 'Slate']);" >Slate</a>
+
+<div id="themify_builder_content-818" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

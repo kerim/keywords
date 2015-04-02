@@ -1,0 +1,33 @@
+---
+title: Blue Horizon
+author: Kerim
+layout: post
+permalink: /archives/2005/03/01/blue-horizon/
+categories:
+  - Culture
+  - Gender
+---
+<a href="http://www.legendarybluehorizon.com/html/photo_gallery.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.legendarybluehorizon.com/html/photo_gallery.html', '']);" ><img src="http://keywords.oxus.net/images/tbh_mural.jpg" height="170" width="220" border="0" hspace="10" vspace="10" alt="Tbh Mural" /></a>
+
+For years I would bike or drive up Broad Street to classes at Temple. On the way I would always pass the <a href="http://www.legendarybluehorizon.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.legendarybluehorizon.com/', 'Blue Horizon']);" >Blue Horizon</a>, but I never went in. I don&#8217;t mind boxing in the movies, but I don&#8217;t think I could stomach it live. But now I don&#8217;t need to, because what goes on inside has been so eloquently described by Benjamin Wallace-Wells in <a href="http://www.washingtonmonthly.com/features/2005/0503.wallace-wells2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/features/2005/0503.wallace-wells2.html', 'a Washington Monthly article on women&#8217;s boxing']);" >a <em>Washington Monthly</em> article on women&#8217;s boxing</a>. (Warning, the article contains spoilers if you haven&#8217;t seen the movie *Million Dollar Baby*.)
+
+> Like the rest of Philly, the Blue Horizon knows very well what it is selling, a twisted nostalgia for a time when things were tougher. The concession stand—a fold-up table in the entrance hall—sells only $3 cans of Bud and Bud Light. Past the stand, the space opens up into a big, brightly-lit room with a couple of dozen rows of wooden chairs, like those in an elementary school classroom, surrounding a boxing ring four feet above the floor, a theater in the round. These are the cheap seats, 15 bucks, half of them filled with blacks from North Philly, the other half with slumming yuppies like me. Only two in 10 are women, but their catcalls are as rough and fierce as any.
+> 
+> For 50 bucks, you can buy yourself an armchair seat on a balcony ringing the room, from which you can peer down over the room. These, however, are always filled with older Italian men, the Unindicted Co-conspirator set, fat and inert in their little chairs, each one looking like a marshmallow stuffed into a shot glass. They spend the evening pretty much unmoved by the drama of the moment, passing assured little nods back and forth: They knew who would win all along. The lights are bright, and the crowd is less drunk and less loud than you&#8217;d expect. But they are experts.
+
+The article also gets to the heart of what is good about the film &#8211; its realism in depicting boxing. One of the things that struck me about the film was the complete lack of aesthetization, like the slo-mo shots in *Raging Bull*. Nor did it have the romanticism of *Rocky*. It treated boxing as *work*, hard work, but work &#8211; something that takes skill and training &#8211; and it shows us what that training involves.
+
+> After a lot of gruff I-don&#8217;t-train-girls talk, Dunn takes her on and Maggie proves to be an outstanding student. Dunn teaches her the pure mechanics of the sport in a long training sequence that is the best explanatory document of boxing I&#8217;ve ever seen or read, Malcolm Gladwell assigned to the ring. To pivot to the left, you press down on your right big toe. Boxing is counter-intuitive, about opposites.
+
+Without giving too much away, one of the films central messages is that skill and hard work isn&#8217;t enough to get ahead. Although conservative critics of the film have <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050129/ESSAYS/501290301" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050129/ESSAYS/501290301', 'picked other issues to focus on']);" >picked other issues to focus on</a>, I suspect that it is this fundamentally anti-American Dream, anti-*Rocky*, message that had them upset.
+
+An interesting footnote to this post is the <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050129/ESSAYS/501290301" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050129/ESSAYS/501290301', 'Roger Ebert article']);" >Roger Ebert article</a> I link to above. In it he discusses how blogs were influential in shaping how he writes his movie reviews. Specifically, he started putting in &#8220;spoiler&#8221; warnings because he saw this as a standard practice on blogs. This seems to address the issue about discussing the endings of movies addressed in the Benjamin Wallace-Wells article.
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://technorati.com/tag/boxing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/boxing', 'boxing']);"  rel="tag">boxing</a>, <a href="http://technorati.com/tag/women" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/women', 'women&#8217;s boxing']);" s boxing" rel="tag">women&#8217;s boxing</a>, <a href="http://technorati.com/tag/philadelphia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/philadelphia', 'philadelphia']);"  rel="tag">philadelphia</a>, <a href="http://technorati.com/tag/blue horizon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blue horizon', 'blue horizon']);"  rel="tag">blue horizon</a>, <a href="http://technorati.com/tag/rocky" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rocky', 'rocky']);"  rel="tag">rocky</a>, <a href="http://technorati.com/tag/million dollar baby" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/million dollar baby', 'million dollar baby']);"  rel="tag">million dollar baby</a>, <a href="http://technorati.com/tag/raging bull" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/raging bull', 'raging bull']);"  rel="tag">raging bull</a>, <a href="http://technorati.com/tag/american dream" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/american dream', 'american dream']);"  rel="tag">american dream</a>}</span>
+</div>
+
+<div id="themify_builder_content-2070" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

@@ -1,0 +1,26 @@
+---
+title: The Tyranny of Bad Metaphors
+author: Kerim Friedman
+layout: post
+permalink: /archives/2009/03/19/the-tyranny-of-bad-metaphors/
+posterous_678df9ff4da7c424c7dc64d0b819e75e_post_id:
+  - 'O:16:"SimpleXMLElement":1:{i:0;s:6:"531521";}'
+posterous_678df9ff4da7c424c7dc64d0b819e75e_permalink:
+  - http://scrapbook.oxus.net/the-tyranny-of-bad-metaphors
+categories:
+  - Old Blog Import
+---
+When I was about eight years old I used to play with the mainframe computer at my dad's engineering school. I still remember playing <a href="http://en.wikipedia.org/wiki/Star_Trek_%28text_game%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Star_Trek_%28text_game%29', 'Star Trek']);"  target="_blank">Star Trek</a>. Then, as I went through school, it seemed computer technology jumped ahead from year to year, from the TRS-80s in 5th grade, to the Apple IIs in middle school, till one day, at a computer fair I attended, I got to see the <a href="http://en.wikipedia.org/wiki/Apple_Lisa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Apple_Lisa', 'Apple Lisa']);"  target="_blank">Apple Lisa</a>, which was the first time I'd ever seen a graphical user interface (GUI). It seemed like a revelation. The desktop, the trash can, actual folders, a mouse, etc. it was all there, and it would change computing for ever. Except, something happened. All that change and innovation seems to have stopped. We are stuck with the same GUI I saw back in early 80s, with little having changed since then. We still have desktops, trash cans, folders, and a mouse. Except perhaps for the iPhone which lets you use your fingers, nothing has really changed.
+
+This is unfortunate, because the idea of a "desktop" is a really bad metaphor for how we work with digital data. I locks us into a spacial frame when what we really need is a concept of data-flow. The spacial plane is static. When I peek at the "desktop" of friends and colleagues what I see is a grid full of documents which haven't been filed. Usually this grid of un-filed documents is hidden by windows and applications. Not particularly useful, and I watch people struggle to find what they are looking for. 
+
+The first instinct seems to be to try to salvage the metaphor by improving it. This is what Anand Agarawala is doing with the <a href="http://pogue.blogs.nytimes.com/2007/03/19/bumptop-desktop/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pogue.blogs.nytimes.com/2007/03/19/bumptop-desktop/', 'Bumptop Desktop']);" >Bumptop Desktop</a>, some of which has already been implemented, in a rough way, into OS X. I think such efforts are doomed to fail. The single biggest advance to the computer interface has been the application launcher. The most famous of which is <a href="http://www.43folders.com/topics/quicksilver" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.43folders.com/topics/quicksilver', 'Quicksilver']);" >Quicksilver</a> for Mac OS X. The reason is that Quicksilver abandons the spacial metaphor in favor of the *verb*. You call up a file by searching for it, then choose an action. In some cases you may need to also select a target for the action, but this isn't always necessary. It works surprisingly well. 
+
+Unfortunately, not well enough. Quicksilver has not yet replaced the desktop, and at most exists as a supplement to it. But the idea is right. What we need software engineers to be thinking about is *flow*. Right now each application on your computer is fairly static, having been designed to either create or view a certain kind of content. Slowly, in the margins, we see developers breaking this mold, helping us move data between applications, between devices, and from one type of content to another.
+
+<a href="http://www.instapaper.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.instapaper.com/', 'Instapaper']);" >Instapaper</a> is a great example. It adds a "read later" icon to your browser. But even this falls short. What do you do once you've read the article? You might want to share it online, or file it in <a href="http://www.evernote.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.evernote.com/', 'Evernote']);" >Evernote</a>, or perhaps to <a href="http://www.zotero.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.zotero.org/', 'Zotero']);" >Zotero</a> (both of which are good apps for data "flow"). The real "desktop" is a staging ground, with things being moved in and out as they get re-purposed for different tasks, but the computer desktop is surprisingly static in comparison. Its surprising what a difference little changes can make, like the fact that Gmail stores "conversations" rather than individual e-mails. Despite all the bells and whistles of Apple's Mail.app, the fact that it is stuck in an out-of-date metaphor led me to abandon it for Gmail. I think there is a lot of room out there for radical innovation. Instead of trying to play catch-up with OS X, the linux crowd should be experimenting with new metaphors based on flow rather than out-of-date spacial concepts.
+
+<div id="themify_builder_content-2909" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

@@ -1,0 +1,18 @@
+---
+title: Donor Group Gives Karzai Control of Aid
+author: Kerim
+layout: post
+permalink: /archives/2002/12/19/donor-group-gives-karzai-control-of-aid/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   &#8220;Some two dozen donor nations rallied to the support of President Hamid Karzai of Afghanistan today, pledging $1.2 billion in fresh relief aid and ceding control of the money to his increasingly robust government.&#8221;
+> </div>
+
+<a href="http://www.nytimes.com/2002/12/19/international/asia/19KARZ.html?tntemail0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/12/19/international/asia/19KARZ.html?tntemail0', 'NY Times']);" >NY Times</a>
+
+<div id="themify_builder_content-804" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

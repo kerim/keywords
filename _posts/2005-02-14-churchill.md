@@ -1,0 +1,49 @@
+---
+title: Churchill
+author: Kerim
+layout: post
+permalink: /archives/2005/02/14/churchill/
+categories:
+  - Academic
+  - Politics
+---
+I have not commented on the Ward Churchill controversy for one simple reason: I&#8217;ve never read his work. For those who don&#8217;t know, Churchill has stirred up a lot of strong feelings by comparing those killed in the World Trade Center to &#8220;little Eichmanns&#8221; &#8211; a statement he defends in <a href="http://www.counterpunch.com/churchill02032005.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.counterpunch.com/churchill02032005.html', 'this article']);" >this article</a>:
+
+> I have never characterized all the September 11 victims as &#8220;Nazis.&#8221; What I said was that the &#8220;technocrats of empire&#8221; working in the World Trade Center were the equivalent of &#8220;little Eichmanns.&#8221; Adolf Eichmann was not charged with direct killing but with ensuring the smooth running of the infrastructure that enabled the Nazi genocide. Similarly, German industrialists were legitimately targeted by the Allies.
+> 
+> &#8230; The bottom line of my argument is that the best and perhaps only way to prevent 9-1-1-style attacks on the U.S. is for American citizens to compel their government to comply with the rule of law. The lesson of Nuremberg is that this is not only our right, but our obligation. To the extent we shirk this responsibility, we, like the &#8220;Good Germans&#8221; of the 1930s and &#8217;40s, are complicit in its actions and have no legitimate basis for complaint when we suffer the consequences. This, of course, includes me, personally, as well as my family, no less than anyone else.
+
+Tim Burke perceptively argued that there is a &#8220;<a href="http://www.swarthmore.edu/SocSci/tburke1/perma20205.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.swarthmore.edu/SocSci/tburke1/perma20205.html', 'moral incoherence']);" >moral incoherence</a>&#8221; at the root of such totalizing arguments:
+
+> Churchill, like others, constructs the hegemony of global capitalism and Western domination as being near-total. The unmitigated and simplistic totalizing that suffuses Churchill’s writing makes it impossible to explain his own existence and professional success or anyone like him. He is incarnated impossibility of his own analysis. 
+
+I too am troubled by arguments from the left grounded in a notion of &#8220;original sin,&#8221; especially when such moral arguments stand in the way of serious analysis of the problems of modernity. The problem, however, is not with the quality of Churchill&#8217;s analysis. It is that Churchill is simply the latest causality in the culture war. When we look at calls for his being fired in light of other <a href="http://keywords.oxus.net/archives/2004/11/28/mccarthyism/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/11/28/mccarthyism/', 'similar attacks']);" >similar attacks</a> on progressive academics, we can see a larger pattern emerging. And not just in academia, but <a href="http://www.washingtonmonthly.com/archives/individual/2005_02/005642.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2005_02/005642.php', 'in journalism as well']);" >in journalism as well</a>. And, as David Neiwert points out, academics who take <a href="http://dneiwert.blogspot.com/2005/02/noxious-academics.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dneiwert.blogspot.com/2005/02/noxious-academics.html', 'controversial positions on the right']);" >controversial positions on the right</a> side of the spectrum are not similarly targeted. (Nor does he suggest they should be.)
+
+Suddenly it becomes a debate about free speech, as <a href="http://slate.msn.com/id/2113358/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/id/2113358/', 'Dahlia Lithwick correctly puts it']);" >Dahlia Lithwick correctly puts it</a>:
+
+> If academic tenure means anything at all, it means professors must be allowed to say and write what they choose without fearing removal by popular referendum. That&#8217;s why the decision to grant someone tenure must be taken so seriously in the first place. One hundred percent of the blame for the Churchill debacle rests with the University of Colorado&#8217;s board of regents that hired, granted tenure to, and promoted an individual whose scholarship and personal qualifications are now, and must always have been, in serious question. Churchill&#8217;s silly notions have been in the public domain for years. Firing him only now suggests that Bill O&#8217;Reilly, as opposed to his faculty peers, gets the deciding vote on who is allowed to teach our young people.
+> 
+> Churchill&#8217;s 9/11 comments were patently offensive. But they were not hate speech, they were not treason, and they were not in any sense a call to imminent violence on the part of his listeners. Read in context, his words are the purest form of political speech.
+
+But Lithwick also raises a thorny issue. Because if Churchill&#8217;s scholarship is as questionable as <a href="http://hal.lamar.edu/~browntf/Churchill1.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://hal.lamar.edu/~browntf/Churchill1.htm', 'some critics have charged']);" >some critics have charged</a> (see <a href="http://www.insidehighered.com/insider/a_new_ward_churchill_controversy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.insidehighered.com/insider/a_new_ward_churchill_controversy', 'here']);" >here</a> and <a href="http://www.rockymountainnews.com/drmn/news_columnists/article/0,1299,DRMN_86_3530404,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.rockymountainnews.com/drmn/news_columnists/article/0,1299,DRMN_86_3530404,00.html', 'here']);" >here</a> as well), it becomes very difficult to defend him. One can&#8217;t really say: &#8220;We shouldn&#8217;t revoke his tenure just because of political pressure.&#8221; While at the same time being aware of legitimate reasons for revoking tenure. Regardless of the political context in which these accusations emerged, they must be investigated seriously.
+
+I myself have frequently repeated the charge that the U.S. army deliberately engaged in biological warfare against the Native Americans by distributing smallpox infected blankets. This was so widely repeated by reputable sources that I didn&#8217;t question it. Now, as a result of this controversy, <a href="http://www.insidehighered.com/insider/a_new_ward_churchill_controversy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.insidehighered.com/insider/a_new_ward_churchill_controversy', 'other scholars are speaking out']);" >other scholars are speaking out</a>:
+
+> Not everyone backing Brown&#8217;s version of the dispute appears to be part of the right wing. One of the scholars Brown says has had his findings distorted by Churchill is Russell Thornton, a professor of anthropology at the University of California at Los Angeles. Thornton, who is a Cherokee, has written extensively about the horrors of U.S. treatment of Indians. But his study of the Mandan concluded that the epidemic was not intentional.
+> 
+> Thornton said in an interview last night that Brown&#8217;s essay was correct. He said that people have periodically told him over the years that Churchill has &#8220;misrepresented my work.&#8221;
+> 
+> &#8220;Issues like Ward Churchill cast aspersions on legitimate Indian scholars,&#8221; Thornton said. Of U.S. treatment of Native Americans, Thornton said, &#8220;The history is bad enough &#8212; there&#8217;s no need to embellish it.&#8221;
+
+If Churchill did deliberately misrepresent the work of other scholars, his academic status should be reconsidered.
+
+(Sources include: <a href="http://www.lehigh.edu/~amsp/2005/02/tim-burke-on-ward-churchill-and.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lehigh.edu/~amsp/2005/02/tim-burke-on-ward-churchill-and.html', 'Amardeep Singh']);" >Amardeep Singh</a>, <a href="http://www.onemansopinion.org/pivot/pivot/entry.php?id=351" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.onemansopinion.org/pivot/pivot/entry.php?id=351', 'One Man&#8217;s Opinion']);" >One Man&#8217;s Opinion</a>, and <a href="http://www.crookedtimber.org/archives/003220.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/003220.html', 'Crooked Timber']);" >Crooked Timber</a>)
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Ward Churchill" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Ward Churchill', 'Ward Churchill']);"  rel="tag">Ward Churchill</a>, <a href="http://technorati.com/tag/Native Americans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Native Americans', 'Native Americans']);"  rel="tag">Native Americans</a>, <a href="http://technorati.com/tag/smallpox" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/smallpox', 'smallpox']);"  rel="tag">smallpox</a>, <a href="http://technorati.com/tag/culture war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/culture war', 'culture war']);"  rel="tag">culture war</a>, <a href="http://technorati.com/tag/Bill O" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Bill O', 'Bill O&#8217;Reilly']);" Reilly" rel="tag">Bill O&#8217;Reilly</a>}</span>
+</div>
+
+<div id="themify_builder_content-2049" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

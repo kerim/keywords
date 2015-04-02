@@ -1,0 +1,66 @@
+---
+title: Crossroads
+author: Kerim Friedman
+layout: post
+permalink: /archives/2009/03/28/crossroads/
+categories:
+  - Politics
+  - The Economy
+---
+<div style="width: 510px" class="wp-caption alignnone">
+  <a href="http://www.flickr.com/photos/ereine/34427054/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/ereine/34427054/', '']);" ><img title="Crossroad" src="http://img.skitch.com/20090328-cj8pn1dums6kfe7yt5gw9wcjms.jpg" alt="Photo by Ereine" width="500" height="376" /></a>
+  
+  <p class="wp-caption-text">
+    Photo by Ereine
+  </p>
+</div>
+
+Former Clinton White House adviser and prominent blogger, Brad DeLong <a href="http://www.ft.com/cms/s/0/963b81bc-1b1d-11de-8aa3-0000779fd2ac.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ft.com/cms/s/0/963b81bc-1b1d-11de-8aa3-0000779fd2ac.html', 'says']);" >says</a>: “We have to ask ourselves: Do we want to revive our economy, or do we want to punish the bankers?” But critics of the Geithner plan are not saying he&#8217;s being too soft on the bankers because they want to see blood. They are saying it because the bankers are the problem and as long as they are calling the shots we won&#8217;t be able to revive the economy. Take a look at the following charts:
+
+![skitched-20090328-182414.jpg][1]
+
+The charts come from an excellent <a href="http://www.theatlantic.com/doc/print/200905/imf-advice" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.theatlantic.com/doc/print/200905/imf-advice', 'article']);" >article</a> by <span class="hankpym">S</span>imon <span class="hankpym">J</span>ohnson, a former chief economist of the International Monetary Fund, who blogs at <a href="http://baselinescenario.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://baselinescenario.com/', 'Baseline Scenario']);" >Baseline Scenario</a>. If you are still trying to make sense of the financial crisis I recommend starting with his <a href="http://baselinescenario.com/financial-crisis-for-beginners/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://baselinescenario.com/financial-crisis-for-beginners/', 'Financial Crisis for Beginners']);" >Financial Crisis for Beginners</a> page (the radio programs he links to now have <a href="http://www.thislife.org/Economy.aspx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thislife.org/Economy.aspx', 'their own page']);" >their own page</a> as well). When Johnson worked for the IMF it was his job to tell countries what they had to do to get out of a financial crisis:  
+<!--more-->
+
+> But I must tell you, to IMF officials, all of these crises looked depressingly similar. Each country, of course, needed a loan, but more than that, each needed to make big changes so that the loan could really work&#8230;
+> 
+> No, the real concern of the fund’s senior staff, and the biggest obstacle to recovery, is almost invariably the politics of countries in crisis.
+> 
+> Typically, these countries are in a desperate economic situation for one simple reason—the powerful elites within them overreached in good times and took too many risks. Emerging-market governments and their private-sector allies commonly form a tight-knit—and, most of the time, genteel—oligarchy, running the country rather like a profit-seeking company in which they are the controlling shareholders&#8230; They reckon—correctly, in most cases—that their political connections will allow them to push onto the government any substantial problems that arise.
+
+In short, the real solution to each of these crisis was to make sure the people who were responsible for getting the country into the crisis weren&#8217;t the same people put in charge of digging them out. DeLong&#8217;s stark choice, which implies that those who want to see the bankers punished should wait until the adults do their work and get the economy running again, is a choice which ignores the role of power in derailing the economy in the first place.
+
+Anyone who wants to know how we got into this mess should read Robert Weissman&#8217;s article &#8220;<a href="http://www.commondreams.org/view/2009/03/07-15" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.commondreams.org/view/2009/03/07-15', '12 Deregulatory Steps to Financial Meltdown']);" >12 Deregulatory Steps to Financial Meltdown</a>&#8221; which lays down, step-by-step, the process by which deregulation paved the way to ruin. A bit of this history can be found in  <a href="http://www.nytimes.com/1999/11/05/business/congress-passes-wide-ranging-bill-easing-bank-laws.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/1999/11/05/business/congress-passes-wide-ranging-bill-easing-bank-laws.html', 'this NY Times piece']);" >this <em>NY Times</em> piece</a> on the 1999 decision to repeal the Glass-Steagall Act, which (after the Great Depression) had set up a barrier between banks and financial institutions. The late Senator Paul Wellstone, commented that Congress &#8221;seemed determined to unlearn the lessons from our past mistakes,&#8221; but good old Lawrence Summers insisted it would &#8220;better enable American companies to compete in the new economy.&#8221; Does Summers get *anything* right?
+
+The problem isn&#8217;t just that these are the same people who got us into this mess &#8211; its that the plan to get us out of the mess is based on the faulty logic that the all we have here is a crisis of confidence in the financial system. In other words, the government&#8217;s plan is based on the assumption that the bankers really do know what they are doing, and that the problem is with the rest of us who&#8217;ve lost faith. As Krugman <a href="http://krugman.blogs.nytimes.com/2009/03/21/more-on-the-bank-plan/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://krugman.blogs.nytimes.com/2009/03/21/more-on-the-bank-plan/', 'puts it']);" >puts it</a>:
+
+> If you think it’s just a panic, then the government can pull a magic trick: by stepping in to buy the assets banks are selling, it can make banks look solvent again, and end the run. Yippee! And sometimes that really does work.
+> 
+> But if you think that the banks really, really have made lousy investments, this won’t work at all; it will simply be a waste of taxpayer money. To keep the banks operating, you need to provide a real backstop — you need to guarantee their debts, and seize ownership of those banks that don’t have enough assets to cover their debts; that’s the Swedish solution, it’s what we eventually did with our own S&Ls.
+
+What we are essentially doing is encouraging these bankers to <a href="http://krugman.blogs.nytimes.com/2009/03/21/despair-over-financial-policy/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://krugman.blogs.nytimes.com/2009/03/21/despair-over-financial-policy/', 'continue to make bad investments']);" >continue to make bad investments</a>:
+
+> In effect, Treasury will be creating — deliberately! — the functional equivalent of Texas S&Ls in the 1980s: financial operations with very little capital but lots of government-guaranteed liabilities. For the private investors, this is an open invitation to play heads I win, tails the taxpayers lose. So sure, these investors will be ready to pay high prices for toxic waste. After all, the stuff *might* be worth something; and if it isn’t, that’s someone else’s problem. Or to put it another way, Treasury has decided that what we have is nothing but a confidence problem, which it proposes to cure by creating massive moral hazard.
+
+And now here&#8217;s the thing: Despite all this, the economy might still recover. Not as quickly as it would if the administration had taken real leadership &#8211; but is still might recover in the end. Lets say in ten years instead of five, and after millions more jobs have been lost than might have otherwise, and after, when all is said and done, the government finally does what it has to do and takes over the banks. Maybe under President Palin. <a href="http://doughenwood.wordpress.com/2009/03/24/leveraged-speculators-will-save-us/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://doughenwood.wordpress.com/2009/03/24/leveraged-speculators-will-save-us/', 'Doug Henwood']);" >Doug Henwood</a> believes this is a serious possibility:
+
+> There’s a more sinister possibility: the bailout will be funded by an austerity program. That is, all the trillions being borrowed to spend on bailouts and stimuli will save the financial elite, but at the costs of a fiscal crippling, and instead of raising taxes on the very rich to pay down the debt, there will be deep cuts in civilian spending. With the economy remaining weak, employment would stagnate and real wages fall—a prospect that would, by restricting consumption and therefore imports, bring the U.S. international accounts close to balance. Then we wouldn’t be dependent on Chinese capital inflows anymore—and the overprivileged wouldn’t have to give up lunching on $400 <a href="http://blogs.reuters.com/blog/2007/06/13/blackstone-ceos-3000-food-spree-and-40-crab-claws/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://blogs.reuters.com/blog/2007/06/13/blackstone-ceos-3000-food-spree-and-40-crab-claws/', 'stone crabs']);"  target="_blank">stone crabs</a>.
+
+Back in January 2008 it became clear that my candidate of choice, John Edwards, wasn&#8217;t going to win the primary. At that time I began to think about why his populist message didn&#8217;t have more resonance. Looking back in history to the <a href="http://keywords.oxus.net/archives/2008/01/08/bonus-army/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2008/01/08/bonus-army/', 'Bonus Army']);" >Bonus Army</a> of unemployed veterans who helped get F.D.R. elected I realized that even Edwards would only have offered token progressivism if there wasn&#8217;t a genuine grassroots movement pushing politics to the left. More recently, in response to the current crisis, Immanuel Wallerstein <a href="http://www.thenation.com/doc/20090323/wallerstein" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thenation.com/doc/20090323/wallerstein', 'said something very similar']);" >said something very similar</a>:
+
+> In my view, the only sensible attitude is that taken by the large, powerful and militant Landless Workers&#8217; Movement (MST) in Brazil. The MST supported Lula in 2002, and despite all he failed to do that he had promised, they supported his re-election in 2006. They did it in full cognizance of the limitations of his government, because the alternative was clearly worse. What they also did, however, was to maintain constant pressure on the government&#8211;meeting with it, denouncing it publicly when it deserved it and organizing on the ground against its failures.
+> 
+> The MST would be a good model for the US left, if we had anything comparable in terms of a strong social movement. We don&#8217;t, but that shouldn&#8217;t stop us from trying to patch one together as best we can and do as the MST does&#8211;press Obama openly, publicly and hard&#8211;all the time, and of course cheering him on when he does the right thing. What we want from Obama is not social transformation. He neither wishes to, nor is able to, offer us that. We want from him measures that will minimize the pain and suffering of most people right now. That he can do, and that is where pressure on him may make a difference.
+
+In his article Simon Johnson called for change, citing Schumpeter to the effect that while &#8220;everyone has elites; the important thing is to change them from time to time.&#8221; It is very clear that the shift from Bush to Obama has changed a lot of things for the better, but one of them has not been a change in our elites. We are very much still in the hands of the same financial elite who have been in power since the eighties, and we stand at a crossroads: we can see the economy recover on the backs of American workers, or we can kick out the financial ruling class. It&#8217;s our choice.
+
+UPDATE: Another chart, courtesy of <a href="http://www.fivethirtyeight.com/2009/03/two-birds-one-stone-regulation-and.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fivethirtyeight.com/2009/03/two-birds-one-stone-regulation-and.html', '538.com']);" >538.com</a>:
+
+<a href="http://www.fivethirtyeight.com/2009/03/two-birds-one-stone-regulation-and.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fivethirtyeight.com/2009/03/two-birds-one-stone-regulation-and.html', '']);" ><img src="http://img.skitch.com/20090329-xqi43uk6juuyb9gc5m3f16sc4y.jpg" alt="skitched-20090329-154204.jpg" /></a>
+
+<div id="themify_builder_content-2827" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->
+
+ [1]: http://img.skitch.com/20090328-xhnh3naa44putmx71c55wje7kr.jpg

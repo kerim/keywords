@@ -1,0 +1,35 @@
+---
+title: Suspended Animation
+author: Kerim
+layout: post
+permalink: /archives/2006/04/21/suspended-animation/
+dsq_thread_id:
+  - 825171140
+categories:
+  - Labor
+  - Politics
+  - The Economy
+---
+Last year I had an opportunity in New York to hear a report from Robert Weil, the author of *<a href="http://www.amazon.com/exec/obidos/redirect?tag=shashwaticom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0853459673%2526tag=shashwaticom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0853459673%25253FSubscriptionId=02ZH6J1W0649DTNS6002" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/exec/obidos/redirect?tag=shashwaticom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0853459673%2526tag=shashwaticom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0853459673%25253FSubscriptionId=02ZH6J1W0649DTNS6002', 'Red Cat, White Cat']);" >Red Cat, White Cat</a>*, who had just come back from China and talked about how economic &#8220;reforms&#8221; were affecting China&#8217;s working classes. It was an enlightening talk which talked about the heavy toll of privatization, corruption, and the divide between urban workers and rural migrants. He also spoke about the ways in which people are reacting to these changes, including protests, a return to Maoist orthodoxy among some workers, and new forms of rural cooperatives that seek to balance privatization with some form of collectivization. Fortunately, I recently discovered <a href="http://www.chinastudygroup.org/index.php?action=blog2&#038;type=view&#038;id=15" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.chinastudygroup.org/index.php?action=blog2&type=view&id=15', 'via JJ&#8217;s blog']);" >via JJ&#8217;s blog</a> (which recently re-launched at a <a href="http://www.chinastudygroup.org/index.php?action=blog2&#038;type=user&#038;id=6" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.chinastudygroup.org/index.php?action=blog2&type=user&id=6', 'new URL']);" >new URL</a>) that Robert Weil has written up these observations and the full article is <a href="http://burning.typepad.com/burningman/2006/04/conditions_of_t.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://burning.typepad.com/burningman/2006/04/conditions_of_t.html', 'available online']);" >available online</a>. I strongly recommend it to any China watchers out there.
+
+Here is a snippet from &#8220;Conditions of the Working Class in China&#8221;:
+
+> With the outright, or at least quasi-privatization of virtually all State Owned Enterprises (SOEs), most commonly in corrupt arrangements involving state and party officials, managers and/or the new private capitalists, tens of millions of workers have been thrown out of work, losing not only their jobs, but pensions, health care, education for their children and in many cases housing &#8211; all of which were provided by their danwei or work unit. The result is a massive experience in what the Chinese call &#8220;eating bitterness,&#8221; a feeling that was starkly conveyed by those we met with, who described not only their own dire circumstances, but the impact on their fellow workers, of the losses they have suffered in recent years.
+> 
+> The scale of the disaster is difficult to grasp. In these two cities, somewhere around 70-80 percent of the former SOE workers have been laid off. In Kaifeng alone, some 100,000 have lost their jobs &#8211; in a city of less than three quarters of a million total population. The SOEs there are virtually all gone. As one worker put it, they are not supposed to wear the &#8220;hat of the state&#8221; anymore. In entire regions of the country that were once centers of industrial production, there are very few SOEs left. One Zhengzhou worker who has travelled around China to investigate such conditions, quoted the same 100,000 figure as in Kaifeng for those without work in Shenyang in Liaoning province in the Northeast, the other main center of the &#8220;rust belt&#8221; of Chinese industry, where he saw 150 factories shut down. Typical is an SOE combine factory in Siping in Jilin province, the next to the north. It formerly had 3,000 workers, but closed for two years, and then reopened as a shareholding corporation with only 1,000 left. Because these massive layoffs are common throughout what were once the Chinese industrial belts, it &#8220;makes workers fearful because the conditions are so general,&#8221; so that even those still working are afraid for their jobs. Some families have broken up, and others have gone south, to the coastal export regions. It is a &#8220;very bitter situation&#8221; to happen to the working class, one worker said. &#8220;Even if Chiang Kai-shek came back from Taiwan, he would not have sold off or shut down the factories &#8211; even the Japanese built up, not destroyed.&#8221; *The result of this ravaging by the new capitalist economy is to leave millions of workers in a kind of suspended animation, trapped in the several forms of &#8220;unemployment&#8221; in China today*. Xiagang refers to workers who, at least in theory, receive a payment of some kind from their former factory, usually for a set number of years. Daigang is a form of partial layoff, in which what was once one job is shared out as part-time work among several people. There are other forms of &#8220;waiting&#8221; for work &#8211; which generally never comes. 
+
+(Emphasis added.)
+
+<a href="http://burning.typepad.com/burningman/2006/04/conditions_of_t.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://burning.typepad.com/burningman/2006/04/conditions_of_t.html', 'Read the whole thing']);" >Read the whole thing</a>.  
+<!-- technorati tags start -->
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://www.technorati.com/tag/labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/labor', 'labor']);"  rel="tag">labor</a>, <a href="http://www.technorati.com/tag/privatization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/privatization', 'privatization']);"  rel="tag">privatization</a>, <a href="http://www.technorati.com/tag/勞工階級" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/勞工階級', '勞工階級']);"  rel="tag">勞工階級</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
+</div>
+
+<!-- technorati tags end -->
+
+<div id="themify_builder_content-2435" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

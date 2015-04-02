@@ -1,0 +1,28 @@
+---
+title: MoveOn Moves
+author: Kerim
+layout: post
+permalink: /archives/2005/04/12/moveon-moves/
+categories:
+  - Law
+  - Politics
+  - The Economy
+---
+I suppose late is better than never, but MoveOn has finally decided to <a href="http://politology.us/archives/2005/04/bankruptcy_move.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://politology.us/archives/2005/04/bankruptcy_move.php', 'get onboard']);" >get onboard</a> with the fight against the bankruptcy bill &#8211; the day before the House votes on the topic. Although they are coming in at a late stage, I think it is important to support MoveOn&#8217;s <a href="http://www.moveonpac.org/radiopledge/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.moveonpac.org/radiopledge/', 'pledge drive']);" >pledge drive</a> which has already raised almost as much money as DeLay received from the credit card companies. The money will be used to &#8220;finance radio ads against those who vote for the bankruptcy bill&#8221; as well as other things &#8211; those who contribute can vote on <a href="http://www.moveonpac.org/radiopledge/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.moveonpac.org/radiopledge/', 'how the money should be spent']);" >how the money should be spent</a>.
+
+Liz Pulliam Weston had an <a href="http://www.npr.org/templates/story/story.php?storyId=4597535" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.npr.org/templates/story/story.php?storyId=4597535', 'excellent opinion piece']);" >excellent opinion piece</a> on NPR about alternatives to the current legislation that could do more to reduce bankruptcy filings in the United States. I&#8217;ll attempt to paraphrase her main points:
+
+  * First, bring back <a href="http://www.pbs.org/wgbh/pages/frontline/shows/credit/more/rise.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/wgbh/pages/frontline/shows/credit/more/rise.html', 'usury laws']);" >usury laws</a>. Just 30 years ago 40% interest rates were illegal. If credit card companies have to charge such high interest rates then those people probably shouldn&#8217;t be getting credit in the first place.
+  * Reform medical care. Many people who declared bankruptcy after a medical emergency (<a href="http://www.nytimes.com/2005/03/08/opinion/08krugman.html?ex=1268024400&#038;en=6d6169df7852a01d&#038;ei=5090&#038;partner=rssuserland" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2005/03/08/opinion/08krugman.html?ex=1268024400&en=6d6169df7852a01d&ei=5090&partner=rssuserland', 'more than half of all bankruptcy cases']);" >more than half of all bankruptcy cases</a>), actually had medical insurance &#8211; but the high co-pay meant that they still couldn&#8217;t survive a real medical emergency with their credit intact.
+  * Require insurance companies to <a href="http://www.talkingpointsmemo.com/bankruptcy/archives/2005/04/index.php#005317" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkingpointsmemo.com/bankruptcy/archives/2005/04/index.php#005317', 'tell people']);" >tell people</a> how long it would take to pay off their balance if they only pay the minimum payment. It might encourage people not to keep such a high balance.
+
+UPDATE: Another suggestion for how to reform the bankruptcy system is to make debtors work as extras in a <a href="http://blog.shashwati.com/2005/04/12/dickens-world/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://blog.shashwati.com/2005/04/12/dickens-world/', 'Dickens Theme Park']);" >Dickens Theme Park</a>.
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://technorati.com/tag/hr 685" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/hr 685', 'hr 685']);"  rel="tag">hr 685</a>, <a href="http://technorati.com/tag/credit card companies" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/credit card companies', 'credit card companies']);"  rel="tag">credit card companies</a>, <a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>, <a href="http://technorati.com/tag/health insurance" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/health insurance', 'health insurance']);"  rel="tag">health insurance</a>, <a href="http://technorati.com/tag/moveon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/moveon', 'moveon']);"  rel="tag">moveon</a>}</span>
+</div>
+
+<div id="themify_builder_content-2136" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

@@ -1,0 +1,34 @@
+---
+title: More Than A Library
+author: Kerim Friedman
+layout: post
+permalink: /archives/2008/09/02/more-than-a-library/
+categories:
+  - India
+---
+(Reposted from <a href="http://vimukta.org/2008/09/02/more-than-a-library/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/2008/09/02/more-than-a-library/', 'Vimukta']);" >Vimukta</a>.)
+
+<a href="http://www.flickr.com/photos/kerim/2722121056/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/kerim/2722121056/', '']);"  title="P1010090.JPG by kerim, on Flickr"><img src="http://farm4.static.flickr.com/3173/2722121056_69cf7d9d77.jpg" width="500" height="281" alt="P1010090.JPG" /></a> [
+
+**Attention**: Please help us raise Vimukta&#8217;s membership count! Scroll to the end for details.] 
+
+The <a href="http://budhantheatre.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://budhantheatre.org/', 'Budhan Theatre']);" >Budhan Theatre</a> Library is much more than just a library; its a community center and an informal school as well. But its first and foremost a library &#8211; and a very good one at that! It houses a large collection of (mostly donated) books in three languages: English, Hindi, and Gujarati. Each book has been carefully cataloged and given a call number! In the above picture you see Ruchika updating the catalog for a man who has just borrowed the book *Six Russian Short Novels*. 
+
+Shashwati and I have been visiting Chharanagar every year for the past four years, to work on our nearly completed <a href="http://hoochandhamlet.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://hoochandhamlet.com', 'documentary film']);" >documentary film</a>, and every time we go the library has moved to a new building. Yet somehow this valuable community resource not only remains in tact, but manages to flourish. 
+
+The current library is not the first library in the community. That would have been the meager collection of books housed at the Reform Club Library, hosted by the father of journalist and Budhan Theatre member <a href="http://roxygagdekar.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://roxygagdekar.blogspot.com/', 'Roxy Gagdekar']);" >Roxy Gagdekar</a>. Roxy&#8217;s father died when he was still a teenager. He died after being released from police custody, where he had been severely beaten. The Chhara continue to suffer from police brutality, as documented in Budhan Theatre&#8217;s powerful <a href="http://budhantheatre.org/about/plays/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://budhantheatre.org/about/plays/', 'plays']);" >plays</a>, but the new library offers children a safe haven where they can learn, play games, and just be kids. (See this <a href="http://keywords.oxus.net/archives/2008/06/11/music-from-liquor/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2008/06/11/music-from-liquor/', 'wonderful video']);" >wonderful video</a> by Dakxin Bajrange of the children making music with the tools their mothers use to brew liquor.)
+
+<a href="http://www.flickr.com/photos/kerim/2722128942/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/kerim/2722128942/', '']);"  title="P1010099.JPG by kerim, on Flickr"><img src="http://farm4.static.flickr.com/3108/2722128942_8c0d2961ec.jpg" width="500" height="281" alt="P1010099.JPG" /></a>
+
+It was to support this library that Shashwati and I, together with our producer <a href="http://explore.georgetown.edu/people/schwarzh/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://explore.georgetown.edu/people/schwarzh/', 'Henry Schwartz']);" >Henry Schwartz</a> (who did the hard work of applying for 501(c)3 status) initially founded <a href="http://vimukta.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/', 'Vimukta']);" >Vimukta</a>. The library doesn&#8217;t cost much to maintain. Rent, and a small stipend for the young people who work there, currently costs a mere $1000 a year. 
+
+<a href="http://vimukta.org/donate/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/donate/', 'Donations']);" >Donations</a> are always welcome, and any amount over our annual goal will be held in trust by the <a href="http://www.bhasharesearch.org.in/Site.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bhasharesearch.org.in/Site.html', 'Bhasha Research and Publication Center']);" >Bhasha Research and Publication Center</a> until such a time as Vimukta and Budhan Theatre are ready to expand our efforts beyond the library. And, indeed, we have big plans. Our dream is to set up a scholarship for Chhara girls, many of whom drop out of school to marry at a very young age. Such a scholarship would be contingent on their finishing school. We&#8217;d also like to help Budhan Theatre buy a permanent home for the library.
+
+But to do all that *we need your help*. We expect that our film, when it comes out, will be a powerful recruiting tool for Vimukta, but we&#8217;d like to have a strong network of supporters already in place before that happens. Currently our <a href="http://apps.facebook.com/causes/79430?m=1a240&#038;recruiter_id=3357313" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://apps.facebook.com/causes/79430?m=1a240&recruiter_id=3357313', 'Facebook group']);" ><em>Facebook</em> group</a> has 24 members. We&#8217;d like to see that grow to 500. Please join. Or, if Facebook isn&#8217;t your thing, please sign up for our *newsletter* directly on <a href="http://vimukta.org" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org', 'our website']);" >our website</a>. We know as well as anybody how annoying it can be to be flooded with e-mail, and we promise to keep our e-mails announcements to the bare minimum (about four a year, on average). If you are already a member, please help by spreading the word and inviting your friends.
+
+*Thanks*!
+
+<div id="themify_builder_content-2805" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

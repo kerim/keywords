@@ -1,0 +1,29 @@
+---
+title: Publishing
+author: Kerim
+layout: post
+permalink: /archives/2004/04/02/publishing/
+categories:
+  - Academic
+  - Info Tech
+---
+A while back I wrote about how much better academic research would be if academic publishing was <a href="http://keywords.oxus.net/archives/000395.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000395.html', 'more like blogging']);" >more like blogging</a>. The catch, of course, is the question of *profitability*. Thanks to a comment by <a href="http://eatworms.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://eatworms.org/', 'worm eater']);" >worm eater</a> on a <a href="http://www.languagehat.com/archives/001244.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/001244.php', 'post']);" >post</a> by LanguageHat, I found a <a href="http://www.nature.com/nature/focus/accessdebate/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nature.com/nature/focus/accessdebate/', 'series of articles']);" >series of articles</a> in *Nature* on Open Access publishing. I haven&#8217;t had time to go through the articles yet, most seem to focus on scientific publication in particular. But <a href="http://www.nature.com/nature/focus/accessdebate/8.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nature.com/nature/focus/accessdebate/8.html', 'one article']);" >one article</a> caught my attention. It makes a distinction between commercial publications and those put out by scholarly societies. It says that about half of all scientific journals are put out by such societies, not by commercial publishers. At first I thought that this would be a good thing, since academic societies would have more of an interest in making knowledge freely accessible than evil corporate publishers; but it turns out that it is actually the other way around:
+
+> Commercial publishers have a duty to their owners or shareholders to maximise the profitability of the company in the long term. Businesses sometimes have to take risks in order to adapt to market change and experimentation with open access models could be seen as an acceptable risk for the long-term good of the business. By contrast, learned societies exist to foster and disseminate knowledge and undertaking an open access experiment which could threaten the economic survival of the society would be unlikely to be seen as an acceptable risk. Society publishers are, therefore, much more likely to continue to wait and see than to be at the vanguard of open access experimentation, although many are experimenting on a small scale.
+
+Nonetheless, I know that the <a href="http://www.aaanet.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aaanet.org/', 'American Anthropological Association']);" >American Anthropological Association</a> is working towards providing <a href="http://www.aaanet.org/anthrosource/index.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aaanet.org/anthrosource/index.htm', 'full text access to all association journals via their web portal']);" >full text access to all association journals via their web portal</a>. This isn&#8217;t quite the same as making it freely accessible to the public, and my experience with the AAA web site leads me to be doubt that they will implement any of the features I <a href="http://keywords.oxus.net/archives/000395.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000395.html', 'suggested']);" >suggested</a> in my previous post, but still, it is definitely a step in the right direction.
+
+A few random, related notes (i.e. lazy unedited blogging):
+
+From the same article, there seems to be concrete evidence that making articles available online increases the chances that they will be cited:
+
+> While research conducted in 2001 by the NEC Research Institute&#8217;s Steve Lawrence found that &#8220;online articles are cited 4.5 times more often than offline articles&#8221;, no similar figures yet exist to compare citation rates for open access vs. subscription-based material. 
+
+I would be remiss not to include a link to <a href="http://www.freefulltext.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.freefulltext.com/', 'FreeFullText.com']);" >FreeFullText.com</a>, an excellent resource mentioned in LanguageHat&#8217;s original post.
+
+And in a similar vein, Lawrence Lessig&#8217;s book *Free Culture*, is available <a href="http://www.free-culture.cc/freecontent/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.free-culture.cc/freecontent/', 'free online']);" >free online</a>, in a variety of formats. <a href="http://www.helptools.net/netdoc/starthelp.php?doc=4&#38;grp=4&#38;js=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.helptools.net/netdoc/starthelp.php?doc=4&grp=4&js=1', 'This one']);" >This one</a> is the nicest if you intend to read it on the web.
+
+<div id="themify_builder_content-1613" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

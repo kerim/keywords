@@ -1,0 +1,38 @@
+---
+title: Impeach Bush
+author: Kerim
+layout: post
+permalink: /archives/2003/04/24/impeach-bush/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   So here&#8217;s the deal: </p> 
+>   
+>   <p>
+>     Bush has six months to find the WMDs that spurred this war. Six months to find the hundreds of tons of chemical weapons that posed an imminent threat to our nation and Iraq&#8217;s neighbors.
+>   </p>
+>   
+>   <p>
+>     If in six months no such weapons are found, then start impeachment proceedings .
+>   </p>
+>   
+>   <p>
+>     This war has been too costly, in both treasure and human life. To have based the war on nothing more than rumor is gross incompetence. Our country deserves better.
+>   </p>
+>   
+>   <p>
+>     Remember that this was never about &#8220;freedom&#8221;. The presence of Eritria, Uzbekistan, Georgia and Ethopia in our &#8220;Coalition of the Willing&#8221; proves that. It was about WMDs.
+>   </p>
+>   
+>   <p>
+>     If we don&#8217;t find them, the costs were all for naught, and Bush should pay the price.
+>   </p>
+> </div>
+
+<a href="http://www.dailykos.com/archives/002484.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dailykos.com/archives/002484.html', 'Daily Kos']);" >Daily Kos</a>
+
+<div id="themify_builder_content-1126" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

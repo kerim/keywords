@@ -1,0 +1,32 @@
+---
+title: Accountability
+author: Kerim
+layout: post
+permalink: /archives/2003/12/05/accountability/
+categories:
+  - Law
+  - Politics
+  - The Economy
+---
+> <div>
+>   The answer to problems like the Pentagon&#8217;s accounting system clearly is not more flexibility &#8212; what is needed is more accountability. Accountability within the Department, accountability to Congress, which means accountability to the Constitution and accountability to the American people.
+> </div>
+
+This quote is from <a href="http://64.177.207.201/pages/16_286.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://64.177.207.201/pages/16_286.html', 'a speech by Senator Robert Byrd']);" >a speech by Senator Robert Byrd</a>, referred to in tonight&#8217;s episode of <a href="http://www.pbs.org/now/politics/defenseaccount.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/now/politics/defenseaccount.html', 'Now with Bill Moyers']);" >Now with Bill Moyers</a>. One point made in that show, in an interview with <a href="http://www.pbs.org/now/politics/spinney.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/now/politics/spinney.html', 'Franklin &#8220;Chuck&#8221; Spinney']);" >Franklin &#8220;Chuck&#8221; Spinney</a>, was that the White House demands accountability in <a href="http://www.newsmax.com/articles/?a=2000/8/31/180255" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newsmax.com/articles/?a=2000/8/31/180255', 'education']);" >education</a>, accountability in <a href="http://www.csmonitor.com/2002/0319/p02s01-uspo.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.csmonitor.com/2002/0319/p02s01-uspo.html', 'foreign aid']);" >foreign aid</a>, but <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2003/05/18/MN251738.DTL" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2003/05/18/MN251738.DTL', 'not over the military budget']);" >not over the military budget</a>.
+
+> <div>
+>   Though Defense has long been notorious for waste, recent government reports suggest the Pentagon&#8217;s money management woes have reached astronomical proportions. A study by the Defense Department&#8217;s inspector general found that <b>the Pentagon couldn&#8217;t properly account for more than a trillion dollars in monies spent</b>.
+> </div>
+
+(Emphasis added.) <a href="http://www.d-n-i.net/fcs/spinney_testimony_060402.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.d-n-i.net/fcs/spinney_testimony_060402.htm', 'In 2002, Spinney argued before congress']);" >In 2002, Spinney argued before congress</a> that this lack of oversight posed a serious threat to the constitution:
+
+> <div>
+>   A logical consequence of this conclusion is that unreliable accounting information makes it impossible to link the intended consequences of past decisions to the defense budget now before Congress. Such a conclusion is tantamount to saying it is not possible to determine whether or not the internal activities of the Defense Department are matched to the external requirements of its environment. Second, these reports agree that the Pentagon&#8217;s bookkeeping systems do not comply with legal requirements of the Chief Financial Officers (CFO) Act of 1990. This conclusion goes well beyond the principles of sound financial management and strikes at the soul of the Constitution. The CFO Act requires government agencies to pass annual audits of the links between an executive agency&#8217;s expenditures and the legally enacted appropriations authorizing those expenditures. This audit requirement is intended to sharpen the teeth of the Appropriations and Accountability Clauses in the Constitution, Article 1, Section 9, Clause 7, which says, &#8220;No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.&#8221; This clause, as we all know, assigns the power of the purse to Congress, and it does so with language that denotes (1) a clear and absolute prohibition on spending (i.e., &#8220;No Money&#8221;) and (2) an all-encompassing requirement for accountability (i.e, &#8220;all public Money&#8221;). The sweeping construction allows no room for exception. Nor is this construction an outdated artifact of arcane 18th Century language. According to the eminent constitutional scholar Professor Edward S. Corwin, this clause is Congress&#8217;s most important check on the actions of other branches of government in the Constitution&#8217;s entire scheme of checks and balances. It is therefore clear that a finding of non-compliance with the CFO Act is a dagger aimed at the heart of American constitutional theory &#8211; namely, the idea of making the government accountable to be people via a legal system of checks and balances &#8211; a system, I might add, that everyone in the federal government has sworn freely and without reservation to uphold, protect, and defend.
+> </div>
+
+*UPDATE*: <a href="http://www.pbs.org/now/politics/military_spending_pop/index3.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/now/politics/military_spending_pop/index3.html', 'See here for a chart']);" >See here for a chart</a> showing just how much the education budget differs from the military budget. Which <a href="http://www.nationalpriorities.org/taxes/IncomeTaxChart.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nationalpriorities.org/taxes/IncomeTaxChart.html', 'portion of your tax dollars']);" >portion of your tax dollars</a> would you like to see subject to more accountability?
+
+<div id="themify_builder_content-1415" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

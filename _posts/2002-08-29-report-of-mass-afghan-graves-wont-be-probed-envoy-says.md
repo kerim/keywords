@@ -1,0 +1,18 @@
+---
+title: 'Report of Mass Afghan Graves Won&#8217;t Be Probed, Envoy Says'
+author: Kerim
+layout: post
+permalink: /archives/2002/08/29/report-of-mass-afghan-graves-wont-be-probed-envoy-says/
+categories:
+  - Old Blog Import
+---
+> <div>
+>   &#8220;The U.N. special representative in Afghanistan said today that the weakness of the Afghan government and the risk to investigators or witnesses make it almost impossible to investigate reports that there are mass graves in northern Afghanistan.&#8221;
+> </div>
+
+<a href="http://www.washingtonpost.com/ac2/wp-dyn/A4265-2002Aug27?language=printer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/ac2/wp-dyn/A4265-2002Aug27?language=printer', 'washingtonpost.com']);" >washingtonpost.com</a>
+
+<div id="themify_builder_content-491" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

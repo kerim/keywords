@@ -1,0 +1,51 @@
+---
+title: Oompa-loompanproletariat
+author: Kerim
+layout: post
+permalink: /archives/2005/07/23/oompa-loompanproletariat/
+dsq_thread_id:
+  - 825169170
+categories:
+  - Culture
+  - Race
+---
+After spending some time worrying about the <a href="http://vision-nary.com/content/oompa.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vision-nary.com/content/oompa.html', 'exploitation']);" >exploitation</a> of <a href="http://en.wikipedia.org/wiki/Oompa_Loompas" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Oompa_Loompas', 'Oompa-Loompa']);" >Oompa-Loompa</a> labor, I was happy to learn about efforts on their behalf. These incldue: <a href="http://www.angelfire.com/movies/petol/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.angelfire.com/movies/petol/', 'PETOL']);" >PETOL</a> (People for the Ethical Treatment of Oompa Loompas), and the <a href="http://www.grumblemagazine.com/articles/martini/willy.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.grumblemagazine.com/articles/martini/willy.html', 'Chocolate Manifesto']);" >Chocolate Manifesto</a>. It is from the latter that I learned to appreciate the *counter-hegemonic* nature of the Oompa-Loompa songs.
+
+> Q. But I saw the movie. They&#8217;re happy. They&#8217;re singing all the time.
+> 
+> A. So they&#8217;re singing. Big fat hairy deal. Singing is nothing more than a manifestation of the working classes&#8217; feeble attempt to maintain some individual dignity in the face of the overwhelming industrial complex. The oompa-loompa song is the equivalent of &#8220;Let My People Go.&#8221; The line &#8220;I&#8217;ve got another puzzle for you&#8221; is the oompa-loompas&#8217; subtle attack on their capitalist exploiter and his cronies (in other words, everyone who tours the factory, Charlie included). By presenting them with a puzzle, the intelligence, and thus the authority, of Wonka and the other members of the bourgeois management is called into question, which gives the oompa-loompas a feeling, however momentary, of superiority to their capitalist exploiters.
+
+But after looking at all these parodies, I began to wonder: to what extent are these people parodying a parody? Digging further, I learned about <a href="http://www.roalddahlfans.com/books/charoompa.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.roalddahlfans.com/books/charoompa.php', 'changes that Dahl had made']);" >changes that Dahl had made</a> to the Oompa-Loompa&#8217;s.
+
+> In the version first published, [the Oompa&#8211;Loompas were] a tribe of 3,000 amiable black pygmies who have been imported by Mr. Willy Wonka from &#8216;the very deepest and darkest part of the African jungle where no white man had been before.&#8217;
+
+Although initially tolerated, in the 70s American writer Eleanor Cameron <a href="http://www.hbook.com/exhibit/article_cameron1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hbook.com/exhibit/article_cameron1.html', 'attacked the book']);" >attacked the book</a>. As a result of the controversy that followed,
+
+> a revised edition of *Charlie and the Chocolate Factory* appeared, in which the Oompa&#8211;Loompas had become dwarfish hippies with long &#8216;golden&#8211;brown hair&#8217; and &#8216;rosy&#8211;white&#8217; skin.&#8221;
+
+It is hard for me to know what to make of the Oompa-Loompa controversy. Stories of Dahl&#8217;s <a href="http://en.wikipedia.org/wiki/Talk:Roald_Dahl#Anti-semitism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Talk:Roald_Dahl#Anti-semitism', 'anti-semitism']);" >anti-semitism</a>, make it seem unlikely that he was free of racial prejudice; however, I also think he was parodying the same Victorian fantasies which he was invoking. (Cameron <a href="http://www.hbook.com/exhibit/article_cameron1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hbook.com/exhibit/article_cameron1.html', 'admits as much']);" >admits as much</a> in her letter, but says that children are &#8220;literarily unsophisticated&#8221; children will be harmed by not being able to understand the deeper meaning.)
+
+A recent <a href="http://slate.com/id/2122852/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.com/id/2122852/', 'article in Slate']);" >article in Slate</a> helps put some of this in perspective. Jo&#235;l Glenn Brenner, author of *<a href="http://www.amazon.com/exec/obidos/redirect?tag=shashwaticom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0679421904%2526tag=shashwaticom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0679421904%25253FSubscriptionId=02ZH6J1W0649DTNS6002" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/exec/obidos/redirect?tag=shashwaticom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0679421904%2526tag=shashwaticom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0679421904%25253FSubscriptionId=02ZH6J1W0649DTNS6002', 'The Emperors of Chocolate: Inside the Secret World of Hershey and Mars']);" >The Emperors of Chocolate: Inside the Secret World of Hershey and Mars</a>*, writes about the real-world candy wars which inspired Dahl:
+
+> Dahl himself was obsessed with sweets, and he waxed nostalgic about the candies of his youth, many of which disappeared over the course of his life as industrial behemoths squeezed out the mom-and-pop confectioners he so adored. The result of his personal experience is the mythical world of Willy Wonka, which is not innocent fiction drawn from thin air, but a no-holds-barred parody of the real-world candy industry, a world every bit as strange as Mr. Wonka himself.
+
+It is all there &#8211; ingenious concoctions, large candy conglomerates, even corporate espionage. After reading this it strikes me that while the Oompa-Loompa&#8217;s may have served a satirical purpose &#8211; the dream of a loyal labor force fed only on candy &#8211; I don&#8217;t think Dahl was specifically satirizing the racial stereotypes he was invoking.
+
+I haven&#8217;t yet said anything about <a href="http://www.imdb.com/title/tt0367594/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.imdb.com/title/tt0367594/', 'the film']);" >the film</a>, which was excellent. I think Burton&#8217;s version can stand proudly aside the earlier film. Johnny Depp&#8217;s portrayal of Willy Wonka a Michael Jackson-esque character works, as do Tim Burton&#8217;s set-designs. But what about the Oompa-Loompas? Actually, there is only one. They are all played by Kenyan born <a href="http://www.deep-roy.com/biography.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.deep-roy.com/biography.htm', 'Deep Roy']);" >Deep Roy</a>, who claims to be &#8220;a true &#8216;Blue Blooded&#8217; descendant of India&#8217;s <a href="http://www.jattworld.com/exoops/modules/Library/?p=hsduleh-alphabetG" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jattworld.com/exoops/modules/Library/?p=hsduleh-alphabetG', 'Maharajah Vinepal']);" >Maharajah Vinepal</a>, 26 generations removed!&#8221; Unlike Dahl, Burton does satirize the stereotypes, even as he uses them. I think that even a &#8220;literarily unsophisticated&#8221; child can sense the irony. In fact, it was the nature of Burton&#8217;s handling of the Oompa-Loompas that started me on this investigation in the first place.
+
+The myth of the &#8220;primitive&#8221; is one that will never go away. Robinson Caruso will always need his opposite &#8211; his man Friday. Modern primitives (long haired hippies) might suffice, but we can never fully cast off the colonial context out of which they emerged as our secret sharer. In this sense, irony and satire seem like a more honest choice.
+
+UPDATE: There is a nice <a href="http://www.newyorker.com/critics/atlarge/articles/050711crat_atlarge" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/critics/atlarge/articles/050711crat_atlarge', 'profile of Roald Dahl']);" >profile of Roald Dahl</a> in the New Yorker.
+
+<!-- technorati tags start -->
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Charlie and the Chocolate Factory" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Charlie and the Chocolate Factory', 'Charlie and the Chocolate Factory']);"  rel="tag">Charlie and the Chocolate Factory</a>, <a href="http://technorati.com/tag/Deep Roy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Deep Roy', 'Deep Roy']);"  rel="tag">Deep Roy</a>, <a href="http://technorati.com/tag/Johnn" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Johnn', 'Johnn']);"  rel="tag">Johnn</a>, <a href="http://technorati.com/tag/Oompa-Loompa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Oompa-Loompa', 'Oompa-Loompa']);"  rel="tag">Oompa-Loompa</a>, <a href="http://technorati.com/tag/Representation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Representation', 'Representation']);"  rel="tag">Representation</a>, <a href="http://technorati.com/tag/Roald Dahl" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Roald Dahl', 'Roald Dahl']);"  rel="tag">Roald Dahl</a>, <a href="http://technorati.com/tag/Tim Burton" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Tim Burton', 'Tim Burton']);"  rel="tag">Tim Burton</a>, <a href="http://technorati.com/tag/Willie Wonka" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Willie Wonka', 'Willie Wonka']);"  rel="tag">Willie Wonka</a>}</span>
+</div>
+
+<!-- technorati tags end -->
+
+<div id="themify_builder_content-2254" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

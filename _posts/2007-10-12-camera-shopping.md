@@ -1,0 +1,48 @@
+---
+title: Camera Shopping
+author: Kerim
+layout: post
+permalink: /archives/2007/10/12/camera-shopping/
+dsq_thread_id:
+  - 825168595
+categories:
+  - Info Tech
+---
+<a href="http://www.flickr.com/photos/kerim/1556889257/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/kerim/1556889257/', '']);"  title="Photo Sharing"><img src="http://farm3.static.flickr.com/2077/1556889257_02aabff698.jpg" alt="Digital Cameras Side-by-Side, 7 cameras: Digital Photography Review" height="321" width="500" /></a>
+
+(Click <a href="http://www.dpreview.com/reviews/compare_post.asp?method=sidebyside&cameras=canon_sd950is,fuji_finepixf50fd,panasonic_dmcfx100,panasonic_dmclx2,panasonic_dmctz3,ricoh_gx100,panasonic_dmcfx7&show=all" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dpreview.com/reviews/compare_post.asp?method=sidebyside&cameras=canon_sd950is,fuji_finepixf50fd,panasonic_dmcfx100,panasonic_dmclx2,panasonic_dmctz3,ricoh_gx100,panasonic_dmcfx7&show=all', 'here']);" >here</a> to see a side-by-side comparison of the cameras discussed in this post.)
+
+Buying a compact digital camera is always a trade-off. In such a small box, if you stuff a feature in one side, another feature pops out the other end. That wouldn&#8217;t be so bad if companies were honest about the trade-offs they&#8217;ve made, but instead we get a lot of misinformation. For instance, the latest thing in compact digital photography is <a href="http://www.dpreview.com/articles/compactcamerahighiso/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dpreview.com/articles/compactcamerahighiso/', 'high ISO']);" >high ISO</a>, allowing for better pictures in low light. My current Panasonic Lumix DMC-FX7 only goes up to 400, and new cameras promise upwards of 1600 and beyond. This is a big reason why I want to upgrade &#8211; together with a lousy flash, my camera is nearly useless in low-light situations. The thing is, camera manufacturers lie. If you read the reviews you discover that a camera advertising ISO of up to 3200 isn&#8217;t usable above 400.
+
+Some cameras now have very good image stabilization. The optical kind is better than the digital kind, as the actual lens parts move independantly rather than requiring the computer to attempt to calculate the movement and compensate accordingly. (There is now new technology to magnetically suspend the digital processor, allowing it to move freely.) The Panasonic Lumix cameras all have excellent optical image stabilization, which is <a href="http://keywords.oxus.net/archives/2004/11/18/lumix/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/11/18/lumix/', 'why I got my first Lumix']);" >why I got my first Lumix</a>. The problem is, when people are moving around in low light, image stabilization won&#8217;t help much. You need faster exposures, not greater stability.
+
+Another feature on some of the high end cameras is RAW, meaning uncompressed photos. This is great because a lot of the noise in digital photographs comes from poor quality compression, and it is better to export the photo to your computer and do the compression there. That is if you really have the time to wait five seconds for your camera to write the 22MB picture to file and then to compress each and every picture on your desktop before uploading to the web. Are you really going to do that?
+
+The only feature that never seems to be a problem is megapixels. New cameras offer over 12 megapixels in a tiny compact form &#8211; but do you really need all those megapixels? The truth is you don&#8217;t, but its hard to buy anything with less than 7 these days, so its best to just ignore that altogether.
+
+<!--more-->
+
+One feature that I do care about is having a wide angle lens. A lot of cameras now offer excellent zoom lenses, which is great if you do nature photography, but feels like spying when used on people. But for documentary work a nice wide angle lens is great. The wider lens also lets in more light. Unfortunately, not too many cameras offer anything wider than 35mm, so you have to look carefully.
+
+On the high end compact cameras all the other features are roughly comparable (all of them except the Fujifilm camera support the new SDHC standard for storage), although some compact cameras are certainly more compact than others. If it doesn&#8217;t fit in your pocket anymore is it still a compact? If you need a camera bag maybe you should give in and get a DSLR. Even the low-end DSLRs avoid a lot of the problems with digital compacts.
+
+So how to choose a camera?
+
+One great trick is to use Flickr. Not only does Flickr have <a href="http://www.flickr.com/groups/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/groups/', 'groups']);" >groups</a> for each brand and make of camera, but you can also use their <a href="http://www.flickr.com/cameras/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/cameras/', 'camera finder']);" >camera finder</a> to find the most viewed pictures made with each make of camera. After a lot of looking I&#8217;ve narrowed the selection down to six cameras, three of which are Panasonic Lumix models, like my old one.
+
+The hands down winner in terms of lush photos on Flickr is the <a href="http://www.flickr.com/cameras/ricoh/caplio_gx100/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/cameras/ricoh/caplio_gx100/', 'Ricoh Capilo GX100']);" >Ricoh Capilo GX100</a>. This is partially because Ricoh intentionally leaves their pictures a little noisy, making for a more filmic look. You&#8217;ll notice a lot of Ricoh pictures on Flickr are in black and white, because that hides the noise at low light. They look great, but it is a very specific look and it might not be for everyone. Also, the Ricoh costs about 50 percent more than most other compact digital cameras.
+
+The camera with the best performance in low-light situations is the Fujifilm FinePix F50fd. Fuji puts a DSLR chip in their compact cameras, which gives the camera a much higher ISO rating. I&#8217;ve played around with the F40 and the effect is quite noticeable, especially if you manually force a high-ISO mode. Unfortunately I didn&#8217;t much like the way the camera&#8217;s software handled automatic shots, and it lacks a wide angle lens, as does the very popular Canon PowerShot SD950 IS. The few reviews I&#8217;ve seen weren&#8217;t too enthusiastic, but its a new camera and I&#8217;ll wait for some more reviews before making up my mind.
+
+That leaves us with one of the three Lumix models. They all have 28mm lenses which isn&#8217;t quite the 24mm we get on the Ricoh, but its still decent for a compact camera. They also all seem to do OK up to ISO 400, which is much better than my camera which claims to be 400 but can only really do 100. So any of these should be a significant upgrade from what I have now. But which one? The three models I&#8217;m looking at are the DMC-FX100, the DMC-LX2, and the DMC-TZ3. Only the LX2 offers RAW support (as does the RIcoh). But I&#8217;ve heard that the RAW support isn&#8217;t that good, and that sometimes the JPEG compressed pictures are actually less noisy (especially at low ISO). The TZ3 has a 10x optical zoom which is pretty amazing, but not that important to me. Nor do I much care about the 12 megapixels on the LX100. I&#8217;d probably go with the LX2 except for the fact that it is pretty bulky and has a lens cap. A lens cap! On a compact digital camera! What were they thinking? Some people are waiting for the LX3, hoping that it will be a true competitor to the Ricoh (which is much more popular in Europe than in the US), but I need something before I go to India in January, which means I need to get it this year, and its hard to tell when (if ever) the LX3 will come out.
+
+In the end I&#8217;m currently leaning towards the DMC-FX100, but I&#8217;m still contemplating the Ricoh and hoping for the LX3 or something else to come along before it comes time for me to go out and buy the camera.
+
+UPDATE: I forgot to link to visual anthropologist <a href="http://www.photoethnography.com/blog/archives/2007/06/fieldwork_small.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.photoethnography.com/blog/archives/2007/06/fieldwork_small.html', 'Karen Nakamura&#8217;s review of the FX2']);" >Karen Nakamura&#8217;s review of the FX2</a>, which she recommends as a good fieldwork camera. Like Karen, I&#8217;m a big fan of Panasonic products. We used the AG-DVX100A to shoot our documentary, and also have a Pansonic deck that is still going strong after years of heavy use. For these reasons I&#8217;m well inclined to get another Panasonic, even if it isn&#8217;t perfect.
+
+UPDATE: Fixed comparison link below the photo.
+
+<div id="themify_builder_content-2748" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

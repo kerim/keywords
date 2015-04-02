@@ -1,0 +1,23 @@
+---
+title: Listservs
+author: Kerim
+layout: post
+permalink: /archives/2004/11/28/listservs/
+categories:
+  - Academic
+  - Info Tech
+---
+I&#8217;m tired of listservs, but I am unfortunately unable to subscribe from many of the ones I belong to. I much prefer blogs, fourms, and wikis, <a href="http://wiki.oxus.net/Choosing_The_Right_CMS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wiki.oxus.net/Choosing_The_Right_CMS', 'each of which is well suited for different purposes']);" >each of which is well suited for different purposes</a>. I&#8217;ve been thinking of setting up a Gmail account for all the lists I subscribe to and then dumping all the posts in there where I can search them if I need to, but don&#8217;t actually need to read them. Amardeep Singh has been <a href="http://www.lehigh.edu/~amsp/2004/11/spoons-collective-shutting-down-group.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lehigh.edu/~amsp/2004/11/spoons-collective-shutting-down-group.html', 'thinking along the same lines']);" >thinking along the same lines</a>:
+
+> **Why listservs are bad**. &#8230; Listservs at their best are a little frustrating. Information and arguments come at you in bits and pieces; most of it gets read quickly, when it&#8217;s not instantly delected in the interest of reducing Inbox spam and clutter. And at their worst listservs are the worst kind of &#8220;info-noise.&#8221; Blogs and internet forums are much more useful, first because they are &#8216;pull&#8217; resources &#8212; that you only go to by choice. They are also fully public, searchable, and pretty user-friendly. In addition to providing the opportunity to connect with other scholars (professional internet sociality), they are permanent, public resources that potentially benefit all kinds of people. And blog/discussion board comments that can be organized by thread (thematically) are miles above the endless disorganized patter of emails that arrive one by one (chronologically).
+> 
+> Finally, listservs preserve a centralized and overly taxonomic model of academic conversation. They encourage segregation by period as well as discipline. Hyperlinked and search-engine friendly resources, by contrast, are potentially much better at enabling conversations to happen according to elective affinity.
+
+Fortunately, anthropologists are starting to get the idea. The <a href="http://www.aaanet.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aaanet.org/', 'AAA']);" >AAA</a> recently set up <a href="http://www.anthrocommons.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.anthrocommons.org/', 'forums']);" >forums</a>, although it doesn&#8217;t look like anyone is actually using them. And the <a href="http://www.aesonline.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aesonline.org/', 'AES']);" >AES</a> has <a href="http://www.music.columbia.edu/%7Ececenter/AES/forums.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.music.columbia.edu/%7Ececenter/AES/forums.html', 'forums']);" >forums</a> as well, and they are also <a href="http://www.music.columbia.edu/%7Ececenter/AES/website.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.music.columbia.edu/%7Ececenter/AES/website.html', 'planning to install blogging tools']);" >planning to install blogging tools</a> for AES members. None of these things are particularly well implemented so far (AES relies on EZBoard, and the AAA forums are structured in a way that seems to discourage user participation), but I imagine that this will all improve over time.
+
+I also want to wish Amardeep success with his new <a href="http://www.postcolonial.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.postcolonial.blogspot.com/', 'postcolonial group blog']);" >postcolonial group blog</a>!
+
+<div id="themify_builder_content-2006" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->

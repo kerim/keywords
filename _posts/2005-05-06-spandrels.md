@@ -1,0 +1,60 @@
+---
+title: Spandrels
+author: Kerim
+layout:
+  - default
+permalink: /archives/2005/05/06/spandrels/
+dsq_thread_id:
+  - 825170139
+hide_post_title:
+  - default
+unlink_post_title:
+  - default
+hide_post_date:
+  - default
+hide_post_image:
+  - default
+unlink_post_image:
+  - default
+categories:
+  - Academic
+  - Language
+---
+I&#8217;m a little surprised by <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/002134.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/002134.html', 'Mark Liberman&#8217;s remark']);" >Mark Liberman&#8217;s remark</a> that Noam Chomsky&#8217;s &#8220;skepticism about the efficacy of natural selection makes him a natural ally for its partisans.&#8221; Not because I have strong feelings about Chomksy&#8217;s views on biology, but because Mark implies that such a non-reductionist view of natural selection is somehow beneficial to Darwin&#8217;s opponents. I assume he was joking, and that he was just jumping at an excuse to point out some of the more quirky aspects of Chomsky&#8217;s intellectual character, but even such an explanation makes Chomksy&#8217;s skepticism seem like something from the radical fringe. To counter that impression, I thought I would elaborate upon the scientific foundations for Chomsky&#8217;s skepticism.
+
+In <a href="http://www.aaas.org/spp/dser/evolution/history/spandrel.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aaas.org/spp/dser/evolution/history/spandrel.shtml', 'a 1979 paper']);" >a 1979 paper</a>, <a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Stephen_Jay_Gould', 'Stephen Jay Gould']);" >Stephen Jay Gould</a> and <a href="http://en.wikipedia.org/wiki/Richard_Lewontin" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Richard_Lewontin', 'Richard Lewontin']);" >Richard Lewontin</a> attacked some of the core-assuptions of the <a href="http://en.wikipedia.org/wiki/Neo-Darwinism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Neo-Darwinism', 'neo-Darwinians']);" >neo-Darwinians</a>. In a review of *Darwin&#8217;s Dangerous Idea*, by neo-Darwinist Daniel Dennett, H. Allen Orr <a href="http://www.bostonreview.net/BR21.3/Orr.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bostonreview.net/BR21.3/Orr.html', 'summarizes Gould and Lewontin&#8217;s argument']);" >summarizes Gould and Lewontin&#8217;s argument</a>:
+
+> Their argument was simple: Although natural selection is animportant force driving evolution, it does not follow that each arbitrarycharacter one can point to has an adaptive purpose. Instead, some features of organisms are like &#8220;<a href="http://en.wikipedia.org/wiki/Spandrel" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Spandrel', 'spandrels']);" >spandrels</a>&#8221; in ecclesiastical architecture &#8212; the v-shaped spaces formed when two rounded arches meet at a right angle. Although spandrels are often decked out with mosaics, no one would seriously argue that spandrels are there *because* they provide such swell surfaces for mosaics. Instead, spandrels are there because they *have to be* &#8212; they are, it turns out, an inevitable by-product of putting a dome on rounded arches. Gould and Lewontin&#8217;s warning was obvious: Organisms may also sport spandrels. Some traits have no adaptive tale to tell, but reflect structural constraints imposed by an organism&#8217;s development or by its quirky evolutionary history.
+> 
+> Consider, for example, the blind spot, a small hole in our visual field. The blind spot represents the point where the optic nerve &#8212; inside our eye &#8212; plunges through the retina on its way to the brain. The blind spot is a maladaptive legacy of our evolutionary past. Early in vertebrate evolution, light sensitive tissue folded up in such a way that our proto-eye was left with its neuronal wiring *on the inside*. Once evolution veered off in this direction, a blind spot was a structural inevitability. If the wiring starts on the inside of the eyeball, some wire somewhere must plunge through the back of the eye to reach the brain. One makes up adaptive stories about the resulting blind spot at some peril.
+
+<a href="http://www.pitt.edu/~medart/menuglossary/spandrel.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pitt.edu/~medart/menuglossary/spandrel.htm', '']);" title="Spandrel"><img alt="spandrel" src="https://www.evernote.com/shard/s1/sh/84b5c9e3-4d9a-40e2-95cb-1003ee07e846/8aa25abf030cfe81983a9c5d08c8d742/deep/0/Pasted-Image-3-14-14,-8-10-PM.png" width="246" height="221" /></a>
+
+Liberman is aware of these arguments. Not only does the <a href="http://www.nybooks.com/articles/1703" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nybooks.com/articles/1703', 'review']);" >review</a> of the same book to which he linked make reference to these arguments (albeit in a rather grudging way), but Liberman himself has cited them <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/001082.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/001082.html', 'previously']);" >previously</a>. This background is important because the debate between Dennett and Gould-Lewontin moved from biology to linguistics with the publication of Steven Pinker&#8217;s *<a href="http://home.uchicago.edu/~rjr6/articles/Sunday%20New%20York%20Times.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://home.uchicago.edu/~rjr6/articles/Sunday%20New%20York%20Times.htm', 'The Blank Slate']);" >The Blank Slate</a>* in 2002.
+
+In a letter, Pinker specifically <a href="http://www.stephenjaygould.org/reviews/pinker_exchange.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.stephenjaygould.org/reviews/pinker_exchange.html', 'attacked the concept of &#8220;spandrels.&#8221;']);" >attacked the concept of &#8220;spandrels.&#8221;</a>
+
+> Most snails have a spandrel formed by the space around their shell axis; what allows some species to use it to brood their eggs? Are they generally more clever and dextrous? No; their anatomy and nervous systems have been altered in an adaptive way to take advantage of the spandrel. So the re-user and co-opter are none other than: natural selection. Not only do co-opted spandrels implicate selection, but selection implicates spandrels. We evolved from organisms without eyes, feet, and other complex organs. The organs must have originated in precursors that were spandrels for some ancestral organism. The distinction in which spandrels work &#8220;in addition (and sometimes even opposed to)&#8221; natural selection is spurious.
+
+Here is how Gould responded:
+
+> in trying to argue further that spandrels are adaptations (or intrinsically bound with adaptations), Pinker errs in writing that &#8220;we evolved from organisms without eyes, feet, and other complex organs. The organs must have originated in precursors that were spandrels for some ancestral organism.&#8221; Here Pinker confuses spandrels with the fascinating and well-known notion—so important for understanding the quirky and unpredictable nature of evolutionary pathways—of &#8220;functional shift,&#8221; a concept stressed by Darwin himself, and often identified with the unfortunate and confusing name of &#8220;preadaptation.&#8221;
+> 
+> Structures evolved as adaptations for one function often get co-opted for a different role in a descendant lineage. (In the classic case, feathers evolved for thermoregulation in small running dinosaurs get co-opted later for flight in birds.) I don&#8217;t think that eyes or legs originated as spandrels, but they did arise for one function and get co-opted for another (proto-eyes for light sensitivity, later co-opted for image forming; legs (as fins) for balancing in fishes, later co-opted for locomotion in terrestrial vertebrates)—whereas spandrels arise nonadaptively, and may then be co-opted for later utility.
+> 
+> The distinction between spandrels and preadaptations couldn&#8217;t be more crucial—for preadaptation is an important and subtle concept within the adaptationist program (the co-optation of one adaptive design for another and quite different function), while a spandrel is a nonadaptive architectural byproduct that might (but also might not, as in most snail umbilici) be co-opted later for an adaptive use.
+
+Whether or not you side with Gould in his debate with Pinker, I think Mark would agree with me that skepticism about some of the core assumptions of evolutionary biology ultimately strengthen, rather than weaken, science; as well as Darwin&#8217;s legacy. Which isn&#8217;t to say that Creationists haven&#8217;t <a href="http://www.skepticfiles.org/evolut/misrepcr.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.skepticfiles.org/evolut/misrepcr.htm', 'tried']);" >tried</a> to <a href="http://www.don-lindsay-archive.org/creation/quote_lewontin.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.don-lindsay-archive.org/creation/quote_lewontin.html', 'appropriate']);" >appropriate</a> valid scientific critiques for their own ends.
+
+UPDATE: Mark Liberman responded in an <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/002134.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/002134.html', 'update to his post']);" >update to his post</a>, clarifying that he &#8220;wanted to suggest that the foundation of Chomsky&#8217;s attitude on this subject seems to [him] to be epistemological rather than biological.&#8221;<!-- technorati tags start -->
+
+<div style="text-align: right;">
+  <span style="font-size: x-small;">{<a href="http://technorati.com/tag/biology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/biology', 'biology']);"  rel="tag">biology</a>, <a href="http://technorati.com/tag/Chomksy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Chomksy', 'Chomksy']);"  rel="tag">Chomksy</a>, <a href="http://technorati.com/tag/Crea" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Crea', 'Crea']);"  rel="tag">Crea</a>, <a href="http://technorati.com/tag/Daniel Dennett" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Daniel Dennett', 'Daniel Dennett']);"  rel="tag">Daniel Dennett</a>, <a href="http://technorati.com/tag/Darwin" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Darwin', 'Darwin']);"  rel="tag">Darwin</a>, <a href="http://technorati.com/tag/evolution" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/evolution', 'evolution']);"  rel="tag">evolution</a>, <a href="http://technorati.com/tag/Richard Lewontin" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Richard Lewontin', 'Richard Lewontin']);"  rel="tag">Richard Lewontin</a>, <a href="http://technorati.com/tag/spandrel" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/spandrel', 'spandrel']);"  rel="tag">spandrel</a>, <a href="http://technorati.com/tag/Stephen Jay Gould" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Stephen Jay Gould', 'Stephen Jay Gould']);"  rel="tag">Stephen Jay Gould</a>, <a href="http://technorati.com/tag/Steven Pinker" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Steven Pinker', 'Steven Pinker']);"  rel="tag">Steven Pinker</a>}</span>
+</div>
+
+<!-- technorati tags end -->
+
+<div id="themify_builder_content-2188" class="themify_builder_content themify_builder themify_builder_front">
+</div>
+
+<!-- /themify_builder_content -->
