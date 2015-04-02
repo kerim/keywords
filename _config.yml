@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        /keywords/archives/:year/:month/:day/:title/
 relative_permalinks: true
 
-excerpt_separator: "&lt;!--more--&gt;"
+excerpt_separator: <!--more-->
 
 # Setup
 
