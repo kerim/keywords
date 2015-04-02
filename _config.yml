@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        /archives/:year/:month/:day/:title/
+permalink:        /keywords/archives/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
