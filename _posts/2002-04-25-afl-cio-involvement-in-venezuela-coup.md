@@ -10,7 +10,3 @@ categories:
 
 Could the bad old days be returning to the AFL-CIO&#8217;s operations in other countries? Fear that in Venezuela the AFL-CIO was supporting both a right-wing union federation and a U.S.-backed coup led some solidarity activists to mount a picket line at AFL-CIO headquarters in February.
 
-<div id="themify_builder_content-98" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

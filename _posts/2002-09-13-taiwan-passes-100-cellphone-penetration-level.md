@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.cellular-news.com/story/6994_print.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cellular-news.com/story/6994_print.shtml', 'Taiwan passes 100% cellphone penetration level']);" >Taiwan passes 100% cellphone penetration level</a>
 
-<div id="themify_builder_content-543" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

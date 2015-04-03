@@ -27,7 +27,3 @@ Another aspect of Amy Fisher&#8217;s story is that she probably shouldn&#8217;t 
 
 Amy Fisher is now married, pregnant, and has a radio show and <a href="http://www.islandear.com/archive_fisher.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.islandear.com/archive_fisher.asp', 'newspaper column']);" >newspaper column</a> in the *Long Island Ear*.
 
-<div id="themify_builder_content-1920" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

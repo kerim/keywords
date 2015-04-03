@@ -26,7 +26,3 @@ A young <a href="http://books.google.com/books?id=3fEdaHmtaSsC&#038;dq=Dreams+of
 > 
 > I didn’t answer, and Lolo squinted up at the sky. “Better to be strong,” he said finally, rising to his feet. “If you can’t be strong, be clever and make peace with someone who’s strong. But always better to be strong yourself. Always.”
 
-<div id="themify_builder_content-2879" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

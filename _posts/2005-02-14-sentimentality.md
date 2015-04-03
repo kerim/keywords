@@ -17,7 +17,3 @@ One of my favorite films of the past few years is the poetic &#8220;Elephant&#82
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Million Dollar Baby" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Million Dollar Baby', 'Million Dollar Baby']);"  rel="tag">Million Dollar Baby</a>, <a href="http://technorati.com/tag/Clint Eastwood" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Clint Eastwood', 'Clint Eastwood']);"  rel="tag">Clint Eastwood</a>, <a href="http://technorati.com/tag/culture war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/culture war', 'culture war']);"  rel="tag">culture war</a>, <a href="http://technorati.com/tag/Frank Rich" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Frank Rich', 'Frank Rich']);"  rel="tag">Frank Rich</a>, <a href="http://technorati.com/tag/elephant" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/elephant', 'elephant']);"  rel="tag">elephant</a>, <a href="http://technorati.com/tag/film" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/film', 'film']);"  rel="tag">film</a>}</span>
 </div>
 
-<div id="themify_builder_content-2050" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

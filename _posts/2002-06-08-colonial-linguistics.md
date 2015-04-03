@@ -22,7 +22,3 @@ KEY WORDS: language ideology, philology, sociolinguistics, language contact
 
 Academic knowledge of human linguistic diversity owes much to descriptions written, over four centuries ago, under the aegis of European colonial regimes around the world. This comparative review considers a small part of that body of linguistic descriptive work relative to its conditions of production: authorial interests that animated such writings, ideological and institutional milieux that enabled and shaped them, and the authoritative character they took on as natural symbols of colonial difference. European technologies of literacy enabled missionary and nonmissionary linguistic work that resulted in representations of languages as powerful icons of spiritual, territorial, and historical hierarchies that emerged in colonial societies. As descriptions of languages traveled from exotic colonial peripheries to European metropoles, they came under the purview of comparative philology. This disciplinary precursor to modern linguistics helped to legitimize colonial linguistic projects and legislate colonial difference on a global scale.
 
-<div id="themify_builder_content-197" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 I think <a href="http://www.dailykos.com/archives/002437.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dailykos.com/archives/002437.html', 'Daily Kos']);" >Daily Kos</a> is right to be nervous about this.
 
-<div id="themify_builder_content-1109" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

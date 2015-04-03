@@ -11,7 +11,3 @@ categories:
 
 This Japanese Era water and ink drawing of the Su-hua highway (which links Hualien with the North of Taiwan) was <a href="http://imago.lafayette.edu/cdm4/item_viewer.php?CISOROOT=/warner&#038;CISOPTR=341&#038;CISOBOX=1&#038;REC=2" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://imago.lafayette.edu/cdm4/item_viewer.php?CISOROOT=/warner&CISOPTR=341&CISOBOX=1&REC=2', 'found']);" >found</a> on <a href="http://imago.lafayette.edu/warner/guide.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://imago.lafayette.edu/warner/guide.php', 'The Gerald Warner Taiwan Image Collection']);" >The Gerald Warner Taiwan Image Collection</a>.
 
-<div id="themify_builder_content-2777" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

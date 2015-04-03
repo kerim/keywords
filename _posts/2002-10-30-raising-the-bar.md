@@ -26,7 +26,3 @@ Tom Tomorrow has an excellent rant in his blog today. Here is an excerpt:
 
 <a href="http://www.thismodernworld.com/weblog/archive/2002_10_27_bloggera.html#83721321" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/archive/2002_10_27_bloggera.html#83721321', 'This Modern World by Tom Tomorrow']);" >This Modern World by Tom Tomorrow</a>
 
-<div id="themify_builder_content-693" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

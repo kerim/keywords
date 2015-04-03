@@ -14,7 +14,3 @@ I usually don&#8217;t care much for Thomas Friedman&#8217;s opinion pieces in th
 
 <a href="http://www.nytimes.com/2002/10/06/opinion/06FRIE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/06/opinion/06FRIE.html', 'NY TImes']);" >NY TImes</a>
 
-<div id="themify_builder_content-628" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

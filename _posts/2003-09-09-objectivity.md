@@ -25,7 +25,3 @@ I like this argument because it generally fits with how I think ideology works. 
 
 (Greenberg&#8217;s story via <a href="http://www.prospect.org/weblog/archives/2003/09/index.html#001434" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/weblog/archives/2003/09/index.html#001434', 'TAPPED']);" >TAPPED</a>.)
 
-<div id="themify_builder_content-1313" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.latimes.com/la-me-lopez9may09,0,2887670.column" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/la-me-lopez9may09,0,2887670.column', 'Steve Lopez in the LA Times']);" >Steve Lopez in the LA Times</a>
 
-<div id="themify_builder_content-1177" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ I found this article through this great new blog I just discovered, called <a hr
 
 The same blog item also links to this article, titled <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2002/07/22/national1856EDT0725.DTL" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2002/07/22/national1856EDT0725.DTL', '&#8220;Justice Department signals intention to enforce law requiring foreigners to report address changes.&#8221;']);" >&#8220;Justice Department signals intention to enforce law requiring foreigners to report address changes.&#8221;</a>
 
-<div id="themify_builder_content-351" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

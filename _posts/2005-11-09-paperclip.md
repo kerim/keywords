@@ -20,7 +20,3 @@ What I want to know is, when Kyle <a href="http://www.oneredpaperclip.blogspot.c
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2346" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -13,7 +13,3 @@ In honor of the <a href="http://www.iwfr.org/" onclick="_gaq.push(['_trackEvent'
 >   Economics is not a zero-sum game, either with immigration or trade. The only losses come when workers anywhere are forced to accept low wages due to government repression of their rights. If immigrant workers make low wages due to exploitation, that means that wages will be lowered for all workers. And it also means they have less income to buy local goods and services&#8211; further hurting the economy and other workers who otherwise might benefit from their labor and income.
 > </div>
 
-<div id="themify_builder_content-1327" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

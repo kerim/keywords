@@ -21,7 +21,3 @@ Thanks. I just hope we can keep it up!<!-- technorati tags start -->
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2200" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

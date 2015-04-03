@@ -20,7 +20,3 @@ According to <a href="http://direland.typepad.com/direland/2004/10/the_veep_deba
 > 
 > The Salvadoran peace was concluded, by the way, under sponsorship of the United Nations—another tasty little fact omitted in today’s sanitized history by Brooks. And it was cemented and lasts until today, only because that UN process folded the insurgents (or in Reaganspeak “the terrorists”) into a compacted coalition with the government forces – something the U.S. spent billions in dollars and thousands in Salvadoran lives trying to prevent.
 
-<div id="themify_builder_content-1915" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

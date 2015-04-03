@@ -14,7 +14,3 @@ See if your represetnative stood up to Bush or caved in. Either way write to the
 
 <a href="http://www.nytimes.com/2002/10/10/international/10AP-IROL.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/10/international/10AP-IROL.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-630" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

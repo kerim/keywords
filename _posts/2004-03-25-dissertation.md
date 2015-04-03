@@ -13,7 +13,3 @@ Actually, I think the blogging actually helps. For one thing, I think writing a 
 
 Congratulations Claire!
 
-<div id="themify_builder_content-1598" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.technologyreview.com/articles/freedman1102.asp?p=0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technologyreview.com/articles/freedman1102.asp?p=0', 'Technology Review']);" >Technology Review</a>
 
-<div id="themify_builder_content-708" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

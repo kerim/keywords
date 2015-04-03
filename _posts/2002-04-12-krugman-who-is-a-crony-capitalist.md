@@ -10,7 +10,3 @@ categories:
 
 Many of the business executives recently appointed to government positions first entered the private sector after prior careers in the Reagan and Bush I administrations. &#8230; (Dick Cheney is the quintessential example.) So are they really good businessmen, or are they just crony capitalists, men who have lived by their connections?
 
-<div id="themify_builder_content-67" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 And it all started with a *Latin competition*! A fascinating story, even if somewhat oversimplified by the author. Especially interesting are the tactics used by the English abolitionists to change public opinion (book tours, mass mailings, political posters, etc.). An encouraging story about the ability of a small group of dedicated people to change public opinion for the better. Unfortunately, today&#8217;s activist groups must face <a href="http://keywords.oxus.net/archives/000349.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000349.html', 'CBS and the Supreme Court']);" >CBS and the Supreme Court</a>&#8230;
 
-<div id="themify_builder_content-1492" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

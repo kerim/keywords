@@ -18,7 +18,3 @@ But the CIA seems to actually be far less certain than Bush claims. <a href="htt
 >   Bush is walking around making absolutist claims about the nature of those vehicles. But once again, political expediency is trumping the actual intelligence. The CIA doesn&#8217;t claim anything more than that the trucks were &#8220;probably&#8221; bioweapon production facilities. For Bush to claim they are absolute evidence of WMD violations is yet another in a long, long list of LIES.
 > </div>
 
-<div id="themify_builder_content-1220" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

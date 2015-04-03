@@ -10,7 +10,3 @@ categories:
 
 Perhaps most striking is the series of fences and walls rising piecemeal along stretches of borderland between central Israeli towns that hug the West Bank, from the Palestinian town of Qalqilyah north to Tulkarm. Some are electrified, topped with barbed wire and equipped with video surveillance cameras. Not long ago, Sharon and top military officials toured the area to survey sites destined to be fenced off. &#8230; What began piecemeal has fast become policy.
 
-<div id="themify_builder_content-63" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

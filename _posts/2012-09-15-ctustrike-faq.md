@@ -117,7 +117,3 @@ UPDATES
   * <a href="http://www.socialistproject.ca/bullet/697.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.socialistproject.ca/bullet/697.php', '7 Days that Shook Chicago: The 2012 Chicago Teachers Strike']);" >7 Days that Shook Chicago: The 2012 Chicago Teachers Strike</a>
   * <a href="http://peoplesworld.org/chicago-teachers-educate-a-nation/?utm_source=twitterfeed&utm_medium=twitter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://peoplesworld.org/chicago-teachers-educate-a-nation/?utm_source=twitterfeed&utm_medium=twitter', 'Chicago teachers educate a nation']);" >Chicago teachers educate a nation</a>
 
-<div id="themify_builder_content-3244" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

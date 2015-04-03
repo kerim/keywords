@@ -24,7 +24,3 @@ categories:
 
 <a href="http://www.nathannewman.org/log/archives/000716.shtml#000716" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/log/archives/000716.shtml#000716', 'NathanNewman.org &#8211; News and Views']);" >NathanNewman.org &#8211; News and Views</a>
 
-<div id="themify_builder_content-868" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

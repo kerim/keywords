@@ -30,7 +30,3 @@ Finally, on a more positive front, <a href="http://revbilly.com/index.php" oncli
 
 I&#8217;ve heard Rev. Billy preach (at an Anti-CVS protest in Woodstock, NY), and he is truly inspirational. (Funny too!)
 
-<div id="themify_builder_content-1832" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.upi.com/view.cfm?StoryID=20020726-051559-1423r" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.upi.com/view.cfm?StoryID=20020726-051559-1423r', 'United Press International']);" >United Press International</a>
 
-<div id="themify_builder_content-362" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

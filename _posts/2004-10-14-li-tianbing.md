@@ -19,7 +19,3 @@ More on the <a href="http://www.longmarchfoundation.org/english/homepage.htm" on
 
 (via <a href="http://journalism.berkeley.edu/projects/chinadn/en/archives/003333.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://journalism.berkeley.edu/projects/chinadn/en/archives/003333.html', 'China Digital News']);" >China Digital News</a>)
 
-<div id="themify_builder_content-1931" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

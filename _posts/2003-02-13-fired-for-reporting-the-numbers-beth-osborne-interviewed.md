@@ -16,7 +16,3 @@ categories:
 
 Full interview is <a href="http://www.businessweek.com/print/bwdaily/dnflash/feb2003/nf2003026_0167_db052.htm?db" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.businessweek.com/print/bwdaily/dnflash/feb2003/nf2003026_0167_db052.htm?db', 'here']);" >here</a>.
 
-<div id="themify_builder_content-950" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

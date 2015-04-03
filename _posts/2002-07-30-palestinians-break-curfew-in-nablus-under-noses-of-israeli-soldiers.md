@@ -28,7 +28,3 @@ categories:
 
 <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2002/07/29/international1814EDT0710.DTL&type=printable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2002/07/29/international1814EDT0710.DTL&type=printable', 'SFgate']);" >SFgate</a>
 
-<div id="themify_builder_content-372" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

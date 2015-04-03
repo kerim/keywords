@@ -18,7 +18,3 @@ categories:
 
 Here is the <a href="http://www.salon.com/news/feature/2002/08/06/tips/index_np.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/news/feature/2002/08/06/tips/index_np.html', 'original article']);" >original article</a>. But you have to pay for it!
 
-<div id="themify_builder_content-407" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

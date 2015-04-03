@@ -16,7 +16,3 @@ categories:
 
 &#8220;Water scarcity and quality will be one of the major problems of the 21st century,&#8221; Godwin Obasi, secretary-general of the U.N. World Meteorological Organization (news &#8211; web sites) (WMO), told a ceremony in Rome to mark World Water Day.
 
-<div id="themify_builder_content-10" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

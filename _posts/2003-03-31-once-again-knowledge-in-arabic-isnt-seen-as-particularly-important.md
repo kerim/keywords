@@ -30,7 +30,3 @@ But they do have the **Phrasealator**!
 
 And how about Iraqi hand gestures? Does a <a href="http://slate.msn.com/id/2080812/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/id/2080812/', 'thumbs-up']);" >thumbs-up</a> mean what it does in the US?
 
-<div id="themify_builder_content-1054" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

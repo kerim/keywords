@@ -21,7 +21,3 @@ No, not the American political party, but the French system of government. Writi
 
 This reminded me of California&#8217;s &#8220;<a href="http://bodyandsoul.typepad.com/blog/california/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.typepad.com/blog/california/', 'racial privacy initiative']);" >racial privacy initiative</a>.&#8221;
 
-<div id="themify_builder_content-1782" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

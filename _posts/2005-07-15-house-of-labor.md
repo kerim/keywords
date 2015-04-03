@@ -21,7 +21,3 @@ And speaking of Elizabeth Warren, see Daniel Gross&#8217; <a href="http://slate.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2249" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

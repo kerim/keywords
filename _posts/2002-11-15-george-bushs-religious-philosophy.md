@@ -10,7 +10,3 @@ A must-see cartoon posted to the Stand-down web site (also referred to as the no
   
 <a href="http://www.nowarblog.org/archives/000211.html#000211" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000211.html#000211', 'See Cartoon here.']);" >See Cartoon here.</a>
 
-<div id="themify_builder_content-735" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

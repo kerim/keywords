@@ -35,7 +35,3 @@ It is even more disheartening when you learn what goes on in these schools, wher
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2301" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

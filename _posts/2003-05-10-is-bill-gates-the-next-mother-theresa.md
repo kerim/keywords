@@ -25,7 +25,3 @@ The problem with this view, of course, is that it overlooks the important interr
 
 I still don&#8217;t like Micro$oft $oftware &#8230;
 
-<div id="themify_builder_content-1165" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

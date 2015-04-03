@@ -13,7 +13,3 @@ That Slavoj Žižek is a <a href="http://www.inthesetimes.com/site/main/article/
 > 
 > If Rumsfeld thinks that the main dangers in the confrontation with Iraq were the “unknown unknowns,” that is, the threats from Saddam whose nature we cannot even suspect, then *the Abu Ghraib scandal shows that the main dangers lie in the “unknown knowns”—the disavowed beliefs, suppositions and obscene practices we pretend not to know about, even though they form the background of our public values*.
 
-<div id="themify_builder_content-1713" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

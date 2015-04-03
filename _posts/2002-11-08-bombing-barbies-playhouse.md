@@ -16,7 +16,3 @@ Perfect gift for the young&#8217;un &#8211; practice bombing civilians homes and
 
 I blogged this on the <a href="http://www.nowarblog.org/archives/000142.html#000142" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000142.html#000142', 'nowarblog']);" >nowarblog</a> as well.
 
-<div id="themify_builder_content-719" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

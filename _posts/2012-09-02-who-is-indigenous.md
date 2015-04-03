@@ -19,7 +19,3 @@ Canessa, Andrew (2007) <a href="http://opendepot.org/459/" onclick="_gaq.push(['
 
 Quoted here less because of the selected text than because it is a nicely written article &#8211; good for thinking about indigeneity &#8211; and it is available in an Open Access repository.
 
-<div id="themify_builder_content-3151" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

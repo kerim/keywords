@@ -24,7 +24,3 @@ UPDATE: An obituary by <a href="http://www.guardian.co.uk/print/0,3858,5186129-1
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2168" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

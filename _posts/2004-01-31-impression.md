@@ -20,7 +20,3 @@ The most disturbing part of the article is the fact that the administration was 
 
 Huh!?
 
-<div id="themify_builder_content-1491" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

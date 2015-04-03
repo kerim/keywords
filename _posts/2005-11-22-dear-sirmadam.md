@@ -29,7 +29,3 @@ If only the FBI would use &#8220;Sir/Madam&#8221; &#8230; and then sign their me
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2357" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

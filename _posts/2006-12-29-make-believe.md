@@ -22,7 +22,3 @@ It seems that <a href="http://donkeyod.wordpress.com/2006/12/22/democrats-and-th
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2576" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://electronicintifada.net/v2/article1447.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://electronicintifada.net/v2/article1447.shtml', 'UNRWA, Report']);" >UNRWA, Report</a>, 7 May 2003
 
-<div id="themify_builder_content-1168" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

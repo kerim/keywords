@@ -12,7 +12,3 @@ I don&#8217;t usually read <a href="http://www.nytimes.com/2003/03/30/opinion/30
 >   Why is all this a surprise again? I know our hawks avoided serving in Vietnam, but didn&#8217;t they, like, read about it?
 > </div>
 
-<div id="themify_builder_content-1044" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

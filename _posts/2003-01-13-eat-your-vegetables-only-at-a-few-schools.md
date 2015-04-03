@@ -18,7 +18,3 @@ I personally am convinced that a better school diet will reduce the number of Ri
 
 <a href="http://www.nytimes.com/2003/01/13/national/13LUNC.html?pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/13/national/13LUNC.html?pagewanted=all&position=top', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-838" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

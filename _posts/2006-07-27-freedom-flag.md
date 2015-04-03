@@ -27,7 +27,3 @@ Also see Laure Ghorayeb&#8217;s <a href="http://www.laureghorayeb.blogspot.com/"
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2495" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

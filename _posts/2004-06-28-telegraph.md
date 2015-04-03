@@ -26,7 +26,3 @@ Read this <a href="http://www.britishempire.co.uk/article/bureaucracy.htm" oncli
 
 Its all downhill from there. This is an excerpt from a book entitled, *<a href="http://www.britishempire.co.uk/library/leisure.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.britishempire.co.uk/library/leisure.htm', 'The Leisure of an Egyptian Official']);" >The Leisure of an Egyptian Official</a>*, containing antidotes from the life of Lord Edward Cecil, originally published in 1921. 
 
-<div id="themify_builder_content-1755" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

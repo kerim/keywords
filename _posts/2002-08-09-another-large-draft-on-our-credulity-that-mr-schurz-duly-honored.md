@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/learning/general/onthisday/harp/0809.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/learning/general/onthisday/harp/0809.html', 'On This Day:  August 9, 1902']);" >On This Day: August 9, 1902</a>
 
-<div id="themify_builder_content-415" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ Call today and let them know how you feel.
 
 <a href="http://www.newsday.com/news/nationworld/nation/ny-usiraq112960909oct11,0,4187510.story?coll=ny-nationalnews-headlines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newsday.com/news/nationworld/nation/ny-usiraq112960909oct11,0,4187510.story?coll=ny-nationalnews-headlines', 'Newsday.com']);" >Newsday.com</a>
 
-<div id="themify_builder_content-631" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

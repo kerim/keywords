@@ -36,7 +36,3 @@ Photographs, updates, and more can be found on the publisher&#8217;s <a href="ht
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2392" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

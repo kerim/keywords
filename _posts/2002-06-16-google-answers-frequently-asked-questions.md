@@ -26,7 +26,3 @@ categories:
 
 <a href="https://answers.google.com/answers/faq.html#whatis" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://answers.google.com/answers/faq.html#whatis', 'Google Answers: Frequently Asked Questions']);" >Google Answers: Frequently Asked Questions</a>
 
-<div id="themify_builder_content-232" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

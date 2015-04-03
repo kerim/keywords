@@ -12,7 +12,3 @@ The film was beautifully shot (somewhat traditionally, considering the subject m
 
 <a href="http://www.anthologyfilmarchives.org/filmschedule-fset.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.anthologyfilmarchives.org/filmschedule-fset.html', 'Anthology Film Archives']);" >Anthology Film Archives</a>
 
-<div id="themify_builder_content-895" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

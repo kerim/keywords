@@ -32,7 +32,3 @@ Please write an e-mail to indicate your support of this action:
 
 **UPDATE**: <a href="http://importance.typepad.com/the_importance_of/2003/10/electronic_civi_1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://importance.typepad.com/the_importance_of/2003/10/electronic_civi_1.html', 'Students at other universities join the protest']);" >Students at other universities join the protest</a>.
 
-<div id="themify_builder_content-1370" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

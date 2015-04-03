@@ -75,7 +75,3 @@ Below is the body of <a href="http://www.petitiononline.com/sambhav/petition.htm
 > 
 > <a href="http://sambhav.2006.googlepages.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://sambhav.2006.googlepages.com/', 'Sambhav']);" >Sambhav</a>
 
-<div id="themify_builder_content-2592" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -24,7 +24,3 @@ categories:
 
 <a href="http://boingboing.net/2002_09_01_archive.html#85424417" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://boingboing.net/2002_09_01_archive.html#85424417', 'Boing Boing: A Directory of Wonderful Things']);" >Boing Boing: A Directory of Wonderful Things</a>
 
-<div id="themify_builder_content-540" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -15,7 +15,3 @@ Unfortunately I probably won&#8217;t be able to upload photos until I get back h
 
 I haven&#8217;t even gotten around to writing about why we are in Ahmedabad in the first place. Let me just say that we are working on a documentary film about a <a href="http://www.shashwati.com/denotified-tribes" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.shashwati.com/denotified-tribes', 'denotified']);" >denotified</a> community. It has been an exhilarating, but exhausting experience. At the end of the month we should be back in <a href="http://en.wikipedia.org/wiki/Dehradun" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Dehradun', 'Dehradun']);" >Dehradun</a> where I hope to have more time to write!
 
-<div id="themify_builder_content-2014" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

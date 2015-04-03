@@ -23,7 +23,3 @@ And don&#8217;t miss ESWN&#8217;s post on &#8220;<a href="http://www.zonaeuropa.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2288" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

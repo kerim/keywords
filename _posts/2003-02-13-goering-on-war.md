@@ -20,7 +20,3 @@ categories:
 
 You may have seen a modified version of this quote in your e-mail box. <a href="http://www.snopes.com/quotes/goering.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.snopes.com/quotes/goering.htm', 'This site']);" >This site</a> provides the full text. It is always good to check out an e-mail&#8217;s veracity before forwarding or posting it!
 
-<div id="themify_builder_content-952" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

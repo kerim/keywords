@@ -25,7 +25,3 @@ I haven&#8217;t kept up with Kureishi&#8217;s work since the first two brilliant
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2247" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

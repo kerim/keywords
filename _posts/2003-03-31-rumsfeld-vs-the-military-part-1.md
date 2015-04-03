@@ -40,7 +40,3 @@ If they know where they are &#8211; why didn&#8217;t they tell the inspectors? A
 
 Oh, and did they really never tell us the war would be short? Although Rumsfeld was careful never to say, exactly, that it would be a quick war, <a href="http://www.msnbc.com/news/752664.asp?cp1=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.msnbc.com/news/752664.asp?cp1=1', 'these quotes']);" >these quotes</a> show what impression the Administration was feeding the US public. (You may need to scroll down a little bit.)
 
-<div id="themify_builder_content-1052" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

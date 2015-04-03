@@ -14,7 +14,3 @@ If you are feeling suicidal, would you write to a column entitled &#8220;Dear Ec
 
 (Via <a href="http://www.crookedtimber.org/archives/000664.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/000664.html', 'Crooked Timber']);" >Crooked Timber</a>.)
 
-<div id="themify_builder_content-1358" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

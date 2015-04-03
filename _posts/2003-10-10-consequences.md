@@ -18,7 +18,3 @@ If you missed this excellent 90 minute film, you can watch it online starting Oc
 >   The conclusion that I ultimately came to was that this was a matter of, as I&#8217;ve called it, faith-based intelligence. Instead of our leadership forming conclusions based on a careful reading of the intelligence we provided them, they already had their conclusion to start out with, and they were cherry-picking the information that we provided to use whatever pieces of it that fit their overall interpretation. Worse than that, they were dropping qualifiers and distorting some of the information that we provided to make it seem more alarmist and more dangerous than the information that we were giving them.
 > </div>
 
-<div id="themify_builder_content-1355" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

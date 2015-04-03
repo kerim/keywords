@@ -14,7 +14,3 @@ I wrote this short piece and posted it today at Stand Down.
 
 <a href="http://www.nowarblog.org/archives/000448.html#000448" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000448.html#000448', 'Stand Down']);" >Stand Down</a>
 
-<div id="themify_builder_content-801" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

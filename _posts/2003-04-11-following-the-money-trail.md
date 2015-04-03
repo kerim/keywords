@@ -32,7 +32,3 @@ The <a href="http://www.publici.org/dtaweb/report.asp?ReportID=513&L1=10&L2=10&L
 
 And a lot more over at <a href="http://majorbarbara.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://majorbarbara.blogspot.com/', 'Arms and the Man']);" >Arms and the Man</a>
 
-<div id="themify_builder_content-1088" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

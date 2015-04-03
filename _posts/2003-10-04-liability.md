@@ -23,7 +23,3 @@ And some bad news:
 
 My emphasis there &#8211; just in case you thought Republican politicians (Sens. Mike Enzi (R-Wyo.), Kit Bond (R-Mo.), Rick Santorum (R-Pa.), and Health, Education, Labor, and Pensions Committee Chairman Judd Gregg (R-N.H.)) cared about the interests of anyone with less than a six digit salary&#8230;
 
-<div id="themify_builder_content-1348" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

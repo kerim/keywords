@@ -14,7 +14,3 @@ Well, not really, but this is a good article by Joseph Stiglitz (last year&#8217
 
 <a href="http://www.taipeitimes.com/News/edit/archives/2002/12/16/187409" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/edit/archives/2002/12/16/187409', 'Taipei Times']);" >Taipei Times</a>
 
-<div id="themify_builder_content-797" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

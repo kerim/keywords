@@ -23,7 +23,3 @@ It was the same for me. Why is that?
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2606" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

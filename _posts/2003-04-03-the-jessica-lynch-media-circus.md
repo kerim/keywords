@@ -18,7 +18,3 @@ I&#8217;m very happy that Jessica Lynch is safe. I&#8217;m also impressed at the
 
 Personally, I think it is much more than this. I think it goes to long-standing fears (and fantasies) about what happens to white women at the hands of Arabs. Here are some old paitings from the &#8220;orientalist school&#8221; which show just what I mean:
 
-<div id="themify_builder_content-1065" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

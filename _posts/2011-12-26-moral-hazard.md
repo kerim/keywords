@@ -13,7 +13,3 @@ Writing in the WSJ about a program to <a href="http://blogs.wsj.com/indiarealtim
 
 I would really like someone to apply this logic to <a href="http://www.aflcio.org/corporatewatch/paywatch/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aflcio.org/corporatewatch/paywatch/', 'CEO pay']);" >CEO pay</a>. After all, many CEOs are now paid more in a single year than most people need in a lifetime, even taking into account differences in &#8220;lifestyle.&#8221; Shouldn&#8217;t they just be given the bare minimum to live from year to year in order to keep them motivated to work the next year as well? Or does moral hazard only apply to poor people?
 
-<div id="themify_builder_content-3014" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

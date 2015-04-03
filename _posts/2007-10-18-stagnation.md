@@ -18,7 +18,3 @@ From <a href="http://krugman.blogs.nytimes.com/2007/10/16/the-productivity-slowd
 > 
 > For example, here’s French GDP per hour worked as a percentage of US GDP per hour worked since 1960. That slight dip toward the end – you can see it if you squint very hard – is all we’re talking about.
 
-<div id="themify_builder_content-2750" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.prospect.org/webfeatures/2002/08/thrupkaew-n-08-23.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/08/thrupkaew-n-08-23.html', 'TAP: Web Feature']);" >TAP: Web Feature</a>
 
-<div id="themify_builder_content-488" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

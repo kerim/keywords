@@ -26,7 +26,3 @@ I think it is a beautiful and moving sculpture. Too bad people can&#8217;t stoma
 
 Sorry I can&#8217;t remember which weblog I saw this on &#8230;
 
-<div id="themify_builder_content-567" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

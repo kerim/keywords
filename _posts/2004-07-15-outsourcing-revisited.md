@@ -12,7 +12,3 @@ Here is an idea for India: Instead of taking jobs away from Americans, offer low
 
 Think the idea is far-fetched? China seems to be successfully using this model to attract Japanese workers at Chinese-run call centers that serve Japan! <a href="http://www.muninn.net/blog/archives/000229.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.muninn.net/blog/archives/000229.html', 'Read more']);" >Read more</a> over at *Muninn*.
 
-<div id="themify_builder_content-1764" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

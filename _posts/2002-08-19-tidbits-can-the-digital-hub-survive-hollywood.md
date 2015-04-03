@@ -20,7 +20,3 @@ categories:
 
 <a href="http://db.tidbits.com/getbits.acgi?tbart=06901" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://db.tidbits.com/getbits.acgi?tbart=06901', 'TidBITS: Can the Digital Hub Survive Hollywood?']);" >TidBITS: Can the Digital Hub Survive Hollywood?</a>
 
-<div id="themify_builder_content-463" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

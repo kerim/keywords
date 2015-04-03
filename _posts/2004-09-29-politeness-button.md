@@ -17,7 +17,3 @@ What might a politeness button do? For one thing, it would automatically switch 
 
 Technology can affect social behavior. Before cell phones few would have thought it appropriate to yell about their private problems in public places. Technology can just as easily help avoid some of these social problems. In the future there could even be the ability to automatically change politeness settings based on external signals. So a movie theatre could put everyone&#8217;s cell phone into &#8220;movie mode&#8221;, and schools could have a &#8220;class mode&#8221;, etc. Sure, you could have some kind of override, but I think most people would actually be happy not to have to constantly change their cell phone settings and worry about forgetting.
 
-<div id="themify_builder_content-1892" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

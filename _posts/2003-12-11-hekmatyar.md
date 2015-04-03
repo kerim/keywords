@@ -38,7 +38,3 @@ And <a href="http://news.bbc.co.uk/2/low/middle_east/2701547.stm" onclick="_gaq.
 >   The Hezb-e-Islami was blamed for much of the terrible death and destruction of that period, which led many ordinary Afghans to welcome the emergence of the Taleban.
 > </div>
 
-<div id="themify_builder_content-1424" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

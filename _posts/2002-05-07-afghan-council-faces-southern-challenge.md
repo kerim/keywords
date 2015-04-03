@@ -12,7 +12,3 @@ categories:
 >   &#8220;A group of influential tribal leaders from seven of Afghanistan&#8217;s 33 provinces say they&#8217;re so dismayed at the process by which the loya jirga, or national assembly, is being formed that they will boycott the all-important gathering this June. The leaders are also demanding that the meeting, which will select a 111-person Afghan parliament, be postponed for 18 months.&#8221;
 > </div>
 
-<div id="themify_builder_content-113" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

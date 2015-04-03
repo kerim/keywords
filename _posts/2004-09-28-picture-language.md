@@ -13,7 +13,3 @@ An <a href="http://www.boingboing.net/2004/09/28/iraq_visual_language.html" oncl
 > 
 > &#8230;Visually, they&#8217;re unsettling. The images are functional icons, like highway signs or web UI buttons, so they reflect a simplified aesthetic &#8212; like early childhood storybooks. The subject matter is violent, but the look is &#8220;see spot run&#8221; or &#8220;happy Lego people at play.&#8221; The most surreal one is a two-part diagram in which a man is asked to remove his toupee so the interrogator can determine whether or not weapons are stashed beneath (shown in thumbnail here).
 
-<div id="themify_builder_content-1891" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

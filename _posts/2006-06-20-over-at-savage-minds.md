@@ -27,7 +27,3 @@ Finally, fellow Savage Mind Alex Golub is doing a great job with our <a href="ht
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2471" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

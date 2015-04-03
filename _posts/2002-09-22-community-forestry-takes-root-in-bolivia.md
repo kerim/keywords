@@ -20,7 +20,3 @@ categories:
 
 <a href="http://news.bbc.co.uk/2/hi/science/nature/2271076.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/science/nature/2271076.stm', 'BBC NEWS']);" >BBC NEWS</a>
 
-<div id="themify_builder_content-577" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

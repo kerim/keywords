@@ -16,7 +16,3 @@ This is a great new site for the anti-war blogsphere.
 
 UPDATE: I&#8217;ve joined NOWARBLOG.ORG!
 
-<div id="themify_builder_content-697" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

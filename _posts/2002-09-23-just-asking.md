@@ -30,7 +30,3 @@ Just some of the many good questions Eric Alterman asks:
 
 And I think it is worth adding that the president&#8217;s &#8220;pre-emptive strike&#8221; proposal suggests that we plan these strikes based on &#8230; US Intellegence!!!!!!!!
 
-<div id="themify_builder_content-581" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -24,7 +24,3 @@ While Homeland Security doesn&#8217;t yet have collars which can apply crippling
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/immigration" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/immigration', 'immigration']);"  rel="tag">immigration</a>, <a href="http://technorati.com/tag/homeland security" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/homeland security', 'homeland security']);"  rel="tag">homeland security</a>, <a href="http://technorati.com/tag/civil rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/civil rights', 'civil rights']);"  rel="tag">civil rights</a>}</span>
 </div>
 
-<div id="themify_builder_content-2076" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

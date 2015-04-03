@@ -18,7 +18,3 @@ If you can&#8217;t run again, might as well make the best of it. Good for Ryan!
 
 <a href="http://www.nytimes.com/2003/01/12/national/12DEAT.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/12/national/12DEAT.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-832" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

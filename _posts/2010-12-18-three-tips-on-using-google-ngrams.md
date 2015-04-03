@@ -23,7 +23,3 @@ Finally, keep the following in mind when you interpret your data:&nbsp;
 
 BONUS: For a little fun, try searching for &#8220;never gonna give you up&#8221; in #ngrams. (Doesn&#8217;t always work outside the US.)
 
-<div id="themify_builder_content-2863" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

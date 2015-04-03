@@ -14,7 +14,3 @@ This is an interesting article about what is wrong at the FBI.
 
 <a href="http://www.ndol.org/ndol_ci.cfm?cp=1&kaid=124&subid=900018&contentid=250675" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ndol.org/ndol_ci.cfm?cp=1&kaid=124&subid=900018&contentid=250675', 'Joshua Micah Marshall']);" >Joshua Micah Marshall</a>
 
-<div id="themify_builder_content-367" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

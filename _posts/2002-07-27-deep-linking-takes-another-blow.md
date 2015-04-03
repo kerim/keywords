@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.wired.com/news/politics/0,1283,54083,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wired.com/news/politics/0,1283,54083,00.html', 'Deep Linking Takes Another Blow']);" >Deep Linking Takes Another Blow</a>
 
-<div id="themify_builder_content-349" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -26,7 +26,3 @@ The second story shows how the efforts to keep our own crimes a secret are impac
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2536" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

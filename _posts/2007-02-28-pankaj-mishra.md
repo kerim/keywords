@@ -21,7 +21,3 @@ More information and registration <a href="http://www.civictaipei.org/WF_Activit
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2586" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -26,7 +26,3 @@ Poor girl. In addition to having Florida for parents and being pregnant at the a
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2172" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

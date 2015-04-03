@@ -15,7 +15,3 @@ Except for, perhaps, Davis-Bacon, you are probably well aware of all of these st
 
 And, further signs that the Democrats are marshaling their forces, Kerry even <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/10/26/AR2005102602221.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/content/article/2005/10/26/AR2005102602221.html', 'figured out']);" >figured out</a> what his Iraq policy is.
 
-<div id="themify_builder_content-2330" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

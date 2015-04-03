@@ -14,7 +14,3 @@ From <a href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2003/06/09/BU14403
 
 Thanks to <a href="http://www.cursor.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cursor.org/', 'Cursor.org']);" >Cursor.org</a> for the link!
 
-<div id="themify_builder_content-1238" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

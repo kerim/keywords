@@ -30,7 +30,3 @@ So, what is the connection? Guess who goes to church regularly?
 
 I think that what happened is this: The decline of the welfare state has pushed women off of government aid and into the Church. The Republicans have been successful in using the Church to mobilize the votes of these women, while the Democratic Party has simply abandoned them altogether. And that&#8217;s how the election was lost. I&#8217;m sure it isn&#8217;t all so simple, but this seems to be a big part of the story.
 
-<div id="themify_builder_content-2007" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ The *Anthropology News* project has led to some interesting legal issues. My wik
 
 I encourage everyone to go over to the <a href="http://wiki.oxus.net/Main_Page" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wiki.oxus.net/Main_Page', 'wiki']);" >wiki</a>, log in, and help out adding to the topics that I&#8217;ve already created.
 
-<div id="themify_builder_content-1786" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

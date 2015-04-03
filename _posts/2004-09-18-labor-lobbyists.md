@@ -23,7 +23,3 @@ All of which begs the question as to whether or not we will ever see unions retu
 
 (via <a href="http://www.nathannewman.org/laborblog/archive/001858.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/laborblog/archive/001858.shtml', 'Labor Blog']);" >Labor Blog</a>)
 
-<div id="themify_builder_content-1869" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

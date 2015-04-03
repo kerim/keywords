@@ -48,7 +48,3 @@ This is enemy combatants, not civilians, which they still don&#8217;t count.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2333" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

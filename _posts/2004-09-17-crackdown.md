@@ -16,7 +16,3 @@ More <a href="http://www.ifex.org/en/content/view/full/221/" onclick="_gaq.push(
 
 UPDATE: The <a href="http://www.ericumansky.com/2004/09/pentagon_acknow.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ericumansky.com/2004/09/pentagon_acknow.html', 'Pentagon is censoring web sites']);" >Pentagon is censoring web sites</a> as well.
 
-<div id="themify_builder_content-1866" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

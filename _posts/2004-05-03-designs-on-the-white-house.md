@@ -17,7 +17,3 @@ After June 1st our <a href="http://designsonthewhitehouse.com/judges.php" onclic
 
 Please *spread the word*!
 
-<div id="themify_builder_content-1673" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

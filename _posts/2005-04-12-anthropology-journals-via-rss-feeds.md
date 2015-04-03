@@ -16,7 +16,3 @@ Very exciting. I just discovered via <a href="http://alex.golub.name/log/?p=374"
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/feeds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/feeds', 'feeds']);"  rel="tag">feeds</a>, <a href="http://technorati.com/tag/rss" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rss', 'rss']);"  rel="tag">rss</a>, <a href="http://technorati.com/tag/open source" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/open source', 'open source']);"  rel="tag">open source</a>, <a href="http://technorati.com/tag/citeulike" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/citeulike', 'citeulike']);"  rel="tag">citeulike</a>}</span>
 </div>
 
-<div id="themify_builder_content-2132" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

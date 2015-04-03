@@ -12,7 +12,3 @@ categories:
 
 From <a href="http://www.itv.com/news/124715.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.itv.com/news/124715.html', 'ITV News']);" >ITV News</a>.
 
-<div id="themify_builder_content-955" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

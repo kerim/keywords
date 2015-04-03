@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.csmonitor.com/2003/0508/p01s02-wosc.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.csmonitor.com/2003/0508/p01s02-wosc.htm', 'CS Monitor']);" >CS Monitor</a>
 
-<div id="themify_builder_content-1169" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

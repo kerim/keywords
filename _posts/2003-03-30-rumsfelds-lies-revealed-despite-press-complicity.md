@@ -16,7 +16,3 @@ categories:
 
 From <a href="http://www.tompaine.com/feature.cfm/ID/7483" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tompaine.com/feature.cfm/ID/7483', 'TomPaine.com']);" >TomPaine.com</a>. (I can&#8217;t remember what blog I found this on, maybe the Agonist &#8230;)
 
-<div id="themify_builder_content-1049" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

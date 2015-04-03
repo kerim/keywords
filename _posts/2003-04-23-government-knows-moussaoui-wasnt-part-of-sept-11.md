@@ -14,7 +14,3 @@ From <a href="http://www.talkleft.com/archives/002944.html#002944" onclick="_gaq
 
 With a follow-up post <a href="http://www.talkleft.com/archives/003002.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003002.html', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1123" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

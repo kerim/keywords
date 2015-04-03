@@ -21,7 +21,3 @@ What strikes me about <a href="http://journalism.berkeley.edu/projects/chinadn/e
 
 (via <a href="http://alterslash.org/#Googling_Behind_China_s_Great_Firewall" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://alterslash.org/#Googling_Behind_China_s_Great_Firewall', 'Alterslash']);" >Alterslash</a>)
 
-<div id="themify_builder_content-1835" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

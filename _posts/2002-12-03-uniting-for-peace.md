@@ -18,7 +18,3 @@ Also, check out this page which
   
 <a href="http://www.iowansforpeace.org/writing/iraq_myths.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iowansforpeace.org/writing/iraq_myths.html', 'explodes']);" >explodes</a> common right-wing myths about Iraq.
 
-<div id="themify_builder_content-761" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

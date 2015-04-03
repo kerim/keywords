@@ -12,7 +12,3 @@ categories:
 
 From the <a href="http://news.bbc.co.uk/2/hi/business/2735269.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/business/2735269.stm', 'BBC']);" >BBC</a>. The full report will be released monday.
 
-<div id="themify_builder_content-940" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

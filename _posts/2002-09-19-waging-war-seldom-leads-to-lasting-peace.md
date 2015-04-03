@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.iht.com/articles/70962.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iht.com/articles/70962.html', 'Int&#8217;l Hearald Tribune']);" >Int&#8217;l Hearald Tribune</a>
 
-<div id="themify_builder_content-561" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

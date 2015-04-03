@@ -20,7 +20,3 @@ categories:
 
 Sometimes I like what <a href="http://www.nytimes.com/2003/02/25/opinion/25KRIS.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/02/25/opinion/25KRIS.html', 'Kristof']);" >Kristof</a> has to say. But more in general, I have been thinking about the similarities between the Gulf War and the Suez Canal incident. I think there is a lot more to be said about all this &#8211; especially considering the switch in the roles that France and America are playing&#8230;
 
-<div id="themify_builder_content-976" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

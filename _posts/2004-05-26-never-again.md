@@ -11,7 +11,3 @@ categories:
 
 <a href="http://www.hrw.org/reports/2004/sudan0504/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hrw.org/reports/2004/sudan0504/', 'More info']);" >More info</a>.
 
-<div id="themify_builder_content-1718" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

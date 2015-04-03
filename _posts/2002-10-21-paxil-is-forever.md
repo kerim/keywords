@@ -14,7 +14,3 @@ Whehter or not the main claim of this article (that Paxil is addictive) is true,
 
 <a href="http://www.citypages.com/databank/23/1141/article10788.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.citypages.com/databank/23/1141/article10788.asp', 'City Pages']);" >City Pages</a>
 
-<div id="themify_builder_content-661" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

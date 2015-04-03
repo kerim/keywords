@@ -21,7 +21,3 @@ I don&#8217;t say this to dismiss the film, which I would gladly watch again in 
 
 Just for succeeding at its self-assigned task, the film deserves to be called a masterpiece &#8211; especially when compared to similar films in the genre: Shutter Island, Fight Club, Dark City, the Matrix, etc. Most of these films let you out of the maze a little too early, and then bore you with some overwrought final dialog (The Matrix), or end with a boring, but predictable feat of heroism (The Matrix), or both (The Matrix). Inception could arguably be accused of all these things as well, but you probably won&#8217;t notice till after your 148 minutes are up.
 
-<div id="themify_builder_content-2875" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 From <a href="http://www.cursor.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cursor.org/', 'Cursor.org']);" >Cursor.org</a>. Unfortunately, they don&#8217;t offer perma-links, so you&#8217;ll have to look for the quote with the actual links to the news stories&#8230; I wish they would get proper blogging software!
 
-<div id="themify_builder_content-946" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

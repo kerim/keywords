@@ -20,7 +20,3 @@ More info <a href="http://www.ddh.nl/pipermail/wereldcrisis/2002-October/003148.
 
 Thanks to <a href="http://www.nowarblog.org/archives/001043.html#001043" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/001043.html#001043', 'Josh at NoWarBlog']);" >Josh at NoWarBlog</a> for the links.
 
-<div id="themify_builder_content-1009" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

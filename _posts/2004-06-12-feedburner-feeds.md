@@ -13,7 +13,3 @@ One of the big problems with running a full-text newsfeed on your website is tha
 
 (Note: I&#8217;m now running my feeds through FeedDemon as well, so if you notice something strange, let me know!)
 
-<div id="themify_builder_content-1736" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ Direct <a href="http://www.medact.org/tbx/docs/Medact Iraq report_final3.pdf" on
 
 Thanks to <a href="http://warincontext.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://warincontext.org/', 'warincontext.org']);" >warincontext.org</a> for blogging this.
 
-<div id="themify_builder_content-733" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

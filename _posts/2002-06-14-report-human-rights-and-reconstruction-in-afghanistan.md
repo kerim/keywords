@@ -28,7 +28,3 @@ categories:
 
 <a href="http://www.cesr.org/Emergency%20Response/afghanistan.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cesr.org/Emergency%20Response/afghanistan.htm', '(CESR)']);" >(CESR)</a>
 
-<div id="themify_builder_content-225" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

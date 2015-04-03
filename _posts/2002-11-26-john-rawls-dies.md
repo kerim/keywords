@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.thecrimson.com/article.aspx?ref=255557" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thecrimson.com/article.aspx?ref=255557', 'The Harvard Crimson']);" >The Harvard Crimson</a>
 
-<div id="themify_builder_content-751" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

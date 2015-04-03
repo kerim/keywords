@@ -21,7 +21,3 @@ The article offers a brief history of handwriting analysis:
 
 <sup><small>1</small></sup>I couldn&#8217;t generate a permalink for this *NY Times* article, so it will likely expire in a couple of weeks.
 
-<div id="themify_builder_content-1772" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

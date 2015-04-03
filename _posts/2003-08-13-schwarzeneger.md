@@ -25,7 +25,3 @@ UPDATE: Excellent post on the topic over at <a href="http://bodyandsoul.typepad.
 
 UPDATE: <a href="http://www.nathannewman.org/log/archives/001131.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/log/archives/001131.shtml', 'Nathan Newman']);" >Nathan Newman</a> has picked up the story.
 
-<div id="themify_builder_content-1285" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

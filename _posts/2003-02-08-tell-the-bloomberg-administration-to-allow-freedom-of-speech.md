@@ -10,7 +10,3 @@ There is now an <a href="http://www.petitiononline.com/FEB15/petition.html" oncl
 
 More information <a href="http://www.unitedforpeace.org" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.unitedforpeace.org', 'here']);" >here</a>.
 
-<div id="themify_builder_content-936" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

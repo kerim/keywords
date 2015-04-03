@@ -34,7 +34,3 @@ If there is any substance to these charges, the *New York Times* is being a litt
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2259" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

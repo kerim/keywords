@@ -29,7 +29,3 @@ Now, in the German system, the total number of seats for each party would first 
 
 Ivanusto goes on to discuss some of the particularities of the German system, such as the occasional necessity to add additional seats, or the choice to vote for a person or a party (instead of having to vote for both), etc. Now, voting systems is complicated stuff, and I&#8217;m biased for not wanting to see any one party have total control, but from what I can understand it seems to me that the German model better represents the will of the voters than the Japanese system the Taiwanese chose to use instead.
 
-<div id="themify_builder_content-2785" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

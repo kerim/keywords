@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.sciam.com/article.cfm?articleID=00013F47-37CF-1D2A-97CA809EC588EEDF" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sciam.com/article.cfm?articleID=00013F47-37CF-1D2A-97CA809EC588EEDF', 'Scientific American']);" >Scientific American</a>
 
-<div id="themify_builder_content-335" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

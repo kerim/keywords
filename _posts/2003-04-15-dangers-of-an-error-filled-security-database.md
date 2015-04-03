@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.counterpane.com/crypto-gram-0304.html#7" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.counterpane.com/crypto-gram-0304.html#7', 'Counterpane']);" >Counterpane</a>
 
-<div id="themify_builder_content-1091" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

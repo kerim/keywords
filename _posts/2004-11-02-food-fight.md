@@ -25,7 +25,3 @@ Sorry, with my thesis due so soon I&#8217;ve been negligent on covering the conn
 > 
 > The ministerial food fight was all over in minutes, with the only evidence being a few pieces of egg and fistfuls of rice in various corners of the otherwise austere conference hall.
 
-<div id="themify_builder_content-1964" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

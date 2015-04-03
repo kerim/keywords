@@ -20,7 +20,3 @@ categories:
 
 A recount, in the <a href="http://www.timesonline.co.uk/article/0,,3-578159,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.timesonline.co.uk/article/0,,3-578159,00.html', 'London Times,']);" >London Times,</a> of the attempt by a British force in 1915 to topple the regime in Baghdad.
 
-<div id="themify_builder_content-1060" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

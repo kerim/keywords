@@ -26,7 +26,3 @@ Tom Tommorow had this blog, but I have to wonder if Brezezinki isn&#8217;t tryin
 
 <a href="http://www.thismodernworld.com/weblog/archive/2002_09_15_bloggera.html#81773954" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/archive/2002_09_15_bloggera.html#81773954', 'This Modern World by Tom Tomorrow']);" >This Modern World by Tom Tomorrow</a>
 
-<div id="themify_builder_content-557" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

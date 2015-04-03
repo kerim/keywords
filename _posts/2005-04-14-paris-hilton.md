@@ -19,7 +19,3 @@ is just wrong. Paris Hilton actively contributes to the economy! The phrase &#82
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/paris hilton" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/paris hilton', 'paris hilton']);"  rel="tag">paris hilton</a>, <a href="http://technorati.com/tag/nude" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/nude', 'nude']);"  rel="tag">nude</a>, <a href="http://technorati.com/tag/estate tax" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/estate tax', 'estate tax']);"  rel="tag">estate tax</a>}</span>
 </div>
 
-<div id="themify_builder_content-2143" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

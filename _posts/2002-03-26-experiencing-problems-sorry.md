@@ -8,7 +8,3 @@ categories:
 ---
 Things aren&#8217;t working as expected. It seems that Yahoo&#8217;s Digest mode doesn&#8217;t accept **HTML** e-mail. That means I have had to switch everyone back to **individual** e-mails. (Because there are links in my weblog that you won
 
-<div id="themify_builder_content-20" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

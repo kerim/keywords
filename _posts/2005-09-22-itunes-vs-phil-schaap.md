@@ -28,7 +28,3 @@ As with Bremser, I am a big fan of iTMS, but it always seems strange to me that 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2304" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

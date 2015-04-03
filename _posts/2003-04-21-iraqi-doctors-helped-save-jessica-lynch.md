@@ -16,7 +16,3 @@ Iraqi Doctors <a href="http://www.nytimes.com/2003/04/21/international/worldspec
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1115" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

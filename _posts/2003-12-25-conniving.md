@@ -14,7 +14,3 @@ Hopefully Hispanic voters are smart enough not to let Karl Rove pull the wool ov
 
 We all know that Rove cares deeply about the plight of illegal immigrants, and isn&#8217;t a scheming, conniving, political operator who is only concerned about election results. Or at least, I hope we do.
 
-<div id="themify_builder_content-1443" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

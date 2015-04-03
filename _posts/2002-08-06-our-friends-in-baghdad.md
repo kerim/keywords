@@ -20,7 +20,3 @@ Two articles on Iraqi history:
 
 <a href="http://argument.independent.co.uk/commentators/story.jsp?story=321252" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://argument.independent.co.uk/commentators/story.jsp?story=321252', 'The Independant']);" >The Independant</a>
 
-<div id="themify_builder_content-399" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

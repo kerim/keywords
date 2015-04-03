@@ -21,7 +21,3 @@ UPDATE: What wasn&#8217;t clear from the BBC article was that the protesters <a 
 
 <a href="http://www.ettoday.com/2004/09/25/301-1690948.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ettoday.com/2004/09/25/301-1690948.htm', '']);" ><img src="http://keywords.oxus.net/images/bubbletea.jpg" height="244" width="320" border="0" hspace="10" vspace="10" alt="bubble tea" title="bubble tea" /></a><a href="http://www.ettoday.com/2004/09/25/301-1690948.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ettoday.com/2004/09/25/301-1690948.htm', '']);" ><img src="http://keywords.oxus.net/images/bubbletea2.jpg" height="238" width="320" border="0" hspace="10" vspace="10" alt="bubble Tea 2" title="bubble Tea 2" /></a>
 
-<div id="themify_builder_content-1880" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

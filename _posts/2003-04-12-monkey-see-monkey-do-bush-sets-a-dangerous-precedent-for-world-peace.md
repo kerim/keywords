@@ -24,10 +24,7 @@ And <a href="http://www.alternet.org/story.html?StoryID=15604" onclick="_gaq.pus
 >   In other words, as the Dutch social scientist Henk Houweling puts it, &#8220;one of the causes of war is war itself.&#8221; Wars produce war-like societies, which, in turn, make the world more dangerous for other societies, which are thus recruited into being war-prone themselves. Just as there is no gene for war, neither is there a single type or feature of society &#8211; patriarchy or hierarchy &#8211; that generates it. War begets war and shapes human societies as it does so.
 > </div>
 
-<div id="themify_builder_content-1089" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: URL
  [2]: http://www.guardian.co.uk/international/story/0,3604,934359,00.html

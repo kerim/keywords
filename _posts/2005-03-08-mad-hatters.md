@@ -52,7 +52,3 @@ OK. I have some real work to do &#8230;
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Alice in Wonderland" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Alice in Wonderland', 'Alice in Wonderland']);"  rel="tag">Alice in Wonderland</a>, <a href="http://technorati.com/tag/mad hatter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/mad hatter', 'mad hatter']);"  rel="tag">mad hatter</a>, <a href="http://technorati.com/tag/mad as a march hare" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/mad as a march hare', 'mad as a march hare']);"  rel="tag">mad as a march hare</a>, <a href="http://technorati.com/tag/mercury" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/mercury', 'mercury']);"  rel="tag">mercury</a>}</span>
 </div>
 
-<div id="themify_builder_content-2082" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

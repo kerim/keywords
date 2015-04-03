@@ -12,7 +12,3 @@ If we come downstairs before Juno she will often sneak into the bedroom (where s
 
 Unfortunately, ignoring her hasn&#8217;t cured her of the habit. Nor do we always remember to close the bedroom door. So we decided on a new approach: rewarding her for coming down the stairs *without* socks in her mouth. We thought this worked when, this morning, she came down without any socks; but, it turns out, that she had still stolen the socks, but simply dropped them at the top of the stairs so she could get her cookie!
 
-<div id="themify_builder_content-2972" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

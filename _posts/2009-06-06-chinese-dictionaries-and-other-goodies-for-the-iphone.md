@@ -44,7 +44,3 @@ For studying I like <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/v
 
 If you live in Taiwan the <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=304990376&mt=8" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=304990376&mt=8', 'train schedule']);" >train schedule</a> application can be handy.
 
-<div id="themify_builder_content-2907" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

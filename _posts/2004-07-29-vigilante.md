@@ -19,7 +19,3 @@ Somehow it doesn&#8217;t seem so strange to me that Mr. Caraballo was both an aw
 
 UPDATE: Let me just make it clear that this is not a post about whether or not Mr. Caraballo is innocent or guilty. I am just trying to say that there is no such thing as &#8220;objective&#8221; journalism and that the case for his innocence needs to be grounded on something more than the fact that he was a good documentary filmmaker.
 
-<div id="themify_builder_content-1779" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -28,7 +28,3 @@ President Bush has agreed that war should be the very last resort. Let&#8217;s h
 
 Please join me and sign on today. We must support policy makers who will oppose these few extremists in the Bush White House who have been looking for an excuse for war from the very beginning.
 
-<div id="themify_builder_content-847" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

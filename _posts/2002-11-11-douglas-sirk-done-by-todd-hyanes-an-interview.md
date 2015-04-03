@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.salon.com/ent/movies/int/2002/11/11/haynes/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/ent/movies/int/2002/11/11/haynes/', 'Salon.com']);" >Salon.com</a>
 
-<div id="themify_builder_content-728" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

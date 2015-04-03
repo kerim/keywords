@@ -20,7 +20,3 @@ The problem, I believe, is that Americans tend to think that most people in the 
 
 The other problem, of course, is that JFK is one of the worst managed international airports in the world.
 
-<div id="themify_builder_content-1722" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

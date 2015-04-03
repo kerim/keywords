@@ -14,7 +14,3 @@ Over and over again there are stories about people whose supposedly anonymous on
 
 Now some people I know don't want total privacy, they just don't want to be found too easily. They figure that way their next employer will be less likely to google their status updates. But I think <a href="http://youropenbook.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://youropenbook.org/', 'this is foolish']);" >this is foolish</a>. I think it lures people into a false sense of security that they don't have. Make everything public and you act like everything you do or say online is a public act. Sure, we all say things we regret afterwards. Making everything public won't save you from that. But I believe that having everything public will place even the mistakes in a context of your larger Internet persona. Much better than having just that one embarrassing faux pas re-posted and not all the insightful things you might have said over the years. Just as we learn how to speak in public, we need to learn how to live in public on the Internet. Walled gardens like Facebook trick people into thinking they don't need to develop these important skills.
 
-<div id="themify_builder_content-2868" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

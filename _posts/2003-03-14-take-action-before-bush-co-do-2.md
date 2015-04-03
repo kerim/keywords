@@ -19,7 +19,3 @@ See <a href="http://www.internationalanswer.org/campaigns/m15/index.html" onclic
 Saturday, 3/22 in New York City  
 See <a href="http://www.unitedforpeace.org/article.php?list=sub&sub=31" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.unitedforpeace.org/article.php?list=sub&sub=31', 'here']);" >here</a> for more information.
 
-<div id="themify_builder_content-3093" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

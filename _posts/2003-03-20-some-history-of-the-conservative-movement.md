@@ -14,7 +14,3 @@ An interesting article about the history of conservative think-tanks and judicia
 
 <a href="http://seetheforest.blogspot.com/2003_02_01_seetheforest_archive.html#90374839" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://seetheforest.blogspot.com/2003_02_01_seetheforest_archive.html#90374839', 'Read more']);" >Read more</a>.
 
-<div id="themify_builder_content-1017" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

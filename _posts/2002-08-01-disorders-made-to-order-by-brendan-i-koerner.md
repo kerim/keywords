@@ -14,7 +14,3 @@ The Guardian presents an edited version of an article from Mother Jones
 
 <a href="http://www.guardian.co.uk/medicine/story/0,11381,765478,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/medicine/story/0,11381,765478,00.html', 'Guardian &#8212; Magazine']);" >Guardian &#8212; Magazine</a>
 
-<div id="themify_builder_content-387" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -48,7 +48,3 @@ But there is hope that the vote does represent a certain degree of popular disgu
 > 
 > Since lack of evidence is so frequently cited as the problem in these cases, the new Congress govt. should develop new methods for recording and investigating communal incidents. The authorities often know about these events as they are actually happening, and often claim that they can do nothing to stop them (sometimes this is even true). If it is impossible to stop them directly, why not send up some helicopters with video cameras when communal troubles are looming? Why not make more of an effort to gather hard evidence of these crimes?
 
-<div id="themify_builder_content-1699" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ Of course, it is always good to keep a backup using the $50 <a href="http://dant
 
 You can easily sync up with CCC without even thinking about it. If your computer is plugged in at home all the time, you can even schedule regular backups. And it is free/donation ware. (You just need a firewire drive that is the same size as your main hard drive.) You can get cheap firewire drives <a href="http://www.piranhatech.com/products/groupproducts.asp?catid=1009&#38;subcatid=2037" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.piranhatech.com/products/groupproducts.asp?catid=1009&subcatid=2037', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1207" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

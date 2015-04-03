@@ -28,7 +28,3 @@ It is a natural mistake, but it reminds us how hard it is to master the <a href=
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2444" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

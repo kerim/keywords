@@ -17,7 +17,3 @@ His point is that while some of the teachers themselves may be good, depending o
 
 > The vast majority of the thousands of people employed as NSET work as instructors in commercial schools. They are subject to poor pay and other working conditions. They are provided with no job security. But most significantly, they are not in-charge of their student&#8217;s learning.
 
-<div id="themify_builder_content-1950" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

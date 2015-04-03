@@ -14,7 +14,3 @@ These are some nice notes from the excellent series of films aired last month on
 
 <a href="http://www.turnerclassicmovies.com/NowPlaying/Monthly/0,3598,61|64|10876|10852,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.turnerclassicmovies.com/NowPlaying/Monthly/0,3598,61|64|10876|10852,00.html', 'TCM Now Playing']);" >TCM Now Playing</a>
 
-<div id="themify_builder_content-310" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

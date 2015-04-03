@@ -12,7 +12,3 @@ This is a nice quote on out-of-whack CEO stock-option plans from an <a href="htt
 
 Basically, they are saying that you have to be an Economist to not see that power relations affect contract negotiations. Now, didn&#8217;t Marx say something similar about a hundred years ago? (Not to mention Weber and Durkehim &#8230;, and even Adam Smith.)
 
-<div id="themify_builder_content-329" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

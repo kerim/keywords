@@ -26,7 +26,3 @@ The fact that the real world involves difficult moral judgments should be a reas
 
 (Photo by <a href="http://flickr.com/photos/wallyg/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://flickr.com/photos/wallyg/', 'wallyg']);" ><span style="font-family: Helvetica">wallyg</span></a>)
 
-<div id="themify_builder_content-2749" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -248,7 +248,3 @@ Here are the list of sites I have right now in NetNewsWire:
   
 <a href="http://www.eiblog.info/xml-rss.php?blogid=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.eiblog.info/xml-rss.php?blogid=1', 'RSS Feed']);" >RSS Feed</a>
 
-<div id="themify_builder_content-1161" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -60,7 +60,3 @@ instructions:
 &nbsp;  
 Although you might need to fiddle with the settings (I had to turn off &#8220;remove spacing between paragraphs&#8221;), I found this made nicely formatted documents I could read on my iPhone.
 
-<div id="themify_builder_content-2919" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ From a reader of Tom Tomorrow&#8217;s <a href="http://www.thismodernworld.com/we
 
 Update: The date of this event is: Monday, March 3rd, 2003
 
-<div id="themify_builder_content-974" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

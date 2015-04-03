@@ -14,7 +14,3 @@ This is a thought provoking article, even if it ultimately jumps from one argume
 
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A55407-2002Nov2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A55407-2002Nov2.html', 'Washington Post']);" >Washington Post</a>
 
-<div id="themify_builder_content-710" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

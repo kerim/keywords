@@ -32,7 +32,3 @@ And **third**, <a href="http://www.pkarchive.org/column/091905.html" onclick="_g
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2303" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

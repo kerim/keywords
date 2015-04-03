@@ -20,7 +20,3 @@ This is written by an inmate at the Metropolitan Detention Center in downtown Lo
 
 <a href="http://www.alternet.org/story.html?StoryID=13848" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/story.html?StoryID=13848', 'AlterNet']);" >AlterNet</a>
 
-<div id="themify_builder_content-477" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://hartfordadvocate.com/gbase/News/content?oid=oid:1232" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://hartfordadvocate.com/gbase/News/content?oid=oid:1232', 'Hartford Advocate']);" >Hartford Advocate</a>
 
-<div id="themify_builder_content-884" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

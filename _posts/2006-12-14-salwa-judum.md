@@ -21,7 +21,3 @@ There is also a 9 minute <a href="http://www.youtube.com/watch?v=Qjfmt6-TZVw" on
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2561" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

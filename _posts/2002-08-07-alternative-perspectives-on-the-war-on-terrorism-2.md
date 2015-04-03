@@ -10,7 +10,3 @@ I&#8217;ve mentioned this blog before, but there are so many good posts today th
 
 <a href="http://warincontext.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://warincontext.org/', 'THE WAR IN CONTEXT']);" >THE WAR IN CONTEXT</a>
 
-<div id="themify_builder_content-3089" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

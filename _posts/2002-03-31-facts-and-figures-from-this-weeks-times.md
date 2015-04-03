@@ -8,7 +8,3 @@ categories:
 ---
 <a href="http://www.nytimes.com/2002/03/28/weekinreview/28ATTT.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/03/28/weekinreview/28ATTT.html', 'According to the Times']);" >According to the Times</a> is a Web-only feature highlighting facts and figures culled from the week&#8217;s news. It appears on Thursdays.
 
-<div id="themify_builder_content-39" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

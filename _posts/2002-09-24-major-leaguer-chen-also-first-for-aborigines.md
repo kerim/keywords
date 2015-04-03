@@ -14,7 +14,3 @@ Taiwanese Siraya baseball player breaks into the US Major leagues!
 
 <a href="http://www.etaiwannews.com/Taiwan/2002/09/19/1032396585.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.etaiwannews.com/Taiwan/2002/09/19/1032396585.htm', 'eTaiwanNews.com']);" >eTaiwanNews.com</a>
 
-<div id="themify_builder_content-585" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

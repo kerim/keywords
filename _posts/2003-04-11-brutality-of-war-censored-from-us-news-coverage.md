@@ -14,7 +14,3 @@ I was thinking about writing something on this issue, when I found this quote in
 
 It is from a <a href="http://www.salon.com/news/feature/2003/04/11/images/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/news/feature/2003/04/11/images/index.html', 'Salon']);" >Salon</a> article about how sanitized the US media&#8217;s depiction of war is. But compare this with how bloody the rest of our media culture is! We have no problems watching reality shows like *Trauma* which are full of blood and gore &#8211; but the media just doesn&#8217;t want to seem like it isn&#8217;t supporting the war. Violence is fine in America &#8211; as long as it is to stop us thinking, not trying to make us think.
 
-<div id="themify_builder_content-1086" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

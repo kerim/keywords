@@ -18,7 +18,3 @@ Graduate student teachers at Yale and Columbia universities are <a href="http://
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/strike" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/strike', 'strike']);"  rel="tag">strike</a>, <a href="http://technorati.com/tag/graduate student" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/graduate student', 'graduate student']);"  rel="tag">graduate student</a>, <a href="http://technorati.com/tag/teacher" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/teacher', 'teacher']);"  rel="tag">teacher</a>, <a href="http://technorati.com/tag/yale" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/yale', 'yale']);"  rel="tag">yale</a>, <a href="http://technorati.com/tag/columbia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/columbia', 'columbia']);"  rel="tag">columbia</a>, <a href="http://technorati.com/tag/union" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/union', 'union']);"  rel="tag">union</a>, <a href="http://technorati.com/tag/NLRB" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/NLRB', 'NLRB']);"  rel="tag">NLRB</a>}</span>
 </div>
 
-<div id="themify_builder_content-2145" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

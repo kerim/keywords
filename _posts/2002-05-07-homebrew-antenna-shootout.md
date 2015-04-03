@@ -12,7 +12,3 @@ categories:
 >   &#8220;My plan was to get relative performance measurements for various designs (including mine) of homebrew antennas for 802.11b wireless networks. To do this, I setup a wireless link and changed only the antenna- recording each antennas&#8217; performance under identical conditions.&#8221;
 > </div>
 
-<div id="themify_builder_content-112" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ I wish I understood how this works. Maybe only one person is on at a time? Or pe
 
 <a href="http://labs.google.com/gvs.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://labs.google.com/gvs.html', 'Google Voice Search Demo']);" >Google Voice Search Demo</a>
 
-<div id="themify_builder_content-394" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

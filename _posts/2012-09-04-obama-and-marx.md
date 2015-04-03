@@ -17,7 +17,3 @@ format: image
 
 (via <a href="https://www.facebook.com/photo.php?fbid=480660718625788&#038;set=p.480660718625788&#038;type=1&#038;ref=nf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.facebook.com/photo.php?fbid=480660718625788&set=p.480660718625788&type=1&ref=nf', 'Chris Reulbach']);" >Chris Reulbach</a>)
 
-<div id="themify_builder_content-3198" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

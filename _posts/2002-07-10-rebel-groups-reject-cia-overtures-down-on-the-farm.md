@@ -12,7 +12,3 @@ Such is the ramshackle reality lying beneath the Bush administration&#8217;s pro
 
 <a href="http://www.guardian.co.uk/international/story/0,3604,752441,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,752441,00.html', 'Guardian UK']);" >Guardian UK</a>
 
-<div id="themify_builder_content-322" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

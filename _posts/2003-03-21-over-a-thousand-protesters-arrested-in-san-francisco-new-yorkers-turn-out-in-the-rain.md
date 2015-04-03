@@ -22,7 +22,3 @@ From the <a href="http://news.bbc.co.uk/2/low/middle_east/2871063.stm" onclick="
 
 I was in Times Square, protesting in the rain till my hands turned blue. There were a few thousand people and it was fairly peaceful despite the HUGE police presence. It was pretty neat taking over the heart of NY City for peace.
 
-<div id="themify_builder_content-1021" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

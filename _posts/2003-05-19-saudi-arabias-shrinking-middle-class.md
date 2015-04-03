@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Dwar%2Dpoverty16may16&#38;section=/printstory" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Dwar%2Dpoverty16may16&section=/printstory', 'LA Times']);" >LA Times</a>
 
-<div id="themify_builder_content-1189" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

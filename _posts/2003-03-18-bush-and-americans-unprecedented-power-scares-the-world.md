@@ -12,7 +12,3 @@ This <a href="http://www.msnbc.com/news/885222.asp?0cv=KA01" onclick="_gaq.push(
 >   America&#8217;s unprecedented power scares the world, and the Bush administration has only made it worse. How we got here&#8212;and what we can do about it now &#8230;
 > </div>
 
-<div id="themify_builder_content-1013" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

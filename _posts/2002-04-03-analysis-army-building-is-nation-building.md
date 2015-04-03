@@ -10,7 +10,3 @@ categories:
 
 An article points out the limitations and contradictions in Bush&#8217;s plan to train the new Afghan army.
 
-<div id="themify_builder_content-48" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

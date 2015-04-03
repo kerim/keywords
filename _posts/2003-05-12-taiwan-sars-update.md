@@ -28,7 +28,3 @@ But there is some good news &#8211; it seems that the world&#8217;s <a href="htt
 
 
 
-<div id="themify_builder_content-1172" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

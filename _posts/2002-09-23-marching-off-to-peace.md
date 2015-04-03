@@ -18,7 +18,3 @@ Ken Loach:
 
 <a href="http://www.observer.co.uk/Print/0,3858,4506126,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.observer.co.uk/Print/0,3858,4506126,00.html', 'Observer UK']);" >Observer UK</a>
 
-<div id="themify_builder_content-578" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

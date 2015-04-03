@@ -16,7 +16,3 @@ So my idea to save newspapers is to print them on lottery tickets! Or, more prec
 
 Perhaps not the most noble solution, but it is not unlike what Taiwan did when it wanted to encourage people to start properly recording transactions. Each electronic receipt in Taiwan has a lottery number printed on it. This means that customers want their receipts. Other companies will even collect your receipts for the increased chance of winning the lottery. This is also good for newspapers as it might inspire companies to collect and recycle discarded newspapers.
 
-<div id="themify_builder_content-2910" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

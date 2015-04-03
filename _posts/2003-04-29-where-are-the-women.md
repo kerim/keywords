@@ -18,7 +18,3 @@ From <a href="http://bodyandsoul.blogspot.com/2003_04_01_bodyandsoul_archive.htm
 
 As was pointed out by Atrios, women in Afghanistan were much more visible after the Taliban fell&#8230;
 
-<div id="themify_builder_content-1131" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

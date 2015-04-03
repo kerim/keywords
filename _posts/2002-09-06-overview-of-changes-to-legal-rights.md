@@ -42,7 +42,3 @@ Thanks to ThisModernWorld.com for pointing this out!
 
 <a href="http://www.newsday.com/news/nationworld/wire/sns-ap-sept-11-legal-rights-glance0905sep05.story" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newsday.com/news/nationworld/wire/sns-ap-sept-11-legal-rights-glance0905sep05.story', 'Newsday.com']);" >Newsday.com</a>
 
-<div id="themify_builder_content-519" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

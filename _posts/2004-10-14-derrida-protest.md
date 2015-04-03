@@ -27,7 +27,3 @@ UPDATE: The *NY Times* seems to be trying to make up for things with <a href="ht
 
 UPDATE: It is worth noting that, in stark contrast to the *Times*, *Le Monde* had a 10 page section devoted to Derrida the day after he died. Ah, those French <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/001482.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/001482.html', 'Theory Checkers']);" >Theory Checkers</a> at work again!
 
-<div id="themify_builder_content-1928" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

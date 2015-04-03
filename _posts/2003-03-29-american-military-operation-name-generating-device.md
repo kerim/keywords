@@ -12,7 +12,3 @@ Of course, the best name is the one <a href="http://www.theonion.com" onclick="_
 
 &#8220;Operation Piss off the Planet&#8221;
 
-<div id="themify_builder_content-1040" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

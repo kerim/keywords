@@ -17,7 +17,3 @@ I remember working for a telemarketing company as a temp. Every white guy who ca
 
 UPDATE: If they&#8217;re not playing solitaire, <a href="http://www.calpundit.com/archives/002114.html#more" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/002114.html#more', 'maybe they&#8217;re blogging']);" >maybe they&#8217;re blogging</a>!
 
-<div id="themify_builder_content-1311" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

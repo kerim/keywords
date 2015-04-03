@@ -14,7 +14,3 @@ Political Cartoon (either link will take you to the image).
 
 <a href="http://cagle.slate.msn.com/politicalcartoons/pccartoons/archives/rowe.asp?Action=GetImage" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://cagle.slate.msn.com/politicalcartoons/pccartoons/archives/rowe.asp?Action=GetImage', 'Slate Comics']);" >Slate Comics</a>
 
-<div id="themify_builder_content-253" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

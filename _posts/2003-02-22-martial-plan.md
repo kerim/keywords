@@ -24,7 +24,3 @@ Do you think he read my post to <a href="http://www.nowarblog.org/archives/00079
 
 Sorry I haven&#8217;t been posting regularly. My efforts have all been focused on <a href="http://www.nowarwikki.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarwikki.org/', 'nowarwikki.org']);" >nowarwikki.org</a>.
 
-<div id="themify_builder_content-970" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

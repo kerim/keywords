@@ -71,7 +71,3 @@ Yes, I think it is important for a Democrat to be elected in the next election, 
 >   So go for it, Ralph. Let your hate consume you and soon you will be a slave to the dark side. We need someone like you to help our fundraising efforts.
 > </div>
 
-<div id="themify_builder_content-1413" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

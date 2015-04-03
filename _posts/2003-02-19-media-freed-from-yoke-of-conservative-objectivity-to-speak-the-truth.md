@@ -16,7 +16,3 @@ categories:
 
 Full article in <a href="http://www.counterpunch.org/lindorff02182003.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.counterpunch.org/lindorff02182003.html', 'Counterpunch']);" >Counterpunch</a>. Found it in a comment by <a href="http://www.nowarblog.org/archives/000842.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000842.html', 'DavidByron']);" >DavidByron</a> on Nowarblog.org.
 
-<div id="themify_builder_content-968" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

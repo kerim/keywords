@@ -34,7 +34,3 @@ But good news is that the virus is <a href="http://news.bbc.co.uk/2/hi/asia-paci
 
 At the same time, however, &#8220;a new <a href="http://www.taipeitimes.com/News/front/archives/2003/05/09/205218" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/front/archives/2003/05/09/205218', 'unidentified pneumonia']);" >unidentified pneumonia</a> has appeared in the jungles of Cambodia. &#8220;
 
-<div id="themify_builder_content-1167" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

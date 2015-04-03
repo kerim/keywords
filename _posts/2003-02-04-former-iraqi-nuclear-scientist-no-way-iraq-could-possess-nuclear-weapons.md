@@ -12,7 +12,3 @@ categories:
 
 Full story <a href="http://www.alertnet.org/thenews/newsdesk/N03128743" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alertnet.org/thenews/newsdesk/N03128743', 'here']);" >here</a>.
 
-<div id="themify_builder_content-921" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

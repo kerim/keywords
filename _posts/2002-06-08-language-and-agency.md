@@ -22,7 +22,3 @@ KEY WORDS: practice, grammar, dialogic, gender, literacy
 
 This review describes and critiques some of the many ways agency has been conceptualized in the academy over the past few decades, focusing in particular on practice theorists such as Giddens, Bourdieu, de Certeau, Sahlins, and Ortner. For scholars interested in agency, it demonstrates the importance of looking closely at language and argues that the issues surrounding linguistic form and agency are relevant to anthropologists with widely divergent research agendas. Linguistic anthropologists have made significant contributions to the understanding of agency as it emerges in discourse, and the final sections of this essay describe some of the most promising research in the study of language and gender, literacy practices, and the dialogic construction of meaning and agency.
 
-<div id="themify_builder_content-198" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

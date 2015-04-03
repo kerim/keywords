@@ -24,7 +24,3 @@ categories:
 
 <a href="http://news.bbc.co.uk/2/hi/business/3006149.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/business/3006149.stm', 'BBC']);" >BBC</a>
 
-<div id="themify_builder_content-1155" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

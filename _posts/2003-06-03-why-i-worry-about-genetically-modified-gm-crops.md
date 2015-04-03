@@ -12,7 +12,3 @@ categories:
 
 One company produces <a href="http://www.guardian.co.uk/theissues/article/0,6512,969438,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/theissues/article/0,6512,969438,00.html', '90% of the crops']);" >90% of the crops</a> grown by six million farmers in 16 countries!!!
 
-<div id="themify_builder_content-1227" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

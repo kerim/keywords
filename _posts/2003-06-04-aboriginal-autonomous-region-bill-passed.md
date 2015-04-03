@@ -12,7 +12,3 @@ From what I can tell, <a href="http://www.taipeitimes.com/News/taiwan/archives/2
 >   The Executive Yuan yesterday passed a draft bill on the establishment of the Aboriginal autonomous region, but Aboriginal lawmakers expressed lukewarm opinions over the government initiative.
 > </div>
 
-<div id="themify_builder_content-1228" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

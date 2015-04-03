@@ -14,7 +14,3 @@ True? The Guradian thinks that the failure of Abdullah&#8217;s peace plan may ha
 
 <a href="http://www.observer.co.uk/waronterrorism/story/0,1373,764615,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.observer.co.uk/waronterrorism/story/0,1373,764615,00.html', 'Guardian Unlimited']);" >Guardian Unlimited</a>
 
-<div id="themify_builder_content-364" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

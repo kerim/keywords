@@ -17,7 +17,3 @@ It is amazing. I wonder if the military will start hiring Steven Spielberg to di
 
 Thanks to <a href="http://www.talkleft.com/archives/003164.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003164.html', 'Talk Left']);" >Talk Left</a> and <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_05_11.html#000614" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2003_05_11.html#000614', 'Tom Tomorrow']);" >Tom Tomorrow</a> for the links!
 
-<div id="themify_builder_content-1183" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

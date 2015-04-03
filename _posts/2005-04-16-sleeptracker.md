@@ -23,7 +23,3 @@ I am like <a href="http://www.engadget.com/entry/1234000107038796/" onclick="_ga
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/sleep" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/sleep', 'sleep']);"  rel="tag">sleep</a>, <a href="http://technorati.com/tag/sleeptracker" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/sleeptracker', 'sleeptracker']);"  rel="tag">sleeptracker</a>, <a href="http://technorati.com/tag/wristwatch" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wristwatch', 'wristwatch']);"  rel="tag">wristwatch</a>}</span>
 </div>
 
-<div id="themify_builder_content-2152" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

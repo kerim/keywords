@@ -55,7 +55,3 @@ What's next? How to move from being a casual gamer to a single-digit kyu player,
 
 I hope this tutorial is useful. If you get on IGS or KGS you can find me under the handle "gogramsci."
 
-<div id="themify_builder_content-2905" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

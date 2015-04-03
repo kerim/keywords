@@ -20,7 +20,3 @@ categories:
 
 <a href="http://theshiftedlibrarian.com/2002/07/29.html#a2696" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://theshiftedlibrarian.com/2002/07/29.html#a2696', 'The Shifted Librarian: Monday, July 29, 2002']);" >The Shifted Librarian: Monday, July 29, 2002</a>
 
-<div id="themify_builder_content-370" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

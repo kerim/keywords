@@ -12,7 +12,3 @@ This is from a blog supposedly coming <a href="http://dear_raed.blogspot.com/" o
 >   yesterday the last 500 prisoners from the Iraq-Iran war were being exchanged. I can&#8217;t believe they are still doing this, for fuck&#8217;s sake that war ended in 1989. every Iraqi family can tell you a hundred heart braking stories about things that happen when you have thought you brother/father/son is dead and he suddenly appears after 10 years.
 > </div>
 
-<div id="themify_builder_content-1019" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

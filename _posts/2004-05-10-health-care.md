@@ -19,7 +19,3 @@ categories:
 
 > People with diabetes received only 45 percent of the care they need. For example, less than one-quarter of diabetics had their blood sugar levels measured regularly. Poor control of blood sugar can lead to kidney failure, blindness and amputation of limbs.
 
-<div id="themify_builder_content-1690" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

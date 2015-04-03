@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.afgha.com/article.php?sid=14637&mode=thread&order=0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.afgha.com/article.php?sid=14637&mode=thread&order=0', '(Afgha.com)']);" >(Afgha.com)</a>
 
-<div id="themify_builder_content-161" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

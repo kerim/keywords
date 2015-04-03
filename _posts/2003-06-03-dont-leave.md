@@ -16,7 +16,3 @@ Fareed Zakaria has <a href="http://www.msnbc.com/news/917901.asp#BODY" onclick="
 
 But while we are there, we must work towards creating <a href="http://www.dailykos.com/archives/002895.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dailykos.com/archives/002895.html', 'real democracy']);" >real democracy</a>!
 
-<div id="themify_builder_content-1224" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

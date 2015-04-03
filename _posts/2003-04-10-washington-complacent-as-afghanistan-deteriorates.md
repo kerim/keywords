@@ -18,7 +18,3 @@ From the <a href="http://www.washingtonpost.com/ac2/wp-dyn/A60023-2003Apr8?langu
 
 This bodes well for Iraq&#8217;s future, doesn&#8217;t it&#8230;
 
-<div id="themify_builder_content-1083" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

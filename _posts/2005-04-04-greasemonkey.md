@@ -18,7 +18,3 @@ Here are some other <a href="http://del.icio.us/kerim/firefox+extensions" onclic
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/firefox" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/firefox', 'firefox']);"  rel="tag">firefox</a>, <a href="http://technorati.com/tag/greasemonkey" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/greasemonkey', 'greasemonkey']);"  rel="tag">greasemonkey</a>, <a href="http://technorati.com/tag/extensions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/extensions', 'extensions']);"  rel="tag">extensions</a>, <a href="http://technorati.com/tag/adblock" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/adblock', 'adblock']);"  rel="tag">adblock</a>}</span>
 </div>
 
-<div id="themify_builder_content-2121" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

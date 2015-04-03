@@ -88,7 +88,3 @@ Detroit, MI 48226
 
 <a href="http://www.cesr.org/PROGRAMS/water.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cesr.org/PROGRAMS/water.htm', 'http://www.cesr.org/PROGRAMS/water.htm']);" >http://www.cesr.org/PROGRAMS/water.htm</a>
 
-<div id="themify_builder_content-840" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -29,7 +29,3 @@ In any case, it looks like it <a href="http://www.washingtonpost.com/ac2/wp-dyn/
 
 The next few weeks should be interesting&#8230;.
 
-<div id="themify_builder_content-1965" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

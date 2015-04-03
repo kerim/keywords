@@ -20,7 +20,3 @@ The <a href="http://www.nytimes.com/2003/01/28/education/28RECR.html?pagewanted=
 >   </p>
 > </div>
 
-<div id="themify_builder_content-891" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

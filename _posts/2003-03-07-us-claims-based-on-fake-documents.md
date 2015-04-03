@@ -14,7 +14,3 @@ categories:
 
 Thanks to <a href="http://atrios.blogspot.com/2003_03_02_atrios_archive.html#90422901" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/2003_03_02_atrios_archive.html#90422901', 'Atrios']);" >Atrios</a>!
 
-<div id="themify_builder_content-995" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

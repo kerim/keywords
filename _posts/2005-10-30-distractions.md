@@ -22,7 +22,3 @@ Now I don&#8217;t feel so bad about spending so much time on <a href="http://hoo
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2335" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ format: image
 
 <a href="http://www.motherjones.com/kevin-drum/2012/08/republicans-are-responsible-our-soaring-national-debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.motherjones.com/kevin-drum/2012/08/republicans-are-responsible-our-soaring-national-debt', 'Kevin Drum']);" >Kevin Drum</a>.] 
 
-<div id="themify_builder_content-3137" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.google.com/press/zeitgeist.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/press/zeitgeist.html', 'Google Press Center: Zeitgeist']);" >Google Press Center: Zeitgeist</a>
 
-<div id="themify_builder_content-766" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

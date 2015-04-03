@@ -12,7 +12,3 @@ Tapped has an <a href="http://www.prospect.org/weblog/archives/2003/01/index.htm
 >   The point is, if you say the only way to get a prescription drug benefit is to join a managed care plan, seniors who live in places where such plans are not available won&#8217;t be able to get a drug benefit. This is an especially big problem in rural areas, where there is frequently no HMO to opt into. What makes this especially tough for the White House is that most of these rural seniors are Republicans. In other words, Bush&#8217;s prescription drug plan would screw Republican seniors most of all.
 > </div>
 
-<div id="themify_builder_content-907" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

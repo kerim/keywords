@@ -8,7 +8,3 @@ categories:
 ---
 If you thought that James A. Traficant&#8217;s <a href="http://news.bbc.co.uk/hi/english/world/americas/newsid_2136000/2136866.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/world/americas/newsid_2136000/2136866.stm', 'hairstyle']);" >hairstyle</a> was funny, then you really should see his <a href="http://www.house.gov/traficant/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.house.gov/traficant/', 'homepage']);" >homepage</a>.
 
-<div id="themify_builder_content-334" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

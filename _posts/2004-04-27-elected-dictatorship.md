@@ -17,7 +17,3 @@ And, in case you didn&#8217;t already know, Krugman tells us that Cheney believe
 
 > What Mr. Cheney is defending, in other words, is a doctrine that makes the United States a sort of <a href="http://www.nytimes.com/2004/04/27/opinion/27KRUG.html?ex=1398398400&#38;en=04e06d03f510d951&#38;ei=5007&#38;partner=USERLAND" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2004/04/27/opinion/27KRUG.html?ex=1398398400&en=04e06d03f510d951&ei=5007&partner=USERLAND', 'elected dictatorship']);" >elected dictatorship</a>: a system in which the president, once in office, can do whatever he likes, and isn&#8217;t obliged to consult or inform either Congress or the public.
 
-<div id="themify_builder_content-1659" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

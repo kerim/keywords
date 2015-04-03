@@ -12,7 +12,3 @@ categories:
 
 The Sugar Industry thinks sugar should be <a href="http://www.guardian.co.uk/international/story/0,3604,940287,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,940287,00.html', '25% of the diet']);" >25% of the diet</a>, not 10%.
 
-<div id="themify_builder_content-1113" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

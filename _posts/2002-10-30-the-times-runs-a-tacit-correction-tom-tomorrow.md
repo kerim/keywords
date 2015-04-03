@@ -24,7 +24,3 @@ categories:
 
 <a href="http://www.thismodernworld.com/weblog/archive/2002_10_27_bloggera.html#83775913" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/archive/2002_10_27_bloggera.html#83775913', 'This Modern World by Tom Tomorrow']);" >This Modern World by Tom Tomorrow</a>
 
-<div id="themify_builder_content-695" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

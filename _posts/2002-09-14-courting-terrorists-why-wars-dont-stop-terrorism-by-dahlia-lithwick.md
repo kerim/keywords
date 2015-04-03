@@ -14,7 +14,3 @@ This is a very important point &#8211; Dahlia Lithwick points out how well the j
 
 <a href="http://slate.msn.com/?id=2070892" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/?id=2070892', 'Courting Terrorists &#8211; Why wars don&#8217;t stop terrorism. By Dahlia Lithwick']);" >Courting Terrorists &#8211; Why wars don&#8217;t stop terrorism. By Dahlia Lithwick</a>
 
-<div id="themify_builder_content-549" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

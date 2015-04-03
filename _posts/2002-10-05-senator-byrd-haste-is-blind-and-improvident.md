@@ -30,7 +30,3 @@ Who is his speechwriter? This is a great speech!
 
 <a href="http://byrd.senate.gov/byrd_newsroom/byrd_news_oct2002/rls_oct2002/rls_oct2002_2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://byrd.senate.gov/byrd_newsroom/byrd_news_oct2002/rls_oct2002/rls_oct2002_2.html', 'Read the Full Text, or listen to a MP3']);" >Read the Full Text, or listen to a MP3</a>
 
-<div id="themify_builder_content-625" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

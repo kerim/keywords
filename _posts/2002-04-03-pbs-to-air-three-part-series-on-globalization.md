@@ -8,7 +8,3 @@ categories:
 ---
 The <a href="http://www.nytimes.com/2002/04/03/arts/television/03GENZ.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/04/03/arts/television/03GENZ.html', 'NYTimes']);" >NYTimes</a> has a review of a three part (six hour!) series on globalization that will premier tonight at 9:00 (at least in NY). It sounds interesting if flawed and a little dull.
 
-<div id="themify_builder_content-49" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

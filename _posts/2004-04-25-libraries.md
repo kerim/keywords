@@ -23,7 +23,3 @@ Someone named Daniel Chudnov at Yale has put a lot of thought into <a href="http
 
 UPDATE: Crooked Timber asks &#8220;<a href="http://www.crookedtimber.org/archives/001780.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/001780.html', 'What can you not find online']);" >What can you <em>not</em> find online</a>?&#8221;
 
-<div id="themify_builder_content-1654" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -27,7 +27,3 @@ Formal review of applications will begin by October 15, 2007 and will continue u
 
 For further information, please contact graduate administrator sylong [at] mail.ndhu.edu.tw.
 
-<div id="themify_builder_content-2733" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

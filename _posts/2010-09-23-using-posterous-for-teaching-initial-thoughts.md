@@ -12,7 +12,3 @@ categories:
 ---
 <span style="font-size: large;">I'm trying <a href="http://posterous.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://posterous.com/', 'Posterous']);" >Posterous</a> for teaching this semester, as an alternative to WordPress or GoogleGroups. The main advantage is that setup is much easier than the other two options. And posting is via e-mail, so if students can use e-mail they can use Posterous. However, a big problem is with Chinese language support. While Posterous works with unicode, many students in Taiwan use Hotmail, which seems to send Big5 encoded text that appears as gibberish (亂碼) in Posterous. Also, there doesn't seem to be any ability to set the "language" of the website interface and blog "meta" text to Chinese as you can do with WordPress.</span>
 
-<div id="themify_builder_content-2871" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

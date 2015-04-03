@@ -50,7 +50,3 @@ categories:
 
 <span style="font-size: large;">UPDATE: Made some changes to the concluding paragraph to better clarify both Eco&#8217;s argument and my own.</span>
 
-<div id="themify_builder_content-2862" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

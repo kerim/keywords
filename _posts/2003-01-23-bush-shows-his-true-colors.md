@@ -12,7 +12,3 @@ categories:
 
 <a href="http://atrios.blogspot.com/2003_01_19_atrios_archive.html#90221909" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/2003_01_19_atrios_archive.html#90221909', 'Eschaton']);" >Eschaton</a>
 
-<div id="themify_builder_content-875" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

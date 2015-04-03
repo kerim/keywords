@@ -12,7 +12,3 @@ Listening to short wave is a lot like surfing the web. There is the feeling of a
 
 (A full list of the web sites if international Short Wave stations is <a href="http://members.fortunecity.com/suditaliadx/country.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://members.fortunecity.com/suditaliadx/country.htm', 'here']);" >here</a>.)
 
-<div id="themify_builder_content-1836" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

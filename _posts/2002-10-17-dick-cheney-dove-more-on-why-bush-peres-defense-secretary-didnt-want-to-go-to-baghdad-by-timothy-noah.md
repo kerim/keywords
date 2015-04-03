@@ -15,7 +15,3 @@ This is amazingly a quote by Dick Cheney (from 1991) on why it didn&#8217;t make
 
 <a href="http://slate.msn.com/?id=2072609&device=" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/?id=2072609&device=', 'Slate']);" >Slate</a>
 
-<div id="themify_builder_content-648" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

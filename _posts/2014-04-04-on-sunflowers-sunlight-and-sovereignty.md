@@ -1,8 +1,7 @@
 ---
 title: On Sunflowers, Sunlight, and Sovereignty
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2014/04/04/on-sunflowers-sunlight-and-sovereignty/
 hide_post_title:
   - default

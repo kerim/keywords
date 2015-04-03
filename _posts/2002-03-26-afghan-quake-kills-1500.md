@@ -10,7 +10,3 @@ categories:
 
 More than 1,500 people are feared dead and thousands have been left homeless after a series of earthquakes struck Afghanistan&#8217;s remote northern province of Baghlan.
 
-<div id="themify_builder_content-17" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

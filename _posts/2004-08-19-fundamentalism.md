@@ -48,7 +48,3 @@ As early as the mid-1970s, George Gallup, Jr., had polled Americans about their 
 
 Jerry Faiwell had been right about the civil-rights movement: it did represent a dramatic and successful reentry of religion into politics. The civil-rights and the Christian-right movements illustrate two different forms of political Christianity in the modern world. The contrast between them also shows that the involvement of religious movements in politics is not necessarily reactionary. [End Page 44] 
 
-<div id="themify_builder_content-1813" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

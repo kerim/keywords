@@ -16,7 +16,3 @@ categories:
 
 From <a href="http://www.jameslandrith.com/archives/000618.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jameslandrith.com/archives/000618.html', 'Taking the Gloves Off']);" >Taking the Gloves Off</a>. (Thanks to Matthew Hogan for posting the <a href="http://www.nowarblog.org/archives/001240.html#001240" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/001240.html#001240', 'link on StandDown']);" >link on StandDown</a>.)
 
-<div id="themify_builder_content-1059" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

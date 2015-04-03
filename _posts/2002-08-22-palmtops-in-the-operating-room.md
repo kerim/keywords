@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/08/22/technology/circuits/22MEDI.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/22/technology/circuits/22MEDI.html', 'Palmtops in the Operating Room']);" >Palmtops in the Operating Room</a>
 
-<div id="themify_builder_content-475" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -26,7 +26,3 @@ In Newsweek <a href="http://www.msnbc.com/news/899469.asp?0dm=-18CK" onclick="_g
 
 
 
-<div id="themify_builder_content-1125" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

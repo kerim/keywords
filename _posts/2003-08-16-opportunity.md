@@ -47,7 +47,3 @@ UPDATE: Here is the <a href="http://blackout.gmu.edu/transition.html" onclick="_
 
 UPDATE: Here is Nathan Newman, who seems to have <a href="http://www.nathannewman.org/log/archives/001067.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/log/archives/001067.shtml', 'written about this in his dissertation']);" >written about this in his dissertation</a>.
 
-<div id="themify_builder_content-1287" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ Or to the e-mail list sign-up page:
 
 Either way, help spread the word.
 
-<div id="themify_builder_content-663" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

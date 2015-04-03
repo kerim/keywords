@@ -26,7 +26,3 @@ Oops. I wonder what would happen if I made a 1.1 billion dollar mistake on my Ta
 
 <a href="http://www.washingtontimes.com/business/20020815-33250521.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtontimes.com/business/20020815-33250521.htm', 'The Washington Times']);" >The Washington Times</a>
 
-<div id="themify_builder_content-446" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

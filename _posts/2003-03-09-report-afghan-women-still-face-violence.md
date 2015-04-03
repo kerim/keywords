@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.lasvegassun.com/sunbin/stories/w-asia/2003/mar/06/030609911.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lasvegassun.com/sunbin/stories/w-asia/2003/mar/06/030609911.html', 'Las Vegas Sun']);" >Las Vegas Sun</a>
 
-<div id="themify_builder_content-996" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

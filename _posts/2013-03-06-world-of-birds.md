@@ -1,8 +1,7 @@
 ---
 title: World of Birds
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/03/06/world-of-birds/
 wpzoom_post_title:
   - Yes
@@ -42,7 +41,3 @@ How is it that the sounds of a tropical forest in Taiwan could remind me of New 
 
 UPDATE: <a href="http://www.brazilianbirdsradio.com.br/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.brazilianbirdsradio.com.br/', 'Brazilian Birds']);" >Brazilian Birds</a> is a free internet radio station devoted to… the sounds of Brazilian Birds.
 
-<div id="themify_builder_content-3354" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ categories:
 
 The Israeli army says it has killed at least 200 Palestinians in its sweeping 10-day offensive in the West Bank.
 
-<div id="themify_builder_content-59" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

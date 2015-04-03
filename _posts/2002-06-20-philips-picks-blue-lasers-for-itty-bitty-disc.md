@@ -20,7 +20,3 @@ categories:
 
 <a href="http://news.com.com/2100-1040-937621.html?tag=fd_top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.com.com/2100-1040-937621.html?tag=fd_top', 'Philips picks blue lasers for itty-bitty disc &#8211; Tech News &#8211; CNET.com']);" >Philips picks blue lasers for itty-bitty disc &#8211; Tech News &#8211; CNET.com</a>
 
-<div id="themify_builder_content-254" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

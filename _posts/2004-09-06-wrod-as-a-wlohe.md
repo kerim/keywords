@@ -16,7 +16,3 @@ Needless to say, my recent post about <a href="http://keywords.oxus.net/archives
 > 
 > I&#8217;ve written this page, to try to explain the science behind this meme. There are elements of truth in this, but also some things which scientists studying the psychology of language (psycholinguists) know to be incorrect. I&#8217;m going to break down the meme, one line at a time to illustrate these points, pointing out what I think is the relevant research on the role of letter order on reading. Again, this is only my view of the current state of reading research, as it relates to this meme.
 
-<div id="themify_builder_content-1849" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -216,7 +216,3 @@ O&#8217;REILLY: Next, as we continue from Houston, a huge problem, what to do wi
 
 LOAD-DATE: April 13, 2002
 
-<div id="themify_builder_content-85" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

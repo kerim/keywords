@@ -18,7 +18,3 @@ UPDATE: The <a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/3670204.stm" 
 
 Like I said &#8230; &#8220;big news&#8221;!
 
-<div id="themify_builder_content-1870" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ categories:
 
 General Jurat said most of those arrested were members of Hezb-i-Islami &#8211; a hardline Islamic group headed by former prime minister and mujahedin commander Gulbuddin Hekmatyar.
 
-<div id="themify_builder_content-51" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

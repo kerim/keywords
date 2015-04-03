@@ -10,7 +10,3 @@ Wow, Google keeps popping out new services. The latest is <a href="http://schola
 
 UPDATE: A <a href="http://www.resourceshelf.com/2004/11/wow-its-google-scholar.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.resourceshelf.com/2004/11/wow-its-google-scholar.html', 'librarian&#8217;s review']);" >librarian&#8217;s review</a> of Google Scholar. (via <a href="http://www.languagehat.com/archives/001641.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/001641.php', 'LanguageHat']);" >LanguageHat</a>)
 
-<div id="themify_builder_content-1991" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

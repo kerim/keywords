@@ -14,7 +14,3 @@ Paul Ginsparg
 
 <a href="http://arxiv.org/blurb/pg01unesco.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://arxiv.org/blurb/pg01unesco.html', 'Creating a global knowledge network']);" >Creating a global knowledge network</a>
 
-<div id="themify_builder_content-632" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

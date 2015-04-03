@@ -14,7 +14,3 @@ categories:
 
 Is it just because &#8220;Toothfish &#8216;pirates&#8217; held after chase&#8221; makes a better headline that they don&#8217;t use the much more commonly known term &#8220;Chilean sea bass&#8221;? Or do they not use this term in the Commonwealth? Anyone from the UK or Australia care to enlighten me?
 
-<div id="themify_builder_content-1300" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

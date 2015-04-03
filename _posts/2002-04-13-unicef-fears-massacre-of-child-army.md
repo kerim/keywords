@@ -10,7 +10,3 @@ categories:
 
 Up to 5,000 child fighters have been encircled by Sudanese and Ugandan troops in southern Sudan, in readiness for an all-out assault on the cultish rebel army.
 
-<div id="themify_builder_content-72" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

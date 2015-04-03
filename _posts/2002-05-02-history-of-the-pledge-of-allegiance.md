@@ -10,7 +10,3 @@ categories:
 
 Twenty-six states now require the pledge of allegiance to be recited in public schools. Some states require schools to reflect on the history and meaning of that pledge. Reflection would be instructive, since the story of the pledge reveals the fears and strengths of this nation.
 
-<div id="themify_builder_content-107" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ But, in the end, how I feel about this depends on the facts. Clark provides his 
 
 UPDATE: Some wording changes.
 
-<div id="themify_builder_content-1480" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

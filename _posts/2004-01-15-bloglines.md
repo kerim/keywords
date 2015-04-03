@@ -13,7 +13,3 @@ It is hard to explain to people who aren&#8217;t computer savvy just <a href="ht
 
 For people who have their own Bloglines account, I&#8217;ve added a quick subscribe link in the Keywords &#8220;syndication&#8221; menu bar.
 
-<div id="themify_builder_content-1462" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

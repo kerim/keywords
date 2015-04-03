@@ -28,7 +28,3 @@ And on his recent <a href="http://www.talkleft.com/archives/003925.html" onclick
 
 UPDATE: Tapped says we should get Bush for &#8220;<a href="http://www.prospect.org/weblog/archives/2003/08/index.html#001343" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/weblog/archives/2003/08/index.html#001343', 'making false statements to congress']);" >making false statements to congress</a>&#8220;.
 
-<div id="themify_builder_content-1279" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

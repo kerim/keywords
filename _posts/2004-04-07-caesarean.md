@@ -22,7 +22,3 @@ But you have to feel sorry for the kid. His whole life his mother is going to ho
 
 > I cut myself open with a kitchen knife, and you *can&#8217;t even be bothered to take out the trash*?
 
-<div id="themify_builder_content-1622" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

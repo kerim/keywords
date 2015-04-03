@@ -12,7 +12,3 @@ categories:
 
 From the <a href="http://www.nytimes.com/2003/02/16/international/16RALL.html?pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/02/16/international/16RALL.html?pagewanted=all&position=top', 'NY Times']);" >NY Times</a>, actually doing a decent job covering an anti-war protest for a change.
 
-<div id="themify_builder_content-961" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

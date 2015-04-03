@@ -22,7 +22,3 @@ UPDATE: <a href="http://flickr.com/photos/tags/cindysheehan/" onclick="_gaq.push
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2273" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

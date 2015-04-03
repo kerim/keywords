@@ -16,7 +16,3 @@ This is an interesting LA Times article on Cheney&#8217;s links to the company t
 
 <a href="http://www.bodyandsoul.blogspot.com/2003_01_01_bodyandsoul_archive.html#88049045" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bodyandsoul.blogspot.com/2003_01_01_bodyandsoul_archive.html#88049045', 'Body and Soul']);" >Body and Soul</a> has some interesting things to say about this article.
 
-<div id="themify_builder_content-881" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

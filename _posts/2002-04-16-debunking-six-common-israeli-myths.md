@@ -20,7 +20,3 @@ Myth 5: Arafat Spurned Barak&#8217;s generous offer at Camp David and broke off 
 
 Myth 6: Arafat started the Intifada
 
-<div id="themify_builder_content-81" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

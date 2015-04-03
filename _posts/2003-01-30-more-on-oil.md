@@ -16,7 +16,3 @@ They point out that even if &#8220;security&#8221; concerns are the primary reas
 
 Credit: This item was blogged over at the <a href="http://www.nowarblog.org/archives/000655.html#000655" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000655.html#000655', 'NoWarBlog']);" >NoWarBlog</a>, as well as the <a href="http://www.cato.org/dispatch/01-29-03d.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cato.org/dispatch/01-29-03d.html', 'Cato Daily Dispatch']);" >Cato Daily Dispatch</a>.
 
-<div id="themify_builder_content-904" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

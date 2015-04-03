@@ -26,7 +26,3 @@ The gangsters were obviously not too scared of the Police, who took the opportun
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2208" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

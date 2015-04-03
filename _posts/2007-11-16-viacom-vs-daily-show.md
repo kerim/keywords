@@ -17,7 +17,3 @@ Does the writer&#8217;s strike have you down? Miss <a href="http://www.thedailys
 
 
 
-<div id="themify_builder_content-2757" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

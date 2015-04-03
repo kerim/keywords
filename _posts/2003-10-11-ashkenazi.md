@@ -37,7 +37,3 @@ Both of these articles highlight the difference between biology and race. Race i
 
 More information about the Khazars can be found <a href="http://www.khazaria.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.khazaria.com/', 'at Khazaria.com']);" >at Khazaria.com</a>.
 
-<div id="themify_builder_content-1357" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

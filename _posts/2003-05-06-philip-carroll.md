@@ -28,7 +28,3 @@ categories:
 
 <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_05_04.html#000558" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2003_05_04.html#000558', 'This Modern World']);" >This Modern World</a>
 
-<div id="themify_builder_content-1148" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

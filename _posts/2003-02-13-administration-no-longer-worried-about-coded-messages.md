@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.nytimes.com/2003/02/12/opinion/12DOWD.html?pagewanted=print&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/02/12/opinion/12DOWD.html?pagewanted=print&position=top', 'Maureen Dowd']);" >Maureen Dowd</a>.
 
-<div id="themify_builder_content-951" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

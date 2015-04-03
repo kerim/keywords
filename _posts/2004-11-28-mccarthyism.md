@@ -42,7 +42,3 @@ Over 3,000 people have <a href="http://www.petitiononline.com/jmassad/petition.h
 
 <a href="http://www.petitiononline.com/jmassad/petition.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.petitiononline.com/jmassad/petition.html', 'Go sign']);" >Go sign</a>.
 
-<div id="themify_builder_content-2004" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

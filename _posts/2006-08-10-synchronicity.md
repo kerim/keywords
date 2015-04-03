@@ -54,7 +54,3 @@ UPDATE: For the rest of my files I gave up on the Chrono-sync + USB Drive soluti
 
 UPDATE: A few months later, I&#8217;d like to report that Unison is still working great. I no longer use NetNewsWire, having switched to <a href="http://www.google.com/reader/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/reader/', 'Google Reader']);" >Google Reader</a>, and there seems to be a <a href="http://spanningsync.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://spanningsync.com/', 'new option on the horizon']);" >new option on the horizon</a> for iCal. (And regarding IMAP, I&#8217;m glad I stuck with Luxsci, as Fastmail seems to have had some issues this year.) I should also point out that Writely is now <a href="http://docs.google.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://docs.google.com/', 'Google Docs']);" >Google Docs</a>.
 
-<div id="themify_builder_content-2498" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

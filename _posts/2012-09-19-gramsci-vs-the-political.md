@@ -21,7 +21,3 @@ format: quote
 
 — Peter Thomas, <a href="http://brunel.academia.edu/PeterThomas/Papers/954043/Gramsci_and_the_Political" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://brunel.academia.edu/PeterThomas/Papers/954043/Gramsci_and_the_Political', 'Gramsci and the Political']);" >Gramsci and the Political</a>
 
-<div id="themify_builder_content-3282" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

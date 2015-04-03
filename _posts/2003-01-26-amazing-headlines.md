@@ -14,7 +14,3 @@ You have to read to the very end of this post to find out!
 
 <a href="http://wampum.blogspot.com/2003_01_01_wampum_archive.html#90211236" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wampum.blogspot.com/2003_01_01_wampum_archive.html#90211236', 'WampumBlog']);" >WampumBlog</a>
 
-<div id="themify_builder_content-883" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

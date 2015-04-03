@@ -26,7 +26,3 @@ You really need to see the original article in the Magazine in order to apprecia
 
 <a href="http://www.nytimes.com/2002/07/21/magazine/21GALLERY.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/07/21/magazine/21GALLERY.html', 'NY Times (Magazine)']);" >NY Times (Magazine)</a>
 
-<div id="themify_builder_content-338" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ In this <a href="http://www.bbc.co.uk/programmes/b00zfkfn" onclick="_gaq.push(['
 > 
 > You knew 1968 the student revolts… everybody said, well of course it didn&#8217;t come to anything. They didn&#8217;t win. They didn&#8217;t win state power. They tried to win state power by allying themselves with the working class, by being supported by the Communist Party… Absolutely, no hope whatsoever. They didn&#8217;t win. Life since then has been profoundly transformed by 1968. It will never go back to what it was before that. Ideas of communitarianism, ideas of the collective, feminism, all sorts of things… Theoretical work? Transformed by the impact of a revolution which did not succeed! If you look back at the 19th century, 1848 is exactly the same. So, I don&#8217;t believe in judging the historical significance of events as they unfold in terms of our, usually faulty judgment, of where they may end up.
 
-<div id="themify_builder_content-2974" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ This guy is a genius. I saw him on a TV show, but the economist truly captures t
 
 <a href="http://economist.com/world/na/displayStory.cfm?story_id=1230914" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://economist.com/world/na/displayStory.cfm?story_id=1230914', 'Economist']);" >Economist</a>
 
-<div id="themify_builder_content-331" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

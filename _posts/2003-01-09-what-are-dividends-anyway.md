@@ -14,7 +14,3 @@ categories:
 
 There are a lot of good posts on <a href="http://www.maxspeak.org/gm/index.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.maxspeak.org/gm/index.htm', 'MaxSpeak']);" >MaxSpeak</a> about this issue. (Thanks to Tapped for the heads-up.)
 
-<div id="themify_builder_content-826" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

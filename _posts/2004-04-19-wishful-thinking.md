@@ -11,7 +11,3 @@ categories:
 
 From the <a href="http://www.pkarchive.org/column/030904.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pkarchive.org/column/030904.html', 'Paul Krugman Archives']);" >Paul Krugman Archives</a>. (Via <a href="http://www.washingtonmonthly.com/archives/individual/2004_04/003721.php#149416" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2004_04/003721.php#149416', 'a comment by Joe Buck']);" >a comment by Joe Buck</a> on Political Animal.)
 
-<div id="themify_builder_content-1643" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -28,7 +28,3 @@ Of course, many of the same arguments made here about gender discrimination also
 >   (1) Corrected estimates of the racial wage gap indicate a substantial role for the efficacy of the Civil Rights Act and related initiatives in affecting convergence in segregated states; ignoring selection causes estimates of convergence in the South as well as the within-cohort component of this change to be understated. (2) In contrast to the sharp convergence observed in standard wage series from 1970-90, selectivity corrected estimates indicate complete [relative wage] stagnation&#8230;
 > </div>
 
-<div id="themify_builder_content-1360" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

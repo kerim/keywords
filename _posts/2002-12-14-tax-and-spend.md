@@ -18,7 +18,3 @@ categories:
 
 Thanks to <a href="http://atrios.blogspot.com/2002_12_08_atrios_archive.html#90053008" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/2002_12_08_atrios_archive.html#90053008', 'Eschaton']);" >Eschaton</a> for finding this. Everyone is raving about this blog &#8211; so you might wat to check it out yourself!
 
-<div id="themify_builder_content-795" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/07/30/arts/television/30SESA.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/07/30/arts/television/30SESA.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-379" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

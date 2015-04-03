@@ -10,7 +10,3 @@ categories:
 
 More than 2,000 are feared dead as Afghans race to rescue buried victims of worst earthquake in living memory &#8230;
 
-<div id="themify_builder_content-30" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ BoingBoing.net has been hosting a SARS Digital folk art gallery. <a href="http:/
 
 
 
-<div id="themify_builder_content-1213" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

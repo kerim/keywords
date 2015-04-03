@@ -26,7 +26,3 @@ From the <a href="http://www.bbc.co.uk/reporters " onclick="_gaq.push(['_trackEv
 
 This is pretty much what friends who can read the Arab papers have told me is the general view in that part of the world. Putting people like <a href="http://kerim.oxusnet.net/nucleus/index.php?itemid=1169" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kerim.oxusnet.net/nucleus/index.php?itemid=1169', 'Jay Garner']);" >Jay Garner</a> in power doesn&#8217;t help change that image.
 
-<div id="themify_builder_content-1063" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

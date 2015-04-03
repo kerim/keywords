@@ -10,7 +10,3 @@ categories:
 
 There aren&#8217;t that many articles on this page itself, but there are good links to breaking news and other web sites.
 
-<div id="themify_builder_content-44" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

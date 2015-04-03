@@ -1,8 +1,7 @@
 ---
 title: The doctrine of noninterference
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/04/25/the-doctrine-of-noninterference/
 hide_post_title:
   - default
@@ -23,7 +22,3 @@ categories:
 
 Mamdani, <a href="http://www.amazon.com/gp/product/B009S9ZF4U/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009S9ZF4U&linkCode=as2&tag=httpkerimoxus-20" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/gp/product/B009S9ZF4U/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009S9ZF4U&linkCode=as2&tag=httpkerimoxus-20', 'Define and Rule']);" >Define and Rule</a>
 
-<div id="themify_builder_content-3434" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

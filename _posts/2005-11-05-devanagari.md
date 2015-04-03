@@ -36,7 +36,3 @@ Now, as I pointed out above, Pāṇini died a few centuries before Devanagiri ca
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2340" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

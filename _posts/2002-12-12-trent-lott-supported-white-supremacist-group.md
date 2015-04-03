@@ -12,7 +12,3 @@ categories:
 
 <a href="http://d55292.new24.yourserver.net/press-releases/lott.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://d55292.new24.yourserver.net/press-releases/lott.html', 'FAIR Media Advisory']);" >FAIR Media Advisory</a>
 
-<div id="themify_builder_content-786" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ WordPress is the best, in that you can easily see who posted what, you can have 
 
 There is clearly more work that could be done to make these tools better for teaching, but for now, especially outside the US, WordPress still wins.
 
-<div id="themify_builder_content-2869" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

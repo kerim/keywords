@@ -14,7 +14,3 @@ The following statement is based on the fact that &#8220;The Dakotas, Montana, I
 
 <a href="http://www.prospect.org/weblog/archives/2003/01/index.html#000530" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/weblog/archives/2003/01/index.html#000530', 'TAPPED']);" >TAPPED</a>
 
-<div id="themify_builder_content-866" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

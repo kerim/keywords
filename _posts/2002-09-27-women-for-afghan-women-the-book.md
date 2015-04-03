@@ -14,7 +14,3 @@ It is only $11.16 at Amazon.com. Buy copies for your friends! (Look for an essay
 
 <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1403960178/qid=1033142888/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/exec/obidos/tg/detail/-/1403960178/qid=1033142888/', 'Amazon.com']);" >Amazon.com</a>
 
-<div id="themify_builder_content-594" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

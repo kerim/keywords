@@ -16,7 +16,3 @@ I know their intentions are good, but <a href="http://boston.com/dailynews/152/t
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1229" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

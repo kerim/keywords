@@ -48,7 +48,3 @@ Where Ireland falls short is on the third question, with a chapter of just nine 
 
 > Of this there can be no doubt, that, as with individuals, a statesman, a physician, a pianist, a lawyer, cannot be made in a day, so with nations, the ability to administer and control colonies cannot spring up in a night, but must proceed from earnest study and sincere endeavor long continued.
 
-<div id="themify_builder_content-2382" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

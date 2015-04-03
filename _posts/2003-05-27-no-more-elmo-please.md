@@ -12,7 +12,3 @@ An anti-Iraq war blogger, who also happens to be a writer for Sesame Street, <a 
 >   &#8220;Tear my fingernails off!&#8221; I can imagine the hapless captives shouting. &#8220;Beat me or prod me with an electric baton! But PLEASE&#8230; no more Elmo!
 > </div>
 
-<div id="themify_builder_content-1211" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

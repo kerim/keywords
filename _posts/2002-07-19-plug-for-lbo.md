@@ -14,7 +14,3 @@ In an article on the question of globalization:
 
 &#8220;The stats suggest that hyperglobal theory is running ahead of events. U.S. MNCs
 
-<div id="themify_builder_content-333" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -35,7 +35,3 @@ Invited topics for discussion include (but are not limited to):
 
 You can e-mail me if interested in submitting an article. (You don&#8217;t need to be an anthropologist!)
 
-<div id="themify_builder_content-1834" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

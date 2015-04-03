@@ -10,7 +10,3 @@ categories:
 
 British peacekeepers traded gunfire with Afghans in crime-plagued west Kabul, only to find they had been mistaken for robbers on the prowl.
 
-<div id="themify_builder_content-56" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

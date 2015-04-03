@@ -10,7 +10,3 @@ categories:
 
 A UN envoy has said that the devastation left by Israeli forces in the Jenin refugee camp is &#8220;horrific beyond belief&#8221;.
 
-<div id="themify_builder_content-89" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

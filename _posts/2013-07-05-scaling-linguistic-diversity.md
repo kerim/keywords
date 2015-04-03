@@ -1,8 +1,7 @@
 ---
 title: Scaling Linguistic Diversity
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/07/05/scaling-linguistic-diversity/
 hide_post_title:
   - default
@@ -59,7 +58,3 @@ Individual paper abstracts below.
 
 ### Discussant: Judith T. Irvine (University of Michigan)
 
-<div id="themify_builder_content-3448" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

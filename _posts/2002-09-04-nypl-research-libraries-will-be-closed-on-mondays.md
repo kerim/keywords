@@ -23,7 +23,3 @@ Here is my message:
 I am outraged that the City is not able to keep the NY Public Library open 6 days a week. I understand the need to meet budgetary guidelines, but I cannot believe that these cuts cannot be made in a more judicious manner. Public resources give back far more than they cost the city. The great civic institutions of New York are not simply a reflection of the city&#8217;s success, they are also part of what makes the city great!  
 
 
-<div id="themify_builder_content-509" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

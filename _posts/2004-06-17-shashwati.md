@@ -15,7 +15,3 @@ I&#8217;m very happy to announce a new blog that you should all immediately add 
 
 Be sure to also check out <a href="http://www.shashwati.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.shashwati.com/', 'Shashwati&#8217;s homepage']);" >Shashwati&#8217;s homepage</a>.
 
-<div id="themify_builder_content-1743" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -50,7 +50,3 @@ UPDATE: I have things working now, and I&#8217;m pretty happy with my system, bu
 
 UPDATE: Came up with a solution for multiple user accounts. Simply use the form version and then write the domain as &#8220;username.domain.com&#8221; to generate unique passwords for each user. You can then write this domain down in your encrypted list of domains and usernames.
 
-<div id="themify_builder_content-2312" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

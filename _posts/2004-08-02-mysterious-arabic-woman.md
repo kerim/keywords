@@ -78,9 +78,6 @@ Ibn Al-Rumi (836-896)
 
 UPDATE: Here is an interview with <a href="http://www.wooster.edu/artfuldodge/interviews/pound.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wooster.edu/artfuldodge/interviews/pound.htm', 'Omar Pound']);" >Omar Pound</a>.
 
-<div id="themify_builder_content-1783" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: http://used.addall.com/SuperRare/RefineRare.fcgi?id=040802171342106976

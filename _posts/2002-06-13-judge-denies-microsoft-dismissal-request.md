@@ -16,7 +16,3 @@ categories:
 
 <a href="http://news.com.com/2100-1001-935396.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.com.com/2100-1001-935396.html', 'Tech News &#8211; CNET.com']);" >Tech News &#8211; CNET.com</a>
 
-<div id="themify_builder_content-216" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

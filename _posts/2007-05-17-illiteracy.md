@@ -39,7 +39,3 @@ Official estimates say that the number of <a href="http://www.iht.com/articles/2
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2623" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

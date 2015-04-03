@@ -17,7 +17,3 @@ The runner up prize goes to the BBC for..
 
 > We are far above the fray here, a long way from the plight of <a href="http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/3524240.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/3524240.stm', 'the teeming millions below']);" >the teeming millions below</a> us.
 
-<div id="themify_builder_content-1586" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

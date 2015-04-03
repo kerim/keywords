@@ -14,7 +14,3 @@ This is a decent overview of the topic &#8211; considering how short the article
 
 <a href="http://www.nytimes.com/2003/01/18/arts/18CLAS.html?pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/18/arts/18CLAS.html?pagewanted=all&position=top', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-864" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

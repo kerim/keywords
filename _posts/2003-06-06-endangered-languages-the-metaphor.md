@@ -56,7 +56,3 @@ Although I would be the last to argue that reviving a language can, by itself, r
 
 For those who read the whole article, here is a <a href="http://www.languagehat.com/archives/000633.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/000633.php', 'bonus link']);" >bonus link</a>, to the origin of the phrase &#8220;a language is a dialect with an army.&#8221;
 
-<div id="themify_builder_content-1234" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

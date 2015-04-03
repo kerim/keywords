@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.amnh.org/programs/mead/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amnh.org/programs/mead/', 'American Museum of Natural History']);" >American Museum of Natural History</a>
 
-<div id="themify_builder_content-694" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

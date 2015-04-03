@@ -10,7 +10,3 @@ categories:
 
 Dr Francis Lovemore, medical director of the Amani Trust human rights group in Harare, says sexual assaults or forced sexual humiliation by the army and militias are now central weapons of the terror.
 
-<div id="themify_builder_content-28" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

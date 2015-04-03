@@ -24,7 +24,3 @@ I found out about the site after following a link from <a href="http://www.boing
 
 UPDATE: More book and diary blogs <a href="http://keywords.oxus.net/archives/2004/10/03/books-as-blogs/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/10/03/books-as-blogs/', 'listed here']);" >listed here</a>.
 
-<div id="themify_builder_content-1874" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

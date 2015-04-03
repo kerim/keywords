@@ -26,7 +26,3 @@ categories:
 
 UPDATE: <a href="http://bodyandsoul.typepad.com/blog/2004/02/halliburton_to_.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.typepad.com/blog/2004/02/halliburton_to_.html', 'Halliburton']);" >Halliburton</a>
 
-<div id="themify_builder_content-1487" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

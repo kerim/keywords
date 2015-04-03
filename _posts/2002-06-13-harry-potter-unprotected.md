@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.newscientist.com/news/news.jsp?id=ns99992404" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newscientist.com/news/news.jsp?id=ns99992404', 'New Scientist']);" >New Scientist</a>
 
-<div id="themify_builder_content-214" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

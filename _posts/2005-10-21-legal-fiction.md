@@ -40,7 +40,3 @@ In Epstien&#8217;s world, none of this matters, because the fiction of efficient
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2327" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

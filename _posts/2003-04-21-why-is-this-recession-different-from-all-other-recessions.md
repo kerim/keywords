@@ -12,7 +12,3 @@ categories:
 
 <a href="http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1048313883638&p=1012571727102" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1048313883638&p=1012571727102', 'Robert Reich']);" >Robert Reich</a> explains why,
 
-<div id="themify_builder_content-1116" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

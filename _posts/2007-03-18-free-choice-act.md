@@ -23,7 +23,3 @@ From the Working Families website:
 
 Technorati Tags: <a href="http://technorati.com/tag/union cardcheck " onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/union cardcheck ', 'union cardcheck ']);" class="performancingtags"  rel="tag">union cardcheck </a>
 
-<div id="themify_builder_content-2596" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

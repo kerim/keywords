@@ -20,7 +20,3 @@ Doesn&#8217;t look good:
 
 As the article points out &#8211; Bush&#8217;s &#8220;monomaniac&#8221; obsession with tax cuts is likely to worsen the situation. In the NY Times, <a href="http://www.nytimes.com/2003/05/19/opinion/19REIC.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/05/19/opinion/19REIC.html', 'Robert Reich']);" >Robert Reich</a> says not to go to graduate school&#8230;
 
-<div id="themify_builder_content-1190" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

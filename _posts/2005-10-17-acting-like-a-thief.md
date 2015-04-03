@@ -31,7 +31,3 @@ If you like **Acting Like a Thief**, please help <a href="http://hoochandhamlet.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2322" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

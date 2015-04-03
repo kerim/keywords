@@ -21,7 +21,3 @@ format: quote
 
 — Three quotes about New Yorkers&#8217; relationship with the water, from Teju Cole&#8217;s <a href="http://www.amazon.com/gp/product/0812980093/ref=as_li_ss_tl?ie=UTF8&#038;camp=1789&#038;creative=390957&#038;creativeASIN=0812980093&#038;linkCode=as2&#038;tag=httpkerimoxus-20" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/gp/product/0812980093/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0812980093&linkCode=as2&tag=httpkerimoxus-20', 'Open City']);" >Open City</a>.
 
-<div id="themify_builder_content-3300" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

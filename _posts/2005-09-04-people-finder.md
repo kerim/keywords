@@ -34,7 +34,3 @@ UPDATE: They are back up. <a href="http://192.122.183.218/wiki/index.php/PeopleF
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2289" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

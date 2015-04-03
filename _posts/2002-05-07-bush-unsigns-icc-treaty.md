@@ -10,7 +10,3 @@ categories:
 
 The Bush administration Monday formally renounced its obligations as a signatory to the 1998 Rome Statute to establish an International Criminal Court (ICC). Critics say the decision to &#8220;unsign&#8221; the treaty will further damage the United States
 
-<div id="themify_builder_content-108" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

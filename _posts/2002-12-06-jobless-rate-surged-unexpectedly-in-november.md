@@ -14,7 +14,3 @@ But whose counting when there is a war on?
 
 <a href="http://www.nytimes.com/aponline/business/AP-Economy.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/aponline/business/AP-Economy.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-768" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

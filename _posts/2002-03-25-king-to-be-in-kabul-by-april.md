@@ -10,7 +10,3 @@ categories:
 
 Zahir Shah, the former king of Afghanistan, vowed yesterday to be &#8220;in Kabul by April,&#8221; shrugging off concerns over his security that led to a last-minute delay in his return after 29 years in exile.
 
-<div id="themify_builder_content-14" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -33,7 +33,3 @@ Anyone want to give me a research grant to investigate further?
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2347" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ It seems that there is some credence to Fox News&#8217; claims to deliver balanc
 
 Of course, the problem with such statistics is that they don&#8217;t show the time or environment under which those views were aired. It doesn&#8217;t much count if you bring on anti-war voices just to make fun of them, or tell them to &#8220;shut up&#8221; (as O&#8217;Reilly does regularly).
 
-<div id="themify_builder_content-1235" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

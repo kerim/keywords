@@ -22,7 +22,3 @@ Now this is truly &#8220;smart&#8221; &#8211; I wish they would have something s
 
 <a href="http://news.bbc.co.uk/2/hi/technology/2269144.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/technology/2269144.stm', 'BBC NEWS | Technology | Smart alarm clock lets you lie in']);" >BBC NEWS | Technology | Smart alarm clock lets you lie in</a>
 
-<div id="themify_builder_content-569" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

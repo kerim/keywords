@@ -12,7 +12,3 @@ The <a href="http://72.3.131.10/" onclick="_gaq.push(['_trackEvent', 'outbound-a
 
 <a href="http://72.3.131.10/gallery/10/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://72.3.131.10/gallery/10/', '']);" ><img src="http://keywords.oxus.net/images/se98.jpg" height="358" width="388" border="0" hspace="10" vspace="10" alt="Se98" /></a>
 
-<div id="themify_builder_content-1983" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

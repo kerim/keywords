@@ -24,7 +24,3 @@ And don&#8217;t miss Ozma&#8217;s <a href="http://savageminds.org/2005/07/24/ant
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2255" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

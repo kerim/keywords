@@ -39,7 +39,3 @@ UPDATE: <a href="http://www.momao.com/art/mao/banquet.jpg" onclick="_gaq.push(['
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/art" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/art', 'art']);"  rel="tag">art</a>, <a href="http://technorati.com/tag/advertising" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/advertising', 'advertising']);"  rel="tag">advertising</a>, <a href="http://technorati.com/tag/last supper" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/last supper', 'last supper']);"  rel="tag">last supper</a>, <a href="http://technorati.com/tag/Christ" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Christ', 'Christ']);"  rel="tag">Christ</a>, <a href="http://technorati.com/tag/catholic church" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/catholic church', 'catholic church']);"  rel="tag">catholic church</a>}</span>
 </div>
 
-<div id="themify_builder_content-2112" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

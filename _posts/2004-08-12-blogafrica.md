@@ -21,7 +21,3 @@ Zuckerman has a long history of working on these issues, as he is also one of th
 
 (Via BoingBoing posts, <a href="http://www.boingboing.net/2004/08/11/how_blogs_can_cover_.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/08/11/how_blogs_can_cover_.html', 'here']);" >here</a> and <a href="http://www.boingboing.net/2004/08/11/african_blogs_in_a_c.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/08/11/african_blogs_in_a_c.html', 'here']);" >here</a>.)
 
-<div id="themify_builder_content-1799" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

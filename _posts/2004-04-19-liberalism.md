@@ -20,7 +20,3 @@ One professor of mine often uses the examples of handicap accessible sidewalks a
 
 There is very little progressivism left in the Democratic party platform. I believe that the progressives have been much more effectively marginalized by the Left than the conservatives have been by the Right. While Bush&#8217;s &#8220;compassionate conservatism&#8221; in 2000 made it seem as if he might be willing to sacrifice some of the conservative values of his core supporters, his policies since taking office have been far less &#8220;liberal&#8221; than many Republicans would like. If Bush looses this year it will indeed be a victory for liberalism, and a defeat of the conservatism of the far right &#8211; but only by restoring the traditional liberal consensus of Washington, DC. It won&#8217;t be a victory for those &#8220;Liberals&#8221; so despised by the Radical Right. In that sense, they&#8217;ve already won.
 
-<div id="themify_builder_content-1644" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

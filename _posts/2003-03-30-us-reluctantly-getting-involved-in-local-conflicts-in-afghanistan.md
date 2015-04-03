@@ -16,7 +16,3 @@ categories:
 
 The <a href="http://www.nytimes.com/2003/03/30/international/worldspecial/30BOMB.html?ex=1049605200&en=05632e5b6cd48338&ei=5040&partner=MOREOVER" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/30/international/worldspecial/30BOMB.html?ex=1049605200&en=05632e5b6cd48338&ei=5040&partner=MOREOVER', 'Washington Post']);" >Washington Post</a>
 
-<div id="themify_builder_content-1048" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

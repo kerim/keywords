@@ -32,7 +32,3 @@ And it is important not to discount the importance of racism:
 
 But what is really depressing, is that even by basic income measures <a href="http://www.nathannewman.org/log/archives/001221.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/log/archives/001221.shtml', 'inequality is increasing']);" >inequality is increasing</a>.
 
-<div id="themify_builder_content-1368" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

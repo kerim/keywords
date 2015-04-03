@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2003/01/21/state2140EST0191.DTL&type=printable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2003/01/21/state2140EST0191.DTL&type=printable', 'SF Gate']);" >SF Gate</a>
 
-<div id="themify_builder_content-877" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

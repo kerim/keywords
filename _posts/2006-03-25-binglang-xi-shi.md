@@ -31,7 +31,3 @@ Although, interestingly, these action figures seem to use the term: Lamei 辣妹
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2415" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

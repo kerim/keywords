@@ -20,7 +20,3 @@ Languaghat has <a href="http://www.languagehat.com/archives/000817.php" onclick=
 
 <a href="http://marnanel.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://marnanel.org/', 'Thomas Thurman']);" >Thomas Thurman</a>, in the comments, adds that in Latvian <a href="http://www.euro.gov.uk/factsheetw_pages.asp?id=7&#38;pg=2&#38;ls=2" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.euro.gov.uk/factsheetw_pages.asp?id=7&pg=2&ls=2', 'Euro begins &#8220;Ewr&#8221;']);" >Euro begins &#8220;Ewr&#8221;</a>&#8230;
 
-<div id="themify_builder_content-1947" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

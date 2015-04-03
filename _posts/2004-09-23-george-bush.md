@@ -18,7 +18,3 @@ There seem to be a <a href="http://www.clements.umich.edu/Webguides/B/Bush.html"
 
 UPDATE: There was no wikipedia entry on this George Bush, so I added a quick one. It was a mess, just intended to see if someone would clean it up and properly format it. Sure enough, they did &#8211; they even moved it to a better location. You can see it <a href="http://en.wikipedia.org/wiki/George_Bush_%28biblical_scholar%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/George_Bush_%28biblical_scholar%29', 'here']);" >here</a>. There isn&#8217;t much information there yet, just the external links I originally added, but its a start. I&#8217;m very impressed with how quickly this was done by the wikipedia gnomes.
 
-<div id="themify_builder_content-1877" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

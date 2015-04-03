@@ -12,7 +12,3 @@ categories:
 
 <a href="http://tompaine.com/feature.cfm/ID/6392/view/print" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://tompaine.com/feature.cfm/ID/6392/view/print', 'TOMPAINE.com']);" >TOMPAINE.com</a>
 
-<div id="themify_builder_content-554" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

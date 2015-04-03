@@ -47,7 +47,3 @@ Just like I&#8217;ve been saying &#8211; this is much bigger than the credit car
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://technorati.com/tag/hr 685" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/hr 685', 'hr 685']);"  rel="tag">hr 685</a>, <a href="http://technorati.com/tag/congress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/congress', 'congress']);"  rel="tag">congress</a>, <a href="http://technorati.com/tag/credit card companies" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/credit card companies', 'credit card companies']);"  rel="tag">credit card companies</a>, <a href="http://technorati.com/tag/auto loans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/auto loans', 'auto loans']);"  rel="tag">auto loans</a>, <a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>}</span>
 </div>
 
-<div id="themify_builder_content-2120" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

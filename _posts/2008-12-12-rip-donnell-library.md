@@ -21,7 +21,3 @@ I read about the Donnell closing its doors nearly <a href="http://www.languageha
 
 (via <a href="http://www.boingboing.net/2008/12/11/last-days-of-an-nyc.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2008/12/11/last-days-of-an-nyc.html', 'BoingBoing']);" >BoingBoing</a>)
 
-<div id="themify_builder_content-2813" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

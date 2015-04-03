@@ -22,7 +22,3 @@ UPDATE: More from <a href="http://www.washingtonpost.com/wp-dyn/articles/A43478-
 
 UPDATE: An <a href="http://www.bushlies.ws/2004/09/the_democratic.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bushlies.ws/2004/09/the_democratic.html', 'update']);" >update</a> from David Corn. The DNC argues that (a) the plan is coordinated with the Kerry campaign, and (b) its working.
 
-<div id="themify_builder_content-1879" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

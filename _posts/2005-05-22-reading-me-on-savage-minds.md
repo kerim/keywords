@@ -22,7 +22,3 @@ I&#8217;m off to Taiwan at 4 AM! I&#8217;ll be blogging about my trip here on *K
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2202" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

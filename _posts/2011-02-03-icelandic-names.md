@@ -13,7 +13,3 @@ Today&#8217;s *New York Times* <a href="http://www.nytimes.com/2011/02/01/world/
 
 (Thanks to John Emerson for pointing out the percentages.)
 
-<div id="themify_builder_content-2963" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

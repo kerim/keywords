@@ -21,7 +21,3 @@ This <a href="http://www.nytimes.com/2007/10/02/us/02hindu.html" onclick="_gaq.p
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2742" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

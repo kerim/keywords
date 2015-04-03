@@ -33,7 +33,3 @@ No matter how small film and video equipment gets, it is still like packing for 
   UPDATE: Also told to look at gun cases, like <a href="http://www.cabelas.com/cabelas/en/templates/product/standard-item.jsp;jsessionid=LSLRGG0EP3W13LAQBBISCOVMCAEFEIWE?_DARGS=/cabelas/en/common/catalog/item-link.jsp_A&_DAV=&id=0005618222778a&navCount=0&podId=0005618&parentId=&masterpathid=&navAction=push&catalogCode=XK&rid=&parentType=&indexId=&cmCat=netcon&cm_ven=netcon&cm_cat=Google&cm_pla=doskocil%20gun%20cases&cm_ite=netcon&hasJS=true&_requestid=30763" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cabelas.com/cabelas/en/templates/product/standard-item.jsp;jsessionid=LSLRGG0EP3W13LAQBBISCOVMCAEFEIWE?_DARGS=/cabelas/en/common/catalog/item-link.jsp_A&_DAV=&id=0005618222778a&navCount=0&podId=0005618&parentId=&masterpathid=&navAction=push&catalogCode=XK&rid=&parentType=&indexId=&cmCat=netcon&cm_ven=netcon&cm_cat=Google&cm_pla=doskocil%20gun%20cases&cm_ite=netcon&hasJS=true&_requestid=30763', 'this one']);" >this one</a>, which can be cheaper than Pelican cases. Also a brand by the name of Doskocil.&nbsp;
 </div>
 
-<div id="themify_builder_content-2898" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

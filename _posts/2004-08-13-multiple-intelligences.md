@@ -19,7 +19,3 @@ The idea that intelligence consists of more than just those human linguistic ski
 
 I should mention here that Taiwan&#8217;s <a href="http://www.9year.org.tw/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.9year.org.tw/', 'new elementary school curriculum']);" >new elementary school curriculum</a> is very influenced by Howard Gardner&#8217;s work. While Bush&#8217;s <a href="http://nochildleft.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://nochildleft.com/', 'No Child Left']);" >No Child Left</a> Behind (no, I didn&#8217;t forget to put the URL around that last word) policy is most certainly not.
 
-<div id="themify_builder_content-1802" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

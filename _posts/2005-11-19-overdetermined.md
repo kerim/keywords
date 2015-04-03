@@ -39,7 +39,3 @@ For more on The Five Friendlies, including a history of Olympic mascots, check o
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2355" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

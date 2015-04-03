@@ -30,7 +30,3 @@ That, in my mind, is what is so unique about humans &#8211; we are instinctively
 
 Thanks to <a href="http://www.digitalmedievalist.com/news/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.digitalmedievalist.com/news/', 'Lisa']);" >Lisa</a> for her comment over at <a href="http://www.languagehat.com/archives/000884.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/000884.php', 'Language Hat']);" >Language Hat</a>.
 
-<div id="themify_builder_content-1341" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

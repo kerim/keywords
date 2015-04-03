@@ -31,7 +31,3 @@ UDATE: Seymour Hersh&#8217;s <a href="http://www.newyorker.com/printable/?fact/0
 
 > The mistreatment at Abu Ghraib may have done little to further American intelligence, however. Willie J. Rowell, who served for thirty-six years as a C.I.D. agent, told me that the use of force or humiliation with prisoners is invariably counterproductive.
 
-<div id="themify_builder_content-1666" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

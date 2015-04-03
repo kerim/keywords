@@ -18,7 +18,3 @@ also:
 >   The United States has been at war in Colombia for over 50 years. It has, however, hesitated to explain precisely who it is fighting. Officially, it is now involved there in a &#8220;war on terror&#8221;. Before September 2001, it was a &#8220;war on drugs&#8221;; before that, a &#8220;war on communism&#8221;. In essence, however, US intervention in Colombia is unchanged: this remains, as it has always been, a war on the poor.
 > </div>
 
-<div id="themify_builder_content-929" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 This is a very interesting and informative article from <a href="http://slate.msn.com/id/2078519/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/id/2078519/', 'slate']);" >slate</a>.
 
-<div id="themify_builder_content-956" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

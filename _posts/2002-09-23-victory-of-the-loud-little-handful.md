@@ -18,7 +18,3 @@ Mark Twain, &#8220;The Mysterious Stranger&#8221; (1910). Twain had it right alm
 
 <a href="http://www.commondreams.org/views02/0920-01.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.commondreams.org/views02/0920-01.htm', 'CommonDreams']);" >CommonDreams</a>
 
-<div id="themify_builder_content-579" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

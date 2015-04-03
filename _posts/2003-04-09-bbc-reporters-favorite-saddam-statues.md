@@ -26,7 +26,3 @@ Baghdad :: Andrew Gilligan :: 1432GMT.
 
 They don&#8217;t have permalinks, but here is the site: <a href="http://www.bbc.co.uk/reporters " onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bbc.co.uk/reporters ', 'www.bbc.co.uk/reporters']);" >www.bbc.co.uk/reporters</a>.
 
-<div id="themify_builder_content-1080" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

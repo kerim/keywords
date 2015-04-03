@@ -12,7 +12,3 @@ From <a href="http://www.talkleft.com/archives/003004.html" onclick="_gaq.push([
 >   The ACLU filed suit today against the federal government&#8217;s secret &#8220;no fly&#8221; list at San Francisco Airport.
 > </div>
 
-<div id="themify_builder_content-1124" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

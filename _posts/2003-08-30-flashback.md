@@ -22,7 +22,3 @@ Once we open up the discussion in this way, it is possible to include movies lik
 
 UPDATE: <a href="http://slate.msn.com/id/2087768/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/id/2087768/', 'Here is an example of the kind of thing I&#8217;m talking about.']);" >Here is an example of the kind of thing I&#8217;m talking about.</a>
 
-<div id="themify_builder_content-1304" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

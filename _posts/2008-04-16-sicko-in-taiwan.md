@@ -45,7 +45,3 @@ UPDATE: There was also <a href="http://www.npr.org/templates/story/story.php?sto
 > 
 > So Taiwan has the lowest administrative costs in world: less than 2 percent.
 
-<div id="themify_builder_content-2800" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

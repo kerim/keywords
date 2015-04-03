@@ -22,7 +22,3 @@ This is disappointing. It may be that the Supreeme Court was not the correct pla
 
 <a href="http://customwire.ap.org/dynamic/stories/S/SCOTUS_COPYRIGHTS?SITE=COFOR&SECTION=HOME" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://customwire.ap.org/dynamic/stories/S/SCOTUS_COPYRIGHTS?SITE=COFOR&SECTION=HOME', 'News From The Associated Press']);" >News From The Associated Press</a>
 
-<div id="themify_builder_content-850" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

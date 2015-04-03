@@ -16,7 +16,3 @@ I had never heard of any such ritual, not to mention blogged about it, but doing
 
 Hopefully the next time someone comes to my blog looking for the &#8220;ritual for chinese frog&#8221; they will find what they are looking for!
 
-<div id="themify_builder_content-1795" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

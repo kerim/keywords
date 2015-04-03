@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.taipeitimes.com/News/world/archives/2003/05/20/2003051858" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/world/archives/2003/05/20/2003051858', 'Taipei Times']);" >Taipei Times</a>
 
-<div id="themify_builder_content-1193" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

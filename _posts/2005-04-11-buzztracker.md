@@ -20,7 +20,3 @@ I really like how this site is done. It is almost exactly how I dreamed such a s
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/maps', 'maps']);"  rel="tag">maps</a>, <a href="http://technorati.com/tag/tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tufte', 'tufte']);"  rel="tag">tufte</a>, <a href="http://technorati.com/tag/news" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/news', 'news']);"  rel="tag">news</a>}</span>
 </div>
 
-<div id="themify_builder_content-2131" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

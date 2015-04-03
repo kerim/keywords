@@ -56,7 +56,3 @@ Finally, another major obstacle to positive reward training is that dogs are not
 
 Currently, Juno knows the following commands: sit, stay, down, fetch, leave-it, touch (she&#8217;ll touch her nose to your hand), shake, wait (i.e. wait at a door before going out), easy (don&#8217;t pull on the leash), and heel. She doesn&#8217;t know them particularly well, for instance she&#8217;ll heel for about 15 seconds before forging ahead, but its a start. Our goal for 2008 is to work on duration, getting her to do sit-stays and heels for minutes rather than seconds. Also, she can either run and fetch a frisbee or jump and catch one from sitting, but she can&#8217;t yet run and jump to catch one in the air &#8230;
 
-<div id="themify_builder_content-2778" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

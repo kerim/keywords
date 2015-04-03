@@ -17,7 +17,3 @@ UPDATE: As <a href="http://bedouina.typepad.com" onclick="_gaq.push(['_trackEven
 > 
 > So we traded in one guy who thinks porn and marajuana are the nation&#8217;s greatest security concerns with a man who practically endorses torture as a means of interrogation in this war on terrorism.
 
-<div id="themify_builder_content-1980" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ Where were the Hawks when it was their turn to serve?
 
 <a href="http://www.guardian.co.uk/Print/0,3858,4484910,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/Print/0,3858,4484910,00.html', 'Guardian | Chicken hawks']);" >Guardian | Chicken hawks</a>
 
-<div id="themify_builder_content-469" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

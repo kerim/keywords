@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.networkideas.org/feathm/may2002/feathm03_Land_reforms.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.networkideas.org/feathm/may2002/feathm03_Land_reforms.htm', '(networkideas.org )']);" >(networkideas.org )</a>
 
-<div id="themify_builder_content-153" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

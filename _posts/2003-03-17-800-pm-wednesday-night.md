@@ -12,7 +12,3 @@ As I understand it, Bush is to <a href="http://www.msnbc.com/news/842500.asp?0cv
 
 I wish there was something we could do in the next 24 hours to stop Bush. Give him a 24 ultimatum to declare peace &#8230;
 
-<div id="themify_builder_content-1012" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

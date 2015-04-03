@@ -27,7 +27,3 @@ UPDATE: I&#8217;ve created an <a href="http://r1.sharedcopy.com/11o1muk9" onclic
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2614" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ This article has an interesting discussion about half-way through regarding how 
 
 <a href="http://www.alternet.org/story.html?StoryID=13098" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/story.html?StoryID=13098', '(AlterNet)']);" >(AlterNet)</a>
 
-<div id="themify_builder_content-120" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -8,7 +8,3 @@ categories:
 ---
 Who is <a href="http://www.washingtonmonthly.com/archives/individual/2004_12/005257.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2004_12/005257.php', 'Bernard Kerik']);" >Bernard Kerik</a>? After reading the answer you just might wish Tom Ridge hadn&#8217;t stepped down &#8230;
 
-<div id="themify_builder_content-2008" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

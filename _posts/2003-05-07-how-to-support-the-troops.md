@@ -16,7 +16,3 @@ Oh, and then make <a href="http://www.prospect.org/weblog/archives/2003/05/index
 
 Not to mention sending them to die in a war that serves no purpose other than your own political gain&#8230;
 
-<div id="themify_builder_content-1156" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

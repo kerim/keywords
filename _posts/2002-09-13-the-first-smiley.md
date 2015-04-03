@@ -32,7 +32,3 @@ categories:
 
 <a href="http://research.microsoft.com/~mbj/Smiley/Smiley.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://research.microsoft.com/~mbj/Smiley/Smiley.html', 'The First Smiley ']);" >The First Smiley <img src="http://keywords.oxus.net/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /></a>
 
-<div id="themify_builder_content-545" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

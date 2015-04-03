@@ -11,7 +11,3 @@ Please inform *everyone you know*, that the <a href="http://designsonthewhitehou
 
 It is also worth mentioning that, DOTWHO&#8217;s <a href="http://designsonthewhitehouse.com/judges.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://designsonthewhitehouse.com/judges.php', 'list of judges']);" >list of judges</a> has been expanded to include: Atrios, David Auburn, Margaret Cho, Ana Marie Cox, Al Franken, Janeane Garofalo, Milton Glaser, David Henry Hwang, Chip Kidd, Moby, Maura Moynihan, Edwin Schlossberg , Todd St. John, Tom Tomorrow (Dan Perkins), Joe Trippi, and Carol Wells.
 
-<div id="themify_builder_content-1709" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -24,7 +24,3 @@ I don&#8217;t know what&#8217;s worse, that the writing was in Persian, or that 
 
 UPDATE: <a href="http://newsobserver.com/24hour/nation/v-printer/story/1674795p-9433263c.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://newsobserver.com/24hour/nation/v-printer/story/1674795p-9433263c.html', 'Cat Stevens']);" >Cat Stevens</a> is on a government &#8220;no-fly&#8221; list.
 
-<div id="themify_builder_content-1873" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -55,7 +55,3 @@ It seems to me that scholars like Zizek are very good at maintaining the moral h
 
 Could &#8217;06 prove to be more revolutionary than &#8217;68? Or is it just a bunch of students defending their perks at the expense of recent immigrants? I don&#8217;t honestly know, but I do think that French capitalism will never look quite the same as that in England or America, or China for that matter. At least the French students are reminding us that we have a choice!
 
-<div id="themify_builder_content-2424" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

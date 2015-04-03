@@ -8,7 +8,3 @@ categories:
 ---
 I&#8217;ve interrupted my packing in light of reports that it looks like war. Time to stop talking and to <a href="http://www.unitedforpeace.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.unitedforpeace.org/', 'take to the streets']);" >take to the streets</a>. Hope to see everyone in DC on Jan. 18th!
 
-<div id="themify_builder_content-811" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

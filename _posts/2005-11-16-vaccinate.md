@@ -18,7 +18,3 @@ That&#8217;s <a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/4439080.stm"
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2351" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

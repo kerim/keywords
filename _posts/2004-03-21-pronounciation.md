@@ -12,7 +12,3 @@ LanguageHat <a href="http://www.languagehat.com/archives/001217.php" onclick="_g
 
 But who is Dr. Language? Mark Liberman of LanguageLog says it is Dr. Robert Beard, CEO of yourDictionary.com. After <a href="http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000279.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000279.html', 'drawing Dr. Beard&#8217;s attention']);" >drawing Dr. Beard&#8217;s attention</a> to errors in other such lists on the site, he received a reply from Dr. Beard, which he <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/000287.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/000287.html', 'posted to LanguageLog']);" >posted to LanguageLog</a>, along with some comments of his own.
 
-<div id="themify_builder_content-1588" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

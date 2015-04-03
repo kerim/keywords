@@ -12,7 +12,3 @@ There has been considerable discussion (see <a href="http://www.lessig.org/blog/
 
 He also eloquently defends the Massachusetts Supreme Court &#8220;anti-majoritarian&#8221; decision.
 
-<div id="themify_builder_content-1531" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

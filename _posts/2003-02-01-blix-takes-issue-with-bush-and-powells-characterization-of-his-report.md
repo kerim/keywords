@@ -24,7 +24,3 @@ categories:
 
 From the <a href="http://www.nytimes.com/2003/01/31/international/middleeast/31BLIX.html?pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/31/international/middleeast/31BLIX.html?pagewanted=all&position=top', 'NY Times']);" >NY Times</a>. And also posted to the No War Blog <a href="http://www.nowarblog.org/archives/000681.html#000681" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000681.html#000681', 'here']);" >here</a>.
 
-<div id="themify_builder_content-909" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

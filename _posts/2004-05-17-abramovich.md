@@ -11,7 +11,3 @@ categories:
 
 <a href="http://www.guardian.co.uk/russia/article/0,2763,1212245,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/russia/article/0,2763,1212245,00.html', 'Read this article']);" >Read this article</a> to find out. (via <a href="http://www.crookedtimber.org/archives/001824.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/001824.html', 'Crooked Timber']);" >Crooked Timber</a>.)
 
-<div id="themify_builder_content-1702" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

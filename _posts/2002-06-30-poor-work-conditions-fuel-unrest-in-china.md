@@ -20,7 +20,3 @@ categories:
 
 <a href="http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1025204375362&p=1012571727169" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1025204375362&p=1012571727169', 'FT.com / World / Asia-Pacific']);" >FT.com / World / Asia-Pacific</a>
 
-<div id="themify_builder_content-306" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

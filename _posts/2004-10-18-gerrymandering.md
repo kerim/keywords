@@ -42,7 +42,3 @@ There have also been two recent changes which are partially responsible for maki
 
 No system would be perfect, but we certainly deserve something better than what we have.
 
-<div id="themify_builder_content-1938" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

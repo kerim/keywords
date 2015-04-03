@@ -20,7 +20,3 @@ categories:
 
 The L.A. Times on how <a href="http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Dna%2Dsenate9mar09004511&section=%2Fnews%2Fnationworld%2Fnation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Dna%2Dsenate9mar09004511&section=%2Fnews%2Fnationworld%2Fnation', 'congress caved in']);" >congress caved in</a> to the President.
 
-<div id="themify_builder_content-1000" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

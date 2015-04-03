@@ -20,7 +20,3 @@ Here are the basic facts of the case (from the WP editorial):
 
 **UPDATE**: An interesting, somewhat related, article about <a href="http://www.independent.org/tii/news/031107Gasave.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.independent.org/tii/news/031107Gasave.html', 'Transit Visas']);" >Transit Visas</a>.
 
-<div id="themify_builder_content-1391" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.sunspot.net/templates/misc/printstory.jsp?slug=bal%2Dop%2Echapman03sep03" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sunspot.net/templates/misc/printstory.jsp?slug=bal%2Dop%2Echapman03sep03', 'Baltimore Sun']);" >Baltimore Sun</a>
 
-<div id="themify_builder_content-517" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

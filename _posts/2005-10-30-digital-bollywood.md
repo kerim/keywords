@@ -30,7 +30,3 @@ Of course, they *could* just make better films &#8230; &#8220;only one in 12 mov
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2334" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

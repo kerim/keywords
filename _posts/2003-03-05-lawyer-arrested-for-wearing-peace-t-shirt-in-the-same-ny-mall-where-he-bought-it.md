@@ -16,7 +16,3 @@ categories:
 
 <a href="http://abcnews.go.com/wire/US/reuters20030304_651.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://abcnews.go.com/wire/US/reuters20030304_651.html', 'Reuters']);" >Reuters</a>.
 
-<div id="themify_builder_content-988" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

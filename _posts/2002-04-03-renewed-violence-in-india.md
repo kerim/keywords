@@ -10,7 +10,3 @@ categories:
 
 New violence flairs up. Over 700 muslims have died in the riots to date &#8230;
 
-<div id="themify_builder_content-47" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

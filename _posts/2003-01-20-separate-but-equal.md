@@ -16,7 +16,3 @@ As Atrios says: &#8220;if race shouldn&#8217;t be a factor in admissions why sho
 
 <a href="http://atrios.blogspot.com/2003_01_19_atrios_archive.html#90207229" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/2003_01_19_atrios_archive.html#90207229', 'Atrios']);" >Atrios</a>
 
-<div id="themify_builder_content-865" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

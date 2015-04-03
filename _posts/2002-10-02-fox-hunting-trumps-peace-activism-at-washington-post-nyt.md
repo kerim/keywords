@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.fair.org/activism/london-protests.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fair.org/activism/london-protests.html', 'FAIR ACTION ALERT']);" >FAIR ACTION ALERT</a>
 
-<div id="themify_builder_content-607" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

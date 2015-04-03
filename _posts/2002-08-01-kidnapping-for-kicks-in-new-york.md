@@ -20,7 +20,3 @@ categories:
 
 <a href="http://news.bbc.co.uk/1/hi/world/americas/2163666.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/1/hi/world/americas/2163666.stm', 'BBC NEWS | World | Americas | Kidnapping for kicks in New York']);" >BBC NEWS | World | Americas | Kidnapping for kicks in New York</a>
 
-<div id="themify_builder_content-383" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

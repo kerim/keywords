@@ -12,7 +12,3 @@ More at <a href="http://blog.shashwati.com/index.php?p=24" onclick="_gaq.push(['
 
 Meanwhile, <a href="http://www.bismarcktribune.com/articles/2004/08/13/news/life/lif01.txt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bismarcktribune.com/articles/2004/08/13/news/life/lif01.txt', 'will Christ play Superman']);" >will Christ play Superman</a>?
 
-<div id="themify_builder_content-1801" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

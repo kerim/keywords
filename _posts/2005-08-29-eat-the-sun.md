@@ -37,9 +37,6 @@ They even have recipes. More recipes for solar cooking can be found <a href="htt
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2280" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: solarcooking.org

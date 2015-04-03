@@ -28,7 +28,3 @@ I eventually found a solution which works for me on Apple&#8217;s support forums
   UPDATE: Hmmm. Immediately after post this, the printer stopped working again&#8230; Should have kept my mouth shut!
 </div>
 
-<div id="themify_builder_content-2914" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

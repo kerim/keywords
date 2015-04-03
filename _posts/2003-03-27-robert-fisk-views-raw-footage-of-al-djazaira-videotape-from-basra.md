@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www2.arabnews.com/Article.asp?ID=24414" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www2.arabnews.com/Article.asp?ID=24414', 'ArabNews.com']);" >ArabNews.com</a>
 
-<div id="themify_builder_content-1035" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

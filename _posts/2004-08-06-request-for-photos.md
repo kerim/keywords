@@ -18,7 +18,3 @@ Organizers of an exhibition in Australia are <a href="http://www.whentheworldsai
 > 
 > The project is not politically aligned and all funds raised will be put back into the project.
 
-<div id="themify_builder_content-1787" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

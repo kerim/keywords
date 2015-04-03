@@ -12,7 +12,3 @@ Everything you ever wanted to know about <a href="http://www.halliburtonwatch.or
 
 More on (the lack of) <a href="http://keywords.oxus.net/archives/000262.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000262.html', 'accountability']);" >accountability</a> in the U.S. military.
 
-<div id="themify_builder_content-1817" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

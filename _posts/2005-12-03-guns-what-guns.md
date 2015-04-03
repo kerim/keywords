@@ -56,7 +56,3 @@ However, it is not clear that this protection extends to the Walker Center&#8217
 
 While viewing Oldenburg and van Bruggen&#8217;s *Spoonbridge and Cherry*, therefore, I made sure to maintain my sang-froid.
 
-<div id="themify_builder_content-2367" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

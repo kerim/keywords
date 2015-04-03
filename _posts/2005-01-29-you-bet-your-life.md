@@ -65,7 +65,3 @@ Dwan&#8217;s family suggests that memorial donations be sent to <a href="http://
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/groucho marx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/groucho marx', 'groucho marx']);"  rel="tag">groucho marx</a>, <a href="http://technorati.com/tag/robert dwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/robert dwan', 'robert dwan']);"  rel="tag">robert dwan</a>, <a href="http://technorati.com/tag/obituary" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/obituary', 'obituary']);"  rel="tag">obituary</a>}</span>
 </div>
 
-<div id="themify_builder_content-2032" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

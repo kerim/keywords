@@ -10,7 +10,3 @@ categories:
 
 About 800,000 refugees fled their homes during the first Arab-Israeli war of 1948. A United Nations resolution, No. 194, passed that year, said they could go home or receive compensation once all area nations were living at peace with their neighbors. &#8230; The Palestinian refugee population has grown to 3.9 million, and 32 percent live in camps, according to the United Nations Relief and Works Agency, established in 1949 to provide basic services like medical care and schooling.
 
-<div id="themify_builder_content-83" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

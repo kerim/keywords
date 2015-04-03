@@ -23,7 +23,3 @@ In 2000 Ann wrote <a href="http://taipeitimes.com/News/edit/archives/2000/11/27/
 
 UPDATE: It is worth reading how Konrad chose <a href="http://www.muninn.net/blog/archives/week_2003_01_12.html#000004" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.muninn.net/blog/archives/week_2003_01_12.html#000004', 'the name of his site']);" >the name of his site</a>.
 
-<div id="themify_builder_content-1661" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

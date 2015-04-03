@@ -10,7 +10,3 @@ categories:
 
 The Chinese authorities have detained thousands of Muslims in Xinjiang region in the north-west since September 11, claiming that local separatists are linked to Osama bin Laden and al-Qaida, Amnesty International said yesterday.
 
-<div id="themify_builder_content-4" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -15,7 +15,3 @@ format: link
 ---
 > …over the years I’ve compiled a mental inventory of the various ways in which people [in Taiwan] respond to the challenge of having to talk to a foreigner. What follows is a list of seven ways strangers react when they have to talk to me…
 
-<div id="themify_builder_content-3194" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -21,7 +21,3 @@ categories:
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/afghanistan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/afghanistan', 'afghanistan']);"  rel="tag">afghanistan</a>, <a href="http://technorati.com/tag/photographs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photographs', 'photographs']);"  rel="tag">photographs</a>, <a href="http://technorati.com/tag/photos" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photos', 'photos']);"  rel="tag">photos</a>, <a href="http://technorati.com/tag/photography" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photography', 'photography']);"  rel="tag">photography</a>, <a href="http://technorati.com/tag/archaeology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/archaeology', 'archaeology']);"  rel="tag">archaeology</a>, <a href="http://technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/war', 'war']);"  rel="tag">war</a>, <a href="http://technorati.com/tag/chronotope" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/chronotope', 'chronotope']);"  rel="tag">chronotope</a>}</span>
 </div>
 
-<div id="themify_builder_content-2059" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -24,7 +24,3 @@ I&#8217;m happy to say that we are already one third of the way to meeting our g
 
 Thank you!
 
-<div id="themify_builder_content-2329" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

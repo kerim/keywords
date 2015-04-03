@@ -20,7 +20,3 @@ This is what I thought &#8211; although <a href="http://www.dailykos.com/archive
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1150" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

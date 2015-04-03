@@ -13,7 +13,3 @@ On the heels of a post in which I <a href="http://keywords.oxus.net/archives/000
 
 He draws on two military reports to justify his argument. The first is by the RAND organization and is called: &#8220;The Urbanization of Insurgency.&#8221; The second is by Air Force theorist Captain Troy Thomas, and is entitled: &#8220;Slumlords: Aerospace Power in Urban Fights.&#8221;
 
-<div id="themify_builder_content-1652" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

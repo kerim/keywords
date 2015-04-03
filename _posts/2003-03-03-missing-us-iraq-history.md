@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.consortiumnews.com/2003/022703a.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.consortiumnews.com/2003/022703a.html', 'Consortium News']);" >Consortium News</a>
 
-<div id="themify_builder_content-984" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

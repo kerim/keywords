@@ -18,9 +18,6 @@ From the [Washington Post][1]:
 
 But this last bit shouldn&#8217;t be news to anyone! Not only is it old news, but guess who was the largest recipient of US military aid (via Pakistan&#8217;s ISI) during the war against the Soviets?
 
-<div id="themify_builder_content-1069" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: URL

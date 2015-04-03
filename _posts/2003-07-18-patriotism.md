@@ -18,7 +18,3 @@ From <a href="http://www.garyhartnews.com/hart/blog/archives/000021.php" onclick
 
 And be sure to read his <a href="http://www.garyhartnews.com/hart/blog/archives/000022.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.garyhartnews.com/hart/blog/archives/000022.php', 'latest post']);" >latest post</a> on Iraq.
 
-<div id="themify_builder_content-1257" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -21,7 +21,3 @@ Please see my site for links to <a href="http://wiki.oxus.net/Taiwan_Timeline#Ot
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2296" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

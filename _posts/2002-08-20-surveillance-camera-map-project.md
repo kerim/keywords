@@ -14,7 +14,3 @@ They have a map of all the surveillance cameras in Manhattan!
 
 <a href="http://www.eyebeam.org/ny/workshop1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.eyebeam.org/ny/workshop1.html', 'Workshop Week I']);" >Workshop Week I</a>
 
-<div id="themify_builder_content-472" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

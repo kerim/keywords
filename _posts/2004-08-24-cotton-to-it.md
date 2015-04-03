@@ -25,7 +25,3 @@ Read <a href="http://www.washingtonpost.com/wp-dyn/articles/A10047-2004Aug18.htm
 
 Try the experiment yourself: <a href="http://designsonthewhitehouse.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://designsonthewhitehouse.com/', 'Buy a Kerry T-shirt']);" >Buy a Kerry T-shirt</a>!
 
-<div id="themify_builder_content-1828" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

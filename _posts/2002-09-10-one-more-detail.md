@@ -20,7 +20,3 @@ categories:
 
 <a href="http://bodyandsoul.blogspot.com/2002_09_08_bodyandsoul_archive.html#81334228" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.blogspot.com/2002_09_08_bodyandsoul_archive.html#81334228', 'Body and Soul']);" >Body and Soul</a>
 
-<div id="themify_builder_content-529" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -24,7 +24,3 @@ Meanwhile:
 
 <a href="http://www.taipeitimes.com/News/front/archives/2003/05/07/204957" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/front/archives/2003/05/07/204957', 'Taipei Times']);" >Taipei Times</a>
 
-<div id="themify_builder_content-1154" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

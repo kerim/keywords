@@ -10,7 +10,3 @@ categories:
 
 Please note, that while the University of California is &#8220;investigating&#8221; and &#8220;only considering&#8221; suspension, these measures are a prelude to worse sanctions, not to mention only applied to SJP (even though many student groups have participated in and conducted civil disobedience on campus).
 
-<div id="themify_builder_content-99" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

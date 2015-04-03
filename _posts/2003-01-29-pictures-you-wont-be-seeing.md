@@ -22,7 +22,3 @@ Interestingly, Bush&#8217;s the following is now commonly being stated as Bush&#
 
 That is, it is about oil &#8211; but not in the strictly economic sense of making Bush and his pals rich. If true, I continue to find it remarkable how *idealistic* so-called *cynical* conservatives really are. They, despite the history of similar plans throughout South America (**the** place to look for anti-US sentiment), still think that Democracy and Pro-US sentiment can be **imposed** from above&#8230;by bombs no-less. Now how foolish is that?
 
-<div id="themify_builder_content-900" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

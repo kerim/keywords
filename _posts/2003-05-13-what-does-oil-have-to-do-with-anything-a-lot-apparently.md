@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.theolympian.com/home/news/20030511/frontpage/2847_Printer.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.theolympian.com/home/news/20030511/frontpage/2847_Printer.shtml', 'The Olympian']);" >The Olympian</a>
 
-<div id="themify_builder_content-1178" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

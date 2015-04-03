@@ -16,7 +16,3 @@ From the<a href="http://news.independent.co.uk/world/middle_east/story.jsp?story
 >   In accordance with my USMC training, I&#8217;d always been told that ALL chemical weapons, including non-lethal &#8220;riot control style&#8221; agents were strictly forbidden in combat according to the UN Chemical Weapons Convention.
 > </div>
 
-<div id="themify_builder_content-1050" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

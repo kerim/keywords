@@ -47,7 +47,3 @@ As far as how the speech is remembered today, according to <a href="http://en.wi
 
 > &#8230; it is according to the dictates of time and fate that We have resolved to pave the way for a grand peace for all the generations to come by enduring the unendurable and suffering what is unsufferable.
 
-<div id="themify_builder_content-2771" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

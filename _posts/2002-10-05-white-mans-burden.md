@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.opendemocracy.net/forum/document_details.asp?CatID=98&DocID=1826" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.opendemocracy.net/forum/document_details.asp?CatID=98&DocID=1826', 'Document Details']);" >Document Details</a>
 
-<div id="themify_builder_content-622" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

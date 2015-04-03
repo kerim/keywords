@@ -32,7 +32,3 @@ categories:
 
 <a href="http://www.dailykos.com/archives/002484.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dailykos.com/archives/002484.html', 'Daily Kos']);" >Daily Kos</a>
 
-<div id="themify_builder_content-1126" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

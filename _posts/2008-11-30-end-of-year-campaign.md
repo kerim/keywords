@@ -19,7 +19,3 @@ We&#8217;ve already raised $700 towards this year&#8217;s goal. Please help us r
 
 
 
-<div id="themify_builder_content-2812" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

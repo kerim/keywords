@@ -22,7 +22,3 @@ categories:
 
 That article, along with this one &#8220;A couple weeks ago a Bush appointee at the Department of Veterans Affairs, Laura J. Miller, sent out a memo to local administrators telling them to stop healthcare outreach programs to vets so that the Department could save money.&#8221; were both found on the <a href="http://www.talkingpointsmemo.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkingpointsmemo.com/', 'Talking Points Memo']);" >Talking Points Memo</a> blog.
 
-<div id="themify_builder_content-375" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

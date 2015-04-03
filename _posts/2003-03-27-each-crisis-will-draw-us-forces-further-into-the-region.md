@@ -12,7 +12,3 @@ categories:
 
 Some scary thoughts from <a href="http://www.washingtonmonthly.com/features/2003/0304.marshall.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/features/2003/0304.marshall.html', 'Joshua Micah Marshall']);" >Joshua Micah Marshall</a>.
 
-<div id="themify_builder_content-1034" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

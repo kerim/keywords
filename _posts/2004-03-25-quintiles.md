@@ -12,7 +12,3 @@ So says Esther Cervantes and Amy Gluckman in the<a href="http://www.dollarsandse
 
 > In 2000, a majority of voters in the lowest *four out of five* income quintiles reported choosing the Democratic candidate. In 1980, a majority of voters in *three out of five* income quintiles reported choosing the Democratic candidate, and the fourth quintile was nearly tied. Low- and middle-income people are far less likely to vote, however. As the table shows, the GSS data suggest that there is typically a 25 to 30 percentage-point gap in participation between the lowest and highest income quintiles. The data for every election show a clear pattern: turnout and the portion of the vote going to the Republican candidate both rise as income increases.
 
-<div id="themify_builder_content-1596" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

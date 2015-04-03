@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.notinourname.net/oct6_02_nyc.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.notinourname.net/oct6_02_nyc.html', 'Not in Our Name Oct 6, 2002 &#8211; NYC']);" >Not in Our Name Oct 6, 2002 &#8211; NYC</a>
 
-<div id="themify_builder_content-616" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

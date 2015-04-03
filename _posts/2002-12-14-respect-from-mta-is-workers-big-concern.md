@@ -34,7 +34,3 @@ The NY Times actually reported the worker&#8217;s side of the story. Although 33
 
 <a href="http://www.nytimes.com/2002/12/14/nyregion/14VOIC.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/12/14/nyregion/14VOIC.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-793" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

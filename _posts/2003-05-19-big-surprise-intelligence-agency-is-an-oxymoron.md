@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.washingtonpost.com/ac2/wp-dyn/A40212-2003May10?language=printer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/ac2/wp-dyn/A40212-2003May10?language=printer', 'Washington Post']);" >Washington Post</a>
 
-<div id="themify_builder_content-1187" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

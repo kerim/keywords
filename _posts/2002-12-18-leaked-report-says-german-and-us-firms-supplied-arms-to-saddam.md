@@ -12,7 +12,3 @@ categories:
 
 <a href="http://news.independent.co.uk/world/politics/story.jsp?story=362566" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.independent.co.uk/world/politics/story.jsp?story=362566', 'The Independent UK']);" >The Independent UK</a>
 
-<div id="themify_builder_content-803" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

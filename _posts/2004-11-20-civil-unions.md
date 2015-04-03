@@ -19,7 +19,3 @@ It turns out that many of the states which banned same-sex marriage <a href="htt
 
 (via <a href="http://www.washingtonmonthly.com/archives/individual/2004_11/005187.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2004_11/005187.php', 'Kevin Drum']);" >Kevin Drum</a>)
 
-<div id="themify_builder_content-1993" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

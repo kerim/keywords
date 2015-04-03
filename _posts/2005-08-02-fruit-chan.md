@@ -26,7 +26,3 @@ NOTE: &#8220;Fruit&#8221; is a literal translation of his Chinese name, but I su
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2262" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

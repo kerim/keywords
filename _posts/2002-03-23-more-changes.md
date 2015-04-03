@@ -18,7 +18,3 @@ I also changed the name of the mailing list, you should see the updated informat
 
 I hope this all works!
 
-<div id="themify_builder_content-2" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

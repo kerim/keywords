@@ -14,7 +14,3 @@ In case you missed it:
 
 <a href="http://story.news.yahoo.com/news?tmpl=story2&u=/afp/20030325/wl_mideast_afp/iraq_postwar_us_oil&e=5" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://story.news.yahoo.com/news?tmpl=story2&u=/afp/20030325/wl_mideast_afp/iraq_postwar_us_oil&e=5', 'Yahoo news']);" >Yahoo news</a>.
 
-<div id="themify_builder_content-1029" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

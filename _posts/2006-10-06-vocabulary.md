@@ -32,7 +32,3 @@ UPDATE: Google now offers the ability to do a <a href="http://pinyin.info/news/2
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2522" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

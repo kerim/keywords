@@ -23,7 +23,3 @@ I can&#8217;t read this, but I think its his <a href="http://www.inouej1.com/syu
 
 (via <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/001515.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/001515.html', 'LanguageLog']);" >LanguageLog</a>)
 
-<div id="themify_builder_content-1900" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

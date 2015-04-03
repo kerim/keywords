@@ -8,7 +8,3 @@ categories:
 ---
 <a href="http://tbogg.blogspot.com/2003_03_23_tbogg_archive.html#91562466" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://tbogg.blogspot.com/2003_03_23_tbogg_archive.html#91562466', 'This']);" >This</a> is a great post about the Washington Post&#8217;s columnist, Charles Krauthammer. It shows the arguments he is using to support war in Iraq, and the arguments he made against Clinton&#8217;s involvement in Haiti. Very revealing. (Thanks to <a href="http://atrios.blogspot.com/2003_03_23_atrios_archive.html#200061934" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/2003_03_23_atrios_archive.html#200061934', 'Atrios']);" >Atrios</a>, for the link.)
 
-<div id="themify_builder_content-1041" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

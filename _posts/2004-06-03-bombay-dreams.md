@@ -16,7 +16,3 @@ Thomas Meehan? There are so many talented South Asian writers in New York, could
 
 > For a Broadway show set in Bombay that has arrived by way of London, this musical winds up suggesting another provenance altogether: Las Vegas, land of the flashy floor show and simulacra of foreign metropolises, where live entertainment exists mostly as lavish background noise.
 
-<div id="themify_builder_content-1726" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

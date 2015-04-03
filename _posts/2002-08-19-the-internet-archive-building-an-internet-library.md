@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.archive.org/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.archive.org/index.html', 'The Internet Archive: Building an &#8216;Internet Library&#8217;']);" >The Internet Archive: Building an &#8216;Internet Library&#8217;</a>
 
-<div id="themify_builder_content-461" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

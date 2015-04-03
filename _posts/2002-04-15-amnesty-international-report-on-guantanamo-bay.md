@@ -10,7 +10,3 @@ categories:
 
 &#8220;The US government must ensure that all its actions in relation to those in its custody in Afghanistan and Guant?
 
-<div id="themify_builder_content-76" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

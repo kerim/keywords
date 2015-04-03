@@ -12,7 +12,3 @@ Newsweek <a href="http://www.msnbc.com/news/869606.asp?" onclick="_gaq.push(['_t
 >   Biowar experts concede that no scheme is too crazy for Saddam. Still, they say, truck-mounted labs would be all but unworkable. The required ventilation systems would make them instantly recognizable from above, and they would need special facilities to safely dispose of their deadly wastes. A routine highway accident could be catastrophic. And U.S. intelligence, after years of looking for them, has never found even one.
 > </div>
 
-<div id="themify_builder_content-959" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

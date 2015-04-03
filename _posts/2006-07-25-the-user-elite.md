@@ -60,7 +60,3 @@ There have been some serious efforts to gather high quality original news conten
 
 Sites like Wikinews and Global Voices have an increasingly important role to play, but I&#8217;m serious when I say that Netscape should be paying people to produce content, not to consume it. We really don&#8217;t need more consumers pre-digesting our meals for us&#8230;
 
-<div id="themify_builder_content-2494" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ Israeli troops have taken over Yasser Arafat&#8217;s headquarters, switched off 
 
 <a href="http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1901000/1901251.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1901000/1901251.stm', '(Also, the BBC)']);" >(Also, the BBC)</a>
 
-<div id="themify_builder_content-37" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ A very happy year of the (Mickey) mouse to everyone from Taiwan!
 
 PS: Its worth noting that this is not a pirated product, but an authentic Disney product marked with a hologram to that effect. Disney must be raking it in this year!
 
-<div id="themify_builder_content-2788" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

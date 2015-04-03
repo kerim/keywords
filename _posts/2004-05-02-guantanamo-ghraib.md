@@ -13,7 +13,3 @@ I hope the US Supreme Court <a href="http://www.washingtonpost.com/wp-dyn/articl
 
 (via <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2004_05_02.html#001502" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2004_05_02.html#001502', 'This Modern World']);" >This Modern World</a>)
 
-<div id="themify_builder_content-1670" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

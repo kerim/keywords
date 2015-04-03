@@ -17,7 +17,3 @@ format: quote
 
 via <a href="http://amitavghosh.com/blog/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://amitavghosh.com/blog/', 'Amitav Ghosh']);" >Amitav Ghosh</a>.
 
-<div id="themify_builder_content-3321" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

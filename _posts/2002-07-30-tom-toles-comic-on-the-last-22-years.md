@@ -8,7 +8,3 @@ categories:
 ---
 <a href="http://www.ucomics.com/tomtoles/2002/07/28/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ucomics.com/tomtoles/2002/07/28/', 'Welcome to uComics Web Site featuring Tom Toles']);" >Welcome to uComics Web Site featuring Tom Toles</a>
 
-<div id="themify_builder_content-371" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -15,7 +15,3 @@ UPDATE: More at <a href="http://econ4dean.typepad.com/lerxst/2004/06/farenheit_9
 
 > . . . we are finally seeing the other reality that so far has largely been ignored. Real civilians died in Iraq and real people wept of the loss of their loved ones. No amount of spinning can change this reality. As long as the footage is real, Moore has done us a service. He has provided a humanist perspective.
 
-<div id="themify_builder_content-1754" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ I earlier suggested we should adopt India&#8217;s practice of referring to the b
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2411" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.csmonitor.com/2002/0726/p01s03-usju.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.csmonitor.com/2002/0726/p01s03-usju.html', 'csmonitor.com']);" >csmonitor.com</a>
 
-<div id="themify_builder_content-363" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

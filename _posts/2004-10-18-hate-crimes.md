@@ -19,7 +19,3 @@ Boy <a href="http://dneiwert.blogspot.com/archives/2004_10_17_dneiwert_archive.h
 
 <a href="http://dneiwert.blogspot.com/archives/2004_10_17_dneiwert_archive.html#109789867624720698" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dneiwert.blogspot.com/archives/2004_10_17_dneiwert_archive.html#109789867624720698', 'Read the whole thing']);" >Read the whole thing</a>! Learn how Republicans have scuttled hate crimes legislation that would protect lesbians and gays from real violence.
 
-<div id="themify_builder_content-1937" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

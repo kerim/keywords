@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.applelinks.com/articles/2003/03/20030328160106.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.applelinks.com/articles/2003/03/20030328160106.shtml', 'AppleLinks']);" >AppleLinks</a>
 
-<div id="themify_builder_content-1051" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

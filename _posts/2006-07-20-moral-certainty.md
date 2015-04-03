@@ -18,7 +18,3 @@ A <a href="http://www.washingtonmonthly.com/archives/individual/2006_07/009204.p
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2489" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ Now back to work&#8230;
 
 UPDATE: The comic I linked to is actually the end of a several-part narrative which <a href="http://www.phdcomics.com/comics/archive.php?comicid=499" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.phdcomics.com/comics/archive.php?comicid=499', 'starts here']);" >starts here</a>. There is also a &#8220;soundtrack&#8221; at the bottom!
 
-<div id="themify_builder_content-1885" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

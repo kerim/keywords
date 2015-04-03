@@ -12,7 +12,3 @@ Leo Ching
 
 <a href="http://depts.washington.edu/position/8_3.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://depts.washington.edu/position/8_3.html', '8:3 Visual Cultures of Japanese Imperialism']);" >8:3 Visual Cultures of Japanese Imperialism</a>
 
-<div id="themify_builder_content-274" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ format: quote
 
 Whatever you think of Jonah Lehrer&#8217;s <a href="http://www.jonahlehrer.com/2013/02/my-apology/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jonahlehrer.com/2013/02/my-apology/', 'apology']);" >apology</a>, this is a wonderful little tidbit. I wonder, though, if Darwin really did this &#8220;without fail&#8221;?
 
-<div id="themify_builder_content-3336" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

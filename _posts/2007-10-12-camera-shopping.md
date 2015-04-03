@@ -42,7 +42,3 @@ UPDATE: I forgot to link to visual anthropologist <a href="http://www.photoethno
 
 UPDATE: Fixed comparison link below the photo.
 
-<div id="themify_builder_content-2748" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

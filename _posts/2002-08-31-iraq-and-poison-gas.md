@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.thenation.com/docPrint.mhtml?i=special&s=hiro20020828" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thenation.com/docPrint.mhtml?i=special&s=hiro20020828', 'The Nation']);" >The Nation</a>
 
-<div id="themify_builder_content-498" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

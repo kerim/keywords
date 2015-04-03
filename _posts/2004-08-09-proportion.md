@@ -12,7 +12,3 @@ Mike has taken the electoral vote map from <a href="http://www.electoral-vote.co
 
 Certainly gives you a different perspective!
 
-<div id="themify_builder_content-1793" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

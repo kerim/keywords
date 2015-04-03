@@ -25,7 +25,3 @@ When the KMT were driven out of the Shan state the trade was taken over by warlo
 
 Further information: <a href="http://en.wikipedia.org/wiki/Chinese_Civil_War#Relationship_between_the_two_sides_since_1950" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Chinese_Civil_War#Relationship_between_the_two_sides_since_1950', 'Wikipedia']);" >Wikipedia</a>, <a href="http://www.chinahistoryforum.com/index.php?showtopic=1704" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.chinahistoryforum.com/index.php?showtopic=1704', 'China History Forum']);" >China History Forum</a>, <a href="http://www.time.com/time/asia/covers/1101021216/story2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.time.com/time/asia/covers/1101021216/story2.html', 'Time Magazine']);" >Time Magazine</a>.
 
-<div id="themify_builder_content-2802" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

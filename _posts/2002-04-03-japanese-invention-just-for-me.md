@@ -10,7 +10,3 @@ categories:
 
 The Japanese have come up with exactly the thing I would need if I am ever going to sing in a Taiwanese KTV!
 
-<div id="themify_builder_content-45" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

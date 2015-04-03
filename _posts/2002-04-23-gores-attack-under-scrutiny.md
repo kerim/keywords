@@ -10,7 +10,3 @@ categories:
 
 A good critical assessment of Al Gore&#8217;s Earth Day Op-Ed in the NYTimes this past Saturday, in which he accused &#8220;President Bush of jettisoning Robert Watson, head of the United Nations&#8217; Intergovernmental Panel on Climate Change, at the behest of an oil company.&#8221;
 
-<div id="themify_builder_content-94" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ It is pretty funny. I don&#8217;t think they had any press this year (Rebecca Ro
 
 Maybe it will, but probably not in the way that they intended.
 
-<div id="themify_builder_content-1665" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

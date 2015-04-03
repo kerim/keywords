@@ -10,7 +10,3 @@ categories:
 
 A profile of &#8220;Ismail Khan, the powerful governor in western Afghanistan who American officials fear is being courted by Iranian hard-liners.&#8221;
 
-<div id="themify_builder_content-50" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

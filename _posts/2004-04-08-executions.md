@@ -12,7 +12,3 @@ categories:
 
 (Via <a href="http://cursor.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://cursor.org/', 'Cursor.org']);" >Cursor.org</a>)
 
-<div id="themify_builder_content-1624" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ Could someone please explain to me how, when we can see all the way to other gal
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2257" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

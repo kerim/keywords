@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.remodern.com/caught.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.remodern.com/caught.html', 'Mac Addicts to the Rescue']);" >Mac Addicts to the Rescue</a>
 
-<div id="themify_builder_content-785" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

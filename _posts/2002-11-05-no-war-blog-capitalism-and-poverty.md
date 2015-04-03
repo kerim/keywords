@@ -16,7 +16,3 @@ Read my debate with Radley Balko of Foxnews.com:
 
 This was triggered by several people&#8217;s comments in <a href="http://www.nowarblog.org/archives/000083.html#000083" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000083.html#000083', 'this']);" >this</a> very bizzare discussion.
 
-<div id="themify_builder_content-714" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

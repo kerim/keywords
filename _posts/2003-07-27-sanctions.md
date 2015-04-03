@@ -65,7 +65,3 @@ Where things get murky, however is when it comes to &#8220;containment.&#8221; F
 
 Note: <a href="http://www.cesr.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cesr.org/', 'CESR']);" >CESR</a> and other organizations fought long and hard against the sanctions. Here is a link to a <a href="http://www.cesr.org/text%20files/iraqecon.PDF" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cesr.org/text%20files/iraqecon.PDF', '1997 report']);" >1997 report</a> that they wrote documenting the effects of the sanctions on ordinary Iraqis. (PDF file)
 
-<div id="themify_builder_content-1265" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

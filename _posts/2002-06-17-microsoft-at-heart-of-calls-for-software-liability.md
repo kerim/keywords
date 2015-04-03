@@ -16,7 +16,3 @@ categories:
 
 <a href="http://story.news.yahoo.com/news?tmpl=story&cid=581&ncid=738&e=4&u=/nm/20020616/tc_nm/liability_microsoft_dc_1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://story.news.yahoo.com/news?tmpl=story&cid=581&ncid=738&e=4&u=/nm/20020616/tc_nm/liability_microsoft_dc_1', 'Yahoo! News &#8211; Microsoft at Heart of Calls for Software Liability']);" >Yahoo! News &#8211; Microsoft at Heart of Calls for Software Liability</a>
 
-<div id="themify_builder_content-237" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

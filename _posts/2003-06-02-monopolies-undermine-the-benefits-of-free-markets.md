@@ -18,7 +18,3 @@ Guess what &#8211; media monopolies are not good for democracy, or capitalism.
 
 <a href="http://www.prospect.org/webfeatures/2003/05/kuttner-r-05-29.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2003/05/kuttner-r-05-29.html', 'This']);" >This</a> was written last week, and now it has <a href="http://reuters.com/newsArticle.jhtml?type=politicsNews&#38;storyID=2863139" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://reuters.com/newsArticle.jhtml?type=politicsNews&storyID=2863139', 'already happened']);" >already happened</a>, but it isn&#8217;t too late to <a href="http://www.ruminatethis.com/archives/001394.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ruminatethis.com/archives/001394.html', 'fight back']);" >fight back</a>.
 
-<div id="themify_builder_content-1222" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

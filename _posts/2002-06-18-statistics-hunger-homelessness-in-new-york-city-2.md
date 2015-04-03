@@ -56,7 +56,3 @@ categories:
 
 <a href="http://www.ysop.org/statistics.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ysop.org/statistics.htm', 'Statistics &#8211; Hunger & Homelessness In New York City']);" >Statistics &#8211; Hunger & Homelessness In New York City</a>
 
-<div id="themify_builder_content-3085" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,9 +12,6 @@ Also, if you would like to receive a single e-mail message each day with all of 
 
 And even though it is a little besides-the-point now, please take a look at the <a href="http://www.nowarwikki.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarwikki.org/', 'NoWarWikki']);" >NoWarWikki</a>. If you have your own site please link to this site and the NoWarWikki. Thanks!
 
-<div id="themify_builder_content-1046" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: URL

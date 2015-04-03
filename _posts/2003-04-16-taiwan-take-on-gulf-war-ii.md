@@ -14,7 +14,3 @@ In Taiwan, Gulf War II was seen by the military as a model of what an invasion f
 
 In the <a href="http://www.taipeitimes.com/News/taiwan/archives/2003/04/16/202262" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2003/04/16/202262', 'Taipei Times']);" >Taipei Times</a>
 
-<div id="themify_builder_content-1093" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

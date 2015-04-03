@@ -28,10 +28,7 @@ And it isn&#8217;t the just the mainstream media reporting this &#8211; the poli
 
 We were in NY today and I&#8217;d say it was half-a-million people. That&#8217;s just based on the fact that there was a huge mass of people stretching for more than a mile, and more people arriving when we got cold and left at 2:20.
 
-<div id="themify_builder_content-960" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: URL
  [2]: http://www.cnn.com/2003/US/02/15/sprj.irq.protests.main/index.html

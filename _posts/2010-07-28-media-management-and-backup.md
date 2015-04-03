@@ -32,7 +32,3 @@ NOTES
 
 3. The eSATA version of the inXtron NT2 (the &#8220;Super-S Combo&#8221;) does not allow drives to function independently, without a RAID, the 800+ does. In Taiwan I recommend <a href="http://www.heyshopping.com.tw/index.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.heyshopping.com.tw/index.asp', 'byja.com']);" >byja.com</a> for getting firewire RAID enclosures.
 
-<div id="themify_builder_content-2874" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

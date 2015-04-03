@@ -14,7 +14,3 @@ I hope this is a joke:
 
 There seems to be a fairly wide consensus that the reason the Democrats are doing so badly is because they are no longer distinguishable from republicans on most issues. <a href="http://www.prospect.org/webfeatures/2002/12/stevens-a-12-12.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/12/stevens-a-12-12.html', 'This article']);" >This article</a> shows that Landrieu had to work to differentiate herself before she could win Louisiana. But, as many have pointed out, <a href="http://www.prospect.org/webfeatures/2002/12/stevens-a-12-12.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/12/stevens-a-12-12.html', 'Liberman']);" >Liberman</a> is practically a republican. In fact, he was elected because the Conn. republican establishment felt that their candidate was too liberal, and chose to support Liberman instead! As much as I dislike Gore, he has been working hard to differentiate himself on a host of issues (including editing a book with pictures of &#8220;non-traditional&#8221; families). Lieberman is to the right of Gore &#8230;
 
-<div id="themify_builder_content-796" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

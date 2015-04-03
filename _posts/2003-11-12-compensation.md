@@ -29,7 +29,3 @@ categories:
 
 Read <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_11_09.html#001201" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2003_11_09.html#001201', 'the whole exchange']);" >the whole exchange</a> &#8211; it gets even better.
 
-<div id="themify_builder_content-1393" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

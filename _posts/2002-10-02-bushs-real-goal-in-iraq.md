@@ -18,7 +18,3 @@ Although this sounds like a conspiracy theory &#8211; it is really just from a U
 
 <a href="http://www.accessatlanta.com/ajc/opinion/0902/29bookman.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.accessatlanta.com/ajc/opinion/0902/29bookman.html', 'ajc.com']);" >ajc.com</a>
 
-<div id="themify_builder_content-604" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

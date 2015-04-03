@@ -18,7 +18,3 @@ This is an important point that is very rarely made in the media. In this 2000 i
 
 <a href="http://www.zmag.org/meastwatch/for_jews_only.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.zmag.org/meastwatch/for_jews_only.htm', 'For Jews Only']);" >For Jews Only</a>
 
-<div id="themify_builder_content-174" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

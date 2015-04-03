@@ -16,7 +16,3 @@ categories:
 
 <a href="http://news.bbc.co.uk/2/hi/technology/2193275.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/technology/2193275.stm', 'BBC NEWS | Technology']);" >BBC NEWS | Technology</a>
 
-<div id="themify_builder_content-471" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -32,7 +32,3 @@ NOTE: I don&#8217;t speak Spanish, so let me know if there are any mistakes!
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/words" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/words', 'words']);"  rel="tag">words</a>, <a href="http://technorati.com/tag/kidnappable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/kidnappable', 'kidnappable']);"  rel="tag">kidnappable</a>, <a href="http://technorati.com/tag/secuestrable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/secuestrable', 'secuestrable']);"  rel="tag">secuestrable</a>, <a href="http://technorati.com/tag/colombia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/colombia', 'colombia']);"  rel="tag">colombia</a>}</span>
 </div>
 
-<div id="themify_builder_content-2129" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

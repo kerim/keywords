@@ -13,7 +13,3 @@ Sheesh, make <a href="http://en.wikipedia.org/w/index.php?title=Taiwanese_aborig
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/wikipedia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wikipedia', 'wikipedia']);"  rel="tag">wikipedia</a>, <a href="http://technorati.com/tag/photo" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photo', 'photo']);"  rel="tag">photo</a>}</span>
 </div>
 
-<div id="themify_builder_content-2110" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

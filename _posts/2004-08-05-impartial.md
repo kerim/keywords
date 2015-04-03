@@ -10,7 +10,3 @@ From Teller&#8217;s <a href="http://nytimes.com/2004/08/01/books/review/01TELLER
 
 > Finally, in the interest of full disclosure: six times a week onstage in Las Vegas, Penn fires a .357 Magnum revolver at my face. It&#8217;s a trick. I end up alive and healthy with the bullet neatly caught between my teeth. I survive, in large part, because Penn always does his part of the trick correctly. I assure you, however, this would never skew my view of Penn&#8217;s literary achievement.
 
-<div id="themify_builder_content-1785" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

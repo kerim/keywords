@@ -24,7 +24,3 @@ But that is already creating <a href="http://www.timesdaily.com/apps/pbcs.dll/ar
 
 Thanks to <a href="http://atrios.blogspot.com/2003_04_20_atrios_archive.html#200185169" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/2003_04_20_atrios_archive.html#200185169', 'Atrios']);" >Atrios</a> and <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_04_20.html#000483" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2003_04_20.html#000483', 'Tom']);" >Tom</a> Tomorrow
 
-<div id="themify_builder_content-1120" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

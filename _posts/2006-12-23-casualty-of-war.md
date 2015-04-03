@@ -21,7 +21,3 @@ On December 12th, Stephen Colbert&#8217;s &#8220;Word&#8221; was &#8221; Casualt
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2569" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

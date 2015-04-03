@@ -27,7 +27,3 @@ Good questions. For more on Derrida&#8217;s philosophy, I suggest this Wikipedia
 
 (thanks to <a href="http://www.lehigh.edu/~amsp/2004/10/theorist-jacques-derrida-dead-at-74.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lehigh.edu/~amsp/2004/10/theorist-jacques-derrida-dead-at-74.html', 'Amardeep']);" >Amardeep</a> for the Michael Bérubé link)
 
-<div id="themify_builder_content-1923" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

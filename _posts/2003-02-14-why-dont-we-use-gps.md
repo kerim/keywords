@@ -14,7 +14,3 @@ For me, the most worrisome claim made by Powell at the UN Security Council was a
 
 (3) He said that weapons inspectors couldn&#8217;t search all of the thousands of trucks and trains in Iraq &#8211; but they wouldn&#8217;t have to. All they need to do is find one in order to prove that these things exist. I&#8217;m sure that random spot-checks at a few key points would eventually turn one of these up.
 
-<div id="themify_builder_content-958" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

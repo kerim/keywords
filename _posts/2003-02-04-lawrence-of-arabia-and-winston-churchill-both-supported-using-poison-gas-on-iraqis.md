@@ -18,7 +18,3 @@ And also:
 
 Full story <a href="http://news.bbc.co.uk/2/hi/uk_news/2719939.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/uk_news/2719939.stm', 'here']);" >here</a>.
 
-<div id="themify_builder_content-923" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

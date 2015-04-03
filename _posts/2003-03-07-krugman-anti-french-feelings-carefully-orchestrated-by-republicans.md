@@ -22,7 +22,3 @@ In the <a href="http://www.nytimes.com/2003/03/07/opinion/07KRUG.html" onclick="
 
 See more on Bush&#8217;s mishandling of current US-Mexian relations in <a href="http://www.prospect.org/weblog/archives/2003/03/index.html#000778" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/weblog/archives/2003/03/index.html#000778', 'Tapped']);" >Tapped</a>.
 
-<div id="themify_builder_content-994" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

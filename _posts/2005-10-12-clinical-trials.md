@@ -35,7 +35,3 @@ Finally, one last note [warning, a spoiler ahead (the stuff about the wife getti
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2317" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

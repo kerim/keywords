@@ -15,7 +15,3 @@ Our new film, with brings the viewer much deeper into the life and work of Budha
 
 Want to help Chhara kids? Help <a href="http://vimukta.org/donate/sponsor/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/donate/sponsor/', 'sponsor']);" >sponsor</a> the Chharangar <a href="http://vimukta.org/2008/09/02/more-than-a-library/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/2008/09/02/more-than-a-library/', 'Library']);" >Library</a>!
 
-<div id="themify_builder_content-2835" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

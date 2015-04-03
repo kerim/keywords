@@ -10,7 +10,3 @@ categories:
 
 China and Iran have withdrawn their contribution to monitoring nuclear tests, apparently in protest at Washington&#8217;s hostility towards the comprehensive test ban treaty, raising the fear that the treaty may collapse before it has come into operation.
 
-<div id="themify_builder_content-15" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

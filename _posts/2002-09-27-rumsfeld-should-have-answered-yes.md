@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.suntimes.com/output/novak/cst-edt-novak26.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.suntimes.com/output/novak/cst-edt-novak26.html', 'Rumsfeld']);" >Rumsfeld</a>
 
-<div id="themify_builder_content-590" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

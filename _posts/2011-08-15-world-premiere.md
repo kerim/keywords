@@ -67,7 +67,3 @@ The easiest way you can help is by spreading the word. Share our page on <a href
 
 If you have a blog or newspaper or journal and you&#8217;d like to review the film, just let us know and we&#8217;ll send you a review copy of the DVD. If you are a graphic designer or publicist who can donate your services, you could help us meet our third goalpost before we&#8217;ve even started fundraising. And if you have another way you&#8217;d like to help just <a href="mailto:info@fournineandhalf.com" onclick="_gaq.push(['_trackEvent','mailto','info@fournineandhalf.com']);" >let us know</a>! Thank you.
 
-<div id="themify_builder_content-2992" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

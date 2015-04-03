@@ -28,7 +28,3 @@ There is also a new book that is worth noting: *<a href="http://www.amazon.com/e
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2292" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

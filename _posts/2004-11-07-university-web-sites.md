@@ -17,7 +17,3 @@ I&#8217;ve spent most of my day hunting down &#8220;human resources&#8221; depar
 
 Why are University web sites almost universally poorly designed? I think it is because they contract it out rather than trying to build sophisticated open source content management systems which would allow faculty and personnel to easily update their own content. It is especially disturbing that so many university web sites are not standards compliant, I foresee some class action lawsuits by disabled students&#8230;
 
-<div id="themify_builder_content-1977" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

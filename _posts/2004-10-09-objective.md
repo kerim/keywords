@@ -12,7 +12,3 @@ My favorite <a href="http://www.thenation.com/capitalgames/index.mhtml?bid=3&#38
 
 UPDATE: Here&#8217;s some post-debate <a href="http://www.washingtonmonthly.com/archives/individual/2004_10/004897.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2004_10/004897.php', 'fact-checking']);" >fact-checking</a>.
 
-<div id="themify_builder_content-1917" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

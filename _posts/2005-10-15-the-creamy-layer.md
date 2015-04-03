@@ -19,7 +19,3 @@ I love Indian bureaucratese! My new favorite term is &#8220;the creamy layer&#82
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2319" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

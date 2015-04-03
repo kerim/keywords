@@ -22,7 +22,3 @@ In the <a href="http://www.boston.com/globe/metro/packages/bechtel/" onclick="_g
 
 Thanks to <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_04_20.html#000474" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2003_04_20.html#000474', 'Tom Tomorrow']);" >Tom Tomorrow</a> for both of these links!
 
-<div id="themify_builder_content-1114" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ Robert Kuttner recently <a href="http://www.boston.com/news/globe/editorial_opin
 
 (Also see Body and Soul&#8217;s <a href="http://bodyandsoul.typepad.com/blog/business_and_globalization/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.typepad.com/blog/business_and_globalization/index.html', 'recent posts on the topic']);" >recent posts on the topic</a>.)
 
-<div id="themify_builder_content-1585" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

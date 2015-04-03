@@ -24,7 +24,3 @@ But the best part of the whole site are the comments. Like this one by blogger <
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2269" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

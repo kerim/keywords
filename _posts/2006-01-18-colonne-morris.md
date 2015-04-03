@@ -44,7 +44,3 @@ Ironically, this sort of column was originally justified by the argument that th
 
 The Litfaßsäulen in Berlin and Vienna have a nice feature that the colonnes Morris in Paris lack. In addition to individual advertisements, the Litfaßsäulen carry collective cinema, theater, or concert listings. Need to know if there&#8217;s a film showing nearby? No need to pick up a newspaper, consult one&#8217;s Palm Pilot, or call Movie Phone; it&#8217;s all there.
 
-<div id="themify_builder_content-2389" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

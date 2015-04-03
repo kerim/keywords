@@ -24,7 +24,3 @@ An interesting article, although like many articles one reads these days, the Ir
 
 *UPDATE*: editorial fixes.
 
-<div id="themify_builder_content-1403" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

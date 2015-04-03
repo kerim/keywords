@@ -24,7 +24,3 @@ Of course, I haven&#8217;t yet converted this blog to <a href="http://weblog.del
 
 UPDATE: While checking the link to Zizka&#8217;s web site, I found his <a href="http://johnjemerson.com/zizka.smears.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://johnjemerson.com/zizka.smears.htm', 'John Kerry Smear Page']);" >John Kerry Smear Page</a>, which is well worth checking out.
 
-<div id="themify_builder_content-1671" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

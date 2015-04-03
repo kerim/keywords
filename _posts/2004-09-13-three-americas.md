@@ -19,7 +19,3 @@ There is even a nice map:
 
 Reminds me a bit of <a href="http://keywords.oxus.net/archives/2004/05/28/pop/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/05/28/pop/', 'this map']);" >this map</a>.
 
-<div id="themify_builder_content-1861" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

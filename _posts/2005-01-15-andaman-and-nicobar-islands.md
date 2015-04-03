@@ -14,7 +14,3 @@ One of my former professors is involved in the <a href="http://www.thoreaugroup.
 
 Go to the <a href="http://www.thoreaugroup.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thoreaugroup.org/', 'web site']);" >web site</a> to learn how you can donate to their efforts.
 
-<div id="themify_builder_content-2022" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

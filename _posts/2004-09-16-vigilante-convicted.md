@@ -28,7 +28,3 @@ UPDATE: <a href="http://www.telegraph.co.uk/core/Content/displayPrintable.jhtml?
 > 
 > &#8220;Fine, it&#8217;s your circus,&#8221; Mr Fogelnest told the judge.
 
-<div id="themify_builder_content-1865" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

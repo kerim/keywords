@@ -1,8 +1,7 @@
 ---
 title: NYIFF 2013 and Other Screenings
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/04/17/nyiff-2013-and-other-screenings/
 hide_post_title:
   - default
@@ -28,7 +27,3 @@ Please Don&#8217;t Beat Me, Sir! has also screened at numerous festivals since o
 
 In addition to festival screenings we&#8217;ve done a number of university screenings followed by Q&A sessions we&#8217;ve conducted via Skype. These have worked out surprisingly well and we are always happy to work with schools to organize such screenings. Just drop us an <a href="mailto:info@fournineandahalf.com" onclick="_gaq.push(['_trackEvent','mailto','info@fournineandahalf.com']);" >email</a> if you are interested.
 
-<div id="themify_builder_content-3430" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

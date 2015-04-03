@@ -18,7 +18,3 @@ Did anyone miss this? I ususally don&#8217;t post such headline stories, but I t
 
 <a href="http://www.nytimes.com/2002/07/26/politics/26SECU.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/07/26/politics/26SECU.html', 'Bill on Security Backed in Senate; Veto Threatened']);" >Bill on Security Backed in Senate; Veto Threatened</a>
 
-<div id="themify_builder_content-355" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

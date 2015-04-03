@@ -26,7 +26,3 @@ I&#8217;m sure everyone saw the headline about the rescue of the miners, but thi
 
 <a href="http://www.nytimes.com/2002/07/28/national/28MINE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/07/28/national/28MINE.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-357" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

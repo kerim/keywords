@@ -26,7 +26,3 @@ These are important points.
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Ward Churchill" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Ward Churchill', 'Ward Churchill']);"  rel="tag">Ward Churchill</a>, <a href="http://technorati.com/tag/free speech" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/free speech', 'free speech']);"  rel="tag">free speech</a>, <a href="http://technorati.com/tag/ACLU" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ACLU', 'ACLU']);"  rel="tag">ACLU</a>, <a href="http://technorati.com/tag/Colorado" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Colorado', 'Colorado']);"  rel="tag">Colorado</a>, <a href="http://technorati.com/tag/tenure" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tenure', 'tenure']);"  rel="tag">tenure</a>}</span>
 </div>
 
-<div id="themify_builder_content-2081" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

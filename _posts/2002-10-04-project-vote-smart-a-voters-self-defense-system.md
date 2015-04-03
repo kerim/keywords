@@ -10,7 +10,3 @@ If you look up your representatives on this web site you will get the best data 
 
 <a href="http://www.vote-smart.org/index.phtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.vote-smart.org/index.phtml', 'Project Vote Smart']);" >Project Vote Smart</a>
 
-<div id="themify_builder_content-619" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

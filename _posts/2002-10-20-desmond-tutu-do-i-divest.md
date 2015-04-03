@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.counterpunch.org/tutu1017.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.counterpunch.org/tutu1017.html', 'Counterpunch']);" >Counterpunch</a>
 
-<div id="themify_builder_content-656" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

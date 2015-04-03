@@ -24,10 +24,7 @@ It is funny how quickly things then changed. Once they had agents working closel
 
 But the sad thing is, we still haven&#8217;t learned. Our former &#8220;friend&#8221; Hekmatyar is still the biggest threat to peace in Afghanistan, and our attention is still focused on <a href="http://www.hillnews.com/under_dome/020404.aspx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hillnews.com/under_dome/020404.aspx', 'capturing Bin Laden in time for elections']);" >capturing Bin Laden in time for elections</a>.
 
-<div id="themify_builder_content-1526" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: Hekmatyar
  [2]: http://www.canoe.com/CNEWS/World/WarOnTerrorism/2004/02/14/348010-cp.html

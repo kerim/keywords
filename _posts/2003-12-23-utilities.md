@@ -16,7 +16,3 @@ Especially when such utilities are understood to be <a href="http://www.progress
 
 But nothing makes me madder than <a href="http://www.icij.org/dtaweb/water/PrintReady.aspx?AID=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.icij.org/dtaweb/water/PrintReady.aspx?AID=1', 'ongoing efforts to privatize the world&#8217;s water supply']);" >ongoing efforts to privatize the world&#8217;s water supply</a>. Especially after such efforts led to a deadly cholera outbreak in South Africa, when people were forced to use dirty water rather than pay exorbitant prices (thanks to the Bechtel corporation).
 
-<div id="themify_builder_content-1438" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

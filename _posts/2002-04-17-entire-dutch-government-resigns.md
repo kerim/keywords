@@ -10,7 +10,3 @@ categories:
 
 The head of the Dutch army has resigned over the Srebrenica massacre, one day after the entire government stood down.
 
-<div id="themify_builder_content-86" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/08/19/opinion/19MON3.html?pagewanted=print&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/19/opinion/19MON3.html?pagewanted=print&position=top', 'NY Times Editorial']);" >NY Times Editorial</a>
 
-<div id="themify_builder_content-464" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

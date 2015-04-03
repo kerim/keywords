@@ -10,7 +10,3 @@ categories:
 
 By the quiet, almost secretive way in which the Karzai government has prepared for the 87-year-old former monarch&#8217;s return, an impression has gained ground among Afghans that the government is not entirely of one mind on what his future role should be.
 
-<div id="themify_builder_content-9" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

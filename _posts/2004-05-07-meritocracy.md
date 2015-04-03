@@ -14,7 +14,3 @@ LanguageHat has a <a href="http://www.languagehat.com/archives/001320.php" oncli
 
 Indeed. Not to be too literal, but I think anyone looking for an academic job right now can sympathize.
 
-<div id="themify_builder_content-1681" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

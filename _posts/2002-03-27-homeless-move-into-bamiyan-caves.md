@@ -10,7 +10,3 @@ categories:
 
 Cave networks in the mountains around the Bamiyan Buddhas, the giant statues destroyed by the Taleban last year, have become primitive, makeshift homes for hundreds of desperate families. 
 
-<div id="themify_builder_content-25" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

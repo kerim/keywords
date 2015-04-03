@@ -19,7 +19,3 @@ A discussion of modern prison life compared with Wilde&#8217;s &#8220;The Ballad
 
 <a href="http://www.newcriterion.com/archive/20/jun02/daniels.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newcriterion.com/archive/20/jun02/daniels.htm', '(New Criterion)']);" >(New Criterion)</a>
 
-<div id="themify_builder_content-279" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

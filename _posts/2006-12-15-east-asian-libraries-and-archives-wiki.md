@@ -18,7 +18,3 @@ Here is the <a href="http://www.froginawell.net/china/2006/12/announcement-east-
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2562" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -24,7 +24,3 @@ categories:
 
 <a href="http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1035774887712&call_page=TS_News&call_pageid=968332188492&call_pagepath=News/News" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1035774887712&call_page=TS_News&call_pageid=968332188492&call_pagepath=News/News', 'TheStar.com']);" >TheStar.com</a>
 
-<div id="themify_builder_content-763" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.boohooyahoo.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boohooyahoo.com/', 'Boo Hoo Yahoo! &#8212; &quot;Dot Com&quot; Boom Left Some Janitors Behind']);" >Boo Hoo Yahoo! &#8212; "Dot Com" Boom Left Some Janitors Behind</a>
 
-<div id="themify_builder_content-307" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

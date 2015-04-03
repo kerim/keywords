@@ -14,7 +14,3 @@ The &#8220;war on terror&#8221; comes at a time when terrorism is at its lowest 
 
 <a href="http://www.iht.com/cgi-bin/generic.cgi?template=articleprint.tmplh&#38;ArticleId=95522" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iht.com/cgi-bin/generic.cgi?template=articleprint.tmplh&ArticleId=95522', 'International Herald Tribune']);" >International Herald Tribune</a>
 
-<div id="themify_builder_content-1164" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

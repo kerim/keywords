@@ -16,7 +16,3 @@ A good point by <a href="http://www.nytimes.com/2003/02/07/opinion/07KRIS.html" 
 >   </p>
 > </div>
 
-<div id="themify_builder_content-938" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

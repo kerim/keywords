@@ -22,7 +22,3 @@ Read <a href="http://blog.shashwati.com/2005/08/03/eunuch-alley-and-snakebyte-in
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2264" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

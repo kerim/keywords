@@ -20,7 +20,3 @@ UPDATE: Tom Tomorrow says the same thing &#8211; but <a href="http://www.thismod
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/war', 'war']);"  rel="tag">war</a>, <a href="http://technorati.com/tag/Giuliana Sgrena" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Giuliana Sgrena', 'Giuliana Sgrena']);"  rel="tag">Giuliana Sgrena</a>, <a href="http://technorati.com/tag/iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/iraq', 'iraq']);"  rel="tag">iraq</a>, <a href="http://technorati.com/tag/roadblock" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/roadblock', 'roadblock']);"  rel="tag">roadblock</a>, <a href="http://technorati.com/tag/marines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/marines', 'marines']);"  rel="tag">marines</a> }</span>
 </div>
 
-<div id="themify_builder_content-2077" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

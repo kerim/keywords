@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/08/27/opinion/27KRUG.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/27/opinion/27KRUG.html', 'Bush on Fire']);" >Bush on Fire</a>
 
-<div id="themify_builder_content-484" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

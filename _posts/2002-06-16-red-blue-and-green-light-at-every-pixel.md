@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.economist.com/science/tq/displayStory.cfm?story_id=1020677" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.economist.com/science/tq/displayStory.cfm?story_id=1020677', '(Economist.com)']);" >(Economist.com)</a>
 
-<div id="themify_builder_content-234" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

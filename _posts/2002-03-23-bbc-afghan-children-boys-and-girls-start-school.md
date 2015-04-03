@@ -10,7 +10,3 @@ categories:
 
 Almost two million children are expected to return to school &#8211; significantly, many of them girls who were banned from the classroom during the years of Taleban rule.
 
-<div id="themify_builder_content-7" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

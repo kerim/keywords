@@ -22,7 +22,3 @@ I generally don&#8217;t post from the WSJ, because it requires a subscription, b
 
 <a href="http://online.wsj.com/article/0,,SB1027263867627014640,00.html?mod=world_news_whats_news" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://online.wsj.com/article/0,,SB1027263867627014640,00.html?mod=world_news_whats_news', 'WSJ.com']);" >WSJ.com</a>
 
-<div id="themify_builder_content-342" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

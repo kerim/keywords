@@ -15,7 +15,3 @@ A map of the world showing the <a href="http://strangemaps.wordpress.com/2007/10
   {<a href="http://technorati.com/tag/maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/maps', 'maps']);"  rel="tag">maps</a>, <a href="http://technorati.com/tag/tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tufte', 'tufte']);"  rel="tag">tufte</a>, <a href="http://technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>}
 </p>
 
-<div id="themify_builder_content-2755" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

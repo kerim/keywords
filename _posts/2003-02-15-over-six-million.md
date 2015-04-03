@@ -14,7 +14,3 @@ I don&#8217;t think <a href="http://www.abcnews.go.com/wire/US/reuters20030215_2
 
 More links <a href="http://www.talkleft.com/archives/002305.html#002305" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/002305.html#002305', 'here']);" >here</a>, and <a href="http://www.nowarblog.org/archives/000813.html#000813" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000813.html#000813', 'here']);" >here</a>.
 
-<div id="themify_builder_content-963" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

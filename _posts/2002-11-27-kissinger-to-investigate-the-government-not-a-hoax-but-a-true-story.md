@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.thenation.com/capitalgames/index.mhtml?bid=3&pid=176" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thenation.com/capitalgames/index.mhtml?bid=3&pid=176', 'The Nation: Capital Games']);" >The Nation: Capital Games</a>
 
-<div id="themify_builder_content-753" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

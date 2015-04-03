@@ -112,7 +112,3 @@ Below the fold is the entire text of a *NY Times* editorial listing &#8220;<a hr
 > 
 > Oh yes, and it is time to close the Guantánamo camp. It is a despicable symbol of the abuses committed by this administration (with Congress’s complicity) in the name of fighting terrorism. 
 
-<div id="themify_builder_content-2591" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

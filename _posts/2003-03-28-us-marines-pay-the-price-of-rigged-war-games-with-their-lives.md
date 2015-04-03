@@ -14,7 +14,3 @@ Now, more than six months later, &#8220;The US army&#8217;s senior ground comman
 >   &#8220;The enemy we&#8217;re fighting is different from the one we&#8217;d war-gamed against,&#8221; he told The <a href="http://www.washingtonpost.com/wp-dyn/articles/A38166-2003Mar27.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A38166-2003Mar27.html', 'Washington Post']);" >Washington Post</a>..
 > </div>
 
-<div id="themify_builder_content-1037" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

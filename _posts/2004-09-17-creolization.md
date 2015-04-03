@@ -30,7 +30,3 @@ I mention this because I just saw <a href="http://www.nature.com/news/2004/04091
 
 UPDATE: More links over at <a href="http://www.languagehat.com/archives/001556.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/001556.php', 'Languagehat']);" >Languagehat</a>, including this *NY Times Magazine* <a href="http://www.nytimes.com/library/magazine/home/19991024mag-sign-language.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/library/magazine/home/19991024mag-sign-language.html', 'story']);" >story</a> from five years ago.
 
-<div id="themify_builder_content-1868" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -28,7 +28,3 @@ And why are there all these cuts?
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1057" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

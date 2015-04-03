@@ -24,7 +24,3 @@ From the <a href="http://www.guardian.co.uk/international/story/0,3604,887631,00
 >   When an expert NASA panel warned last year that safety troubles loomed for the fleet of shuttles if the agency&#8217;s budget was not increased, NASA removed five of the panel&#8217;s nine members and two of its consultants. Some of them now say the agency was trying to suppress their criticisms.
 > </div>
 
-<div id="themify_builder_content-916" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

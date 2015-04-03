@@ -18,7 +18,3 @@ format: image
 
 Found <a href="http://www.ritholtz.com/blog/2012/08/stratfor-chinese-investments-in-africa/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ritholtz.com/blog/2012/08/stratfor-chinese-investments-in-africa/', 'here']);" >here</a>, via <a href="http://michaelturton.blogspot.com/2012/09/daily-links-mon-sept-3-2012.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://michaelturton.blogspot.com/2012/09/daily-links-mon-sept-3-2012.html', 'Michael Turton']);" >Michael Turton</a>.
 
-<div id="themify_builder_content-3209" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

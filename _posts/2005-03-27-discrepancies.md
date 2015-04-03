@@ -22,7 +22,3 @@ Nathan Newman <a href="http://www.nathannewman.org/log/archives/002363.shtml" on
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/health care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/health care', 'health care']);"  rel="tag">health care</a>, <a href="http://technorati.com/tag/african americans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/african americans', 'african americans']);"  rel="tag">african americans</a>, <a href="http://technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>}</span>
 </div>
 
-<div id="themify_builder_content-2114" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

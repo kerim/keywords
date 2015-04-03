@@ -35,7 +35,3 @@ Unfortunately, remedial writing classes would require small classes and more tea
 
 UPDATE: More from <a href="http://jonintaiwan.blogspot.com/2006/09/kerim-friedman-on-freshman-chinese.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://jonintaiwan.blogspot.com/2006/09/kerim-friedman-on-freshman-chinese.html', 'Jonathan Benda']);" >Jonathan Benda</a>.
 
-<div id="themify_builder_content-2517" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

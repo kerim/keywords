@@ -18,7 +18,3 @@ Personally, I don&#8217;t buy this <a href="http://news.bbc.co.uk/2/low/asia-pac
 
 The fact is that the &#8220;coronavirus that causes SARS has <a href="http://www.taipeitimes.com/News/taiwan/archives/2003/05/12/205658" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2003/05/12/205658', 'existed in wild birds']);" >existed in wild birds</a> for hundreds of years&#8221;! My friend who is a geneticist long ago told me that most varieties of the common cold came from China for this reason. Whether or not this is how SARS started, it seems like the world would be a much healthier place if we could get the Chinese to raise their pigs away from fowl!!!
 
-<div id="themify_builder_content-1201" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

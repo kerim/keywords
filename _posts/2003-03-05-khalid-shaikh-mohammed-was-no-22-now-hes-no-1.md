@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.suntimes.com/output/pickett/cst-nws-pickett04.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.suntimes.com/output/pickett/cst-nws-pickett04.html', 'SunTimes']);" >SunTimes</a>
 
-<div id="themify_builder_content-989" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

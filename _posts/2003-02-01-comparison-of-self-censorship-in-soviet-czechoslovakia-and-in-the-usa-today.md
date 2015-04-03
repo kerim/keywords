@@ -20,7 +20,3 @@ categories:
 
 Posted on <a href="http://www.zmag.org/sustainers/content/2003-01/23vltchek.cfm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.zmag.org/sustainers/content/2003-01/23vltchek.cfm', 'ZMag']);" >ZMag</a>, and also over at the <a href="http://www.nowarblog.org/archives/000676.html#000676" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000676.html#000676', 'NoWarBlog']);" >NoWarBlog</a>.
 
-<div id="themify_builder_content-910" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

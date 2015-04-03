@@ -45,7 +45,3 @@ But what really caught my attention was a <a href="http://itre.cis.upenn.edu/~my
 
 Both posts are well worth reading. <a href="http://www.dcd.uscourts.gov/99-1385a.pdf" onclick="_gaq.push(['_trackEvent','download','http://www.dcd.uscourts.gov/99-1385a.pdf']);" >Here is the actual court decision</a> (PDF file).
 
-<div id="themify_builder_content-1361" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

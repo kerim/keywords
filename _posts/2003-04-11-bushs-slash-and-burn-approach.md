@@ -12,7 +12,3 @@ categories:
 
 From <a href="http://www.nytimes.com/2003/04/11/opinion/11KRUG.html?pagewanted=print&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/04/11/opinion/11KRUG.html?pagewanted=print&position=top', 'Krugman']);" >Krugman</a> (who else?)
 
-<div id="themify_builder_content-1087" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

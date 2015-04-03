@@ -31,7 +31,3 @@ The thing is, while scientists often have serious disagreements, they are often 
 
 This would directly undermine Republican attempts to misrepresent issues on which there is profound scientific consensus as lacking in &#8220;sound science.&#8221;
 
-<div id="themify_builder_content-1615" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

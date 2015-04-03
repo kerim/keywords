@@ -34,7 +34,3 @@ Also, a friend says this about the meaning:
 
 > I also not so sure about the meaning, gharaab is raven, although it is possible that ghraib is a local plural, so it would meaning would be&#8211;literally&#8211;&#8220;father of ravens&#8221;. Ghraib might also mean absence, oddness, or more appropriately, westerners.
 
-<div id="themify_builder_content-1693" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -1,8 +1,7 @@
 ---
 title: Video on Demand
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/04/17/video-on-demand/
 hide_post_title:
   - default
@@ -30,7 +29,3 @@ Although Vimeo On Demand splits revenue 90/10 with the filmmaker, there is a hef
 
 Online streaming via Vimeo as well as the downloadable movie file are intended only for individual viewers. We ask that those interested in holding public screenings of the film, such as classroom use, continue to purchase the DVD via our via our <a href="http://fournineandahalf.com/pleasedontbeatmesir/purchase/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://fournineandahalf.com/pleasedontbeatmesir/purchase/', 'website']);" >website</a>. We offer discounts on DVD purchases by individuals, non-profits, and community colleges.
 
-<div id="themify_builder_content-3421" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

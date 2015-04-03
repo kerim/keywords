@@ -19,7 +19,3 @@ Hey, lets just bomb them &#8211; who cares what the facts are?
 
 <a href="http://news.bbc.co.uk/1/hi/world/middle_east/2165948.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/1/hi/world/middle_east/2165948.stm', 'BBC NEWS']);" >BBC NEWS</a>
 
-<div id="themify_builder_content-384" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

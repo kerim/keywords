@@ -24,7 +24,3 @@ The seeds of Cummings&#8217; unconventional style appear well established even i
 > LOVE, YOU DEAR,  
 > ESTLIN.
 
-<div id="themify_builder_content-3072" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ categories:
 
 Also take a look at <a href="http://davenet.userland.com/2002/07/26/hollywoodWantsTheRightToHackYourComputer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://davenet.userland.com/2002/07/26/hollywoodWantsTheRightToHackYourComputer', 'this blog']);" >this blog</a>.
 
-<div id="themify_builder_content-353" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

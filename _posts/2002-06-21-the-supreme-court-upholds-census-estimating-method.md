@@ -22,7 +22,3 @@ This article in the Wall Street Journal (Subscription required) covers an import
 
 <a href="http://online.wsj.com/article/0,,SB102458129074217400,00.html?mod=world_news_whats_news" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://online.wsj.com/article/0,,SB102458129074217400,00.html?mod=world_news_whats_news', '(WSJ.com )']);" >(WSJ.com )</a>
 
-<div id="themify_builder_content-263" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

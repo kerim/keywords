@@ -24,7 +24,3 @@ The <a href="http://www.washingtonpost.com/wp-dyn/articles/A53222-2003Jan28.html
 >   U.S. troops and allied forces have surrounded and attacked a group of about 80 Afghan militants on a mountainside in southeastern Afghanistan in the largest battle of the Afghan war since last spring, military officials said today.
 > </div>
 
-<div id="themify_builder_content-892" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

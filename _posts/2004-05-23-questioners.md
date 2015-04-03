@@ -17,7 +17,3 @@ I&#8217;ve transcribed a short section of the manual.
 
 More information <a href="http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB122/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB122/', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1715" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

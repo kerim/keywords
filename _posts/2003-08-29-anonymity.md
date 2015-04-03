@@ -11,7 +11,3 @@ categories:
 
 <a href="http://www.talkleft.com/archives/004020.html#004020" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/004020.html#004020', 'On the other hand']);" >On the other hand</a> &#8230; our government is seeking the &#8220;ability to subpoena consumer data from a business&#8221; and other violations of the privacy of US citizens in the VICTORY act.
 
-<div id="themify_builder_content-1301" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

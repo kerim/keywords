@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.philly.com/mld/inquirer/news/front/5778486.htm?template=contentModules/printstory.jsp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.philly.com/mld/inquirer/news/front/5778486.htm?template=contentModules/printstory.jsp', 'Philadelphia Inquirer']);" >Philadelphia Inquirer</a>
 
-<div id="themify_builder_content-1188" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

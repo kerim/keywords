@@ -23,7 +23,3 @@ Madhava Prasad <a href="http://www.india-seminar.com/2003/525/525%20madhava%20pr
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2216" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

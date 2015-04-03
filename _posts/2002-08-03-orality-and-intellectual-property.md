@@ -18,7 +18,3 @@ Some references I found:
 
 <a href="http://alexia.lis.uiuc.edu/~hearne/450FL_SuppBib.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://alexia.lis.uiuc.edu/~hearne/450FL_SuppBib.html', 'Besty Hearne-LIS 450FL Supplemental Bibliography']);" >Besty Hearne-LIS 450FL Supplemental Bibliography</a>
 
-<div id="themify_builder_content-395" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

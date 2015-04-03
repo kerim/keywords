@@ -20,7 +20,3 @@ categories:
 
 <a href="http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&#38;c=StoryFT&cid=1051389761998&p=1012571727102" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1051389761998&p=1012571727102', 'Financial Times']);" >Financial Times</a>
 
-<div id="themify_builder_content-1153" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

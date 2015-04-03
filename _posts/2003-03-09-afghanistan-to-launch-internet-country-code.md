@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.forbes.com/technology/newswire/2003/03/09/rtr901402.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.forbes.com/technology/newswire/2003/03/09/rtr901402.html', 'Forbes &#8211; Reuters']);" >Forbes &#8211; Reuters</a>
 
-<div id="themify_builder_content-997" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

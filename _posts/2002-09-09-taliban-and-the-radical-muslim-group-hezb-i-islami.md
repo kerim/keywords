@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.atimes.com/atimes/Central_Asia/DI07Ag02.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.atimes.com/atimes/Central_Asia/DI07Ag02.html', 'Asia Times']);" >Asia Times</a>
 
-<div id="themify_builder_content-525" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

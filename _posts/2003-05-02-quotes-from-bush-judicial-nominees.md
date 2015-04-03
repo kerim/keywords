@@ -26,7 +26,3 @@ Very scary stuff:
 
 <a href="http://www.nealpollack.com/cgi-bin/blog/do.cgi/200305010040/permalink" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nealpollack.com/cgi-bin/blog/do.cgi/200305010040/permalink', 'Read more']);" >Read more</a>
 
-<div id="themify_builder_content-1138" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

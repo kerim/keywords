@@ -22,7 +22,3 @@ And, according to Supreme Court Justice Clarence Thomas, there is <a href="http:
 
 Much more about this over at <a href="http://www.talkleft.com/archives/003254.html#003254" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003254.html#003254', 'Talk Left']);" >Talk Left</a>. Seems like there are some serious inconsistencies in the court&#8217;s ruling.
 
-<div id="themify_builder_content-1215" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

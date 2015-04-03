@@ -14,7 +14,3 @@ A Taiwanese academic argues that scantily clad women have helped save the econom
 
 <a href="http://www.taipeitimes.com/news/2002/09/23/story/0000169151" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/news/2002/09/23/story/0000169151', 'The Taipei Times Online: 2002-09-23']);" >The Taipei Times Online: 2002-09-23</a>
 
-<div id="themify_builder_content-580" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

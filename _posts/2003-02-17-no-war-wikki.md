@@ -12,7 +12,3 @@ A wikki is a collaborative web site where any user can edit any page. More infor
 
 The official URL is <a href="http://www.nowarwikki.org" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarwikki.org', 'nowarwikki.org']);" >nowarwikki.org</a>. Because I am using a cheap hosting solution you will see the URL change after you click on a few links. Please use the official URL when linking to the site, as the other url may change. (If someone offers me a better hosting solution&#8230;)
 
-<div id="themify_builder_content-967" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

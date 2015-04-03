@@ -13,7 +13,3 @@ I finally finished editing and uploading my photos from last February&#8217;s sh
 
 <a href="http://www.flickr.com/photos/kerim/sets/72157603216172525/show/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/kerim/sets/72157603216172525/show/', '']);"  title="Chharanagar 2007 Slideshow"><img src="http://farm3.static.flickr.com/2295/2038786013_171a3e5fb7.jpg" alt="Slideshow" height="500" width="375" /></a>
 
-<div id="themify_builder_content-2760" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

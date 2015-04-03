@@ -14,7 +14,3 @@ Seems the MOE may not even have the right to block the hiring of English teacher
 
 <a href="http://www.taipeitimes.com/News/taiwan/archives/2003/01/26/192460" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2003/01/26/192460', 'Taipei Times']);" >Taipei Times</a>
 
-<div id="themify_builder_content-879" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

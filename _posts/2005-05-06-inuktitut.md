@@ -21,7 +21,3 @@ Kunuk is &#8220;Zacharias Kunuk, director of the 2001 film *<a href="http://www.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2187" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

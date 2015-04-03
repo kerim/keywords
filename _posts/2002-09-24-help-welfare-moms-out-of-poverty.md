@@ -26,7 +26,3 @@ By my advisor, Dr. Judith Goode!
 
 <a href="http://www.philly.com/mld/dailynews/news/opinion/4132582.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.philly.com/mld/dailynews/news/opinion/4132582.htm', 'Philadelphia Daily News']);" >Philadelphia Daily News</a>
 
-<div id="themify_builder_content-582" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

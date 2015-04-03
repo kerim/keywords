@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.brooklynart.org/visit/special_exhibitions/hamza/Default.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.brooklynart.org/visit/special_exhibitions/hamza/Default.htm', 'Welcome to the Brooklyn Museum of Art']);" >Welcome to the Brooklyn Museum of Art</a>
 
-<div id="themify_builder_content-755" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -32,7 +32,3 @@ UPDATE: Engadget seems to have <a href="http://www.engadget.com/entry/1234000757
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/gadgets" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/gadgets', 'gadgets']);"  rel="tag">gadgets</a>, <a href="http://technorati.com/tag/kitchen" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/kitchen', 'kitchen']);"  rel="tag">kitchen</a>, <a href="http://technorati.com/tag/ipot" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ipot', 'ipot']);"  rel="tag">ipot</a>, <a href="http://technorati.com/tag/blendie" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blendie', 'blendie']);"  rel="tag">blendie</a>, <a href="http://technorati.com/tag/machine therapy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/machine therapy', 'machine therapy']);"  rel="tag">machine therapy</a>, <a href="http://technorati.com/tag/japan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/japan', 'japan']);"  rel="tag">japan</a>, <a href="http://technorati.com/tag/media lab" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/media lab', 'media lab']);"  rel="tag">media lab</a>}</span>
 </div>
 
-<div id="themify_builder_content-2140" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

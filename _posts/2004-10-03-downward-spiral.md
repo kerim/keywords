@@ -12,7 +12,3 @@ You may have seen <a href="http://boingboing.net/text/fassihi.txt" onclick="_gaq
 
 Not that I&#8217;d want to send the &#8220;*wrong signal*&#8221; to our troops! As if they didn&#8217;t already know&#8230;
 
-<div id="themify_builder_content-1905" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

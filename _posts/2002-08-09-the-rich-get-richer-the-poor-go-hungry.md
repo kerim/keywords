@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.foodfirst.org/progs/humanrts/hungerinamerica.html#link1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.foodfirst.org/progs/humanrts/hungerinamerica.html#link1', 'Food First']);" >Food First</a>
 
-<div id="themify_builder_content-413" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

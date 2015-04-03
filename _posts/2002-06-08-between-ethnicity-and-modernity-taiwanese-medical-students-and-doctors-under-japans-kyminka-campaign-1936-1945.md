@@ -12,7 +12,3 @@ categories:
 
 <a href="http://depts.washington.edu/position/10_2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://depts.washington.edu/position/10_2.html', 'Table of Contents, Positions 10.2']);" >Table of Contents, Positions 10.2</a>
 
-<div id="themify_builder_content-195" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

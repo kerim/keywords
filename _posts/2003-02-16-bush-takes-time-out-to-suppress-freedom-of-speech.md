@@ -12,7 +12,3 @@ categories:
 
 Thanks to <a href="http://atrios.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/', 'Atrios']);" >Atrios</a> for finding this. Full story <a href="http://www.syracuse.com/search/index.ssf?/base/opinion-1/10453017435260.xml?syr" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.syracuse.com/search/index.ssf?/base/opinion-1/10453017435260.xml?syr', 'here']);" >here</a>.
 
-<div id="themify_builder_content-965" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

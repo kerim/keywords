@@ -12,7 +12,3 @@ categories:
 
 <a href="http://boingboing.net/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://boingboing.net/', 'Boing Boing']);" >Boing Boing</a>
 
-<div id="themify_builder_content-893" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

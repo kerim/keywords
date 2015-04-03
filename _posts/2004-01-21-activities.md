@@ -16,7 +16,3 @@ I was shocked that Bush still had the nerve to refer to weapons of mass destruct
 **October 2003**: Weapons of mass destruction-related programs.  
 **January 2004**: Weapons of mass destruction-related program activities.
 
-<div id="themify_builder_content-1471" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

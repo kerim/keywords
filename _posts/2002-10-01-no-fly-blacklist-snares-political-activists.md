@@ -18,7 +18,3 @@ Tom Tomorrow had a link to this very scary story:
 
 <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/09/27/MN181034.DTL&type=printable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/09/27/MN181034.DTL&type=printable', 'SF Gate']);" >SF Gate</a>
 
-<div id="themify_builder_content-601" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

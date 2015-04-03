@@ -30,7 +30,3 @@ Another observation is that Taiwanese separation of powers differs in one import
 
 At the end of that article Scott suggested that &#8220;expanded democracy places testing in the hands of occupational practitioners.&#8221; I don&#8217;t know whether there is truly a general trend in this direction, but this is the kind of thing I have come to think about when I think about democracy in Taiwan. I don&#8217;t think this kind of institutional reform can happen from the top down, but so far I see very few signs of Taiwanese professionals seeking to make their institutions more democratic. At my university there is some discussion about allowing Assistant Professors to have a vote in the faculty hiring process &#8211; but it isn&#8217;t even clear whether current rules allow us to make such changes&#8230;
 
-<div id="themify_builder_content-2792" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

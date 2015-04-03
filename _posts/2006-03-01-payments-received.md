@@ -20,7 +20,3 @@ It seems that one stamp is not enough. It is a little out of focus, but you can 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2408" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.workingforchange.com/article.cfm?itemid=13937&CFID=3202728&CFTOKEN=9446063" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.workingforchange.com/article.cfm?itemid=13937&CFID=3202728&CFTOKEN=9446063', 'Working for Change']);" >Working for Change</a>
 
-<div id="themify_builder_content-658" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

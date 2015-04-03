@@ -14,7 +14,3 @@ categories:
 
 And the original story in <a href="http://www.time.com/time/covers/1101020812/story.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.time.com/time/covers/1101020812/story.html', 'Time']);" >Time</a>.
 
-<div id="themify_builder_content-398" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

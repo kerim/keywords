@@ -18,7 +18,3 @@ Nothing symbolizes the New York/American Jewish heritage for me like the <a href
 
 It is a shame that so much of <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/000897.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/000897.html', 'German American']);" >German American</a> culture disappeared with the two World Wars, including much that was both German and Jewish. Although <a href="http://www.bergen.org/AAST/Projects/Yiddish/English/comwor.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bergen.org/AAST/Projects/Yiddish/English/comwor.html', 'some']);" >some</a> aspects of German-Jewish culture have definitely become part of America.
 
-<div id="themify_builder_content-1854" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

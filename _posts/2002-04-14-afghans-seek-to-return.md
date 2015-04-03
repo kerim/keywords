@@ -10,7 +10,3 @@ categories:
 
 In Fremont, where 10,000 of the estimated 60,000 Afghan refugees in the San Francisco Bay area live, everyone knows someone who has returned to the country, or is planning to, even if only for a couple of weeks.
 
-<div id="themify_builder_content-75" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

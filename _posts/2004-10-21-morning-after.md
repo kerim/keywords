@@ -26,7 +26,3 @@ If Kerry wins, *and* we win the senate. Then I&#8217;ll join Kevin for that drun
 
 UPDATE: I forgot a third possibility: That <a href="http://slate.com/Default.aspx?id=2108339&#38;" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.com/Default.aspx?id=2108339&', 'the election is contested']);" >the election is contested</a>. Then things will get ugly&#8230;
 
-<div id="themify_builder_content-1942" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

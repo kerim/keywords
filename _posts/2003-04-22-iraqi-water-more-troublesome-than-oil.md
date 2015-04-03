@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nowarblog.org/archives/001361.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/001361.html', 'Stand Down']);" >Stand Down</a>
 
-<div id="themify_builder_content-1119" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -32,7 +32,3 @@ At the time I responded by placing Jefferson&#8217;s use of the term &#8220;happ
 
 It makes you wonder what <a href="http://weblog.delacour.net/archives/2003/12/beauty_sadness_and_existential_choice.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://weblog.delacour.net/archives/2003/12/beauty_sadness_and_existential_choice.php', 'Ozu movies']);" >Ozu movies</a> would have been like if he&#8217;d been on Prozac?
 
-<div id="themify_builder_content-1830" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -43,7 +43,3 @@ In short, the impact of immigration on wages is inconsequential compared with th
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2437" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

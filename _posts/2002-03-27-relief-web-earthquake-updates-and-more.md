@@ -10,7 +10,3 @@ categories:
 
 This page contains a list of the latest major documents added to ReliefWeb pertaining to Afghanistan. 
 
-<div id="themify_builder_content-26" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -25,7 +25,3 @@ I feel sorry for the &#8220;sad lives&#8221; of Windows machines and their users
 
 UPDATE: See the <a href="http://www.errolmorris.com/html/election04/election04_main.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.errolmorris.com/html/election04/election04_main.html', 'Errol Morris &#8220;switcher&#8221; ads']);" >Errol Morris &#8220;switcher&#8221; ads</a>, like the Apple switcher campaign, but for former Bush supporters.
 
-<div id="themify_builder_content-1936" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

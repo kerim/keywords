@@ -12,7 +12,3 @@ From the <a href="http://news.bbc.co.uk/2/low/south_asia/2931297.stm" onclick="_
 >   The US military in Afghanistan says it has killed 11 Afghan civilians by mistake in an air attack.
 > </div>
 
-<div id="themify_builder_content-1076" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

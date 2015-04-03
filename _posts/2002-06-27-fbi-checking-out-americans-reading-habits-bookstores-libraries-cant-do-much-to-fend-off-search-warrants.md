@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/06/23/MN75593.DTL" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/06/23/MN75593.DTL', 'SF Chronicle']);" >SF Chronicle</a>
 
-<div id="themify_builder_content-293" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

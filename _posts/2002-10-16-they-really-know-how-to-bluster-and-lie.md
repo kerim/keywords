@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.prospect.org/webfeatures/2002/09/tapped-s-10-15.html#1200pmhomeland" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/09/tapped-s-10-15.html#1200pmhomeland', 'Tapped']);" >Tapped</a>
 
-<div id="themify_builder_content-644" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

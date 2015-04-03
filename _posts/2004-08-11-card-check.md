@@ -26,7 +26,3 @@ Unfortunately, this issue, which could affect millions of Americans, isn&#8217;t
 
 <a href="http://www.ilcaonline.org/modules.php?op=modload&#038;name=News&#038;file=article&#038;sid=312" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ilcaonline.org/modules.php?op=modload&name=News&file=article&sid=312', 'Read the whole article']);" >Read the whole article</a>!
 
-<div id="themify_builder_content-1796" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

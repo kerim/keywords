@@ -12,7 +12,3 @@ categories:
 
 <a href="http://story.news.yahoo.com/news?tmpl=story2&cid=524&u=/ap/20021001/ap_wo_en_po/us_iraq_assassination_1&printer=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://story.news.yahoo.com/news?tmpl=story2&cid=524&u=/ap/20021001/ap_wo_en_po/us_iraq_assassination_1&printer=1', 'Yahoo! News']);" >Yahoo! News</a>
 
-<div id="themify_builder_content-606" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

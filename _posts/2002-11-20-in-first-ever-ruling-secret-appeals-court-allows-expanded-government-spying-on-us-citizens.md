@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.aclu.org/Cyber-Liberties/Cyber-Liberties.cfm?ID=11332&c=58" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aclu.org/Cyber-Liberties/Cyber-Liberties.cfm?ID=11332&c=58', 'American Civil Liberties Union']);" >American Civil Liberties Union</a>
 
-<div id="themify_builder_content-746" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

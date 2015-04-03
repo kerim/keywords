@@ -12,7 +12,3 @@ This is an interesting list of quotes from four years ago and from today. It inc
 
 <a href="http://www.fair.org/extra/0210/inspectors.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fair.org/extra/0210/inspectors.html', 'FAIR']);" >FAIR</a>
 
-<div id="themify_builder_content-666" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

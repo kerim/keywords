@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.globalsecurity.org/org/news/2002/020901-secure.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.globalsecurity.org/org/news/2002/020901-secure.htm', 'THE WINNER OF THE WAR ON TERRORISM IS. . . US INDUSTRY']);" >THE WINNER OF THE WAR ON TERRORISM IS. . . US INDUSTRY</a>
 
-<div id="themify_builder_content-512" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

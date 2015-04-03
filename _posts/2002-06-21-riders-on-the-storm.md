@@ -15,7 +15,3 @@ The Drummer from the Doors on why he won&#8217;t sell out.
 
 <a href="http://www.thenation.com/doc.mhtml?i=20020708&c=1&s=densmore" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thenation.com/doc.mhtml?i=20020708&c=1&s=densmore', 'Riders on the Storm (1)']);" >Riders on the Storm (1)</a>
 
-<div id="themify_builder_content-264" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

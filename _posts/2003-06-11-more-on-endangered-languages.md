@@ -32,7 +32,3 @@ Here are some letters to the NY Times that respond to many of the same issues I 
 
 This last one is something I&#8217;ve been <a href="http://www.languagehat.com/archives/000638.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/000638.php', 'learning more about']);" >learning more about</a> since I wrote my initial comments. Seems like there was a sporadic medieval literature in vernacular Hebrew.
 
-<div id="themify_builder_content-1237" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

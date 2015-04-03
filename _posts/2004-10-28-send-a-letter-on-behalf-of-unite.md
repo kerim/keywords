@@ -18,7 +18,3 @@ categories:
 > 
 > <a href="http://www.workingforchange.com/activism/action.cfm?itemid=17979" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.workingforchange.com/activism/action.cfm?itemid=17979', 'Click here to take action']);" >Click here to take action</a>!
 
-<div id="themify_builder_content-1954" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

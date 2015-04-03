@@ -19,7 +19,3 @@ We saw this and it was great, as was the last Epic Theatre Production we saw: &#
 
 <a href="http://www.nytimes.com/2002/06/19/arts/theater/19TIME.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/06/19/arts/theater/19TIME.html', 'Forward and Backward in One Family']);" >Forward and Backward in One Family</a>
 
-<div id="themify_builder_content-276" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

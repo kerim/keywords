@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.cursor.org/stories/mediaamnesia.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cursor.org/stories/mediaamnesia.htm', 'Cursor']);" >Cursor</a>
 
-<div id="themify_builder_content-388" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ categories:
 
 See a blog on this at <a href="http://www.nowarblog.org/archives/000148.html#000148" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000148.html#000148', 'Nowarblog.org']);" >Nowarblog.org</a>.
 
-<div id="themify_builder_content-723" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

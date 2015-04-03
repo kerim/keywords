@@ -18,7 +18,3 @@ Robert Reich, former secretary of labor, argues that the problem with the econom
 
 <a href="http://www.latimes.com/news/printedition/opinion/la-oe-reich7jan07.story?null" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/news/printedition/opinion/la-oe-reich7jan07.story?null', 'LA Times (free reg. req&#8217;d)']);" >LA Times (free reg. req&#8217;d)</a>
 
-<div id="themify_builder_content-831" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

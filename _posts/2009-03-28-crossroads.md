@@ -58,9 +58,6 @@ UPDATE: Another chart, courtesy of <a href="http://www.fivethirtyeight.com/2009/
 
 <a href="http://www.fivethirtyeight.com/2009/03/two-birds-one-stone-regulation-and.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fivethirtyeight.com/2009/03/two-birds-one-stone-regulation-and.html', '']);" ><img src="http://img.skitch.com/20090329-xqi43uk6juuyb9gc5m3f16sc4y.jpg" alt="skitched-20090329-154204.jpg" /></a>
 
-<div id="themify_builder_content-2827" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: http://img.skitch.com/20090328-xhnh3naa44putmx71c55wje7kr.jpg

@@ -18,7 +18,3 @@ UPDATE: Tom Tomorrow, as usual, <a href="http://www.thismodernworld.com/weblog/m
 
 > With the focus off Bush&#8217;s record and onto 1970&#8217;s typewriter fonts, Karl Rove couldn&#8217;t have planned this better if he&#8217;d tried. Which, for all we know, he did.
 
-<div id="themify_builder_content-1856" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

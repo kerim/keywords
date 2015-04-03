@@ -42,7 +42,3 @@ The *New York Times* finally has a story on the locked out workers, <a href="htt
 > 
 > Mr. Adams said, however, that management wanted the employees to return to work. &#8220;A contract can be had in fairly quick order if we can resolve the issue of term,&#8221; he said.
 
-<div id="themify_builder_content-1962" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

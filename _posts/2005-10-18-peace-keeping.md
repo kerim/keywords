@@ -15,7 +15,3 @@ The BBC <a href="http://news.bbc.co.uk/1/hi/world/americas/4350860.stm" onclick=
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2325" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

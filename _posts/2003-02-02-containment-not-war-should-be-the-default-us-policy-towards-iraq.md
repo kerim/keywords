@@ -12,7 +12,3 @@ For anyone who missed it, the NY Times has a must-read <a href="http://www.nytim
 >   The United States faces a clear choice on Iraq: containment or preventive war. President Bush insists that containment has failed and we must prepare for war. In fact, war is not necessary. Containment has worked in the past and can work in the future, even when dealing with Saddam Hussein.
 > </div>
 
-<div id="themify_builder_content-911" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

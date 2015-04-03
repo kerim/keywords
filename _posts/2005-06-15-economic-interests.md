@@ -26,7 +26,3 @@ Even if they never personally benefit from various client-patron relationships, 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2217" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

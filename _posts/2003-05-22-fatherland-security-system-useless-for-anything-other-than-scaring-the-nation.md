@@ -10,7 +10,3 @@ Looks like the Department of Homeland Defense&#8217;s <a href="http://www.dailyk
 
 Also, &#8220;There&#8217;s an article on the front page of the Wall Street Journal this morning about how effective lobbying has exempted manufacturers of toxic chemicals from homeland security regulations.&#8221; More from <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_05_18.html#000628" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2003_05_18.html#000628', 'Tom Tomorrow']);" >Tom Tomorrow</a>.
 
-<div id="themify_builder_content-1198" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

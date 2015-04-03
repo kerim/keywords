@@ -35,7 +35,3 @@ The negative reaction to the CRAN is similar to the negative reaction, in 2002-2
 
 The the extent that communitarian is a bad word in France, *republican* is good.
 
-<div id="themify_builder_content-2375" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

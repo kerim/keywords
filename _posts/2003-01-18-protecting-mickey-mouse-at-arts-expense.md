@@ -22,7 +22,3 @@ Here is a summary of his proposal:
 
 <a href="http://boingboing.net/2003_01_01_archive.html#90202510" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://boingboing.net/2003_01_01_archive.html#90202510', 'Boingboing']);" >Boingboing</a>
 
-<div id="themify_builder_content-858" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ To regester, simply click on the below link. Your e-mail address will be encrypt
 
 <a href="http://kerim.oxus.net/nucleus/createaccount.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kerim.oxus.net/nucleus/createaccount.html', 'Register']);" >Register</a>
 
-<div id="themify_builder_content-226" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Doe%2Dturley14aug14" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Doe%2Dturley14aug14', 'Los Angeles Times']);" >Los Angeles Times</a>
 
-<div id="themify_builder_content-438" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

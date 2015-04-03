@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/2003/01/14/opinion/14KRUG.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/14/opinion/14KRUG.html', 'NY Times &#8211; Krugman']);" >NY Times &#8211; Krugman</a>
 
-<div id="themify_builder_content-846" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ From the <a href="http://www.nytimes.com/2003/03/29/opinion/29FORE.html" onclick
 >   Taking race into account, in university admissions or in other aspects of life, does not require abandoning a commitment to individualism. One can hold that race is irrelevant to a person&#8217;s moral worth &#8212; that people, not groups, are the bearers of rights &#8212; and still affirm that to deal effectively with individuals, we must consider the categories of thought in which they understand themselves.
 > </div>
 
-<div id="themify_builder_content-1042" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

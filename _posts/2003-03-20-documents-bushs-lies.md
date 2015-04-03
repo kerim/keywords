@@ -16,7 +16,3 @@ Since the press won&#8217;t so so, I urge the blogging community to come togethe
 
 Also see the sister page on the <a href="http://www.disinfopedia.org/wiki.phtml?title=War_propaganda" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.disinfopedia.org/wiki.phtml?title=War_propaganda', 'Disinformation Wiki']);" >Disinformation Wiki</a>.
 
-<div id="themify_builder_content-1015" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

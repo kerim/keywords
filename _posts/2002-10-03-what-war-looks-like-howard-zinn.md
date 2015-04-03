@@ -14,7 +14,3 @@ What really bothers me is that many people will read the following quote and thi
 
 <a href="http://www.progressive.org/oct02/zinn1002.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.progressive.org/oct02/zinn1002.html', 'The Progressive']);" >The Progressive</a>
 
-<div id="themify_builder_content-609" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

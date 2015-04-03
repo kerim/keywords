@@ -15,7 +15,3 @@ The fact that the book was written in Urdu is itself now worth remarking upon, s
 
 The novel covers thousands of years of history, with the same characters reappearing in different incarnations. There are four time periods covered: Ancient India (Fourth Century B.C.), The Mughal Empire (16th Century), Colonial India (19th Century &#8211; before and after the 1857 rebellion), and &#8220;contemporary&#8221; India (1940s, before and after partition). The last period takes up nearly half the book, which is unfortunate because it was my least favorite. Mostly because the self-indulgent upper class kids of this era are the least interesting of her characters. But I&#8217;m being too negative. The author&#8217;s acute insight and wit permeate even the least effective chapters, making it a pleasure to read.
 
-<div id="themify_builder_content-1815" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

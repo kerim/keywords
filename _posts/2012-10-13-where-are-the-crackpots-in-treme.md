@@ -18,7 +18,3 @@ You know what I&#8217;m talking about. These aren&#8217;t crazy people exactly, 
 
 Of course you can&#8217;t show these people in a TV drama. Just doing so would be to let the trolls take over the story, diverting it away from the central narrative &#8211; exactly what these people want to do. But here&#8217;s the thing, if you want to show democracy in action, if you want to show diversity and civil society as it is really lived, you can&#8217;t pretend these people don&#8217;t exist. I don&#8217;t know what the solution is, but for me their absence detracts from the gritty realism Treme is trying to project.
 
-<div id="themify_builder_content-3294" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

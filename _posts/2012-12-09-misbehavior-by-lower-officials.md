@@ -18,7 +18,3 @@ format: quote
 
 <a href="http://www.nybooks.com/articles/archives/2012/dec/06/mo-yan-nobel-prize/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nybooks.com/articles/archives/2012/dec/06/mo-yan-nobel-prize/', 'Does This Writer Deserve the Prize? by Perry Link | The New York Review of Books ']);" >Does This Writer Deserve the Prize? by Perry Link | The New York Review of Books </a>
 
-<div id="themify_builder_content-3313" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

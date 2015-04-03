@@ -10,7 +10,3 @@ Language Problems & Language Planning 26:1 (2002)
 
 Kurt E. M?
 
-<div id="themify_builder_content-273" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

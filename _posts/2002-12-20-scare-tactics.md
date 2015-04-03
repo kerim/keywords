@@ -16,7 +16,3 @@ From the <a href="http://www.nytimes.com/2002/12/19/health/19HOSP.html" onclick=
 
 &#8220;When push comes to shove, we are dealing with an eradicated disease that we haven&#8217;t seen a case of since 1977,&#8221; Dr. Jeffrey Koplan, Emory&#8217;s vice president for academic health affairs, said today.
 
-<div id="themify_builder_content-812" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

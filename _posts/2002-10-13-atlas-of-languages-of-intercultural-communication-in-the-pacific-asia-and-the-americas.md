@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.degruyter.de/mouton/atlas.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.degruyter.de/mouton/atlas.html', 'degruyter']);" >degruyter</a>
 
-<div id="themify_builder_content-634" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

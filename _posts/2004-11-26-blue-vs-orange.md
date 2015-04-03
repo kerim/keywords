@@ -17,7 +17,3 @@ Looks like there is <a href="http://www.postmodernclog.com/archives/cat_ukraine.
 
 UPDATE: A good post about the linguistic map of the Ukraine <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/001675.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/001675.html', 'over at LanguageLog']);" >over at LanguageLog</a>.
 
-<div id="themify_builder_content-2002" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

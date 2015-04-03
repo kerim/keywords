@@ -14,7 +14,3 @@ Is it too much to hope for a Democratic shift to the Left? As someone recently p
 
 <a href="http://www.prospect.org/webfeatures/2002/11/jones-m-11-08.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/11/jones-m-11-08.html', 'The American Prospect']);" >The American Prospect</a>
 
-<div id="themify_builder_content-722" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

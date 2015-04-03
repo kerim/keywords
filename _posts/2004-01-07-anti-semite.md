@@ -17,7 +17,3 @@ He is correct to point out that this should be &#8220;roundly and vociferously c
 
 <img src="http://keywords.oxus.net/images/cartoon.gif" height="384" width="500" align="" border="0" hspace="10" vspace="10" />
 
-<div id="themify_builder_content-1459" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

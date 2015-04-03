@@ -15,7 +15,3 @@ UPDATE: This is a good one, can you guess what it is?
 
 > SHIF-SHAF SHABAMP MAMP SHOMPAH-BOMBAH DIMPAH MIMPAH FOMP-DABOMP! GADIFF-GADIFF GADAFF GADAFF GASMITCH GASMATCH KABOFF FAPADDA DAPADDA SWIPADDA DIPADDA FAP SPMAP GAMOP
 
-<div id="themify_builder_content-1778" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

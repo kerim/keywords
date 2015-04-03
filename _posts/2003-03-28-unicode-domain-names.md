@@ -14,7 +14,3 @@ Although Unicode isn&#8217;t explicitly mentioned:
 
 <a href="http://story.news.yahoo.com/news?tmpl=story2&cid=562&ncid=738&e=6&u=/ap/20030327/ap_on_hi_te/internet_languages" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://story.news.yahoo.com/news?tmpl=story2&cid=562&ncid=738&e=6&u=/ap/20030327/ap_on_hi_te/internet_languages', 'Yahoo news']);" >Yahoo news</a>
 
-<div id="themify_builder_content-1038" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

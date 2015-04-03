@@ -18,7 +18,3 @@ There is more from Juan Cole <a href="http://www.juancole.com/2004_08_01_juancol
 
 > Note that over 80% of American Jews vote Democrat, that the majority of American Jews opposed the Iraq war (more were against it than in the general population), and that American Jews have been enormously important in securing civil liberties for all Americans. Moreover, Israel has been a faithful ally of the US and deserves our support in ensuring its security. The Likudniks like to pretend that they represent American Jewry, but they do not. And they like to suggest that objecting to their policies is tantamount to anti-Semitism, which is sort of like suggesting that if you don&#8217;t like Chile&#8217;s former dictator Pinochet, you are bigotted against Latinos.
 
-<div id="themify_builder_content-1837" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

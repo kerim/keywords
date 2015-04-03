@@ -35,7 +35,3 @@ Apart from corruption scandals, which are certainly a big part of the story, the
 
 UPDATE: The voter turnout was &#8220;less than 57 percent &#8212; the lowest for legislative elections since 1972&#8243; according to the <a href="http://www.taipeitimes.com/News/editorials/archives/2008/01/14/2003397223" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/editorials/archives/2008/01/14/2003397223', 'Taipei Times']);" >Taipei Times</a>.
 
-<div id="themify_builder_content-2784" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

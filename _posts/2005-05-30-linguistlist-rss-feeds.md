@@ -17,7 +17,3 @@ The <a href="http://linguistlist.org/" onclick="_gaq.push(['_trackEvent', 'outbo
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2209" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ From a talk by actor <a href="http://www.alternet.org/story.html?StoryID=15673" 
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1099" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

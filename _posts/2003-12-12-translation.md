@@ -15,7 +15,3 @@ NY City Government <a href="http://www.nytimes.com/2003/12/12/nyregion/12LANG.ht
 
 If the European Union and South Africa can do it, why not the Big Apple?
 
-<div id="themify_builder_content-1426" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

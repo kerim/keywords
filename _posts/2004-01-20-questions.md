@@ -22,7 +22,3 @@ My limited admiration for Dean was all due to the perceived brilliance of his po
 
 UPDATE: If his article wasn&#8217;t written on the 18th, I would think <a href="http://www.villagevoice.com/issues/0403/nh4.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.villagevoice.com/issues/0403/nh4.php', 'James Ridgeway was reading my blog']);" >James Ridgeway was reading my blog</a>.
 
-<div id="themify_builder_content-1468" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

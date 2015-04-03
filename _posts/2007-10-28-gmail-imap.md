@@ -34,7 +34,3 @@ The downside of Gmail is that if something goes wrong there is nobody I can turn
   {<a href="http://technorati.com/tag/email" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/email', 'email']);"  rel="tag">email</a>, <a href="http://technorati.com/tag/Web%202.0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Web%202.0', 'Web 2.0']);"  rel="tag">Web 2.0</a>, <a href="http://technorati.com/tag/Gmail" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Gmail', 'Gmail']);"  rel="tag">Gmail</a>, <a href="http://technorati.com/tag/IMAP" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/IMAP', 'IMAP']);"  rel="tag">IMAP</a>}
 </p>
 
-<div id="themify_builder_content-2752" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

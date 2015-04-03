@@ -24,7 +24,3 @@ This was exactly the point of Kevin Collins&#8217; <a href="http://www.dailypenn
 > 
 > Second, the journalistic ideal of balance, while noble, too often gets in the way of truthfully reporting a story. Framing news in terms of two supposedly equal but opposing viewpoints ignores the reality that the facts are not always balanced between parties, and thus legitimizes factually inaccurate opinions. Daily Show &#8220;correspondent&#8221; Rob Corddry&#8217;s satiric definition of a reporter&#8217;s role makes these problems clear: &#8220;My job is to spend half the time repeating what one side says, and half the time repeating the other.&#8221; Instead of repeating each side&#8217;s claims, mainstream media need to start reporting the reality.
 
-<div id="themify_builder_content-1933" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ Another Tom Tomorrow tip:
 
 <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/09/29/MN116803.DTL&type=printable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/09/29/MN116803.DTL&type=printable', 'SF Gate']);" >SF Gate</a>
 
-<div id="themify_builder_content-602" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

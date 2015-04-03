@@ -31,7 +31,3 @@ PS: Can a day go by during which I don&#8217;t have to add another blog to my li
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2419" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

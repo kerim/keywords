@@ -12,7 +12,3 @@ I&#8217;ve once <a href="http://keywords.oxus.net/archives/000077.html" onclick=
 
 **UPDATE**: <a href="http://people.etango.com/~markm/archives/2003/10/12/easy_movabletype_blogroll_part_ii.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://people.etango.com/~markm/archives/2003/10/12/easy_movabletype_blogroll_part_ii.html', 'Here is an update to the &#8220;neat trick&#8221;']);" >Here is an update to the &#8220;neat trick&#8221;</a>.
 
-<div id="themify_builder_content-1359" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

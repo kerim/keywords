@@ -18,7 +18,3 @@ This is pretty exciting stuff:
 
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A36391-2002Sep18.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A36391-2002Sep18.html', '(washingtonpost.com)']);" >(washingtonpost.com)</a>
 
-<div id="themify_builder_content-563" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

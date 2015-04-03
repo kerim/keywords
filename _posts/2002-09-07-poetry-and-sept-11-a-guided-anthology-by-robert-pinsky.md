@@ -14,7 +14,3 @@ The former Poet Laureate picks some pomes to mark the anniversary of Sept. 11th.
 
 <a href="http://slate.msn.com/?id=2070444" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/?id=2070444', 'Poetry and Sept. 11: A Guided Anthology By Robert Pinsky']);" >Poetry and Sept. 11: A Guided Anthology By Robert Pinsky</a>
 
-<div id="themify_builder_content-520" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

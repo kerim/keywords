@@ -15,7 +15,3 @@ Actor Woody Harrelson gets political in London!
 
 <a href="http://www.guardian.co.uk/Print/0,3858,4525792,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/Print/0,3858,4525792,00.html', 'Guardian']);" >Guardian</a>
 
-<div id="themify_builder_content-650" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

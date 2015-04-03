@@ -12,7 +12,3 @@ Tomorrow I&#8217;m going in for <a href="http://www.sls.org/patientinfo/hernias.
 
 For the curious, here are <a href="http://www.drnaaman.com/pics_laphernia.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.drnaaman.com/pics_laphernia.html', 'some pictures']);" >some pictures</a> of an operation in progress.
 
-<div id="themify_builder_content-1504" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

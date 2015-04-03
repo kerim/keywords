@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.consumerreports.org/main/detailv2.jsp?CONTENT%3C%3Ecnt_id=160105&FOLDER%3C%3Efolder_id=21135&bmUID=1028842254012" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.consumerreports.org/main/detailv2.jsp?CONTENT%3C%3Ecnt_id=160105&FOLDER%3C%3Efolder_id=21135&bmUID=1028842254012', 'Consumer Reports']);" >Consumer Reports</a>
 
-<div id="themify_builder_content-418" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

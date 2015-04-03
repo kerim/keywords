@@ -14,7 +14,3 @@ Yesterday was the anniversary of the first brick thrown in this famous comic!
 
 <a href="http://www.toonopedia.com/krazy.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.toonopedia.com/krazy.htm', 'Don Markstein&#8217;s Toonopedia: Krazy Kat']);" >Don Markstein&#8217;s Toonopedia: Krazy Kat</a>
 
-<div id="themify_builder_content-350" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

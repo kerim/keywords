@@ -23,7 +23,3 @@ I didn&#8217;t know <a href="http://fablog.ehrensteinland.com/archives/000140.sh
 > 
 > But Mary Cheney gave it all she had, and established a name for herself as an &#8220;out&#8221; and presumably proud, daughter of a Conservative Republican.
 
-<div id="themify_builder_content-1943" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

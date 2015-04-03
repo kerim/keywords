@@ -1,8 +1,7 @@
 ---
 title: 'Sotomayor&#8217;s Dissent'
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2014/04/23/sotomayors-dissent/
 hide_post_title:
   - default

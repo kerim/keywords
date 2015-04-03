@@ -18,7 +18,3 @@ categories:
 
 <a href="http://www.cursor.org" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cursor.org', 'Cursor.org']);" >Cursor.org</a> has been doing a good job on covering this issue.
 
-<div id="themify_builder_content-1200" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

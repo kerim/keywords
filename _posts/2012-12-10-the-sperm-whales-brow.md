@@ -27,7 +27,3 @@ format: quote
 
 <a href="http://www.mobydickthewhale.com/moby-dick/moby-dick-chapter-79.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.mobydickthewhale.com/moby-dick/moby-dick-chapter-79.htm', 'Moby-Dick, Chapter 79, &#8220;The Prairie&#8221;']);" >Moby-Dick, Chapter 79, &#8220;The Prairie&#8221;</a>
 
-<div id="themify_builder_content-3316" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

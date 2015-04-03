@@ -14,7 +14,3 @@ When I first saw this article on &#8220;couple busters&#8221; in Japan, I dismis
 
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A18210-2002Aug30.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A18210-2002Aug30.html', '(washingtonpost.com)']);" >(washingtonpost.com)</a>
 
-<div id="themify_builder_content-523" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

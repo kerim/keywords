@@ -12,7 +12,3 @@ categories:
 
 <a href="http://warincontext.org/2003_03_01_archive.html#200063192" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://warincontext.org/2003_03_01_archive.html#200063192', 'WarinContext.org']);" >WarinContext.org</a>
 
-<div id="themify_builder_content-1039" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

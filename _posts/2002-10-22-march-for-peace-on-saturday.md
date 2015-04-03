@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.alternet.org/print.html?StoryID=14353" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/print.html?StoryID=14353', 'March For Peace On Saturday']);" >March For Peace On Saturday</a>
 
-<div id="themify_builder_content-665" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ It isn&#8217;t illegal &#8211; and that&#8217;s the problem!
 
 <a href="http://www.mostnewyork.com/front/story/7310p-6742c.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.mostnewyork.com/front/story/7310p-6742c.html', 'NY Daily News &#8211; Home']);" >NY Daily News &#8211; Home</a>
 
-<div id="themify_builder_content-377" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

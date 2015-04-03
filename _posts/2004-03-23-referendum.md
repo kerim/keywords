@@ -28,7 +28,3 @@ While I&#8217;m on the subject I should add that I find it highly unlikely that 
 
 UPDATE: Chen has <a href="http://news.bbc.co.uk/2/hi/asia-pacific/3559687.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/asia-pacific/3559687.stm', 'agreed to a recount']);" >agreed to a recount</a>. And the KMT admits a <a href="http://www.nytimes.com/2004/03/23/international/asia/23TAIW.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2004/03/23/international/asia/23TAIW.html', 'lack of evidence']);" >lack of evidence</a> for its conspiracy charges.
 
-<div id="themify_builder_content-1591" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

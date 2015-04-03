@@ -20,7 +20,3 @@ And here is <a href="http://story.news.yahoo.com/news?tmpl=story2&u=/030407/168/
 
 Here is <a href="http://www.nowarblog.org/archives/001289.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/001289.html', 'a nowarblog.org entry']);" >a nowarblog.org entry</a> about this.
 
-<div id="themify_builder_content-1074" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

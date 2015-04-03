@@ -19,7 +19,3 @@ Security Analyst Ian Davis makes some <a href="http://www.guardian.co.uk/Iraq/St
 
   * No evidence that Colin Powell has presented today suggests we need to rush headlong into war.
 
-<div id="themify_builder_content-932" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

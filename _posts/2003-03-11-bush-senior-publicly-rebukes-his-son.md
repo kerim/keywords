@@ -22,7 +22,3 @@ Although the <a href="http://www.nytimes.com/2003/03/09/politics/09BUSH.html?pag
 
 Thanks to <a href="http://boingboing.net/2003_03_01_archive.html#90480345" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://boingboing.net/2003_03_01_archive.html#90480345', 'BoingBoing']);" >BoingBoing</a> for the heads-up.
 
-<div id="themify_builder_content-999" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

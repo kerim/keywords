@@ -25,7 +25,3 @@ If he was right, I&#8217;d perhaps be willing to assume that the unprotected wor
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2235" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

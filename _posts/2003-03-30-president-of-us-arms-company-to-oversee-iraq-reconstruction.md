@@ -18,7 +18,3 @@ From the <a href="http://www.observer.co.uk/business/story/0,6903,925309,00.html
 
 Thanks to the <a href="http://www.agonist.org/archives/000904.html#000904" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.agonist.org/archives/000904.html#000904', 'Agonist']);" >Agonist</a> for the link.
 
-<div id="themify_builder_content-1045" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

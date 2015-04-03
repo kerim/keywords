@@ -29,7 +29,3 @@ Here is a snippet from &#8220;Conditions of the Working Class in China&#8221;:
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2435" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

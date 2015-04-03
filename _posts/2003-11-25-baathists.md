@@ -14,7 +14,3 @@ If true, this is truly, truly, stupid. My understanding is that almost anyone wh
 
 So now what do we have? Thousands of intellectuals without a job and a deep resentment of the U.S., how is that supposed to help us? What about the need for qualified teachers? You&#8217;d think they would have learned from their equally stupid decision &#8220;to disband without pay the Iraqi military force of 400,000 men&#8221; earlier in the year?
 
-<div id="themify_builder_content-1405" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -19,7 +19,3 @@ The problem is, the dog has nothing to think about all day except training human
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2741" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

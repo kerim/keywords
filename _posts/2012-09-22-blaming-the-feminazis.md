@@ -18,7 +18,3 @@ The *NY Times* <a href="http://www.nytimes.com/2012/09/21/us/life-expectancy-for
 
 Meanwhile, Rush Limbaugh reports on <a href="http://www.rawstory.com/rs/2012/09/20/limbaugh-penises-now-10-percent-smaller-and-shrinking-because-of-feminazis/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.rawstory.com/rs/2012/09/20/limbaugh-penises-now-10-percent-smaller-and-shrinking-because-of-feminazis/', 'another disturbing trend']);" >another disturbing trend</a>.
 
-<div id="themify_builder_content-3287" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

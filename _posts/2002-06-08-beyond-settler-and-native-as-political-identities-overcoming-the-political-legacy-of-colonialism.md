@@ -18,7 +18,3 @@ Abstract
 
 My starting point is the generation that inherited Africa&#8217;s colonial legacy. Our generation followed on the heels of nationalists. We went to school in the colonial period and to university after independence. We were Africa&#8217;s first generation of postcolonial intellectuals. Our political consciousness was shaped by a central assumption: we were convinced that the impact of colonialism on our societies was mainly economic. In the decade that followed African political independence, militant nationalist intellectuals focused on the expropriation of the native as the great crime of colonialism. Walter Rodney wrote How Europe Underdeveloped Africa. fn1 But no one wrote of how Europe ruled Africa.
 
-<div id="themify_builder_content-194" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

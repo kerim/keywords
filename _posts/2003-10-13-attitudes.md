@@ -39,7 +39,3 @@ But can such a statement hold water? I don&#8217;t think so, and fortunately the
 
 This is something I&#8217;ve written about before, and I think <a href="http://keywords.oxus.net/archives/000096.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000096.html', 'what I said then']);" >what I said then</a> is still relevant.
 
-<div id="themify_builder_content-1362" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

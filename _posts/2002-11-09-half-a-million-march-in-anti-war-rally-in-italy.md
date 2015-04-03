@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/reuters/international/international-italy-globalisation.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/reuters/international/international-italy-globalisation.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-725" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

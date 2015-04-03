@@ -16,7 +16,3 @@ categories:
 
 <a href="http://pilger.carlton.com/print/119612" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pilger.carlton.com/print/119612', 'The journalism and films of John Pilger']);" >The journalism and films of John Pilger</a>
 
-<div id="themify_builder_content-662" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

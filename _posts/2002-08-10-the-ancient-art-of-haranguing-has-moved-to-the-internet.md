@@ -14,7 +14,3 @@ This is one of the best articles on blogging I&#8217;ve seen. Mostly because it 
 
 <a href="http://www.nytimes.com/2002/08/10/arts/10TANK.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/10/arts/10TANK.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-421" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

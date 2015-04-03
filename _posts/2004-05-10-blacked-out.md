@@ -24,7 +24,3 @@ While it is always nice to see the hackers win one over on the government, there
 
 > Experts on the Freedom of Information Act said they feared the computer technique might be used as an excuse by government agencies to release even more restricted versions of documents.
 
-<div id="themify_builder_content-1689" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

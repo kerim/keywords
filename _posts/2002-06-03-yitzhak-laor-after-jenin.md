@@ -22,7 +22,3 @@ Article by Yitzhak Laor:
 
 <a href="http://www.lrb.co.uk/v24/n09/laor2409.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lrb.co.uk/v24/n09/laor2409.htm', '(London Review of Books)']);" >(London Review of Books)</a>
 
-<div id="themify_builder_content-186" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

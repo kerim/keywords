@@ -22,7 +22,3 @@ KEY WORDS: history of anthropology, reform and opening, communities, lives, nati
 
 Since the beginning of China&#8217;s Reform and Opening policy in 1978, the anthropological study of China has revived, and anthropology as a discipline has revived in China. Chinese anthropologists have become part of the world community of anthropologists. Anthropology in and about China has described a society occupied both with recovery from the cultural devastation of High Socialism and with progress toward an uncertain modernity. These narratives of recovery and progress can be followed through the anthropological study of communities
 
-<div id="themify_builder_content-199" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

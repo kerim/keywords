@@ -34,7 +34,3 @@ UPDATE: Al-Muhajabah&#8217;s <a href="http://www.muhajabah.com/islamicblog/archi
 
 (via <a href="http://bedouina.typepad.com/doves_eye/2004/08/palestinian_non.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bedouina.typepad.com/doves_eye/2004/08/palestinian_non.html', 'Dove&#8217;s Eye View']);" >Dove&#8217;s Eye View</a>, an excellent blog I just recently bookmarked.)
 
-<div id="themify_builder_content-1809" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

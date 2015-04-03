@@ -12,7 +12,3 @@ categories:
 
 As long as the company is owned by friends of Bush (FOB) <a href="http://www.boston.com/dailynews/119/economy/USAID_ignored_its_rule_on_secuP.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boston.com/dailynews/119/economy/USAID_ignored_its_rule_on_secuP.shtml', 'who cares']);" >who cares</a> what policies are used to legitimate pay-outs?
 
-<div id="themify_builder_content-1137" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

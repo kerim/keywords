@@ -26,7 +26,3 @@ UPDATE: <a href="http://uchicagolaw.typepad.com/faculty/2005/11/india_a_democra_
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2321" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.salon.com/news/feature/2002/10/16/indonesia/print.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/news/feature/2002/10/16/indonesia/print.html', 'Salon.com']);" >Salon.com</a>
 
-<div id="themify_builder_content-649" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

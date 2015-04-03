@@ -19,7 +19,3 @@ Those are today&#8217;s laws. I&#8217;ll probably make different ones up tomorro
 
 UPDATE: Know <a href="http://www.boingboing.net/2004/08/22/constitutional_right.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/08/22/constitutional_right.html', 'what your rights are']);" >what your rights are</a>. (And a special hand out for RNC protesters <a href="http://www.boingboing.net/2004/08/22/constitutional_right.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/08/22/constitutional_right.html', 'here']);" >here</a>.)
 
-<div id="themify_builder_content-1826" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

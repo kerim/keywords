@@ -13,7 +13,3 @@ More in the <a href="http://chronicle.com/cgi2-bin/printable.cgi?article=http://
 
 UPDATE: <a href="http://www.washtimesherald.com/articles/2004/03/06/news/news02.txt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washtimesherald.com/articles/2004/03/06/news/news02.txt', 'Washington Post op-ed']);" >Washington Post op-ed</a> tears Huntington to little, itty-bitty, pieces.
 
-<div id="themify_builder_content-1543" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

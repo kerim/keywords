@@ -45,7 +45,3 @@ Below is <a href="http://www.flickr.com/photos/kerim/2586641834/in/set-721576002
 
 In a way, I feel like I am now, a decade after I finished up my dissertation field work, finally ready to begin the task I started at that time. I feel that my first four years teaching here have given me a very special kind of training. And the learning process has made being a junior faculty member that much more exciting than it might have been otherwise. So even though I rarely go back to my old field site, it has still been a fantastic learning experience for me. Even though there may be <a href="http://savageminds.org/2010/01/01/sobering-statisti/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://savageminds.org/2010/01/01/sobering-statisti/', 'limited opportunities']);" >limited opportunities</a> for Ph.D.s to get academic appointments within the US, with the increasing globalization of higher education there are more and more opportunities abroad. I hope that this post might help others decide if doing so is right for them. 
 
-<div id="themify_builder_content-2851" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

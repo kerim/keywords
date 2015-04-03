@@ -10,7 +10,3 @@ categories:
 
 India&#8217;s parliament has begun a rare joint session as the government attempts to pass a controversial anti-terrorism bill.
 
-<div id="themify_builder_content-16" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

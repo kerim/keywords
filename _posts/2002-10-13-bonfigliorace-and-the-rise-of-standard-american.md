@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.degruyter.de/mouton/bonfiglio.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.degruyter.de/mouton/bonfiglio.html', 'Walter de Gruyter']);" >Walter de Gruyter</a>
 
-<div id="themify_builder_content-635" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

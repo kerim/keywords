@@ -81,7 +81,3 @@ UPDATE: Shashwati reminds me that I&#8217;m a certified bartender, having gradua
 > 
 > Euthymics demands that diplomatic representation be made and he is right. It is a round table question. Peace must be maintained between the United States and His Majesty&#8217;s dominions overseas. What is sauce for Euthymics is sauce for Gandhi.
 
-<div id="themify_builder_content-2508" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

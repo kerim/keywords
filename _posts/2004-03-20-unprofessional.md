@@ -19,7 +19,3 @@ Its enough to (almost) make you wish the market really was running things&#8230;
 
 UPDATE: Wow, when you <a href="http://homepage.mac.com/duffyb/iMovieTheater127.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://homepage.mac.com/duffyb/iMovieTheater127.html', 'actually watch the clip']);" >actually watch the clip</a>, it is worse than you could possibly imagine it. With one exception, he does let Eric talk much longer than I can imagine any other TV program letting him talk, with the exception of Now with Bill Moyers.
 
-<div id="themify_builder_content-1587" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

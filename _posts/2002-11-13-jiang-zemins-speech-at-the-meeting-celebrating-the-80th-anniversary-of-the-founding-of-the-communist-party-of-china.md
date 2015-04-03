@@ -10,7 +10,3 @@ I think its great that there are still world leaders worried about freeing their
 
 <a href="http://www.china-un.ch/eng/14905.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.china-un.ch/eng/14905.html', 'China-un.ch']);" >China-un.ch</a>
 
-<div id="themify_builder_content-732" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

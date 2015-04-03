@@ -13,7 +13,3 @@ When I first met Suketu Mehta he was deep in conversation with someone who was g
 
 Nandy&#8217;s claim that &#8220;English has been around in India for 200 years; Hindi for 100&#8243; has some truth to it, as I <a href="http://keywords.oxus.net/archives/2004/08/19/river-of-fire/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/08/19/river-of-fire/', 'wrote about earlier']);" >wrote about earlier</a>.
 
-<div id="themify_builder_content-1985" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

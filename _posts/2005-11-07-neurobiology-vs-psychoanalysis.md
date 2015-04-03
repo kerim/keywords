@@ -26,7 +26,3 @@ My brother reports on how the media is reacting to the riots in France:
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2344" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

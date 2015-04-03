@@ -16,7 +16,3 @@ Lets assume that the story is true &#8211; how might it affect tonight&#8217;s d
 
 UPDATE: Well, Bush didn&#8217;t seem to have a box on his back this time. Maybe it was under his arm? <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/001537.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/001537.html', 'Mark Liberman']);" >Mark Liberman</a> doesn&#8217;t think that Bush is being prompted &#8211; his wild, almost random, repetitions of stock phrases seems to suggest that he&#8217;s not.
 
-<div id="themify_builder_content-1914" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

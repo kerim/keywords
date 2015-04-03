@@ -20,7 +20,3 @@ categories:
 
 The <a href="http://www.observer.co.uk/Print/0,3858,4616550,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.observer.co.uk/Print/0,3858,4616550,00.html', 'Observer']);" >Observer</a>.
 
-<div id="themify_builder_content-982" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

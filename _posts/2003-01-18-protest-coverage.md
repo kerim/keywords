@@ -14,7 +14,3 @@ This is interesting &#8211; look at how different the converage of the protests 
 
 <a href="http://www.nytimes.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/', '']);" ></a>
 
-<div id="themify_builder_content-861" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

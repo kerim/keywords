@@ -16,7 +16,3 @@ Turns out there&#8217;s a <a href="http://www.nytimes.com/2007/10/30/science/30m
 >   In “The Manhattan Project” &#8230; Dr. Norris writes about the Manhattan Project’s Manhattan locations. He says the borough had at least 10 sites, all but one still standing. They include warehouses that held uranium, laboratories that split the atom, and the project’s first headquarters — a skyscraper hidden in plain sight right across from City Hall.
 > </p>
 
-<div id="themify_builder_content-2753" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

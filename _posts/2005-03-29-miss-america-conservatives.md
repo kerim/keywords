@@ -22,7 +22,3 @@ Sometimes a blog post deserves to be quoted at length. Such is the case with <a 
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/compassionate conservatism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/compassionate conservatism', 'compassionate conservatism']);"  rel="tag">compassionate conservatism</a>, <a href="http://technorati.com/tag/miss america" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/miss america', 'miss america']);"  rel="tag">miss america</a>, <a href="http://technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>}</span>
 </div>
 
-<div id="themify_builder_content-2118" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

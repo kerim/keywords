@@ -20,7 +20,3 @@ From <a href="http://www.dailykos.com/archives/002467.html" onclick="_gaq.push([
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1122" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

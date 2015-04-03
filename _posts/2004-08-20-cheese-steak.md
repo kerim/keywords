@@ -25,7 +25,3 @@ Well, <a href="http://atrios.blogspot.com/2004/08/liar.html" onclick="_gaq.push(
 
 OK, it isn&#8217;t in the same league as the <a href="http://nytimes.com/imagepages/2004/08/19/politics/campaign/20040820_SWIFT_GRAPH.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://nytimes.com/imagepages/2004/08/19/politics/campaign/20040820_SWIFT_GRAPH.html', 'Swift Boat story']);" >Swift Boat story</a>, but I think Kerry shouldn&#8217;t just <a href="http://www.thudfactor.com/textpattern/index.php?id=874" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thudfactor.com/textpattern/index.php?id=874', 'sit there']);" >sit there</a> and let Bush get away with this!
 
-<div id="themify_builder_content-1818" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

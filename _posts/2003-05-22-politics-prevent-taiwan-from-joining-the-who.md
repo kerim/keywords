@@ -12,7 +12,3 @@ Taiwan has long desired to join the WHO. Politics, specifically the objections o
 >   How could a supposedly lofty organization such as the WHO continue to allow outdated political considerations to override the right of millions of people in this country to proper health care &#8212; especially since such a move places the health of billions more around the world at risk?
 > </div>
 
-<div id="themify_builder_content-1196" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

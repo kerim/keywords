@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.taipeitimes.com/news/2002/10/20/story/0000176367" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/news/2002/10/20/story/0000176367', 'The Taipei Times']);" >The Taipei Times</a>
 
-<div id="themify_builder_content-675" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

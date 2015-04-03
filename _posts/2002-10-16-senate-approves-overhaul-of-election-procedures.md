@@ -14,7 +14,3 @@ Even though these two backed down where it really counted &#8211; war in Iraq &#
 
 <a href="http://www.nytimes.com/aponline/national/AP-Election-Changes.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/aponline/national/AP-Election-Changes.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-645" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

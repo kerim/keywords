@@ -110,7 +110,3 @@ Fax: +1-202-267-6434
 
 Email: secretary@state.gov
 
-<div id="themify_builder_content-58" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

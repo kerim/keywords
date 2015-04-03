@@ -24,7 +24,3 @@ You get the idea. Once you understand this, it becomes very easy to use the site
 
 UPDATE: If you plan on including a similar side-bar using del.icio.us, be aware that they require you to cache the file locally so as to avoid overloading their system. I&#8217;ve listed some various methods of doing this <a href="http://del.icio.us/kerim/delicious-caching" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://del.icio.us/kerim/delicious-caching', 'here']);" >here</a>. Also, I forgot to include the link to del.icio.us&#8217; own instructions for how to include their content on your website. It is <a href="http://del.icio.us/doc/html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://del.icio.us/doc/html', 'here']);" >here</a>. The solution I came up with for local caching is <a href="http://arsenal.media.mit.edu/notebook/archives/000235.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://arsenal.media.mit.edu/notebook/archives/000235.html', 'this one']);" >this one</a>.
 
-<div id="themify_builder_content-1859" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

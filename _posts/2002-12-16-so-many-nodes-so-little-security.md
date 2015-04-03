@@ -14,7 +14,3 @@ There is a nice map with the article.
 
 <a href="http://www.nytimes.com/2002/12/12/technology/circuits/12spot.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/12/12/technology/circuits/12spot.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-799" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

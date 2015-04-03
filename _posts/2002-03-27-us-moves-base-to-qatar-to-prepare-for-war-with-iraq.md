@@ -10,7 +10,3 @@ categories:
 
 The US Air Force has begun preparations to move its Gulf headquarters from Saudi Arabia to Qatar, to bypass Saudi objections to military action against Iraq, according to Saudi analysts and businessmen involved in the relocation. 
 
-<div id="themify_builder_content-23" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

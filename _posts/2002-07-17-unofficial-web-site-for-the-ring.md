@@ -12,7 +12,3 @@ Released in early 1998 and made for a mere 1.2 million dollars, the Ring was the
 
 Warning: There are some &#8220;spoilers&#8221; on the site so don&#8217;t read everything if you haven&#8217;t seen the movie. You can get the movie as a VCD from Videomas.com. It is in Japanese with Chinese subtitles, but that doesn&#8217;t matter &#8211; you don&#8217;t need to have subtitles. And besides, you can print out the full screenplay from this web site!
 
-<div id="themify_builder_content-330" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

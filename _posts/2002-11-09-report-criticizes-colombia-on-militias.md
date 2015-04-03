@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/11/09/international/americas/09COLO.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/11/09/international/americas/09COLO.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-726" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

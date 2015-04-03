@@ -14,7 +14,3 @@ This is the only Y2K bug I&#8217;ve ever heard of!
 
 <a href="http://www.upi.com/view.cfm?StoryID=20021105-061006-6608r" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.upi.com/view.cfm?StoryID=20021105-061006-6608r', 'United Press International']);" >United Press International</a>
 
-<div id="themify_builder_content-715" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

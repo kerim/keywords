@@ -12,7 +12,3 @@ categories:
 
 <a href="http://db.tidbits.com/getbits.acgi?tbart=06997" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://db.tidbits.com/getbits.acgi?tbart=06997', 'TidBITS']);" >TidBITS</a>
 
-<div id="themify_builder_content-742" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 I wholly agree with <a href="http://www.nytimes.com/2003/02/14/opinion/14KRIS.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/02/14/opinion/14KRIS.html', 'Kristof']);" >Kristof</a> on this one.
 
-<div id="themify_builder_content-957" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

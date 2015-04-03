@@ -14,7 +14,3 @@ This NY Times article does a good job of expalining exactly what Enron/Anderson 
 
 <a href="http://www.nytimes.com/2002/06/17/business/17ENRO.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/06/17/business/17ENRO.html', '(NY Times)']);" >(NY Times)</a>
 
-<div id="themify_builder_content-247" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

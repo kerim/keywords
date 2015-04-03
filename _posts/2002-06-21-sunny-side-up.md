@@ -15,7 +15,3 @@ John Sayles and Maggie Renzi talk about their new movie.
 
 <a href="http://www.alternet.org/story.html?StoryID=13342" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/story.html?StoryID=13342', 'AlterNet ']);" >AlterNet </a>
 
-<div id="themify_builder_content-265" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

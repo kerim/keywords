@@ -23,7 +23,3 @@ Meanwhile, less American&#8217;s are <a href="http://www.mercurynews.com/mld/mer
 
 (via <a href="http://slashdot.org/article.pl?sid=04/03/24/2322236&#38;mode=thread&#38;tid=103&#38;tid=146&#38;tid=99" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slashdot.org/article.pl?sid=04/03/24/2322236&mode=thread&tid=103&tid=146&tid=99', 'slashdot']);" >slashdot</a>).
 
-<div id="themify_builder_content-1600" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

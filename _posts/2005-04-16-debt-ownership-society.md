@@ -16,7 +16,3 @@ A recent compendium and analysis of U.S. labor market statistics, the *<a href="
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>, <a href="http://technorati.com/tag/labor market statistics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/labor market statistics', 'labor market statistics']);"  rel="tag">labor market statistics</a>}</span>
 </div>
 
-<div id="themify_builder_content-2151" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

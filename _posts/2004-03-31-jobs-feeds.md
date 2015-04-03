@@ -21,7 +21,3 @@ Make sure to read Xeni&#8217;s <a href="http://www.wired.com/wired/archive/12.04
 
 UPDATE: There is also <a href="http://flipdog.monster.com/rss/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://flipdog.monster.com/rss/', 'Flipdog']);" >Flipdog</a> (a part of Monster.com).
 
-<div id="themify_builder_content-1610" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ Atrios has a great series of posts on the internment of Japanese during WWII. In
 
 <a href="http://atrios.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/', 'Eschaton']);" >Eschaton</a>
 
-<div id="themify_builder_content-842" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

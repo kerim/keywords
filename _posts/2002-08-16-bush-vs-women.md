@@ -18,7 +18,3 @@ Nicholas Kristof wrote this very strong condemnation of Bush&#8217;s policies to
 
 <a href="http://www.nytimes.com/2002/08/16/opinion/16KRIS.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/16/opinion/16KRIS.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-450" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

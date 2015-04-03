@@ -16,7 +16,3 @@ If 997 words for penis sounds like a lot, check out <a href="http://www.starma.c
 
 If you are interested in slang dictionaries, then perhaps you will be interested in <a href="http://www.us.oup.com/us/catalog/general/subject/Linguistics/TheEnglishLanguage/?view=usa&#38;ci=0199254710#productdetails" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.us.oup.com/us/catalog/general/subject/Linguistics/TheEnglishLanguage/?view=usa&ci=0199254710#productdetails', 'this exhaustive three part history of slang dictionaries']);" >this exhaustive three part history of slang dictionaries</a>. Volume 1 covers only the period from 1567 to 1784! So perhaps even more interesting than the number of slang words in English, is our obsession with such words.
 
-<div id="themify_builder_content-1561" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

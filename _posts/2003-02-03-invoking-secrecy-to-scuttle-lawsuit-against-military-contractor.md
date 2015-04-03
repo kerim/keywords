@@ -26,7 +26,3 @@ Dr. Schwartz should be a hero &#8211; instead her case is getting scuttled by go
 
 <a href="http://www.nytimes.com/2003/02/03/politics/03MISS.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/02/03/politics/03MISS.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-917" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

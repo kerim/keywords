@@ -16,7 +16,3 @@ categories:
 
 From <a href="http://www.usatoday.com/usatonline/20030225/4894862s.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.usatoday.com/usatonline/20030225/4894862s.htm', 'USA Today']);" >USA Today</a>.
 
-<div id="themify_builder_content-990" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 The actual speech is <a href="http://www.kuro5hin.org/story/2003/3/20/95334/1309" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.kuro5hin.org/story/2003/3/20/95334/1309', 'here']);" >here</a>. Although I don&#8217;t agree with the whole &#8220;liberation&#8221; perspective in the speech, it really is eloquent and worth reading. It certainly shows more respect for the Iraqi people than Bush has &#8230;
 
-<div id="themify_builder_content-1020" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

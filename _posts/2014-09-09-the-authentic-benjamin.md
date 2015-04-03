@@ -1,8 +1,7 @@
 ---
 title: The Authentic Benjamin
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2014/09/09/the-authentic-benjamin/
 hide_post_title:
   - default
@@ -25,7 +24,3 @@ tags:
 
 Jennings, Ronald C. 2011. “<a href="http://dx.doi.org/10.1177/1463499610395443" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dx.doi.org/10.1177/1463499610395443', 'Sovereignty and Political Modernity: A Genealogy of Agamben’s Critique of Sovereignty']);" >Sovereignty and Political Modernity: A Genealogy of Agamben’s Critique of Sovereignty</a>.” Anthropological Theory 11 (1): 23–61.
 
-<div id="themify_builder_content-3518" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

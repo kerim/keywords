@@ -20,7 +20,3 @@ OK, it isn&#8217;t an article, but I&#8217;m put a lot of work into it! It was h
 
 <a href="http://savageminds.org/2005/09/09/wars-and-words/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://savageminds.org/2005/09/09/wars-and-words/', 'Savage Minds']);" >Savage Minds</a>.] 
 
-<div id="themify_builder_content-2294" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

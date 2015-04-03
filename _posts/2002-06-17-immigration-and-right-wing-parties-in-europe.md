@@ -18,7 +18,3 @@ Here is a new weblog I found.
 
 <a href="http://tedweb.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://tedweb.blogspot.com/', 'Immigration and Right-Wing Parties in Europe']);" >Immigration and Right-Wing Parties in Europe</a>
 
-<div id="themify_builder_content-244" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

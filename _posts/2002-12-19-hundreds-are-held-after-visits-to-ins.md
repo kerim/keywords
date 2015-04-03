@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.latimes.com/news/local/la-me-register19dec19,0,436924.story?coll=la%2Dhome%2Dheadlines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/news/local/la-me-register19dec19,0,436924.story?coll=la%2Dhome%2Dheadlines', 'LA Times']);" >LA Times</a>
 
-<div id="themify_builder_content-806" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

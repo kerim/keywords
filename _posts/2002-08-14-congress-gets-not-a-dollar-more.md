@@ -14,7 +14,3 @@ Bush found a reason to block a bill that would have sent money for election refo
 
 <a href="http://www.washingtontimes.com/national/20020814-6514906.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtontimes.com/national/20020814-6514906.htm', 'The Washington Times']);" >The Washington Times</a>
 
-<div id="themify_builder_content-439" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

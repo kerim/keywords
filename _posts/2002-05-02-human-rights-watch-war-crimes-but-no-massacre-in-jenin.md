@@ -10,7 +10,3 @@ categories:
 
 Human Rights Watch says at least 52 Palestinians died of whom 22 were civilians. Many of the civilians were killed wilfully and unlawfully the report says. Palestinian civilians were used as human shields and the Israeli army employed indiscriminate and excessive force, the report says. &#8230; The report gives examples &#8211; it says that a 57-year-old Palestinian man Kamil Sagir was shot and then run over by Israeli tanks even though his wheelchair was flying a white flag.
 
-<div id="themify_builder_content-106" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

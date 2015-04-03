@@ -18,7 +18,3 @@ I thought that &#8220;Lost Horizon&#8221; was actually supposed to be based in t
 
 <a href="http://www.washingtonpost.com/ac2/wp-dyn?pagename=article&node=&contentId=A24484-2002Sep1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/ac2/wp-dyn?pagename=article&node=&contentId=A24484-2002Sep1', '(washingtonpost.com)']);" >(washingtonpost.com)</a>
 
-<div id="themify_builder_content-521" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -25,7 +25,3 @@ UPDATE: More in the *Chronicle of Higher Educaiton*:
 
 <a href="http://chronicle.com/cgi2-bin/printable.cgi?article=http://chronicle.com/prm/daily/2004/10/2004102602n.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chronicle.com/cgi2-bin/printable.cgi?article=http://chronicle.com/prm/daily/2004/10/2004102602n.htm', 'Labor Strife at San Francisco Hotels Prompts Anthropologists to Tentatively Move Annual Meeting']);" >Labor Strife at San Francisco Hotels Prompts Anthropologists to Tentatively Move Annual Meeting</a>
 
-<div id="themify_builder_content-1951" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

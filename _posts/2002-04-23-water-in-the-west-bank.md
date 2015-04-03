@@ -12,7 +12,3 @@ When supplies run low during the summer months, the Israeli water company, Mekor
 
 When tensions are high &#8212; as they are now &#8212; the situation becomes unbearable, especially for the 25 per cent of Palestinian villages that were never connected to a water supply.
 
-<div id="themify_builder_content-93" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

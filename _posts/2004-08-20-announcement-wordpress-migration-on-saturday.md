@@ -13,7 +13,3 @@ If all goes well the switch should happen transparently on Saturday night. But i
 
 (I&#8217;m working on a Wiki article about how I setup Shashwati&#8217;s website using WordPress. It still isn&#8217;t done, but you can <a href="http://wiki.oxus.net/Beyond_the_blog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wiki.oxus.net/Beyond_the_blog', 'bookmark it here']);" >bookmark it here</a>.)
 
-<div id="themify_builder_content-1816" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

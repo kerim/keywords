@@ -10,7 +10,3 @@ categories:
 
 New York State has broken down elementary and middle school standardized test scores by race and ethnicity for the first time and found that white and Asian students do much better than black and Hispanic students in English and mathematics.
 
-<div id="themify_builder_content-31" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

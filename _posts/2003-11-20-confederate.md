@@ -28,7 +28,3 @@ Neiwert also makes an important point about the urban-vs-rural divide that is in
 
 So while Dean choose his words poorly, he seems to have been making a valid point. But can the Democrats have a &#8220;Southern Strategy&#8221; that isn&#8217;t racist, and which limits the damage caused by NAFTA without being overly protectionist? I hope so &#8230;
 
-<div id="themify_builder_content-1401" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

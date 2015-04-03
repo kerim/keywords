@@ -16,7 +16,3 @@ What Powell <a href="http://slate.msn.com/id/2078437/" onclick="_gaq.push(['_tra
 >   </p>
 > </div>
 
-<div id="themify_builder_content-943" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

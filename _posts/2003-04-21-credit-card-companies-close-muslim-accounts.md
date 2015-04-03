@@ -16,7 +16,3 @@ categories:
 
 Full article on <a href="http://www.alternet.org/story.html?StoryID=15659" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/story.html?StoryID=15659', 'Alternet']);" >Alternet</a>
 
-<div id="themify_builder_content-1110" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

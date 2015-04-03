@@ -10,7 +10,3 @@ categories:
 
 I&#8217;ve created a new page of bookmarks with resources for fighting spam. Links to sites that filter spam, ideas for reducing spam, and online services that help you reduce your spam. Spam, spam, spam, spam &#8230;.
 
-<div id="themify_builder_content-782" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

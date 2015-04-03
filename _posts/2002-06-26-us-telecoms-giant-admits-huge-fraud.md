@@ -15,7 +15,3 @@ For those who don&#8217;t know. &#8220;Worldcom&#8221; is the owner of &#8220;MC
 
 <a href="http://news.bbc.co.uk/hi/english/business/newsid_2066000/2066731.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/business/newsid_2066000/2066731.stm', '(BBC)']);" >(BBC)</a>
 
-<div id="themify_builder_content-286" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

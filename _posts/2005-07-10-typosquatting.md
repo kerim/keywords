@@ -24,7 +24,3 @@ But owning a sequence of letters isn&#8217;t the half of it. Major companies oft
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2243" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -35,7 +35,3 @@ ELSEWHERE: More <a href="http://www.flipperit.net/tkalliok/flipperi/history_en.h
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/pinball" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/pinball', 'pinball']);"  rel="tag">pinball</a>, <a href="http://technorati.com/tag/space shuttle" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/space shuttle', 'space shuttle']);"  rel="tag">space shuttle</a>, <a href="http://technorati.com/tag/williams" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/williams', 'williams']);"  rel="tag">williams</a>, <a href="http://technorati.com/tag/stern" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/stern', 'stern']);"  rel="tag">stern</a>, <a href="http://technorati.com/tag/extra ball" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/extra ball', 'extra ball']);"  rel="tag">extra ball</a>}</span>
 </div>
 
-<div id="themify_builder_content-2126" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

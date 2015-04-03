@@ -15,7 +15,3 @@ I was going to write a short piece linking to two great Chinese-character relate
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2458" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

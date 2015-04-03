@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.guardian.co.uk/Print/0,3858,4642265,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/Print/0,3858,4642265,00.html', 'Guardian UK']);" >Guardian UK</a>
 
-<div id="themify_builder_content-1082" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

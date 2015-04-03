@@ -24,7 +24,3 @@ There is some hope however, the Chin-Suei geothermal energy project in Yi-Lan Co
 
 UPDATE: <a href="http://taiwansousa.blogspot.com/2007/12/taiwans-wuchi-power-plant-worlds.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://taiwansousa.blogspot.com/2007/12/taiwans-wuchi-power-plant-worlds.html', 'Taiwan&#8217;s Wuchi Power Plant &#8211; the world&#8217;s dirtiest']);" >Taiwan&#8217;s Wuchi Power Plant &#8211; the world&#8217;s dirtiest</a>.
 
-<div id="themify_builder_content-2774" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

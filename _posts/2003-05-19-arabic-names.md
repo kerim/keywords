@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.languagehat.com/archives/000594.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/000594.php', 'Language Hat']);" >Language Hat</a>
 
-<div id="themify_builder_content-1191" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

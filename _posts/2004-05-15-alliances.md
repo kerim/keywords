@@ -14,7 +14,3 @@ In a recent *<a href="http://www.prospect.org/print-friendly/print/V15/3/nunberg
 
 > The essential difference between the sides isn&#8217;t in the distinct moral universes they inhabit but in the kinds of moral values they take as defining political community.
 
-<div id="themify_builder_content-1698" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

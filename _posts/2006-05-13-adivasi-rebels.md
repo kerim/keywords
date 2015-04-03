@@ -48,7 +48,3 @@ To his credit, John Lancaster also explores the social conditions that have caus
 
 It seems clear that if India wants to stem the rising tide of Maoism it needs to acknowledge the tremendous injustices faced by the Adivsasi population, and not simply use Maoism as an excuse to further restrict their rights. At the same time the Maoists might want to take a page from the <a href="http://en.wikipedia.org/wiki/Zapatista" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Zapatista', 'Zapatistas']);" >Zapatistas</a> and give nonviolent resistance a try&#8230;
 
-<div id="themify_builder_content-2449" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

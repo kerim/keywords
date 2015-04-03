@@ -56,7 +56,3 @@ Take <a href="http://www.pbs.org/wgbh/pages/frontline/shows/plea/four/stewart.ht
 
 > Three years after she pleaded guilty in order to go home and take care of her children, she is destitute. Because of the plea, she is not eligible for food stamps for herself or federal grant money for education. She can&#8217;t vote until two years after she completes her 10-year probation. And she has been evicted from her public housing for not paying rent. Her children sleep in various homes and she spends her nights outside the housing project, waiting for the the morning when she can go to work as a cook &#8212; a job that pays $5.25 an hour. She owes a $1,000 fine, court costs and late probation fees which she has been pressured to pay. &#8220;They see it like, as long as I have a job, I can pay them,&#8221; says Erma Faye. &#8220;I already told them, I&#8217;m having a hard time, buying my son medicine. I have to have his medicine for his asthma. They don&#8217;t really care about that. All they want is, you know, the money.&#8221;
 
-<div id="themify_builder_content-1745" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

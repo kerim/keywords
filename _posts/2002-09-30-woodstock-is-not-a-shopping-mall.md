@@ -12,7 +12,3 @@ The TAPPED article linked above comments about the immaturity of the anti-IMF pr
 
 The Woodstock anti-CVS protest was another matter. It was, as is normal for Woodstock, quite badly organized. It seemed they couldn&#8217;t even agree if they wanted Rev. Billy to speak. Rev. Billy, to his credit, tried to get the protesters to think about the connections between Woodstock and the larger issues. It seemed, however, that some people preferred to keep the issues entirely &#8220;local.&#8221; It was surprising, too, how the &#8220;local&#8221; police seemed to be working for corporate america when they were videotaping people at the protest &#8211; often putting the cameras very close to their face. They told someone that the purpose was so that CVS would have evidence if they needed to file charges!
 
-<div id="themify_builder_content-595" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

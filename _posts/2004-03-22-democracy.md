@@ -24,7 +24,3 @@ So there you have it. By having Americans vote not just for our own president, b
 
 UPDATE: So far, no takers on my idea. However, there is a site devoted to <a href="http://worldpeace.org.au/virtualElection.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://worldpeace.org.au/virtualElection.asp', 'the opposite solution']);" >the <em>opposite</em> solution</a>.
 
-<div id="themify_builder_content-1589" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

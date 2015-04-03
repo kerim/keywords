@@ -14,7 +14,3 @@ The NY Straphangers campaign as <a href="http://www.straphangers.org/discount.ht
 
 You can submit comments to the MTA <a href="http://mta-comments.custhelp.com/cgi-bin/mta-comments.cfg/php/enduser/ask.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://mta-comments.custhelp.com/cgi-bin/mta-comments.cfg/php/enduser/ask.php', 'here']);" >here</a>.
 
-<div id="themify_builder_content-906" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

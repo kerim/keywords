@@ -14,7 +14,3 @@ George P. Fletcher is Cardozo professor of jurisprudence at Columbia Law School
 
 <a href="http://www.taipeitimes.com/news/2002/10/29/story/0000177531" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/news/2002/10/29/story/0000177531', 'The Taipei Times Online']);" >The Taipei Times Online</a>
 
-<div id="themify_builder_content-688" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

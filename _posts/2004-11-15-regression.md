@@ -15,7 +15,3 @@ Sounds great, until you look at the political reality. The reason these systems 
 
 Look, for instance, at Clinton&#8217;s Earned Income Tax Credit, this helped alleviate the pain of welfare &#8220;reform&#8221; for some of America&#8217;s poor (those that work); however, Bush wants to keep the welfare reforms while eliminating these credits. That is what we can expect for any other such compromises. A negotiated settlement can&#8217;t work unless there is the wherewithal to ensure that it stays in place.
 
-<div id="themify_builder_content-1987" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ On the Media had an <a href="http://www.onthemedia.org/transcripts/2006/12/22/04
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2570" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

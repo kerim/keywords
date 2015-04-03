@@ -18,7 +18,3 @@ Interesting point&#8230;
 
 <a href="http://www.nytimes.com/2003/01/19/weekinreview/19LIPT.html?8hpib" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/19/weekinreview/19LIPT.html?8hpib', 'NYTimes']);" >NYTimes</a>
 
-<div id="themify_builder_content-862" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

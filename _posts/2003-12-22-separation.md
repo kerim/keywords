@@ -33,7 +33,3 @@ UPDATE: Edited for clarity.
 
 UPDATE: Brett Marston has some <a href="http://marston.blogspot.com/archives/2004_01_04_marston_archive.html#107340706356803674" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://marston.blogspot.com/archives/2004_01_04_marston_archive.html#107340706356803674', 'interesting comments on this post']);" >interesting comments on this post</a>.
 
-<div id="themify_builder_content-1437" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

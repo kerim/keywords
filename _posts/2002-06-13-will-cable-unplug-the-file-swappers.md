@@ -12,7 +12,3 @@ categories:
 
 <a href="http://biz.yahoo.com/bizwk/020612/tc200206121108_1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://biz.yahoo.com/bizwk/020612/tc200206121108_1.html', 'Yahoo']);" >Yahoo</a>
 
-<div id="themify_builder_content-215" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

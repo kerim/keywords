@@ -10,7 +10,3 @@ categories:
 
 These are the data banks developed in Palestinian Authority institutions like the Education Ministry, the Higher Education Ministry and the Health Ministry. These are the data banks of the non-governmental organizations and research institutes devoted to developing a modern health system, modern agricultural, environmental protection and water conservation. These are the data banks of human rights organizations, banks and private commercial enterprises, infirmaries, and supermarkets. They all were clearly the targets for destruction in the military operation called Defensive Shield.
 
-<div id="themify_builder_content-103" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

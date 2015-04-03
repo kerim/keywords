@@ -41,7 +41,3 @@ But don&#8217;t let the implications of Jefferson&#8217;s change fool you &#8211
 >   &#8220;The true foundation of republican government is the equal right of every citizen in his person and property and in their management.&#8221; &#8211;Thomas Jefferson to Samuel Kercheval, 1816
 > </div>
 
-<div id="themify_builder_content-1319" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

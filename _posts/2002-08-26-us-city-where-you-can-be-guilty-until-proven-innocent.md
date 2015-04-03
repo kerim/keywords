@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.guardian.co.uk/international/story/0,3604,781071,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,781071,00.html', 'Guardian Unlimited']);" >Guardian Unlimited</a>
 
-<div id="themify_builder_content-485" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

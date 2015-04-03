@@ -12,7 +12,3 @@ categories:
 
 Seymour Hersh, transcribed by <a href="http://www.tinyrevolution.com/mt/archives/000172.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tinyrevolution.com/mt/archives/000172.html', 'Jonathan Schwarz']);" >Jonathan Schwarz</a>. (via <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2004_10_10.html#001797" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2004_10_10.html#001797', 'Tom Tomorrow']);" >Tom Tomorrow</a>)
 
-<div id="themify_builder_content-1926" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

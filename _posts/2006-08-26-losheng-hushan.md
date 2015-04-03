@@ -24,7 +24,3 @@ And <a href="http://en.wildatheart.org.tw/archives/hushan_dam_petition_your_help
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2501" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

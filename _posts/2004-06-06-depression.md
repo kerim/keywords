@@ -23,7 +23,3 @@ This news is even worse, since African Americans often lack other forms of wealt
 > 
 > Official unemployment figures, of course, greatly understate the actual number of adults without jobs. The definition doesn&#8217;t include discouraged people who have stopped looking for work, underemployed part-timers, students, or those in prison or other institutions. In New York City, scarcely half of African-American men between 16 and 65 had jobs in 2003, according to the Bureau of Labor Statistics&#8217; employment-to-population ratios for the city. The BLS ratios, which include discouraged workers and others the official unemployment statistics leave out, were 51.8% for black men, 57.1% for black women, 75.7% for white men, and 65.7% for Latino men. The figure for black men was the lowest on record (since 1979). 
 
-<div id="themify_builder_content-1728" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

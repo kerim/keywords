@@ -12,7 +12,3 @@ categories:
 
 As <a href="http://www.talkleft.com/archives/003247.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003247.html', 'Talk Left']);" >Talk Left</a> points out, what&#8217;s $1.7 billion worth in housing, health care, education, etc? But what he doesn&#8217;t mention is that, when looked at together with the tax cuts, this lends support to the theory that the republicans are actually trying to <a href="http://kerim.oxus.net/nucleus/index.php?itemid=1313" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kerim.oxus.net/nucleus/index.php?itemid=1313', 'bankrupt the system']);" >bankrupt the system</a>!
 
-<div id="themify_builder_content-1210" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

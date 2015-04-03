@@ -19,7 +19,3 @@ Also:
 
 <a href="http://depts.washington.edu/position/8_1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://depts.washington.edu/position/8_1.html', '8.1 Subimperialism']);" >8.1 Subimperialism</a>
 
-<div id="themify_builder_content-275" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

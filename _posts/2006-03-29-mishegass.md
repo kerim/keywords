@@ -20,7 +20,3 @@ Another link from <a href="http://china.notspecial.org/archives/2006/03/rabbis_i
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2420" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

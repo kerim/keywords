@@ -20,7 +20,3 @@ categories:
 
 <a href="http://news.bbc.co.uk/1/hi/world/south_asia/2153371.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/1/hi/world/south_asia/2153371.stm', 'BBC NEWS']);" >BBC NEWS</a>
 
-<div id="themify_builder_content-358" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

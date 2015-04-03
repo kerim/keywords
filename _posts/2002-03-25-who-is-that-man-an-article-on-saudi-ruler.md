@@ -10,7 +10,3 @@ categories:
 
 It is curious that the man who controls a quarter of the world&#8217;s oil reserves, and whose Middle East peace initiative will take centre stage at the Arab summit this week, gets only a seven-line mention in the International Who&#8217;s Who.
 
-<div id="themify_builder_content-13" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

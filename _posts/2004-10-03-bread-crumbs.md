@@ -13,7 +13,3 @@ Unfortunately, there is really no simple way to figure out how I got somewhere. 
 
 What I&#8217;d like is some kind of a trail. My browser&#8217;s history just doesn&#8217;t do the job. I <a href="http://www.lazyweb.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lazyweb.org/', 'wish']);" >wish</a> there was some better way of keeping track of these things that focused more on the process of web browsing. Perhaps if each link also kept information about the referring link, so that when I posted a link to my blog you could control-click on it and see all the bread-crumbs along the way as well as the final link?
 
-<div id="themify_builder_content-1906" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

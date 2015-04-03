@@ -20,7 +20,3 @@ categories:
 
 From the <a href="http://www.nowarblog.org/archives/001159.html#001159" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/001159.html#001159', 'No War Blog']);" >No War Blog</a>.
 
-<div id="themify_builder_content-1028" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

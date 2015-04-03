@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nationalpost.com/search/story.html?f=/stories/20020515/232527.html&qs=English" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nationalpost.com/search/story.html?f=/stories/20020515/232527.html&qs=English', '(National Post)']);" >(National Post)</a>
 
-<div id="themify_builder_content-137" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

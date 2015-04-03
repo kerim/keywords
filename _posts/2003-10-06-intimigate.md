@@ -15,7 +15,3 @@ From <a href="http://cursor.org/" onclick="_gaq.push(['_trackEvent', 'outbound-a
 
 **UPDATE**: Here is <a href="http://www.dailykos.com/archives/004454.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dailykos.com/archives/004454.html', 'an excellent primer']);" >an excellent primer</a> from Daily Kos, on what is still being called &#8220;the Plame Affair.&#8221;
 
-<div id="themify_builder_content-1352" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

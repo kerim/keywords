@@ -10,7 +10,3 @@ categories:
 
 Under the plan, the Afghan officials will offer poppy farmers around $500 per acre to destroy their plants. If the farmers refuse, Mr. Ghani said, the officials will destroy the crops anyway&#8230;. In impoverished, drought-stricken Afghanistan, the crop has proved to be one of the few reliable sources of a decent income. Poppies also use far less water than wheat or corn.
 
-<div id="themify_builder_content-55" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

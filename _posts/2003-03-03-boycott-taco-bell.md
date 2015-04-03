@@ -24,7 +24,3 @@ categories:
 
 <a href="http://www.foodfirst.org/action/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.foodfirst.org/action/', 'Food First']);" >Food First</a>.
 
-<div id="themify_builder_content-986" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

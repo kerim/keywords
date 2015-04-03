@@ -56,7 +56,3 @@ My own reading, as a former graduate employee union shop steward, is that the NY
 
 I see the spying on the Blackboard system as an attempt by the administration to bypass the faculty whom they cannot trust. Actions such as these risk rallying more faculty to the side of the graduate employees.
 
-<div id="themify_builder_content-2369" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

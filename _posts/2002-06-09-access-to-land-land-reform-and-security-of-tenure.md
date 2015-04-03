@@ -72,7 +72,3 @@ categories:
 
 <a href="http://www.foodfirst.org/action/cgar/AccessToLand.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.foodfirst.org/action/cgar/AccessToLand.htm', '(Food First/Institute for Food and Development Policy)']);" >(Food First/Institute for Food and Development Policy)</a>
 
-<div id="themify_builder_content-201" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

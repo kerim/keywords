@@ -21,7 +21,3 @@ organizing the production and distribution of gross profits received&#8221; and 
 
 What is happening, in short, is that the nature of software development, as a form of work, is changing. And not just in terms of this new deal either. More and more middlemen are learning how to take a piece of the action: whether it is Apple&#8217;s iPhone application store, new marketing strategies, or cloud computing (yes, Google is a middleman as well), software developing and how one makes, sells, and distributes it is changing. Since it isn&#8217;t an issue I&#8217;ve studied, and am I not a developer myself, I have no idea how software development will change, only that as a careful observer it seems to be changing and the particular, almost ideal, conditions under which developers now work will be unlikely to continue unless developers start thinking of themselves as workers in a changing economy, and stop treating economic questions as if they were simply moral ones.
 
-<div id="themify_builder_content-2908" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

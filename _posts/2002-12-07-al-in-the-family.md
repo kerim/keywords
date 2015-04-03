@@ -14,7 +14,3 @@ The American Prospect writes about two new books by Al Gore. I have to say that 
 
 <a href="http://www.prospect.org/print/V13/23/franke-ruta-g.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/print/V13/23/franke-ruta-g.html', 'The American Prospect']);" >The American Prospect</a>
 
-<div id="themify_builder_content-770" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

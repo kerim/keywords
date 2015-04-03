@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.businessweek.com/technology/content/sep2002/tc20020925_0770.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.businessweek.com/technology/content/sep2002/tc20020925_0770.htm', 'BW Online']);" >BW Online</a>
 
-<div id="themify_builder_content-587" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

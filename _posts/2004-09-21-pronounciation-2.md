@@ -18,7 +18,3 @@ In Taiwan I was surprised how many people misspelled the phonetics of their own 
 
 It is worth mentioning that there are a couple of items on Barbara Partee&#8217;s <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/001472.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/001472.html', 'corrected list']);" >corrected list</a> which might be acceptable &#8220;Americanizations&#8221; since they involve phonological distinctions not present in American English. I know my wife, Shashwati, often has to make such adjustments because English lacks the <a href="http://asianstudies.anu.edu.au/hindi/pronounce/dental.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://asianstudies.anu.edu.au/hindi/pronounce/dental.html', 'aspirated dental sound']);" >aspirated dental sound</a> found in her name, and so she must pronounce the &#8220;t,&#8221; [t] as opposed to &#8220;dh&#8221; [not sure on the IPA for this] in order not to have to repeat herself numerous times. It takes considerable practice to learn to make sounds not in your own language&#8217;s phonological repertoire, but I think it is fair to expect newscasters to at least make reasonable approximations.
 
-<div id="themify_builder_content-1872" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

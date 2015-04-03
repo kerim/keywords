@@ -12,7 +12,3 @@ categories:
 >   Hostage crisis? What on Earth are you talking about Atrios? What hostage crisis? What? You&#8217;re telling me that 21 Americans have been held hostage for 11 days in Nigeria and I haven&#8217;t heard anything about it? How is that possible?
 > </div>
 
-<div id="themify_builder_content-1134" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

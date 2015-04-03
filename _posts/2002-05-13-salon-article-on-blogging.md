@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.salon.com/tech/feature/2002/05/10/blogbrain/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/tech/feature/2002/05/10/blogbrain/index.html', '(Salon.com)']);" >(Salon.com)</a>
 
-<div id="themify_builder_content-129" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

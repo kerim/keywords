@@ -36,7 +36,3 @@ A good question indeed. Lakshmi Chaudhry makes a <a href="http://www.alternet.or
 
 Unlike these two critics, what disappointed me was not that the film was ultimately just a Victorian romance wrapped up as a (gay) cowboy film. That is what I was expecting. What surprised me was how un-epic and unsentimental the film really was. Like I said, it seemed quite cold. It may be that this coldness was the film&#8217;s real genius, or it could be that it was a result of the film&#8217;s failure to conceive of gay love as anything but tragic.
 
-<div id="themify_builder_content-2448" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -32,7 +32,3 @@ And both Ian Williams and <a href="http://www.observer.co.uk/business/story/0,69
 
 Views, it turns out, which may have a lot to do with Israel&#8217;s good record on purchasing Patriot missiles, and other lucrative (but foolish) arms deals he advocated&#8230;
 
-<div id="themify_builder_content-1062" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

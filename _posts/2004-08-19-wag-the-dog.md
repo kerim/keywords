@@ -10,7 +10,3 @@ Here is a fascinating <a href="http://juliusblog.blogspot.com/2004_08_01_juliusb
 
 Didn&#8217;t Tom Ridge ever read the story of &#8220;The Boy Who Cried Wolf!&#8221; when he was a kid?
 
-<div id="themify_builder_content-1814" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

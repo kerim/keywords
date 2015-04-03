@@ -154,7 +154,3 @@ your Twitter updates with those people on Facebook. But Twitter is a
 conversation; a conversation where you can choose who you want to   
 listen to, and you can jump in (or drop out) at any time. I like that.
 
-<div id="themify_builder_content-2920" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

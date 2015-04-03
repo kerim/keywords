@@ -12,7 +12,3 @@ And even if voucher programs conferred more money onto students from failed publ
 
 <a href="http://www.prospect.org/webfeatures/2002/07/kushner-a-07-10.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/07/kushner-a-07-10.html', 'American Prospect']);" >American Prospect</a>
 
-<div id="themify_builder_content-323" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

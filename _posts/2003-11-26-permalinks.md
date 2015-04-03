@@ -15,7 +15,3 @@ How to deal with institutions that simply don&#8217;t &#8220;get&#8221; the inte
 
 No, really? That&#8217;s the problem I tried to bring to their attention. I don&#8217;t mind so much if they want to charge for access to their archives, but they should follow the N.Y. Times policy of providing an abstract and offering a low pay-per-view charge to read the article. I can then easily find the article by using the abstract to search on Lexus-nexus (to which my university subscribes). But to have a policy of deliberately breaking links? How stupid can you get! Not to mention responding to a letter about this problem by re-stating the problem as a matter of policy.
 
-<div id="themify_builder_content-1409" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

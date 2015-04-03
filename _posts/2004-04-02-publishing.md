@@ -23,7 +23,3 @@ I would be remiss not to include a link to <a href="http://www.freefulltext.com/
 
 And in a similar vein, Lawrence Lessig&#8217;s book *Free Culture*, is available <a href="http://www.free-culture.cc/freecontent/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.free-culture.cc/freecontent/', 'free online']);" >free online</a>, in a variety of formats. <a href="http://www.helptools.net/netdoc/starthelp.php?doc=4&#38;grp=4&#38;js=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.helptools.net/netdoc/starthelp.php?doc=4&grp=4&js=1', 'This one']);" >This one</a> is the nicest if you intend to read it on the web.
 
-<div id="themify_builder_content-1613" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ Fortunately, anthropologists are starting to get the idea. The <a href="http://w
 
 I also want to wish Amardeep success with his new <a href="http://www.postcolonial.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.postcolonial.blogspot.com/', 'postcolonial group blog']);" >postcolonial group blog</a>!
 
-<div id="themify_builder_content-2006" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

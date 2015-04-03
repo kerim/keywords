@@ -27,7 +27,3 @@ There is also a good <a href="http://directory.google.com/Top/Science/Social_Sci
 
 (Thanks to Ronald Kephart and Maggie Ronkin on the <a href="http://listserv.linguistlist.org/archives/linganth.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://listserv.linguistlist.org/archives/linganth.html', 'LingAnth list']);" >LingAnth list</a> for links. Here is <a href="http://listserv.linguistlist.org/cgi-bin/wa?A1=ind0308b&#38;L=linganth#1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://listserv.linguistlist.org/cgi-bin/wa?A1=ind0308b&L=linganth#1', 'the thread in the archives']);" >the thread in the archives</a>.)
 
-<div id="themify_builder_content-1282" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

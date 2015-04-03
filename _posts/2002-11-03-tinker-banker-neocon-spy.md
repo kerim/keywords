@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.prospect.org/print-friendly/print/V13/21/dreyfuss-r.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/print-friendly/print/V13/21/dreyfuss-r.html', 'The American Prospect']);" >The American Prospect</a>
 
-<div id="themify_builder_content-704" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

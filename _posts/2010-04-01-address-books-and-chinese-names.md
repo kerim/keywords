@@ -18,7 +18,3 @@ For Chinese contacts the biggest issue is being able to quickly call up contacts
   But I think I finally have system that works. I write the name in Chinese, with the name I actually call the person as their &#8220;middle name&#8221; and the proper pinyin transcription as the &#8220;nickname.&#8221; So my name would be &#8220;可恩 Kerim&nbsp;傅&#8221; with &#8220;Fu Keen&#8221; in the nickname field. This seems to be working well for me. It makes things easier to read, it preserves more information, in syncs well, and search is working better. And if I tell my iPhone to list the last name first, it actually puts the name in the proper Chinese order, albiet with an extra space: &#8220;傅 可恩 Kerim&#8221;.
 </p>
 
-<div id="themify_builder_content-2887" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

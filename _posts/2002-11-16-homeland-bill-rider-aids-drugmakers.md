@@ -14,7 +14,3 @@ Nothing like adding a few kickbacks in there to make the homeland more secure!
 
 <a href="http://www.washingtonpost.com/ac2/wp-dyn/A56918-2002Nov14?language=printer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/ac2/wp-dyn/A56918-2002Nov14?language=printer', 'washingtonpost.com']);" >washingtonpost.com</a>
 
-<div id="themify_builder_content-737" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

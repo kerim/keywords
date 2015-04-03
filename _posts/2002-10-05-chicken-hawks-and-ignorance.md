@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.tompaine.com/feature.cfm/ID/6493" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tompaine.com/feature.cfm/ID/6493', 'TOMPAINE.com &#8211; Case Dismissed']);" >TOMPAINE.com &#8211; Case Dismissed</a>
 
-<div id="themify_builder_content-627" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

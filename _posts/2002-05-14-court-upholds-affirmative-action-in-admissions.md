@@ -12,7 +12,3 @@ categories:
 
 <a href="http://chronicle.com/free/2002/05/2002051407n.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chronicle.com/free/2002/05/2002051407n.htm', '(The Chronicle of Higher Ed &#8211; free)']);" >(The Chronicle of Higher Ed &#8211; free)</a>
 
-<div id="themify_builder_content-133" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

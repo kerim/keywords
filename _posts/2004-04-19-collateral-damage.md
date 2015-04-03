@@ -22,7 +22,3 @@ Read the full <a href="http://www.pbs.org/now/transcript/transcript316_full.html
 
 <a href="http://www.pbs.org/now/thisweek/archive.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/now/thisweek/archive.html', 'Watch']);" >Watch</a> the interview (not up yet at the time of this post).
 
-<div id="themify_builder_content-1645" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

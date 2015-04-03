@@ -14,7 +14,3 @@ Earlier I discussed the <a href="http://keywords.oxus.net/archives/000311.html" 
 
 Unfortunately, as long as Jews cry &#8220;Wolf!&#8221; at every attack on Israel&#8217;s policies, it is very hard to get people to take this issue seriously.
 
-<div id="themify_builder_content-1479" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

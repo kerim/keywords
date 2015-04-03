@@ -16,7 +16,3 @@ categories:
 
 <a href="http://news.com.com/2100-1017-983636.html?tag=macintouch" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.com.com/2100-1017-983636.html?tag=macintouch', 'CNet']);" >CNet</a>
 
-<div id="themify_builder_content-937" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

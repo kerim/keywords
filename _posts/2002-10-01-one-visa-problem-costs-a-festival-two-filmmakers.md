@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/10/01/movies/01DIRE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/01/movies/01DIRE.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-600" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

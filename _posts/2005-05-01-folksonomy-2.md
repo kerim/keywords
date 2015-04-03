@@ -23,7 +23,3 @@ UPDATE: Unfortunately, it seems this did not make it to the May issue. They will
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2173" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

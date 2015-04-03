@@ -8,7 +8,3 @@ categories:
 ---
 Someone forwarded this to me and I think it is quite brilliant.
 
-<div id="themify_builder_content-636" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

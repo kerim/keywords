@@ -17,7 +17,3 @@ Dan Gillmor has an interesting piece on <a href="http://weblog.siliconvalley.com
 
 (Via <a href="http://www.worldchanging.com/archives/001631.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.worldchanging.com/archives/001631.html', 'Wold Changing']);" >Wold Changing</a>)
 
-<div id="themify_builder_content-1996" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

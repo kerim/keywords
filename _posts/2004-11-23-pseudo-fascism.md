@@ -16,7 +16,3 @@ I&#8217;m going to try to keep posting over the next two months, but it will be 
 
 I should also note that I&#8217;ve made some updates to the site recently, adding <a href="http://forums.oxus.net/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://forums.oxus.net/', 'forums']);" >forums</a>, updating my <a href="http://kerim.oxus.net/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kerim.oxus.net/', 'homepage']);" >homepage</a>, and adding another line of defense in my battle against <a href="http://www.tamba2.org.uk/wordpress/spam/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tamba2.org.uk/wordpress/spam/', 'comment SPAM']);" >comment SPAM</a>. Let me know if you see any problems.
 
-<div id="themify_builder_content-1995" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ Why consumption isn&#8217;t the answer to all our ills!
 
 <a href="http://www.nytimes.com/2002/12/11/opinion/11COHE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/12/11/opinion/11COHE.html', 'NY Times &#8211; Op-ed page']);" >NY Times &#8211; Op-ed page</a>
 
-<div id="themify_builder_content-784" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

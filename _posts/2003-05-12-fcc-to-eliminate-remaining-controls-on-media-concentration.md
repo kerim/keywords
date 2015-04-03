@@ -14,7 +14,3 @@ As if things weren&#8217;t bad enough, it seems that the FCC is planning to elim
 
 <a href="http://www.moveon.org/stopthefcc/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.moveon.org/stopthefcc/', 'Moveon.org']);" >Moveon.org</a> has a petition!
 
-<div id="themify_builder_content-1173" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

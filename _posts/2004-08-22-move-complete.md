@@ -23,7 +23,3 @@ UPDATE: It is also possible to do the move yourself, since Carthik has written o
 
 UPDATE: Here&#8217;s someone who will <a href="http://www.tamba2.org.uk/T2/archives/2004/08/22" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tamba2.org.uk/T2/archives/2004/08/22', 'help you migrate to WP for free']);" >help you migrate to WP for free</a>! (Updated again: Fixed the link.)
 
-<div id="themify_builder_content-1822" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

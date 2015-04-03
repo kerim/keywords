@@ -16,7 +16,3 @@ categories:
 
 <a href="http://news.macunlimited.com/news_123.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.macunlimited.com/news_123.html', 'macunlimited.com']);" >macunlimited.com</a>
 
-<div id="themify_builder_content-224" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

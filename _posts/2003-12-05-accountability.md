@@ -26,7 +26,3 @@ This quote is from <a href="http://64.177.207.201/pages/16_286.html" onclick="_g
 
 *UPDATE*: <a href="http://www.pbs.org/now/politics/military_spending_pop/index3.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/now/politics/military_spending_pop/index3.html', 'See here for a chart']);" >See here for a chart</a> showing just how much the education budget differs from the military budget. Which <a href="http://www.nationalpriorities.org/taxes/IncomeTaxChart.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nationalpriorities.org/taxes/IncomeTaxChart.html', 'portion of your tax dollars']);" >portion of your tax dollars</a> would you like to see subject to more accountability?
 
-<div id="themify_builder_content-1415" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

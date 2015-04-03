@@ -10,7 +10,3 @@ categories:
 
 Thanks to <a href="http://boingboing.net/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://boingboing.net/', 'boingboing']);" >boingboing</a>!
 
-<div id="themify_builder_content-1006" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

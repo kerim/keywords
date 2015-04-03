@@ -17,7 +17,3 @@ format: quote
 
 <a href="http://www.newyorker.com/online/blogs/hendrikhertzberg/2012/05/mann-and-ornstein.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/online/blogs/hendrikhertzberg/2012/05/mann-and-ornstein.html', 'Naked Truths: Mann and Ornstein&#8217;s &#8220;It&#8217;s Even Worse Than It Looks&#8221; : The New Yorker']);" >Naked Truths: Mann and Ornstein&#8217;s &#8220;It&#8217;s Even Worse Than It Looks&#8221; : The New Yorker</a>
 
-<div id="themify_builder_content-3221" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

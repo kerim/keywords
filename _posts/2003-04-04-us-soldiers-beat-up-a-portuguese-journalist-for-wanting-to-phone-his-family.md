@@ -14,7 +14,3 @@ This is from <a href="http://www.democracynow.org/scemama.htm" onclick="_gaq.pus
 
 This story has also been picked up by the <a href="http://media.guardian.co.uk/Print/0,3858,4638309,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://media.guardian.co.uk/Print/0,3858,4638309,00.html', 'Guardian UK']);" >Guardian UK</a>.
 
-<div id="themify_builder_content-1070" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

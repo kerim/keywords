@@ -18,7 +18,3 @@ So, should we trust crowds or not? Well, before you answer that, it is important
 
 (Photo by <a href="http://www.flickr.com/photos/hughes_leglise/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/hughes_leglise/', 'Hugo']);" >Hugo</a>.)
 
-<div id="themify_builder_content-2747" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

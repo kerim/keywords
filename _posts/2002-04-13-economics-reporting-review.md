@@ -8,7 +8,3 @@ categories:
 ---
 The <a href="http://www.cepr.net/Economic_Reporting_Review/index.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cepr.net/Economic_Reporting_Review/index.htm', 'Economics Reporting Review']);" >Economics Reporting Review</a> is CEPR Co-Director Dean Baker&#8217;s weekly analysis of business and economics articles in the New York Times and the Washington Post.
 
-<div id="themify_builder_content-70" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

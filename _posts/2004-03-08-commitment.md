@@ -10,7 +10,3 @@ David Corn makes <a href="http://www.thenation.com/docprint.mhtml?i=20040315&#38
 
 > After two decades in the Senate, Kerry has a long record that can be picked apart by competitors within his own party as well as in the GOP. &#8230; But there have been times he has shown courage, devotion to justice and commitment to honesty, open government and principle-over-politics. There are few senators of whom that can be said. A full assessment of the man ought to take these portions of his public service into account.
 
-<div id="themify_builder_content-1570" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

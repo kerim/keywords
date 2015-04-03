@@ -28,7 +28,3 @@ UPDATE: More from <a href="http://www.thismodernworld.com/weblog/mtarchives/week
 
 UPDATE: Yet more from <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2004_09_05.html#001736" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thismodernworld.com/weblog/mtarchives/week_2004_09_05.html#001736', 'Tom Tomorrow']);" >Tom Tomorrow</a>.
 
-<div id="themify_builder_content-1843" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

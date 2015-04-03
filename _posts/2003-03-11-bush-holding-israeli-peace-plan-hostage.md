@@ -12,7 +12,3 @@ Part of the story is that this is yet another example of Bush failing to come th
 
 In Jimmy Carter&#8217;s recent <a href="http://www.nytimes.com/2003/03/09/opinion/09CART.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/09/opinion/09CART.html', 'Op-Ed piece']);" >Op-Ed piece</a> he makes a not-too subtle jab at the &#8220;Southern Baptist Convention who are greatly influenced by their commitment to Israel based on eschatological, or final days, theology.&#8221; It is perhaps possible that such a belief system is guiding Bush&#8217;s policy, but I think it is more likely to be a simplistic world-view in which might-makes-right. As the NY Times article states, the administration believes that they can impose the peace they want on Israel after they show the power of the US by killing <a href="http://www.cesr.org/iraq/docs/humancosts.pdf" onclick="_gaq.push(['_trackEvent','download','http://www.cesr.org/iraq/docs/humancosts.pdf']);" >tens of thousands</a> of Iraqi civilians. (Note: last link is a PDF file.) But can truly lasting peace be imposed? Israel has been trying to do so for a long time and it has failed, why would a victory in Iraq make a difference?
 
-<div id="themify_builder_content-998" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

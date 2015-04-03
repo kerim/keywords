@@ -24,7 +24,3 @@ But with the amount of press this guy is getting, we need more critical reviews 
 >   And when that challenge came, its subject peoples rallied to the empire&#8217;s defense. Gandhi&#8217;s &#8220;Quit India&#8221; campaign of 1942 collapsed after a few weeks, but more than two million Indians served in the British forces, 250,000 of them outside India. Their loyalty signified something important: Most subjects of the king had never been better governed than by the young men of the Indian Civil Service and the Colonial Office.
 > </div>
 
-<div id="themify_builder_content-1129" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

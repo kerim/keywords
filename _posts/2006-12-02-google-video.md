@@ -24,7 +24,3 @@ Below is a low-resolution 3 minute preview of Acting Like a Thief:
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2555" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

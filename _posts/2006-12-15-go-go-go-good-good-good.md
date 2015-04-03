@@ -41,7 +41,3 @@ I hope this helps. If you have any other hints please share them in the comments
 
 UPDATE: Looks like they finally updated <a href="http://www.railway.gov.tw/index/index.aspx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.railway.gov.tw/index/index.aspx', 'the website']);" >the website</a>. It looks a lot better, but the English version is still woefully inadequate and doesn&#8217;t properly link to the <a href="http://new.twtraffic.com.tw/TWRail_en/index.aspx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://new.twtraffic.com.tw/TWRail_en/index.aspx', 'English time-schedule']);" >English time-schedule</a>. There is, however, a proper link to the <a href="http://railway.hinet.net/net_eng.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://railway.hinet.net/net_eng.htm', 'internet ticketing system']);" >internet ticketing system</a>, which hasn&#8217;t improved any.
 
-<div id="themify_builder_content-2563" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

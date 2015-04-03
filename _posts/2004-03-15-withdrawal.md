@@ -22,7 +22,3 @@ After writing an e-mail along these lines to some friends, I was pleasantly surp
 
 Now, I don&#8217;t think that an Iraqi Shiite theocracy would be the same as an Iranian one, nor am I at all clear about how much al-Qaeda is responsible for the attacks against American forces in Iraq, but I do think that there is plenty to worry about. No matter how I look at it, and no matter how much I feel for the young people risking their lives in Iraq, I don&#8217;t think bringing them home now is the answer. Not without a well thought out exit strategy, and not without ensuring a peaceful future for the Iraqi people. We owe them that much.
 
-<div id="themify_builder_content-1581" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

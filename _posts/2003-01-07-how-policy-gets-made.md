@@ -18,7 +18,3 @@ Seems that a new book by the writer of the &#8220;Axis of Evil&#8221; speech rev
 
 <a href="http://www.newyorker.com/printable/?talk/030113ta_talk_hertzberg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/printable/?talk/030113ta_talk_hertzberg', 'The New Yorker']);" >The New Yorker</a>
 
-<div id="themify_builder_content-816" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -28,7 +28,3 @@ From <a href="http://story.news.yahoo.com/news?tmpl=story2&cid=615&e=7&u=/nm/200
 
 Link courtesy the <a href="http://hnn.us/articles/900.html#03290305" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://hnn.us/articles/900.html#03290305', 'History News Network']);" >History News Network</a>.
 
-<div id="themify_builder_content-1043" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

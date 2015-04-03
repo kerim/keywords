@@ -23,7 +23,3 @@ From the BBC:
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/spelling" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/spelling', 'spelling']);"  rel="tag">spelling</a>, <a href="http://technorati.com/tag/Sedan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Sedan', 'Sedan']);"  rel="tag">Sedan</a>, <a href="http://technorati.com/tag/Sudan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Sudan', 'Sudan']);"  rel="tag">Sudan</a>, <a href="http://technorati.com/tag/nuclear" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/nuclear', 'nuclear']);"  rel="tag">nuclear</a>}</span>
 </div>
 
-<div id="themify_builder_content-2087" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

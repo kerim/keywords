@@ -25,7 +25,3 @@ For more information about the blog&#8217;s name, and the reason we have pansies
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2196" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

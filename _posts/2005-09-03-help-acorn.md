@@ -28,7 +28,3 @@ Donating to ACORN will help ensure that it isn&#8217;t only <a href="http://www.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2286" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

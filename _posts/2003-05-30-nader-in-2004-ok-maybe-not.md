@@ -20,7 +20,3 @@ No, I&#8217;m not a big Nader fan, and I hope someone else runs in his stead, bu
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1216" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

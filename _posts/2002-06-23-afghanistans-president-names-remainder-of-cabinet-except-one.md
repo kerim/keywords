@@ -14,7 +14,3 @@ categories:
 
 And <a href="http://www.afgha.com/article.php?sid=15094&mode=thread&order=0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.afgha.com/article.php?sid=15094&mode=thread&order=0', 'here']);" >here</a> is a full list.
 
-<div id="themify_builder_content-272" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

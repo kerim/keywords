@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.informationweek.com/story/IWK20021024S0001" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.informationweek.com/story/IWK20021024S0001', 'InformationWeek']);" >InformationWeek</a>
 
-<div id="themify_builder_content-679" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

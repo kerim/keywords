@@ -14,7 +14,3 @@ I don&#8217;t publish much about the environment on this blog &#8211; I guess be
 
 Basically, things are going to go from bad to worse&#8230;
 
-<div id="themify_builder_content-1197" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

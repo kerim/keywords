@@ -22,7 +22,3 @@ But all of this is really conjecture. Taiwan has only had democracy for a decade
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2504" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

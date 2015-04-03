@@ -14,7 +14,3 @@ Looks like Keynote has a bug specific to the video cards on iBooks running 10.2.
 
 <a href="http://docs.info.apple.com/article.html?artnum=61858" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://docs.info.apple.com/article.html?artnum=61858', 'AppleCare Document: 61858']);" >AppleCare Document: 61858</a>
 
-<div id="themify_builder_content-887" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

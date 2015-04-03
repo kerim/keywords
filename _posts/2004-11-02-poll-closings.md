@@ -16,7 +16,3 @@ If you know of better sites, leave them in the comments.
 
 UPDATE: <a href="http://network.ap.org/dynamic/files/specials/election_night_2004/us_map_govsenhouse/index.html?SITE=CSPANELN&#38;SECTION=POLITICS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://network.ap.org/dynamic/files/specials/election_night_2004/us_map_govsenhouse/index.html?SITE=CSPANELN&SECTION=POLITICS', 'CSPAN is good too']);" >CSPAN is good too</a>.
 
-<div id="themify_builder_content-1963" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

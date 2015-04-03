@@ -12,7 +12,3 @@ I can&#8217;t believe anyone takes this claim seriously, but this is <a href="ht
 >   If gun rights ensure our freedom, why has this war been necessary at all? Why didn&#8217;t the people of Iraq simply rise up with their arms and demand their liberty? Isn&#8217;t that how it works?
 > </div>
 
-<div id="themify_builder_content-1079" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

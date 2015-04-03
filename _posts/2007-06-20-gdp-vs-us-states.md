@@ -21,7 +21,3 @@ Via <a href="http://strangemaps.wordpress.com/2007/06/10/131-us-states-renamed-f
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2657" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

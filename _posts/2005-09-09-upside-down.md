@@ -25,7 +25,3 @@ I&#8217;ll post updates as the story develops. It is just too strange not to hav
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2293" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

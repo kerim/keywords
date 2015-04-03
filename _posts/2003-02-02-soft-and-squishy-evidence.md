@@ -18,7 +18,3 @@ The Guardian UK once again <a href="http://www.guardian.co.uk/Print/0,3858,45944
 
 Also see the <a href="http://www.latimes.com/news/nationworld/world/la-fg-intel30jan30,0,6143421.story?coll=la-home-headlines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/news/nationworld/world/la-fg-intel30jan30,0,6143421.story?coll=la-home-headlines', 'LA Times']);" >LA Times</a> on this.
 
-<div id="themify_builder_content-914" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

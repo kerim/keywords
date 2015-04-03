@@ -30,7 +30,3 @@ You can also help by sharing this blog post with a friend, or by posting it to T
 
 <a href="http://vimukta.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/', 'Vimukta']);" >Vimukta</a> is not your ordinary charity. One hundred percent of the donations we receive (after the credit card companies have taken their fee) go directly to <a href="http://budhantheatre.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://budhantheatre.org/', 'Budhan Theatre']);" >Budhan Theatre</a>, a grass-roots community-based organization with a proven track record. As political and cultural activists Budhan Theatre have to be extra careful in their finances. They have an external committee which double checks their books every year. Moreover, Vimukta doesn’t release a dime to Budhan Theatre until we’ve received a thorough accounting of how they’ve spent the funds from the previous year and those accounts are available to our donors. If you’d like to help out, you can do so on <a href="http://vimukta.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/', 'the Vimukta website']);" >the Vimukta website</a>.
 
-<div id="themify_builder_content-3307" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ categories:
 
 <a href="http://www.truthdig.com/report/print/the_tears_of_gaza_must_be_our_tears_20100809/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.truthdig.com/report/print/the_tears_of_gaza_must_be_our_tears_20100809/', 'Source']);" >Source</a>
 
-<div id="themify_builder_content-2873" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

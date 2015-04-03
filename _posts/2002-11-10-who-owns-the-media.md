@@ -26,7 +26,3 @@ A graph of media ownership shows the number of corporations in control of US med
 
 <a href="http://www.corporations.org/media/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.corporations.org/media/', 'http://www.corporations.org/media/']);" >http://www.corporations.org/media/</a>
 
-<div id="themify_builder_content-727" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

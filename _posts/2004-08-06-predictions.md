@@ -12,7 +12,3 @@ It&#8217;s the economy, stupid:
 
 And from the same post, a link to this &#8220;excellent <a href="http://theory.lcs.mit.edu/~rivest/voting/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://theory.lcs.mit.edu/~rivest/voting/index.html', 'website about electronic voting']);" >website about electronic voting</a>.&#8221; I&#8217;ve just added this link to the <a href="http://wiki.oxus.net/Election_2004" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wiki.oxus.net/Election_2004', 'Election 2004']);" >Election 2004</a> page of my wiki.
 
-<div id="themify_builder_content-1788" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

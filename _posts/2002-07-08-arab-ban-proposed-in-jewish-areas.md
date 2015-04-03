@@ -10,7 +10,3 @@ Human rights groups in Israel are vowing to fight a government decision that wou
 
 <a href="http://news.bbc.co.uk/hi/english/world/middle_east/newsid_2115000/2115857.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/world/middle_east/newsid_2115000/2115857.stm', '(BBC)']);" >(BBC)</a>
 
-<div id="themify_builder_content-318" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

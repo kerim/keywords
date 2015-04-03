@@ -10,7 +10,3 @@ categories:
 
 The centre of Rome has been brought to a standstill by an anti-terror demonstration organised by Italy&#8217;s biggest trade union. 
 
-<div id="themify_builder_content-3" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

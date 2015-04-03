@@ -12,7 +12,3 @@ By what inhuman calculus did Israel&#8217;s army, using dozens of tanks and armo
 
 &#8230;In 1988 the PLO made the concession of accepting partition of Palestine into two states. This was reaffirmed on numerous occasions, and certainly in the Oslo documents. But only the Palestinians explicitly recognized the notion of partition. Israel never has. This is why there are now more than 170 settlements on Palestinian land, why there is a 300-mile road network connecting them to each other and totally impeding Palestinian movement &#8230;, and why no Israeli prime minister has ever conceded any real sovereignty to the Palestinians, and why the settlements have grown on an annual basis. The merest glance at the accompanying map reveals what Israel has been doing throughout the peace process, and what the consequent geographical discontinuity and shrinkage in Palestinian life has been. In effect, Israel considers itself and the Jewish people to own all of Palestine. There are land ownership laws in Israel itself guaranteeing this, but in the West Bank and Gaza the settlements, roads and refusal to concede sovereign land rights to the Palestinians serve the same function.
 
-<div id="themify_builder_content-95" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

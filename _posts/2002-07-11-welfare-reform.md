@@ -16,7 +16,3 @@ The net result of these changes is that the old &#8220;welfare state&#8221; is b
 
 <a href="http://www.prospect.org/print/V13/13/jencks-c.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/print/V13/13/jencks-c.html', 'American Prospect']);" >American Prospect</a>
 
-<div id="themify_builder_content-325" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

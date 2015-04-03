@@ -14,7 +14,3 @@ From <a href="http://mediamatters.org/items/printable/200410190001" onclick="_ga
 
 More <a href="http://keywords.oxus.net/archives/2004/10/18/hate-crimes/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/10/18/hate-crimes/', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1939" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

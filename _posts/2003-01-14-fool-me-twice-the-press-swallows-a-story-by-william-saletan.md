@@ -14,7 +14,3 @@ This is a brilliant piece by Saletan, in which he takes the administration&#8217
 
 <a href="http://slate.msn.com/id/2076561/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/id/2076561/', 'Slate']);" >Slate</a>
 
-<div id="themify_builder_content-843" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -28,7 +28,3 @@ If only we could write <a href="http://www.ushistory.org/declaration/document/" 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2459" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

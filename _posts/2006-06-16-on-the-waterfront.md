@@ -38,7 +38,3 @@ But the best anecdote in the story goes to another union leader at Hanley&#8217;
 
 The *New Yorker* isn&#8217;t online unless you have access through your university, but the website does have <a href="http://www.newyorker.com/online/content/articles/060619on_onlineonly01" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/online/content/articles/060619on_onlineonly01', 'this interview']);" >this interview</a> with William Finnegan about writing this story.
 
-<div id="themify_builder_content-2469" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

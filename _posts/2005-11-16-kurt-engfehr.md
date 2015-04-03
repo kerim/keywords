@@ -23,10 +23,7 @@ We&#8217;ve raised $6,816 so far! Thank you everyone. That puts us about a grand
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2350" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: http://hoochandhamlet.com/wp-conent/images/DonateNow170x65.gif
  [2]: http://www.justgive.org/giving/donate.jsp&#63;charityId=18937&designation=Hooch%20and%20Hamlet

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.villagevoice.com/issues/0233/solomon.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.villagevoice.com/issues/0233/solomon.php', 'The Village Voice']);" >The Village Voice</a>
 
-<div id="themify_builder_content-473" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

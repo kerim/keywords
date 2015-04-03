@@ -24,7 +24,3 @@ What this means is that the market is wide open. The first person who can provid
 
 One possible solution is <a href="http://chandlerproject.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chandlerproject.org/', 'Chandler']);" >Chandler</a>, which also has Chandler hub for online sync. I last checked it out a long time ago, and I'm not sure how its developed since then. But it seems like something to keep an eye on. Anyone know of other solutions?
 
-<div id="themify_builder_content-2916" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

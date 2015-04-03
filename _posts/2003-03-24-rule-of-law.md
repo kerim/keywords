@@ -32,7 +32,3 @@ As one <a href="http://www.caterina.net/archive/000111.html" onclick="_gaq.push(
 >   Judge Mukasey took Rumsfeld et al to task for their cynical application of philosophical skepticism to circumvent the application of Padilla&#8217;s civil rights. Basically he&#8217;s telling them their half-baked argument has been considered and rejected by far greater minds than theirs.
 > </div>
 
-<div id="themify_builder_content-1027" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ A wonderful <a href="http://www.nytimes.com/2004/11/20/national/20lake.html?ei=5
 
 (via <a href="http://www.languagehat.com/archives/001645.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/001645.php', 'LanguageHat']);" >LanguageHat</a>, who tells us what the longest place name in the world is.)
 
-<div id="themify_builder_content-1994" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

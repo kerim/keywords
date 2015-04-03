@@ -16,7 +16,3 @@ categories:
 
 <a href="http://story.news.yahoo.com/news?tmpl=story2&cid=808&u=/dowjones/20020806/bs_dowjones/200208060343000163&printer=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://story.news.yahoo.com/news?tmpl=story2&cid=808&u=/dowjones/20020806/bs_dowjones/200208060343000163&printer=1', 'Yahoo! News']);" >Yahoo! News</a>
 
-<div id="themify_builder_content-411" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -13,7 +13,3 @@ Continuing my <a href="http://keywords.oxus.net/archives/cat_feeds.html" onclick
 
 Posted <a href="http://steverubel.typepad.com/micropersuasion/2004/05/google_adds_use.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://steverubel.typepad.com/micropersuasion/2004/05/google_adds_use.html', 'here']);" >here</a>, found the link <a href="http://www.boingboing.net/2004/05/13/usenet_as_atom_feed.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/05/13/usenet_as_atom_feed.html', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1696" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -28,7 +28,3 @@ Something to think about when marchers yell:
 
 Maybe we could wait till we are reasonably sure about the consequences of our actions?
 
-<div id="themify_builder_content-1583" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

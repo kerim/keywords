@@ -28,7 +28,3 @@ There&#8217;s a point here somewhere, but you&#8217;ll have to come out and visi
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2648" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

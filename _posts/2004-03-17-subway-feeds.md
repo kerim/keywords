@@ -21,7 +21,3 @@ And if you are a NYC blogger, make sure your blog is <a href="http://www.nycblog
 
 <a href="http://keywords.oxus.net/archives/cat_feeds.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/cat_feeds.html', 'More &#8220;feeds&#8221; posts here']);" >More &#8220;feeds&#8221; posts here</a>.] 
 
-<div id="themify_builder_content-1582" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ Yes, the <a href="http://www.prospect.org/weblog/archives/2003/05/index.html#001
 >   There&#8217;s more, including the rather funny detail that &#8220;U.S. commandos refused a key and instead broke down doors and went in with guns drawn.&#8221;
 > </div>
 
-<div id="themify_builder_content-1221" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

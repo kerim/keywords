@@ -26,7 +26,3 @@ It ain&#8217;t over till it&#8217;s over…
 
 If you can find a copy, it really is worth reading the whole thing…
 
-<div id="themify_builder_content-2970" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

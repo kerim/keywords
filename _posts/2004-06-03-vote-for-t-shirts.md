@@ -17,7 +17,3 @@ You are allowed four votes per category, and your votes cannot be changed. The t
 
 *Please help spread the word!*
 
-<div id="themify_builder_content-1727" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

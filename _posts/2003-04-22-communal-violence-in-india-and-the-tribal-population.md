@@ -14,7 +14,3 @@ This is a very fascinating document about the role of &#8220;Tribals&#8221; in I
 
 It is a long article, but it is well worth reading. He has interesting things to say about the difference between Hindu communalism and Islamic Fundamentalism, etc. Also, some things that are confusing at first are explained later in the article.
 
-<div id="themify_builder_content-1121" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

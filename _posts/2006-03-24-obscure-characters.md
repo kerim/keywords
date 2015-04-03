@@ -55,7 +55,3 @@ In related news, I just learned at dinner last night that the UN, which up till 
 
 If one is using a computer, there are ways to convert between the two character sets, but since simplified characters have less information, the conversion isn&#8217;t always 100% accurate. Even some of my Taiwanese colleagues complain that they find it difficult to read simplified texts, but from what I understand it is easier to learn simplified if you know traditional, than the other way around.
 
-<div id="themify_builder_content-2414" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

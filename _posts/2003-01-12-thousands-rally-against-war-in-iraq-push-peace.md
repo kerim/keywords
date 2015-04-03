@@ -18,7 +18,3 @@ Although pro-US protests in Korea made it to the front page of the NY Times, the
 
 <a href="http://www.latimes.com/news/local/la-me-protest12jan12,0,1688981.story?coll=la%2Dhome%2Dheadlines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.latimes.com/news/local/la-me-protest12jan12,0,1688981.story?coll=la%2Dhome%2Dheadlines', 'LA Times']);" >LA Times</a>
 
-<div id="themify_builder_content-835" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

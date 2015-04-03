@@ -12,7 +12,3 @@ categories:
 ---
 I want to use <a href="http://www.zotero.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.zotero.org/', 'Zotero 1.5b']);" >Zotero 1.5b</a>, but it seems that Firefox 3.0 has problems with large databases, and I have over 4000 references. So I&#8217;m going to try upgrading to <a href="http://www.mozilla.com/en-US/firefox/all-beta.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.mozilla.com/en-US/firefox/all-beta.html', 'Firefox 3.1b']);" >Firefox 3.1b</a> just to see if things work. In preparation I&#8217;m backing up my extensions. For future reference <a href="http://docs.google.com/Doc?id=dfqcv2wx_28dcfx9rfh" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://docs.google.com/Doc?id=dfqcv2wx_28dcfx9rfh', 'here&#8217;s what I have installed']);" >here&#8217;s what I have installed</a>.
 
-<div id="themify_builder_content-2912" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

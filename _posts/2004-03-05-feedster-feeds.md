@@ -17,7 +17,3 @@ But here is *the really cool part* &#8211; you can subscribe to your search resu
 
 See all [<a href="http://keywords.oxus.net/archives/cat_feeds.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/cat_feeds.html', 'feeds']);" >feeds</a>] posts.
 
-<div id="themify_builder_content-1563" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ categories:
 
 First came the atom bomb, the stealth bomber and the airborne laser. Now comes the US military&#8217;s latest fearsome weapon: the indestructible sandwich.
 
-<div id="themify_builder_content-62" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

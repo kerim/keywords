@@ -18,7 +18,3 @@ Sociology professor revises protest figures downwards for DC rally:
 
 <a href="http://www.salon.com/news/feature/2003/01/24/crowds/print.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/news/feature/2003/01/24/crowds/print.html', 'Salon.com']);" >Salon.com</a>
 
-<div id="themify_builder_content-880" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

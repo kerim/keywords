@@ -20,7 +20,3 @@ I don&#8217;t understand how the Republicans can accuse people on the Left of &#
 
 <a href="http://www.nytimes.com/2003/01/08/politics/08EFFE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/01/08/politics/08EFFE.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-817" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

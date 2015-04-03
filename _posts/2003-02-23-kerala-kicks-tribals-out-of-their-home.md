@@ -12,7 +12,3 @@ categories:
 
 In the <a href="http://newsvote.bbc.co.uk/mpapp s/pagetools/print/news.bbc.co.uk/2/hi/south_asia/2786589.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://newsvote.bbc.co.uk/mpapp s/pagetools/print/news.bbc.co.uk/2/hi/south_asia/2786589.stm', 'LINK']);" >LINK</a>.
 
-<div id="themify_builder_content-971" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

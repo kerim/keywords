@@ -21,7 +21,3 @@ Moreover, I think the nature of the list hides the importance of these differenc
 
 A lot of people on the left seem to want to punish Obama for not being more to the left, but a Romney win would probably just punish the poor and move the Democratic Party even further to the right. I wrote before the 2008 election that we <a href="http://keywords.oxus.net/archives/2008/01/08/bonus-army/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2008/01/08/bonus-army/', 'need a grassroots movement']);" >need a grassroots movement</a> to push the Dems further to the left. But I worry when occupying Wall Street means abandoning electoral politics and turning over the keys to the White House to Romney.
 
-<div id="themify_builder_content-3213" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

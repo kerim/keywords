@@ -12,7 +12,3 @@ categories:
 
 <a href="http://chronicle.com/free/v48/i41/41b00701.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chronicle.com/free/v48/i41/41b00701.htm', 'The Chronicle: 6/21/2002: Postmodern Farming, Quietly Flourishing']);" >The Chronicle: 6/21/2002: Postmodern Farming, Quietly Flourishing</a>
 
-<div id="themify_builder_content-236" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

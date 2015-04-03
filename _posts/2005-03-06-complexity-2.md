@@ -37,7 +37,3 @@ Finally, Ethan concludes with these comments:
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/africa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/africa', 'africa']);"  rel="tag">africa</a>, <a href="http://technorati.com/tag/life expectancy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/life expectancy', 'life expectancy']);"  rel="tag">life expectancy</a>, <a href="http://technorati.com/tag/tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tufte', 'tufte']);"  rel="tag">tufte</a>, <a href="http://technorati.com/tag/graph" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/graph', 'graph']);"  rel="tag">graph</a>, <a href="http://technorati.com/tag/hiv" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/hiv', 'hiv']);"  rel="tag">hiv</a>, <a href="http://technorati.com/tag/aids" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/aids', 'aids']);"  rel="tag">aids</a>}</span>
 </div>
 
-<div id="themify_builder_content-2078" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

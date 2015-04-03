@@ -14,7 +14,3 @@ Looks like the census didn&#8217;t count the impact of graduate students on pull
 
 <a href="http://www.nytimes.com/2002/08/06/nyregion/06CENS.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/06/nyregion/06CENS.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-401" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

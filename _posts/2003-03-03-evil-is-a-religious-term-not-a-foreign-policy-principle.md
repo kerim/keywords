@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.taipeitimes.com/News/edit/archives/2003/03/03/196619" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/edit/archives/2003/03/03/196619', 'Robert Cooper']);" >Robert Cooper</a> is Director General, Political and Military Affairs, EU Council of Ministers.
 
-<div id="themify_builder_content-983" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

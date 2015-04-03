@@ -19,7 +19,3 @@ Writing in *The Nation*, Adam Shatz, editor of the book *<a href="http://www.add
 
 I have never understood, and will never understand, how anyone, Jew or otherwise, can accept as legitimate a state which considers full democracy for all its citizens as tantamount to self-destruction. (Not that America has yet <a href="http://keywords.oxus.net/archives/000637.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/000637.html', 'lived up to the promises']);" >lived up to the promises</a> of the Civil Rights Act.)
 
-<div id="themify_builder_content-1753" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

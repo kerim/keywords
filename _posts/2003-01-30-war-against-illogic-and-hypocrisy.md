@@ -30,7 +30,3 @@ Even more damming, however, than Kinsley&#8217;s tame piece, is <a href="http://
 >   </p>
 > </div>
 
-<div id="themify_builder_content-905" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

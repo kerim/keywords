@@ -14,7 +14,3 @@ This Blog is one of the few sites to really cover the Affirmative Action issue (
 
 <a href="http://www.mikhaela.net/weblog/blogger.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.mikhaela.net/weblog/blogger.html', 'Mikhaela&#8217;s News Blog']);" >Mikhaela&#8217;s News Blog</a>
 
-<div id="themify_builder_content-854" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

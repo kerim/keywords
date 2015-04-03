@@ -14,7 +14,3 @@ You really have to wonder just who is in charge &#8230;
 
 <a href="http://www.nytimes.com/2002/10/03/politics/03INTE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/03/politics/03INTE.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-612" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

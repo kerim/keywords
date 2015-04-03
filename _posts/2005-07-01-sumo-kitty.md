@@ -21,7 +21,3 @@ UPDATE: <a href="http://japundit.com/archives/2005/06/29/when-girls-do-it/" oncl
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2233" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

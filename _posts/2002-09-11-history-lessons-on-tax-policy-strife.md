@@ -22,7 +22,3 @@ This is from a book review&#8230;
 
 <a href="http://www.nytimes.com/2002/09/11/books/11SLOA.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/09/11/books/11SLOA.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-537" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

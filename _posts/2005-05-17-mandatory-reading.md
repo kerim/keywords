@@ -18,7 +18,3 @@ And <a href="http://www.nybooks.com/articles/18034" onclick="_gaq.push(['_trackE
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2199" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

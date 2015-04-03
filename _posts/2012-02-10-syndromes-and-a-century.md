@@ -14,7 +14,3 @@ Apichatpong Weerasethakul’s <a href="http://en.wikipedia.org/wiki/Syndromes_an
 
 In many ways these two pictures sum up what makes this such a powerful film. It is a reflection on space and light and location. In the first film the dentist sings a song to his patient while cleaning his teeth. In the second film the patient struggles to remove the head covering which he finds uncomfortable. It is not a film that is naive about rural life, which is shown to have its own problems—people worry about money and relationships. But it is a reflection on how space and light and location affect the nature of human relationships. The film doesn&#8217;t have any single plot or story line tying everything together, but the individual scenes are so richly observed that the film is deeply enjoyable.
 
-<div id="themify_builder_content-3017" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

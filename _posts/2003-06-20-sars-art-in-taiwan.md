@@ -16,7 +16,3 @@ Here is the author&#8217;s Chinese-language <a href="http://zonble.twbbs.org/" o
 
 All this is from the <a href="http://www.boingboing.net/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/', 'boingboing.net']);" >boingboing.net</a> SARS Digital Folk Art project&#8230;
 
-<div id="themify_builder_content-1243" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

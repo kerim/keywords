@@ -57,9 +57,6 @@ In other words, its not exactly a full circle as the above diagram suggests &#82
 
 So that&#8217;s where we are now. It isn&#8217;t the plan most people think would be ideal, but it is much better than nothing and it seems most (sane) people agree it is sorely needed. I strongly recommend you <a href="http://www.nytimes.com/interactive/2008/09/29/business/20080929-CONGRESS-VOTE-GRAPHIC.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/interactive/2008/09/29/business/20080929-CONGRESS-VOTE-GRAPHIC.html', 'look at this chart']);" >look at this chart</a> to see how your representative voted. If they voted &#8220;No&#8221; on the Dodd-Frank plan, give them a call and ask them to change their minds. I did.
 
-<div id="themify_builder_content-2810" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: http://img.skitch.com/20081001-b9b5xd5yqkyqi61tky19n7g1et.jpg

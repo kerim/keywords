@@ -12,7 +12,3 @@ categories:
 ---
 I&#8217;m glad that Taiwan is going smoke-free in public spaces and offices, but this PSA just made me laugh. Its *so Taiwanese* somehow &#8230;
 
-<div id="themify_builder_content-2806" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

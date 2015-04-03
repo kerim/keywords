@@ -14,7 +14,3 @@ Here&#8217;s how my friend <a href="http://homepage.mac.com/chinesemac/kerry_med
 
 In other words, if you are interested in this issue &#8211; as a lot of people seem to be, then this is a must-read site providing trenchant arguments and important new documentation. Please link to this site so that it shows up on Google for anyone interested in knowing the truth about the &#8220;truth&#8221;.
 
-<div id="themify_builder_content-1887" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

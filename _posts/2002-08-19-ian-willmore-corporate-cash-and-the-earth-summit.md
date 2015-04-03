@@ -14,7 +14,3 @@ Here is another opinion piece on Exxon-Mobile. This time about how they spent ne
 
 <a href="http://www.observer.co.uk/comment/story/0,6903,775212,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.observer.co.uk/comment/story/0,6903,775212,00.html', 'Guardian Unlimited Observer | Comment | Ian Willmore: corporate cash and the earth summit']);" >Guardian Unlimited Observer | Comment | Ian Willmore: corporate cash and the earth summit</a>
 
-<div id="themify_builder_content-465" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

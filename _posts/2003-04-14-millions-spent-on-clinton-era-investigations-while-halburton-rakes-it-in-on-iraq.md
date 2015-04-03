@@ -16,7 +16,3 @@ From <a href="http://www.prospect.org/weblog/archives/2003/04/index.html#000937"
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1090" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

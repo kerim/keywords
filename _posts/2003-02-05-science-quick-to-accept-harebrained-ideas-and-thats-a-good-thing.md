@@ -12,7 +12,3 @@ And an interesting comment from <a href="http://www.calpundit.blogspot.com/2003_
 >   But the real story isn&#8217;t that the scientific establishment sometimes rejects good ideas, it&#8217;s just the opposite: what&#8217;s really remarkable is the speed with which even the most harebrained idea can become widely accepted.
 > </div>
 
-<div id="themify_builder_content-927" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -9,7 +9,3 @@ categories:
 ---
 A law to legalize torture of suspected terrorists was slipped into the bill implementing the 9/11 Commission Report. <a href="http://bodyandsoul.typepad.com/blog/2004/09/legalizing_tort.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.typepad.com/blog/2004/09/legalizing_tort.html', 'Jeanne has the details']);" >Jeanne has the details</a>.
 
-<div id="themify_builder_content-1894" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

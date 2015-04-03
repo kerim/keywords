@@ -18,7 +18,3 @@ UPDATE: Read <a href="http://bodyandsoul.typepad.com/blog/2004/01/post.html" onc
 
 UPDATE: And read <a href="http://www.calpundit.com/archives/003057.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/003057.html', 'Calpundit&#8217;s even more depressing post']);" >Calpundit&#8217;s even more depressing post</a>.
 
-<div id="themify_builder_content-1463" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

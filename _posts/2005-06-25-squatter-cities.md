@@ -25,7 +25,3 @@ Here&#8217;s <a href="http://www.boingboing.net/2005/06/24/sat_photos_document_.
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2227" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

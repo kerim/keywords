@@ -24,7 +24,3 @@ Yes, &#8220;the devil is in the details&#8221;, but I strongly believe that it i
 
 Somebody should create a &#8220;solutionpedia&#8221; &#8211; like <a href="http://en.wikipedia.org/wiki/Main_Page" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Main_Page', 'Wikipedia']);" >Wikipedia</a>, but devoted to common-sense solutions to the problems we face.
 
-<div id="themify_builder_content-1882" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

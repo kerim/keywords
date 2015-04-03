@@ -10,7 +10,3 @@ categories:
 
 The Afghan National Bank and the interim Finance Ministry both say they have not authorized the printing of new afghani bank notes recently. The National Bank says somebody flushed some 20 billion afghanis onto the market just as Zahir Shah arrived in Kabul.
 
-<div id="themify_builder_content-100" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

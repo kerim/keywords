@@ -19,7 +19,3 @@ If you click on the image it will take you to the flickr page where I&#8217;ve a
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2579" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

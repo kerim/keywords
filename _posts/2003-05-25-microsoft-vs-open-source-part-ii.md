@@ -24,7 +24,3 @@ categories:
 
 From the <a href="http://www.economist.com/people/displayStory.cfm?story_id=1795930" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.economist.com/people/displayStory.cfm?story_id=1795930', 'Economist']);" >Economist</a>
 
-<div id="themify_builder_content-1209" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

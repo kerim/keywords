@@ -19,7 +19,3 @@ I&#8217;m sure spammers will eventually come up with ingenious ways around these
 
 UPDATE: <a href="http://wordpress.org/support/topic.php?id=20106" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wordpress.org/support/topic.php?id=20106', 'Here is a tip']);" >Here is a tip</a> on how to deal with Trackback SPAM.
 
-<div id="themify_builder_content-2003" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

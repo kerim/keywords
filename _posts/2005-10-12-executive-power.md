@@ -19,7 +19,3 @@ I don&#8217;t think it is just about personal power. I think it is about subvert
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2316" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ Last March I wrote about a great Hindi movie, a comedy called <a href="http://ke
 > 
 > &#8230; it will again be a confluence of African-American and Indian actors, something I did more politically in *Mississippi Masala* with Denzel Washington, but now with a comic vein. So that’s the new kind of marriage that I am interested in, where Hollywood is buying Bollywood in a way.
 
-<div id="themify_builder_content-2024" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

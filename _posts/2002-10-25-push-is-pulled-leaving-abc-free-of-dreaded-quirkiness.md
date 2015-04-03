@@ -14,7 +14,3 @@ categories:
 
 It wasn&#8217;t the best show, but it had a nice sense of humor and the story was getting more and more interesting. It is rather sad because I&#8217;m sure that most of the rest of the series was probably shot already and perhaps even edited as well. Want to get ABC to air the rest? E-mail ABC Entertainment president <a href="mailto:susan.m.lyne@abc.com" onclick="_gaq.push(['_trackEvent','mailto','susan.m.lyne@abc.com']);" > Susan Lyne</a> and let her know what you think.
 
-<div id="themify_builder_content-677" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -45,7 +45,3 @@ Part of the explanation is that this is supposed to be the &#8220;first&#8221; B
 
 Great, so we can we expect to see the misogynist Bond we know and love again in the next film? Maybe I prefer him gay &#8230;
 
-<div id="themify_builder_content-2557" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

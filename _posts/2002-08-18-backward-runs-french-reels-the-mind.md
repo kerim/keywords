@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/08/17/arts/17SLAN.html?todaysheadlines=&pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/17/arts/17SLAN.html?todaysheadlines=&pagewanted=all&position=top', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-454" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

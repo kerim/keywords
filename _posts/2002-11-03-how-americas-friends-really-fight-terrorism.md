@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.petermaass.com/core.cfm?p=1&mag=88&magtype=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.petermaass.com/core.cfm?p=1&mag=88&magtype=1', 'PeterMaass.com']);" >PeterMaass.com</a>
 
-<div id="themify_builder_content-703" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

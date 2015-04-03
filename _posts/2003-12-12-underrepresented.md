@@ -21,7 +21,3 @@ Via <a href="http://www.talkleft.com/archives/005167.html" onclick="_gaq.push(['
 >   &#8230; nine out of ten dollars contributed by individuals to federal campaigns and parties (of contributions more than $200) in the 2000 and 2002 elections come from majority non-Hispanic white zip codes, yet nearly one out of three Americans is a person of color.
 > </div>
 
-<div id="themify_builder_content-1427" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

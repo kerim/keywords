@@ -14,7 +14,3 @@ Chris Mooney seems to miss the overt similarities to British Colinial policy, bu
 
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A20034-2002Oct25.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A20034-2002Oct25.html', '(washingtonpost.com)']);" >(washingtonpost.com)</a>
 
-<div id="themify_builder_content-689" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

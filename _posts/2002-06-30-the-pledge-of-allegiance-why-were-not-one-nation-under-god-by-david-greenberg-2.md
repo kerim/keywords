@@ -16,7 +16,3 @@ categories:
 
 <a href="http://slate.msn.com/?id=2067499" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/?id=2067499', 'Slate']);" >Slate</a>
 
-<div id="themify_builder_content-3086" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

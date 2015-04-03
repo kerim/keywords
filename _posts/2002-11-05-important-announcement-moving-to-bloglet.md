@@ -18,7 +18,3 @@ You could also go and sign up for other blogs, or RSS feeds. This featue is very
 
 <a href="http://www.bloglet.com/faq.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bloglet.com/faq.asp', 'Bloglet']);" >Bloglet</a>
 
-<div id="themify_builder_content-712" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

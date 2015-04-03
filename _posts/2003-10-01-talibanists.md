@@ -22,7 +22,3 @@ An <a href="http://www.tompaine.com/feature2.cfm/ID/8979" onclick="_gaq.push(['_
 
 Via <a href="http://bodyandsoul.typepad.com/blog/2003/10/more_girls_scho.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.typepad.com/blog/2003/10/more_girls_scho.html', 'Body and Soul']);" >Body and Soul</a>, who also links to this depressing story about <a href="http://www.feminist.org/news/newsbyte/uswirestory.asp?id=8069" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.feminist.org/news/newsbyte/uswirestory.asp?id=8069', 'girls&#8217; schools continuing to get attacked']);" >girls&#8217; schools continuing to get attacked</a>.
 
-<div id="themify_builder_content-1343" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

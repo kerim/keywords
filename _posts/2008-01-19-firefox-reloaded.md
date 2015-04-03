@@ -24,7 +24,3 @@ Below the fold is an image of the FEBE list of currently installed (and backed u
   
 <a href="http://www.flickr.com/photos/kerim/2202390157/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/kerim/2202390157/', '']);"  title="FEBE Results - Mozilla Firefox (Build 2007112718) by kerim, on Flickr"><img src="http://farm3.static.flickr.com/2300/2202390157_75fe4ab48b.jpg" width="490" height="500" alt="FEBE Results - Mozilla Firefox (Build 2007112718)" /></a>
 
-<div id="themify_builder_content-2786" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

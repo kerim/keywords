@@ -12,7 +12,3 @@ categories:
 
 In the <a href="http://www.washingtonpost.com/wp-dyn/articles/A14319-2003Feb15.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A14319-2003Feb15.html', 'Washington Post']);" >Washington Post</a>.
 
-<div id="themify_builder_content-962" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ It wasn&#8217;t too long ago that I was writing posts comparing Firefox vs. Safa
 
 The main advantages Chrome has over Safari are the &#8220;**omnibar**,&#8221; which I&#8217;ve come to prefer over having search and URL separated, **extensions**, which can now be enabled in Safari (and for which there are already a bunch of decent options, including AdBlock), and **keyword search**. Only in switching to Safari do I realize how much I&#8217;ve come to depend on Chrome&#8217;s keyword search feature. Without it I feel like I&#8217;m web browsing with one hand tied behind my back. There is an application, *keywurl*, which adds this feature to Safari, but so far it isn&#8217;t working with Safari 5. I tried the work-around on <a href="http://github.com/alexstaubo/keywurl/issues#issue/13" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://github.com/alexstaubo/keywurl/issues#issue/13', 'this page']);" >this page</a>, but I found it just caused Safari to crash&#8230; There are some other apps which provide similar functionality, but they don&#8217;t seem as good. I guess I&#8217;ll just wait and hope that the *keywurl* developer comes out with a fix soon&#8230;
 
-<div id="themify_builder_content-2880" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

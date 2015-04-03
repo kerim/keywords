@@ -20,7 +20,3 @@ But who is Clear Channel? Look at <a href="http://uggabugga.blogspot.com/2003_03
 
 UPDATE: Looks like Krugman is <a href="http://www.nytimes.com/2003/03/25/opinion/25KRUG.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/25/opinion/25KRUG.html', 'all over this story']);" >all over this story</a>!
 
-<div id="themify_builder_content-1025" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

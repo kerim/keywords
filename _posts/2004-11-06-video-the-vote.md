@@ -14,7 +14,3 @@ Michael Moore arranged for teams of videographers to document electoral abuses. 
 
 Also see BoingBoing&#8217;s post on <a href="http://www.usatoday.com/tech/news/techpolicy/evoting/2004-11-04-1000-reports_x.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.usatoday.com/tech/news/techpolicy/evoting/2004-11-04-1000-reports_x.htm', 'e-Voting mishaps']);" >e-Voting mishaps</a> in Ohio.
 
-<div id="themify_builder_content-1976" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -21,7 +21,3 @@ UPDATE: Geoff Nunberg has found <a href="http://www-csli.stanford.edu/~nunberg/p
 
 > As it happens, &#8220;infoganda&#8221; has been around for a while &#8212; it first appeared in the press during the Gulf War of 1991 as a name for the reports and footage that the Pentagon was furnishing to journalists.1 But the word may very well have been independently coined on several occasions.
 
-<div id="themify_builder_content-1608" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

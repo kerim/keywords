@@ -13,7 +13,3 @@ I soon discovered that I wouldn&#8217;t miss my other books at all. You see, the
 
 I never saw it, but the movie <a href="http://us.imdb.com/title/tt0108410/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://us.imdb.com/title/tt0108410/', 'Twenty Bucks']);" >Twenty Bucks</a> used such a gimmick, following a single bill as it crossed several lives. Recently I received a bill with a URL on it, but I paid for something with the bill before I got a chance to go to the web site and register it. But you&#8217;d think people would hold on to books a little longer and be more likely to register them online&#8230;
 
-<div id="themify_builder_content-1412" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

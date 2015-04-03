@@ -10,7 +10,3 @@ categories:
 
 What really happened when Israeli forces went into Jenin? Just as the world is giving up hope of learning the truth, Justin Huggler and Phil Reeves have unearthed compelling evidence of an atrocity.
 
-<div id="themify_builder_content-101" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

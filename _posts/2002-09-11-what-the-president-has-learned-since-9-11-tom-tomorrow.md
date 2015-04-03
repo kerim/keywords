@@ -10,7 +10,3 @@ This Modern World Cartoon
   
 <a href="http://www.salon.com/comics/tomo/2002/09/09/tomo/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/comics/tomo/2002/09/09/tomo/index.html', 'Salon.com']);" >Salon.com</a>
 
-<div id="themify_builder_content-534" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

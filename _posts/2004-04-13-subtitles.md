@@ -17,7 +17,3 @@ I was just complaining the other day about how much the voiceovers they use in t
 > 
 > &#8220;If you go to the multiplex, you will see 5 to 6 trailers. I find that they look so similar. We want to be different, in pace or by using subtitles, or using a funky letterbox presentation for a Cinemascope film,&#8221; said Barker, &#8220;If our trailer looks different, it will stand out.&#8221;
 
-<div id="themify_builder_content-1633" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

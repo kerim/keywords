@@ -32,7 +32,3 @@ categories:
 
 <a href="http://www.guardian.co.uk/international/story/0,3604,817934,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,817934,00.html', 'Guardian']);" >Guardian</a>
 
-<div id="themify_builder_content-674" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

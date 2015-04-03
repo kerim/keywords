@@ -24,7 +24,3 @@ categories:
 
 <a href="http://www.prickly-paradigm.com/sahlins.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prickly-paradigm.com/sahlins.html', 'Prickly Paradigm Press, LLC']);" >Prickly Paradigm Press, LLC</a>
 
-<div id="themify_builder_content-420" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

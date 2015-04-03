@@ -28,7 +28,3 @@ This really seems like the strongest argument I&#8217;ve seen yet for eliminatin
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2244" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

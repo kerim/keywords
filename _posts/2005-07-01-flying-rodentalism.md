@@ -39,7 +39,3 @@ So while Ducard/Ra&#8217;s Al Ghul&#8217;s motivation only makes sense if we vie
 
 In short, what we see in this film is a more sophisticated orientalism, one that is drawing more on the history of orientalism in film, on orientalism as a *genre*, than it is on orientalist stereotypes &#8211; and it in fact plays with the audience expectations created by those stereotypes. And yet, one can&#8217;t help but feel that the filmmakers would have been happier if they could have just written a straight Fu Manchu villain from the get-go. It might even have been a better film if they had.
 
-<div id="themify_builder_content-2232" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

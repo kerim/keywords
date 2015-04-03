@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.washingtonmonthly.com/archives/individual/2004_10/004864.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2004_10/004864.php', 'Kevin Drum']);" >Kevin Drum</a> picks up on this, and asks why the president could possibly have felt that &#8220;de-Baathification comes before the immediate needs of the Iraqi people&#8221;? His answer? Ahmed Chalabi.
 
-<div id="themify_builder_content-1916" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

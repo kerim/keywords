@@ -17,7 +17,3 @@ format: quote
 
 <a href="http://www.amazon.com/gp/product/0816634610/ref=as_li_ss_tl?ie=UTF8&#038;camp=1789&#038;creative=390957&#038;creativeASIN=0816634610&#038;linkCode=as2&#038;tag=httpkerimoxus-20" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/gp/product/0816634610/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0816634610&linkCode=as2&tag=httpkerimoxus-20', 'Badiou: A Subject To Truth']);" >Badiou: A Subject To Truth</a>. p 105
 
-<div id="themify_builder_content-3258" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

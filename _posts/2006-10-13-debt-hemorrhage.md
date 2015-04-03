@@ -36,7 +36,3 @@ For more information on the debt hemorrhage of the American family, be sure to r
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2527" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 Full story <a href="http://slingshot.tao.ca/displaybi.php?0077010" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slingshot.tao.ca/displaybi.php?0077010', 'here']);" >here</a>. Thanks to <a href="http://boingboing.net/2003_03_01_archive.html#200055612" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://boingboing.net/2003_03_01_archive.html#200055612', 'boingboing']);" >boingboing</a> for the link.
 
-<div id="themify_builder_content-1036" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

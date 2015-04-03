@@ -27,7 +27,3 @@ But as lovely as it is here, I must head back to Taipei tomorrow!
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2229" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

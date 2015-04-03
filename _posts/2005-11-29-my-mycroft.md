@@ -22,7 +22,3 @@ I&#8217;ll be busy traveling over the next two months, and shooting a <a href="h
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2362" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

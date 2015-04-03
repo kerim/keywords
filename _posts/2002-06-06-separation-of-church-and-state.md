@@ -14,7 +14,3 @@ I haven&#8217;t read this, but it sounds interesting.
 
 <a href="http://www.amazon.com/exec/obidos/ASIN/0674007344/qid=1023408636/sr=8-1/ref=sr_8_1/002-4704419-9876822#product-details" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/exec/obidos/ASIN/0674007344/qid=1023408636/sr=8-1/ref=sr_8_1/002-4704419-9876822#product-details', '(Amazon.com)']);" >(Amazon.com)</a>
 
-<div id="themify_builder_content-192" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

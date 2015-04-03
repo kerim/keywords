@@ -22,7 +22,3 @@ The first day after 9-11 my Shashwati and I, worried by stories we had heard abo
 
 And no wonder, it seems that even a Vietnam Vet, a former U.S. Marine, can have &#8220;his <a href="http://www.masnet.org/pressroom_release.asp?id=1569" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.masnet.org/pressroom_release.asp?id=1569', 'livelihood of 28 years taken away from him']);" >livelihood of 28 years taken away from him</a> by the U.S. Department of Homeland Security&#8221; just for driving while Muslim.
 
-<div id="themify_builder_content-1867" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

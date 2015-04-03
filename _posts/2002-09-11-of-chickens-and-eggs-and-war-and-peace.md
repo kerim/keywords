@@ -16,7 +16,3 @@ By these accounts, then, the war in Afghanistan was a success. Even if there wer
 
 It is true that many Afghans feel hope about their future for the first time in over twenty years. The sheer number of returning refugees is a sign of that hope. After all, the world wouldn
 
-<div id="themify_builder_content-536" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

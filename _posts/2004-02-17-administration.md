@@ -19,7 +19,3 @@ And according to a new report in the <a href="http://content.nejm.org/cgi/conten
 
 (Via <a href="http://www.prometheus6.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prometheus6.org/', 'Prometheus']);" >Prometheus</a>.)
 
-<div id="themify_builder_content-1513" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

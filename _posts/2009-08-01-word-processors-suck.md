@@ -29,7 +29,3 @@ For my next project I will give <a href="http://www.nisus.com/pro/" onclick="_ga
 
 The .RTF file format, used by Nisus is also the one being promoted by Apple as an alternative to .DOC. It is still a crappy format. I hope that there is some kind of a revolution in the future and the whole .RTF/.DOC tyranny is replaced with something better. (And no, .DOCX is not what I&#8217;m talking about.) Till then, maybe I&#8217;ll give Nisus Writer a try&#8230;
 
-<div id="themify_builder_content-2906" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

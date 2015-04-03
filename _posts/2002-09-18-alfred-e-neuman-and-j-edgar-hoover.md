@@ -10,7 +10,3 @@ categories:
 
 It is only now, however, that we are able to present 
 
-<div id="themify_builder_content-559" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

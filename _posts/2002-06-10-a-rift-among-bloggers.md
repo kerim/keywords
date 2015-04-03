@@ -14,7 +14,3 @@ This is a silly article, but it is interesting to note that my blog is a &#8220;
 
 <a href="http://www.nytimes.com/2002/06/10/technology/10BLOG.html?8hpib" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/06/10/technology/10BLOG.html?8hpib', '(NY Times)']);" >(NY Times)</a>
 
-<div id="themify_builder_content-204" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

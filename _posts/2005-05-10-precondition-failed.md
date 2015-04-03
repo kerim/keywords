@@ -31,7 +31,3 @@ UPDATE: TextDrive quickly contacted me to let me know that my IP was banned for 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2189" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

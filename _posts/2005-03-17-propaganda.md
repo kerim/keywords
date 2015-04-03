@@ -20,7 +20,3 @@ More from the <a href="http://www.prwatch.org/node/3365" onclick="_gaq.push(['_t
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/media" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/media', 'media']);"  rel="tag">media</a>, <a href="http://technorati.com/tag/democracy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/democracy', 'democracy']);"  rel="tag">democracy</a>, <a href="http://technorati.com/tag/propaganda" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/propaganda', 'propaganda']);"  rel="tag">propaganda</a>, <a href="http://technorati.com/tag/Bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Bush', 'Bush']);"  rel="tag">Bush</a>, <a href="http://technorati.com/tag/fake news" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/fake news', 'fake news']);"  rel="tag">fake news</a>}</span>
 </div>
 
-<div id="themify_builder_content-2096" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

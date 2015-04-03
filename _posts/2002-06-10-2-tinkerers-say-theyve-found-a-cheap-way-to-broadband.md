@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/06/10/technology/10WIRE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/06/10/technology/10WIRE.html', '2 Tinkerers Say They&#8217;ve Found a Cheap Way to Broadband']);" >2 Tinkerers Say They&#8217;ve Found a Cheap Way to Broadband</a>
 
-<div id="themify_builder_content-205" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

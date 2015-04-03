@@ -21,7 +21,3 @@ The original <a href="http://online.wsj.com/public/article/0,,SB1092800005065945
 
 While the WSJ focuses on liberal groups such as <a href="http://actforvictory.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://actforvictory.org/', 'ACT']);" >ACT</a>, I think this really is a cause for concern no matter which side you are on. Not to mention the way in which early election results will affect the November vote.
 
-<div id="themify_builder_content-1819" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

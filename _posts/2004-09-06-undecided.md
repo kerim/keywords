@@ -22,7 +22,3 @@ BONUS: Here is <a href="http://www.workingforchange.com/comic.cfm?itemid=17519" 
 
 UPDATE: Fixed prose to be more readable.
 
-<div id="themify_builder_content-1850" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 <a href="http://www.progressive.org/webex/wxmc101602.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.progressive.org/webex/wxmc101602.html', 'The Progressive magazine']);" >The Progressive magazine</a>
 
-<div id="themify_builder_content-647" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

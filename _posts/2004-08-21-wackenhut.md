@@ -15,7 +15,3 @@ Especially since they are now on a *hunger strike*.
 
 UPDATE: A bunch more Wackenhut stories have been added to the <a href="http://www.boingboing.net/2004/08/20/guantanamo_new_york.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/08/20/guantanamo_new_york.html', 'BoingBoing post']);" >BoingBoing post</a>.
 
-<div id="themify_builder_content-1821" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

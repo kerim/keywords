@@ -20,7 +20,3 @@ He argues that if corporations didn&#8217;t pay taxes they would pay out more in
 
 <a href="http://online.wsj.com/article/0,,SB1041967358998102664,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://online.wsj.com/article/0,,SB1041967358998102664,00.html', 'WSJ.com (Paid Subscription Required)']);" >WSJ.com (Paid Subscription Required)</a>
 
-<div id="themify_builder_content-825" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

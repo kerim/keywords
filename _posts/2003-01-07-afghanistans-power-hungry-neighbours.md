@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.feer.com/articles/2003/0301_09/p018region.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.feer.com/articles/2003/0301_09/p018region.html', 'Far Eastern Economic Review (Free Trial Subscription Required)']);" >Far Eastern Economic Review (Free Trial Subscription Required)</a>
 
-<div id="themify_builder_content-814" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

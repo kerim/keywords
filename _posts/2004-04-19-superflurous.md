@@ -31,7 +31,3 @@ In <a href="http://www.nybooks.com/articles/article-preview?article_id=17058" on
 
 > &#8230; the targets of persecution also had to be subtly removed from the realm of legal, national, and ultimately moral obligation. In *Origins*, Arendt showed totalitarian regimes only gradually denying a person his legal right to have rights, or his government&#8217;s protection; forcing him into such subhuman conditions that he began to lose his capacity for human solidarity; and destroying his individuality and spontaneity so that nothing remained &#8220;but ghastly marionettes with human faces.&#8221; By the end of this sequential, determined process, the &#8220;rightless,&#8221; as Arendt classified them, had become not merely a means to an end, but an utterly &#8220;superflurous&#8221; subsection of humanity.
 
-<div id="themify_builder_content-1641" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

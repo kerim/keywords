@@ -20,7 +20,3 @@ categories:
 
 From the <a href="http://news.independent.co.uk/low_res/story.jsp?story=380766&host=3&dir=508" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.independent.co.uk/low_res/story.jsp?story=380766&host=3&dir=508', 'Independent']);" >Independent</a>UK.
 
-<div id="themify_builder_content-975" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

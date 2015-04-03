@@ -12,7 +12,3 @@ Bob Herbert in today&#8217;s NY Times, <a href="http://www.nytimes.com/2003/02/0
 >   In Chicago there are nearly 100,000 young people, ages 16 to 24, who are out of work, out of school and all but out of hope. In New York City there are more than 200,000. Nationwide, according to a new study by a team from Northeastern University in Boston, the figure is a staggering 5.5 million and growing.
 > </div>
 
-<div id="themify_builder_content-930" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

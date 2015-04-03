@@ -26,7 +26,3 @@ But in many ways the issue is moot. The opposition party won the last elections,
 
 Of course, it isn&#8217;t all about local politics in Taiwan and China. No. It is also about pleasing U.S. senators in states that build things like the &#8220;Theatre Missile Defense&#8221; (TMD) system &#8211; which is totally useless, but which Taiwan buys anyway.
 
-<div id="themify_builder_content-1420" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

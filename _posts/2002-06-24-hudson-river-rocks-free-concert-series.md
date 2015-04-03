@@ -42,7 +42,3 @@ For more information: 212-533-PARK
   
 <a href="http://www.hudsonriverpark.org" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hudsonriverpark.org', 'www.hudsonriverpark.org']);" >www.hudsonriverpark.org</a>
 
-<div id="themify_builder_content-278" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

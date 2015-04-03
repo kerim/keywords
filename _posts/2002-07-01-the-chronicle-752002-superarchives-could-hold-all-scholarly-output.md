@@ -24,7 +24,3 @@ categories:
 
 <a href="http://chronicle.com/free/v48/i43/43a02901.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chronicle.com/free/v48/i43/43a02901.htm', 'The Chronicle: 7/5/2002: &#8216;Superarchives&#8217; Could Hold All Scholarly Output']);" >The Chronicle: 7/5/2002: &#8216;Superarchives&#8217; Could Hold All Scholarly Output</a>
 
-<div id="themify_builder_content-314" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ I haven&#8217;t thanked TF for his wonderful guest blogging while I was in India
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2397" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

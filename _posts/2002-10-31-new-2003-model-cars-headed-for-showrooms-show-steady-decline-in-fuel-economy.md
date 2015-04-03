@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.freep.com/news/latestnews/pm11578_20021029.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.freep.com/news/latestnews/pm11578_20021029.htm', 'Freep.com']);" >Freep.com</a>
 
-<div id="themify_builder_content-698" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -15,7 +15,3 @@ Joi Ito just got his student I.D. card, and now he can access all those wonderfu
 
 Also see my older post about how much better things would be <a href="http://keywords.oxus.net/archives/2004/02/25/citations/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/2004/02/25/citations/', 'if academic publishing was more like blogging']);" >if academic publishing was more like blogging</a>.
 
-<div id="themify_builder_content-1907" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

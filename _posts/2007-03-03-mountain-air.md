@@ -24,7 +24,3 @@ As I said in my <a href="http://keywords.oxus.net/archives/2007/03/01/juno/" onc
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2590" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

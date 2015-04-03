@@ -10,7 +10,3 @@ categories:
 
 A Treasury Department investigation shows the Internal Revenue Service mistakenly paid out more than $30 million to tax filers seeking nonexistent slavery tax credits in 2000 and 2001.
 
-<div id="themify_builder_content-74" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ And the Supreme Court is trying to sort them out. A <a href="http://slate.msn.co
 
 I agree that they are fundamentally **social and moral** issues. But it is important to realize that does not mean that we cannot deal with them rationally (for some people moral seems to equal irrational). After all, the legal system is, ultimately, a mechanism for maintaining and defining a value system. All this means is that they have to think very hard about what the definition of &#8220;equality&#8221; is (like they did in Brown v. Board of Education), and not try to reduce the issue to some procedural trick. I hope that they have the courage and foresight to do so, but I am not encouraged by the history of this court.
 
-<div id="themify_builder_content-1061" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

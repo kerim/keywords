@@ -20,7 +20,3 @@ Secondly, <a href="http://news.bbc.co.uk/2/hi/middle_east/2727489.stm" onclick="
 >   There are no current links between the Iraqi regime and the al-Qaeda network, according to an official British intelligence report seen by BBC News.
 > </div>
 
-<div id="themify_builder_content-928" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

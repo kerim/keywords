@@ -12,7 +12,3 @@ There are six states where the difference is less than 3% (number of electoral v
 
 It will probably be Ohio&#8217;s 20 votes that Kerry will have to fight hardest for, while seeking to keep his slim lead in Florida and Pennsylvania. And, of course, we have to pray for no voting &#8220;irregularities&#8221; in those close states.
 
-<div id="themify_builder_content-1647" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

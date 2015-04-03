@@ -13,7 +13,3 @@ Tom Engelhardt <a href="http://www.tomdispatch.com/index.mhtml?pid=1516" onclick
 
 Except, as Tom explains, lately the Iraqis aren&#8217;t even &#8220;nationalists&#8221;, but &#8220;only &#8216;former Baathists,&#8217; &#8216;bitter-enders,&#8217; &#8216;foreign fighters.&#8217; &#8230; religious fanatics, al-Qaeda supporters, terrorists&#8221; etc. But not &#8220;nationalists&#8221;, and definitely not &#8220;patriots.&#8221;
 
-<div id="themify_builder_content-1761" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

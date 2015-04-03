@@ -18,7 +18,3 @@ In this article Nobel Prize winner Joseph Stiglitz argues that war is bad for th
 
 <a href="http://www.taipeitimes.com/News/edit/archives/2003/01/21/191843" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/edit/archives/2003/01/21/191843', 'Taipei Times']);" >Taipei Times</a>
 
-<div id="themify_builder_content-871" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -19,7 +19,3 @@ The two things I wanted most, a wide angle lens and better ISO performance, are 
 
 The pictures I&#8217;m uploading to Flickr these days are still mostly from the FX7 as I&#8217;m still learning how to use the LX2, but I&#8217;ll try to get some more LX2 photos up as soon as I can.
 
-<div id="themify_builder_content-2764" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

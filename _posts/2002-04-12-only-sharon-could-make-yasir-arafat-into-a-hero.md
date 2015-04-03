@@ -10,7 +10,3 @@ categories:
 
 Nicholas Kristof Op Ed on Israel. Nothing new, but well written.
 
-<div id="themify_builder_content-66" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

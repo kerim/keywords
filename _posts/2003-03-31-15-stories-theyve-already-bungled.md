@@ -10,7 +10,3 @@ Iraq stories the media has already <a href="http://www.editorandpublisher.com/ed
 
 Update: Now the Guardian UK has <a href="http://media.guardian.co.uk/broadcast/story/0,7493,921647,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://media.guardian.co.uk/broadcast/story/0,7493,921647,00.html', 'a site']);" >a site</a> devoted to debunking the &#8220;fog&#8221; of war journalism. It is very nicely done.
 
-<div id="themify_builder_content-1056" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

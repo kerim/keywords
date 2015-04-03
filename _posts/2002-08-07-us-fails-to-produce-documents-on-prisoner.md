@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/08/07/national/07HAMD.html?tntemail0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/07/national/07HAMD.html?tntemail0', 'NYTimes']);" >NYTimes</a>
 
-<div id="themify_builder_content-402" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

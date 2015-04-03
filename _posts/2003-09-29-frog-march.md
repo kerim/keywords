@@ -26,7 +26,3 @@ Such leaks, if they are exposed to be true, are a violation of federal law.
 
 **UPDATE**: There is <a href="http://www.washingtonpost.com/ac2/wp-dyn/A24144-2003Sep30?language=printer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/ac2/wp-dyn/A24144-2003Sep30?language=printer', 'a great FAQ about the story']);" >a great FAQ about the story</a> up at the Washington Post web site. And <a href="http://www.calpundit.com/archives/002307.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/002307.html', 'Calpundit&#8217;s']);" >Calpundit&#8217;s</a> excellent <a href="http://www.samizdata.net/blog/glossary_archives/001961.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.samizdata.net/blog/glossary_archives/001961.html', 'fisking']);" >fisking</a> of an NRO article is well worth a read.
 
-<div id="themify_builder_content-1340" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

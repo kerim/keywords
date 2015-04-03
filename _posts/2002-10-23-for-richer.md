@@ -14,7 +14,3 @@ In case you missed Krugman&#8217;s article in last week&#8217;s magazine, it is 
 
 <a href="http://www.nytimes.com/2002/10/20/magazine/20INEQUALITY.html?pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/20/magazine/20INEQUALITY.html?pagewanted=all&position=top', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-673" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

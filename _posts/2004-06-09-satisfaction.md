@@ -21,7 +21,3 @@ Sounds great, doesn&#8217;t it? But read the list of excluded items (emphasis ad
 
 That seems to cover a pretty large swath of their product line. I thought there must be some mistake, so I e-mailed them. No reply. So then I called them. Michael informed me that &#8220;every agreement always has two sides&#8221; &#8211; yes it does: suckers and profiteers.
 
-<div id="themify_builder_content-1732" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

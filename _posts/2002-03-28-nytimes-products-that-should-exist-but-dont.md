@@ -10,7 +10,3 @@ categories:
 
 Here are some ideas for new products that should exist, but don&#8217;t; at least, not according to the exhaustive search conducted by my research staff (that is, my wife on Google). If you&#8217;re an inventor, take these ideas with my blessings. I ask nothing in return but a smile, a firm handshake and 10 percent of the net.
 
-<div id="themify_builder_content-35" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

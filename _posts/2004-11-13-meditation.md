@@ -24,7 +24,3 @@ Anyway, today&#8217;s post is fairly short, and it is just to point to this arti
 
 You can see footage of these monks if you go to <a href="http://www.pbs.org/saf/1310/video/watchonline.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/saf/1310/video/watchonline.htm', 'this page']);" >this page</a>, and scroll down to the segment titled &#8220;Just Relax.&#8221; (You can even go faster if you use the menu to select the section which starts with the words: &#8220;This is northern India&#8230;&#8221;). The whole show is worth watching, and I intend to write more about it later. I just wanted to start the series off with something fun. The point of course is that even simple meditation can help humans avoid many of the negative effects of chronic stress. More later!
 
-<div id="themify_builder_content-1982" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -13,7 +13,3 @@ Amardeep Singh has a good profile of the man who looks to be India&#8217;s new P
 
 If I understand correctly, it was Congress under Singh, not the BJP that first began implementing the economic reforms, so this should pacify the plummeting stock markets. But will it pacify the rural farmers who rebelled against the reforms and kicked the BJP out of power?
 
-<div id="themify_builder_content-1705" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

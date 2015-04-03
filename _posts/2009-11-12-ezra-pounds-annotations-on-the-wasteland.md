@@ -27,7 +27,3 @@ tags:
   </p>
 </div>
 
-<div id="themify_builder_content-2900" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

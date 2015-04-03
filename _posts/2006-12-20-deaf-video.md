@@ -20,7 +20,3 @@ Via <a href="http://www.metafilter.com/mefi/57171" onclick="_gaq.push(['_trackEv
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2567" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

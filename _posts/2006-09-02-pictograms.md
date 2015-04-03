@@ -21,7 +21,3 @@ The <a href="http://en.beijing2008.com/63/32/column212033263.shtml" onclick="_ga
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2505" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

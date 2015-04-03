@@ -21,7 +21,3 @@ Did I mention how crappy the forum software being used for the <a href="http://c
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/survey" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/survey', 'survey']);"  rel="tag">survey</a>, <a href="http://technorati.com/tag/forum" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/forum', 'forum']);"  rel="tag">forum</a>, <a href="http://technorati.com/tag/anthro commons" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthro commons', 'anthro commons']);"  rel="tag">anthro commons</a>}</span>
 </div>
 
-<div id="themify_builder_content-2124" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

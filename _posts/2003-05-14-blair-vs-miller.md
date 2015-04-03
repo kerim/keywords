@@ -30,7 +30,3 @@ An interesting article about journalistic ethics at the New York Times:
 
 <a href="http://www.wsws.org/articles/2003/may2003/nyt-m13_prn.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wsws.org/articles/2003/may2003/nyt-m13_prn.shtml', 'Bill Vann']);" >Bill Vann</a>
 
-<div id="themify_builder_content-1179" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

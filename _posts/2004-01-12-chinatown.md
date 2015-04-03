@@ -16,7 +16,3 @@ I had noticed the increasing use of Mandarin Chinese in New York City&#8217;s Ch
 
 What the article doesn&#8217;t discuss, and I would be interested in knowing, is how Chinese language learning trends of Chinese immigrants are changing.
 
-<div id="themify_builder_content-1460" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

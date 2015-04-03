@@ -54,7 +54,3 @@ This is so important that I can&#8217;t believe the *NY Times* wants you to pay 
 > 
 > So here&#8217;s a suggestion: Let&#8217;s charter a few cargo planes to carry the corpses of hundreds of new victims from Darfur and Chad to the U.N. The butchered victims of Darfur could lie in state as a memorial to global indifference — and as a spur to become serious about the first genocide of the 21st century. 
 
-<div id="themify_builder_content-2481" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

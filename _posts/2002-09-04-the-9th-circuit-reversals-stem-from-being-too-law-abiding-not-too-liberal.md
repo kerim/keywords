@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.law.com/jsp/article.jsp?id=1029689051786" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.law.com/jsp/article.jsp?id=1029689051786', 'law.com']);" >law.com</a>
 
-<div id="themify_builder_content-510" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

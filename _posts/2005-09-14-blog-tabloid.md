@@ -32,7 +32,3 @@ The big issue, in my mind, would be hyperlinks. So many blog articles link elsew
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2299" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

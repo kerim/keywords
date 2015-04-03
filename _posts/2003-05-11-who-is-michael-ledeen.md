@@ -14,7 +14,3 @@ And now he wants to go to war on Syria, Iran, and Lebanon.
 
 <a href="http://www.alternet.org/print.html?StoryID=15860" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/print.html?StoryID=15860', 'William O. Beeman']);" >William O. Beeman</a>, in Alternet
 
-<div id="themify_builder_content-1170" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

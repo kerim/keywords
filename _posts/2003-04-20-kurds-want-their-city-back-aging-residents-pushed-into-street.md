@@ -24,7 +24,3 @@ From the <a href="http://www.washingtonpost.com/ac2/wp-dyn/A19774-2003Apr13?lang
 >   </p>
 > </div>
 
-<div id="themify_builder_content-1107" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

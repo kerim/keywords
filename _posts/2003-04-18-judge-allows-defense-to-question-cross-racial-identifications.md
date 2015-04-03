@@ -12,7 +12,3 @@ From <a href="http://www.talkleft.com/archives/002962.html" onclick="_gaq.push([
 >   &#8220;For the first time in New York since the state&#8217;s high court opened courtroom doors to identification experts, a judge has said a jury can hear testimony that suggests eyewitnesses are particularly unreliable when identifying perpetrators of a different ethnicity. The judge rejected prosecutors&#8217; arguments that scientific experts had not reached generally accepted theories on the accuracy of &#8220;cross-racial&#8221; IDs.&#8221;
 > </div>
 
-<div id="themify_builder_content-1101" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

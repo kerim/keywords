@@ -51,7 +51,3 @@ Some observations:
   * Having things fixed (by a tailor or shoe repair man, etc.) instead of throwing them away is a good thing.
   * Review mirrors mounted on the outside of a car don&#8217;t last long in India.
 
-<div id="themify_builder_content-2021" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

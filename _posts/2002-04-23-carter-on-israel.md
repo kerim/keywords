@@ -10,7 +10,3 @@ categories:
 
 I think that this is an important opinion piece by Jimmy Carter. He argues that more could be done to bring about a settlement.
 
-<div id="themify_builder_content-92" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

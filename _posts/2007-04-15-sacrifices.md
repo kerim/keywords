@@ -20,7 +20,3 @@ The <a href="http://www.latimes.com/business/la-fi-airlines14apr14,1,5540724.sto
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2608" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

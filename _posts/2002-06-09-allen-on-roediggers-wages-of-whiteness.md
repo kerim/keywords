@@ -15,7 +15,3 @@ categories:
 
 As I started reading David&#8217;s book, I presumed that as a historian, he was concerned with the degree to which, in E. P. Thompson&#8217;s phrase, "the working people&#8217;s consciousness of their interests and of their predicament as a class"16 has been expressed by European-American workers generally. For a century and more now, general historians, as well as labor and socialist specialists, have sought to explain the disparity of manifestations of class consciousness of workers in the United States, and the level of such manifestations by workers in other industrial countries. This is the abiding problem of American labor history, the problem of the "American exception" to the general pattern of development of class struggle typical of capitalist countries, and the relatively low level of class consciousness in this country. The implicit question concerned the extent to which Marx&#8217;s theory of class struggle as the driving force of history was valid for the United States &#8212; the subject that has been called &#8220;American Exceptionalism.&#8221;
 
-<div id="themify_builder_content-203" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ I&#8217;m glad the NY Times is making money from ads. Personally, I use <a href=
 
 While I&#8217;m at it, I just wanted to let people who use RSS newsreaders know that you can now get RSS feeds of the New York Times, and the Washington Post if you sign up with <a href="http://www.newsisfree.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newsisfree.com', 'Newsisfree.com']);" >Newsisfree.com</a> (ironically, signing up is not free &#8211; but they do have a 30 day free trial).
 
-<div id="themify_builder_content-1106" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -11,7 +11,3 @@ When I first came to Taiwan to teach, my colleague introduced me to a local purv
 
 The pun doesn&#8217;t translate well into English, and I hope it isn&#8217;t true (I&#8217;d like to be a Full Professor one day…), but when she said it I was only an Assistant Professor and I&#8217;m happy to say that, as of today, I&#8217;m truly &#8220;Fu Jiaoshou&#8221;!
 
-<div id="themify_builder_content-3067" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -34,7 +34,3 @@ More links to related stories posted on <a href="http://www.nowarblog.org/archiv
 >   Now certainly this is not a smoking gun to determine the foreign policy of a whole country &#8212; but it should be very disturbing that this administration has little regard for history, antiquity, and the 1954 Hague Convention.
 > </div>
 
-<div id="themify_builder_content-1097" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

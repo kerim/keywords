@@ -17,7 +17,3 @@ But it actually looks like it is <a href="http://www.kamera.co.uk/reviews_extra/
 > 
 > The story in itself is moving enough. But Uekrongtham&#8217;s superb direction lifts this movie into the ranks of truly entertaining cinema. The film starts with a young American journalist going in search of Nong Thoom to write her story. He tries to track her down in Bangkok&#8217;s infamous red light district, Patpong. Suddenly he is accosted by a group of hoodlums but is rescued by the whirling feet of an unseen figure who flies through the air and demolishes the gangsters, landing perfectly on her glamorously stilettoed feet. She then proceeds to tell the journalist her life story.
 
-<div id="themify_builder_content-1638" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

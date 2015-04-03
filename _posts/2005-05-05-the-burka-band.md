@@ -21,7 +21,3 @@ Via <a href="http://cyber.law.harvard.edu/globalvoices/?p=153" onclick="_gaq.pus
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2184" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

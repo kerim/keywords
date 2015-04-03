@@ -21,7 +21,3 @@ Also, via the <a href="http://www.mcwetboy.net/maproom/2005/06/a_literary_map_of
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2213" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

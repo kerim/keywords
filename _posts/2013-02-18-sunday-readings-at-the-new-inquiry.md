@@ -18,7 +18,3 @@ While most of us probably feel that we <a href="http://www.npr.org/blogs/monkeys
 
 I also archive links on my <a href="http://pinboard.in/u:kerim/bundle:Sundays/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pinboard.in/u:kerim/bundle:Sundays/', 'Pinboard']);" >Pinboard</a> account in case you are looking for something you know I posted but can&#8217;t remember when or where.
 
-<div id="themify_builder_content-3330" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

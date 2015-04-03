@@ -14,7 +14,3 @@ The reason the democrats caved is no big mystery. This way they don&#8217;t have
 
 <a href="http://www.prospect.org/webfeatures/2002/09/tapped-s-10-07.html#1240pmspeech" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2002/09/tapped-s-10-07.html#1240pmspeech', 'TAPPED']);" >TAPPED</a>
 
-<div id="themify_builder_content-629" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -1,8 +1,7 @@
 ---
 title: Cervical Spondylosis
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/10/30/cervical-spondylosis/
 hide_post_title:
   - default
@@ -65,10 +64,7 @@ Before I sign off, I wanted to make one additional comment. Over the past three 
 
 *I am not a doctor &#8211; and my experience and condition may be very different from your own. Please consult a specialist and do not treat anything on this page as medical advice.
 
-<div id="themify_builder_content-3478" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: https://www.evernote.com/shard/s1/sh/f01bc913-e6ce-42e7-9dc1-8687b1ec5bc9/6b6baf76590bf44227e359cf550f2ff8/deep/0/2013-09-11-10.53.45.jpg
  [2]: https://www.evernote.com/shard/s1/sh/6aa2754d-1388-46c8-a7e8-2460edf90906/8ec18e4d54cad443607120a6762f2488/deep/0/2013-08-23-14.01.39.jpg

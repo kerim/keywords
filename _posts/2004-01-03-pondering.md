@@ -28,7 +28,3 @@ For those who don&#8217;t know the show, Pinky and the Brain are lab mice who es
 
 Here is <a href="http://home.edmc.net/~plato/animaniacs/aypwip/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://home.edmc.net/~plato/animaniacs/aypwip/', 'the original list']);" >the original list</a> to inspire you.
 
-<div id="themify_builder_content-1453" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

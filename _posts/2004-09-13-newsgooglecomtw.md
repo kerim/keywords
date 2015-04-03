@@ -15,7 +15,3 @@ A few days ago <a href="http://www.muninn.net/blog/archives/000263.html" onclick
 
 They have <a href="http://news.google.com.hk/news?meta=ned%3Dhk%26hl%3Dzh-TW&#38;btn=Go" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.google.com.hk/news?meta=ned%3Dhk%26hl%3Dzh-TW&btn=Go', 'Hong Kong']);" >Hong Kong</a> and <a href="http://news.google.com.hk/news?meta=ned%3Dcn%26hl%3Dzh-CN&#38;btn=Go" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.google.com.hk/news?meta=ned%3Dcn%26hl%3Dzh-CN&btn=Go', 'China']);" >China</a> versions too! Although, interestingly, they are both &#8220;news.google.com.hk&#8221; &#8211; just with different encodings.
 
-<div id="themify_builder_content-1860" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

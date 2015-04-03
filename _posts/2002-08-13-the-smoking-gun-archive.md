@@ -10,7 +10,3 @@ Dear George &#8230;. Here is an archive of letters from the correspondence betwe
 
 <a href="http://www.thesmokinggun.com/doc_o_day/bushlay12.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thesmokinggun.com/doc_o_day/bushlay12.shtml', 'The Smoking Gun: Archive']);" >The Smoking Gun: Archive</a>
 
-<div id="themify_builder_content-432" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

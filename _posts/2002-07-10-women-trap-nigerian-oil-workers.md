@@ -12,7 +12,3 @@ The terminal&#8217;s operations have been severely disrupted and workers are una
 
 <a href="http://news.bbc.co.uk/hi/english/world/africa/newsid_2119000/2119872.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/world/africa/newsid_2119000/2119872.stm', 'BBC']);" >BBC</a>
 
-<div id="themify_builder_content-321" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

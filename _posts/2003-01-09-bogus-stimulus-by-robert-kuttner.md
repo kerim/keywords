@@ -18,7 +18,3 @@ Kuttner weighs in:
 
 <a href="http://www.prospect.org/webfeatures/2003/01/kuttner-r-01-08.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/webfeatures/2003/01/kuttner-r-01-08.html', 'TAP']);" >TAP</a>
 
-<div id="themify_builder_content-822" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

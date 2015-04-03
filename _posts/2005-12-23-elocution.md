@@ -23,7 +23,3 @@ The description of the program reminded me of a lady I once knew who had studied
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2381" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/05/27/international/asia/27AFGH.html?tntemail0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/05/27/international/asia/27AFGH.html?tntemail0', '(NY Times)']);" >(NY Times)</a>
 
-<div id="themify_builder_content-163" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

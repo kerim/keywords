@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.pegasus3d.com/total_share.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pegasus3d.com/total_share.html', 'Here']);" >Here</a> is the link.
 
-<div id="themify_builder_content-901" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -12,7 +12,3 @@ The U.S. Arms Export Control Act prohibits U.S. weapons from being used for non-
 
 <a href="http://www.foreignpolicy-infocus.org/commentary/2002/0207israelbomb.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.foreignpolicy-infocus.org/commentary/2002/0207israelbomb.html', 'Foreign Policy In Focus']);" >Foreign Policy In Focus</a>
 
-<div id="themify_builder_content-366" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

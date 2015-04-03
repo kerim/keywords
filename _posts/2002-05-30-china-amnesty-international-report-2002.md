@@ -14,7 +14,3 @@ AI reports that 2,4468 people were executed in China&#8217;s crackdown on crime.
 
 <a href="http://web.amnesty.org/web/ar2002.nsf/asa/china!Open" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://web.amnesty.org/web/ar2002.nsf/asa/china!Open', 'China. In: Amnesty International Report 2002']);" >China. In: Amnesty International Report 2002</a>
 
-<div id="themify_builder_content-171" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -36,7 +36,3 @@ categories:
 
 <a href="http://www.fair.org/media-beat/950104.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fair.org/media-beat/950104.html', 'FAIR']);" >FAIR</a>
 
-<div id="themify_builder_content-867" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

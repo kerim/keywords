@@ -47,7 +47,3 @@ Letter from <a href="http://sambhav.2006.googlepages.com/home" onclick="_gaq.pus
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2646" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

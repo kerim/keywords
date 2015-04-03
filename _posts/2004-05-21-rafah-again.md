@@ -16,7 +16,3 @@ See my <a href="http://keywords.oxus.net/archives/000206.html" onclick="_gaq.pus
 
 More <a href="http://electronicintifada.net/v2/article2704.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://electronicintifada.net/v2/article2704.shtml', 'here']);" >here</a> and <a href="http://www.haaretz.com/hasen/spages/429686.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.haaretz.com/hasen/spages/429686.html', 'here']);" >here</a>. (via <a href="http://cursor.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://cursor.org/', 'Cursor']);" >Cursor</a>)
 
-<div id="themify_builder_content-1710" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

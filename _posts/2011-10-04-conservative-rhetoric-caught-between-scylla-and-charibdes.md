@@ -19,7 +19,3 @@ E.g. <a href="http://www.slate.com/articles/news_and_politics/fighting_words/201
 
 > As we engage with the horrible idea that our government claims the right to add its own citizens to a death list that is compiled by methods and standards unknown, we must concede that no government on earth faces such a temptation to invoke what I suppose we could call a doctrine of pre-emptive self-defense. Those who share my alarm at the prospect of this, and of the ways in which it could be abused, are **under a heavy obligation to say what they would do instead.**
 
-<div id="themify_builder_content-3006" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

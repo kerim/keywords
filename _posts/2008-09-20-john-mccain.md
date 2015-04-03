@@ -18,7 +18,3 @@ I wasn&#8217;t happy with <a href="http://mccainfacts.jottit.com/more_informatio
 
 The site is password protected to limit vandalism, but if you&#8217;d like the password please let me know in the comments or by e-mail.
 
-<div id="themify_builder_content-2807" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

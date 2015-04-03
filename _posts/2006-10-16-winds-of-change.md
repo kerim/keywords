@@ -72,7 +72,3 @@ Via <a href="http://www.washingtonmonthly.com/archives/individual/2006_10/009790
 > 
 > And now you know why we have been forced to move left. 
 
-<div id="themify_builder_content-2530" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

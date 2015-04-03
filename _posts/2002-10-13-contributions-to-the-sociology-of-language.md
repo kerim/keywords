@@ -14,7 +14,3 @@ This is the list of books in one of the most important series of books on langua
 
 <a href="http://www.degruyter.de/reihen/29864.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.degruyter.de/reihen/29864.html', 'CONTRIBUTIONS TO THE SOCIOLOGY OF LANGUAGE']);" >CONTRIBUTIONS TO THE SOCIOLOGY OF LANGUAGE</a>
 
-<div id="themify_builder_content-633" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

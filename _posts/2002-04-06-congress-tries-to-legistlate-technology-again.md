@@ -10,7 +10,3 @@ categories:
 
 A new bill would &#8220;require any device that can &#8220;retrieve or access copyrighted works in digital form&#8221; to include a federally mandated copy protection system.&#8221;
 
-<div id="themify_builder_content-54" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

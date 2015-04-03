@@ -8,7 +8,3 @@ categories:
 ---
 I read somewhere (can&#8217;t remember where) that a reporter for the New Yorker called up Robin Williams to ask for a suggestion on how to fix the pledge of allegiance. His suggestion: &#8220;one nation under Canada&#8221; (or &#8220;over Mexico&#8221;).
 
-<div id="themify_builder_content-319" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ An article by Slavoj Zizek:
 
 <a href="http://www.lrb.co.uk/v24/n10/zize2410.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lrb.co.uk/v24/n10/zize2410.htm', '(London Review of Books)']);" >(London Review of Books)</a>
 
-<div id="themify_builder_content-185" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

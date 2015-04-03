@@ -18,7 +18,3 @@ categories:
 
 Found on: <a href="http://www.leanleft.com/mt/archives/000719.html#000719" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.leanleft.com/mt/archives/000719.html#000719', 'Lean Left']);" >Lean Left</a>.
 
-<div id="themify_builder_content-721" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

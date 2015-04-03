@@ -8,7 +8,3 @@ categories:
 ---
 Remember <a href="http://bodyandsoul.blogspot.com/2003_02_01_bodyandsoul_archive.html#89604396" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.blogspot.com/2003_02_01_bodyandsoul_archive.html#89604396', 'Afghanistan']);" >Afghanistan</a>?
 
-<div id="themify_builder_content-972" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

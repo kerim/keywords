@@ -16,7 +16,3 @@ The only reasonable conclusion is that &#8211;
 
 > the United States &#8212; with its overwhelming military advantage in the world, conventional and nuclear &#8212; seems <a href="http://www.outlookindia.com/full.asp?fodname=20040213&#38;fname=jensen&#38;sid=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.outlookindia.com/full.asp?fodname=20040213&fname=jensen&sid=1', 'bent on continuing to create, and threaten the use of, nuclear weapons']);" >bent on continuing to create, and threaten the use of, nuclear weapons</a>.
 
-<div id="themify_builder_content-1507" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

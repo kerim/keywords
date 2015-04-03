@@ -12,7 +12,3 @@ I think I solved the Bloglet Problems. We&#8217;ll find out tonight. But I lack 
 
 See you over there!
 
-<div id="themify_builder_content-1246" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ This is a must-read article on Bush&#8217;s pick for Lott&#8217;s replacement!
 
 <a href="http://www.nathannewman.org/log/archives/000639.shtml#000639" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/log/archives/000639.shtml#000639', 'NathanNewman.org']);" >NathanNewman.org</a>
 
-<div id="themify_builder_content-805" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

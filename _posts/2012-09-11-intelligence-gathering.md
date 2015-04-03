@@ -24,7 +24,3 @@ In <a href="http://www.nytimes.com/2012/09/11/opinion/the-bush-white-house-was-d
 
 If you expect our government (CIA, neocons… or Obama) to learn from their mistakes, you haven&#8217;t been paying attention. And a very good argument against having something like a &#8220;kill list&#8221;…
 
-<div id="themify_builder_content-3238" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ categories:
 
 <a href="http://www.tombarger.com/fcc.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tombarger.com/fcc.html', 'TomBarger.com']);" >TomBarger.com</a>
 
-<div id="themify_builder_content-1185" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

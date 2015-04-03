@@ -41,7 +41,3 @@ At one level, this debate seems to simply be a glass half-empty, glass half-full
 
 Obama&#8217;s Health Care speech was a good start, but much more remains to be done.
 
-<div id="themify_builder_content-2844" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -22,7 +22,3 @@ Below is a section of the speech that actually makes sense to me:
 
 Yes, freedom is threatened by war (as well as terror) so by provking war we are not doing anything to help freedom!!!
 
-<div id="themify_builder_content-568" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

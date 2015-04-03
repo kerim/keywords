@@ -72,7 +72,3 @@ In the Fifth Republic&#8217;s system, I can much more readily see Sarkozy as a p
 
 As for candidates on the left, my own preference would be for Kouchner as president, given his distinguished record on the international scene. Foreign affairs is one area in which a French president is free to act (another is defense). As far as being a conciliating presence, if he could get people in Kosovo to work together (and his record there seems pretty good), presiding over France should be a cinch.
 
-<div id="themify_builder_content-2388" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

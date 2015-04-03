@@ -39,7 +39,3 @@ Conservatives have no problem pretending that the war in Iraq was never about an
 
 And yet, not only do they continue to <a href="http://www.time.com/time/columnist/karon/article/0,9565,538464,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.time.com/time/columnist/karon/article/0,9565,538464,00.html', 'support undemocratic regimes in Pakistan, Saudi Arabia, and elsewhere']);" >support undemocratic regimes in Pakistan, Saudi Arabia, and elsewhere</a>, but when <a href="http://www.csmonitor.com/2004/0106/p10s02-cole.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.csmonitor.com/2004/0106/p10s02-cole.html', 'Taiwan asserts its right to hold democratic referendums']);" >Taiwan asserts its right to hold democratic referendums</a>, they take China&#8217;s side.
 
-<div id="themify_builder_content-1490" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -29,7 +29,3 @@ There exists an alternative approach in the *slow* movement: <a href="http://en.
 
 RELATED: I forgot to mention a <a href="http://savageminds.org/2008/04/16/three-new-tools/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://savageminds.org/2008/04/16/three-new-tools/', 'recent post']);" >recent post</a> on Savage Minds about some of the other tools I recently added to my workflow.
 
-<div id="themify_builder_content-2801" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

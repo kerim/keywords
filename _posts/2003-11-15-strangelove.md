@@ -12,7 +12,3 @@ You know that scene in Dr. Strangelove when the Russian Ambassador is allowed in
 >   For two days this week, Israel&#8217;s communications satellite accidentally beamed a live feed from the control room of a highly classified test missile firing, meaning that <a href="http://www.guardian.co.uk/international/story/0,3604,1079623,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,1079623,00.html', 'they could be viewed by anyone in the Middle East with the simplest satellite dish']);" >they could be viewed by anyone in the Middle East with the simplest satellite dish</a>.
 > </div>
 
-<div id="themify_builder_content-1398" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ If anyone is wondering how effective current official investigations into pre-wa
 
 > So far, despite all of the investigations underway, there is little sign that any of them are going to delve into the operations of the Luti-Shulsky Office of Special Plans and its secret intelligence unit. Because it operates in the Pentagon&#8217;s policy shop, it is not officially part of the intelligence community, and so it is seemingly immune to congressional oversight.
 
-<div id="themify_builder_content-1523" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

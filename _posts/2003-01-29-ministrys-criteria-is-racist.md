@@ -16,7 +16,3 @@ This <a href="http://www.taipeitimes.com/News/edit/archives/2003/01/29/192876" o
 >   </p>
 > </div>
 
-<div id="themify_builder_content-896" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

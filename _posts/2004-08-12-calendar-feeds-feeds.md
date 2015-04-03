@@ -11,7 +11,3 @@ Syndicate your schedule! I&#8217;ve long been using <a href="http://phpicalendar
 
 I&#8217;ve added them to my wiki page on <a href="http://wiki.oxus.net/News_Feeds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wiki.oxus.net/News_Feeds', 'News Feeds']);" >News Feeds</a>.
 
-<div id="themify_builder_content-1798" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

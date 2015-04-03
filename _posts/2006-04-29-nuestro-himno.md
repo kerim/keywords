@@ -25,7 +25,3 @@ Benjamin Zimmer then <a href="http://itre.cis.upenn.edu/~myl/languagelog/archive
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2440" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

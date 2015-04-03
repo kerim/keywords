@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.washingtonpost.com/ac2/wp-dyn/A38441-2002Sep4?language=printer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/ac2/wp-dyn/A38441-2002Sep4?language=printer', 'washingtonpost.com: The Troubling New Face of America']);" >washingtonpost.com: The Troubling New Face of America</a>
 
-<div id="themify_builder_content-515" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

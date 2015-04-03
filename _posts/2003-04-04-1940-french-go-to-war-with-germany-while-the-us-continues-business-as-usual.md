@@ -12,7 +12,3 @@ categories:
 >   So if there was a country that could justly have been accused of &#8220;accommodating Nazi evil&#8221; in the period around 1940, its name isn&#8217;t actually &#8220;France.&#8221;
 > </div>
 
-<div id="themify_builder_content-1066" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

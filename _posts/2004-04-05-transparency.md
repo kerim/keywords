@@ -21,7 +21,3 @@ As fractured as American democracy is, at least the process allows us to force o
 
 And we likely never will&#8230;
 
-<div id="themify_builder_content-1616" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -20,7 +20,3 @@ categories:
 
 From <a href="http://www.talkleft.com/archives/003310.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003310.html', 'Talk Left']);" >Talk Left</a>
 
-<div id="themify_builder_content-1219" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

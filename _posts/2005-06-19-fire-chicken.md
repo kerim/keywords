@@ -26,7 +26,3 @@ UPDATE: Looking at my post I realize that my attempt at a cute Chinese example d
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2220" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

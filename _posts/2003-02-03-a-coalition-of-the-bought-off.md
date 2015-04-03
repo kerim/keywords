@@ -26,7 +26,3 @@ An interesting article from the <a href="http://www.chicagotribune.com/news/nati
 
 More on this at the <a href="http://www.nowarblog.org/archives/000693.html#000693" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000693.html#000693', 'NoWarBlog']);" >NoWarBlog</a>.
 
-<div id="themify_builder_content-915" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

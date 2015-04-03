@@ -18,7 +18,3 @@ This article starts off the latest <a href="http://bostonreview.mit.edu/ndf.html
 
 <a href="http://bostonreview.mit.edu/BR27.3/bollier.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bostonreview.mit.edu/BR27.3/bollier.html', 'Reclaiming the Commons']);" >Reclaiming the Commons</a>
 
-<div id="themify_builder_content-347" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

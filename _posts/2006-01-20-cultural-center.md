@@ -21,7 +21,3 @@ The Budhan Theatre has indeed transformed Chharanagar from an urben ghetto on th
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2391" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

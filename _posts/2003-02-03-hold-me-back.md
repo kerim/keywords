@@ -14,7 +14,3 @@ As with a schoolyard bully who shouts &#8220;Hold me back!&#8221; before punchin
 
 I don&#8217;t like to see the domestic agenda reduced to conspiracy theories, but I do think it is important not to forget about tax-cuts for the rich, ENRON, oil-drilling in Alaska, etc. when we protest the war. Otherwise we are given Bush what he wants &#8211; power to define the agenda.
 
-<div id="themify_builder_content-918" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

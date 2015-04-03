@@ -18,7 +18,3 @@ Looks like politics will keep street signs in Taiwan from becoming any easier to
 
 <a href="http://www.taipeitimes.com/news/2002/08/03/story/0000158787" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/news/2002/08/03/story/0000158787', 'The Taipei Times']);" >The Taipei Times</a>
 
-<div id="themify_builder_content-393" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

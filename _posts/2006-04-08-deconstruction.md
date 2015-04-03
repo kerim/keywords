@@ -28,7 +28,3 @@ According to John Berger (of *Ways of Seeing* fame, who is now a novelist living
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2427" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

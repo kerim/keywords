@@ -20,7 +20,3 @@ But the risks are even greater:
 
 (via <a href="http://www.lehigh.edu/~amsp/2004/09/fareed-zakaria-british-raj-vs-american.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.lehigh.edu/~amsp/2004/09/fareed-zakaria-british-raj-vs-american.html', 'Amardeep Singh']);" >Amardeep Singh</a>)
 
-<div id="themify_builder_content-1862" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

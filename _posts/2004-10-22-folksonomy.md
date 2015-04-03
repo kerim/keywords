@@ -25,7 +25,3 @@ Following <a href="http://joi.ito.com/archives/2004/10/22/get_down_and_get_taggy
 
 UPDATE: BoingBoing <a href="http://www.boingboing.net/2004/10/22/rss_feed_of_the_comm.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/10/22/rss_feed_of_the_comm.html', 'has a post']);" >has a post</a> about how you can now subscribe to RSS feeds of all the flickr photos you&#8217;ve commented on!
 
-<div id="themify_builder_content-1944" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -15,7 +15,3 @@ Back in June <a href="http://kerim.oxusnet.net/nucleus/index.php?itemid=1341" on
 >   Even as the SLA moves forward on a resolution about the need to protect endangered languages, we find such efforts castigated as &#8220;language bullying&#8221; in no less a medium than the New York Times. In this guest column, P Kerim Friedman examines the language of the Times article.
 > </div>
 
-<div id="themify_builder_content-1428" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

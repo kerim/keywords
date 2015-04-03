@@ -28,7 +28,3 @@ PS: If you find this blog useful please let your friends know about it! You can 
 
 PPS: If you find the blog useful and want to express your gratitude, here is the URL to my <a href="http://www.amazon.com/o/registry/IO3ZIXG3592A" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/o/registry/IO3ZIXG3592A', 'Amazon.com Wish List']);" >Amazon.com Wish List</a>.
 
-<div id="themify_builder_content-810" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

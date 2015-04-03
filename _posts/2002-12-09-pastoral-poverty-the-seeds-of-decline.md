@@ -14,7 +14,3 @@ This is a must-read article from this week&#8217;s NY Times Week-in-Review. Not 
 
 <a href="http://www.nytimes.com/2002/12/08/weekinreview/08EGAN.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/12/08/weekinreview/08EGAN.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-772" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

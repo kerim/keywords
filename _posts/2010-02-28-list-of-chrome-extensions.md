@@ -99,7 +99,3 @@ Since there isn&#8217;t (yet) any easy way to sync <a href="http://www.google.co
   </div>
 </div>
 
-<div id="themify_builder_content-2889" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

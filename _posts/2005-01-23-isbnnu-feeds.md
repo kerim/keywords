@@ -32,7 +32,3 @@ UPDATE: While I&#8217;m at it, here is <a href="http://www.young-technologies.co
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/feeds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/feeds', 'feeds']);"  rel="tag">feeds</a>, <a href="http://technorati.com/tag/syndication" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/syndication', 'syndication']);"  rel="tag">syndication</a>, <a href="http://technorati.com/tag/rss" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rss', 'rss']);"  rel="tag">rss</a>, <a href="http://technorati.com/tag/shopping" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/shopping', 'shopping']);"  rel="tag">shopping</a>, <a href="http://technorati.com/tag/books" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/books', 'books']);"  rel="tag">books</a>}</span>
 </div>
 
-<div id="themify_builder_content-2030" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -18,7 +18,3 @@ There is a <a href="http://www.prospect.org/print/V13-16.html" onclick="_gaq.pus
 
 <a href="http://www.prospect.org/print/V13/16/kuttner-r.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/print/V13/16/kuttner-r.html', 'TAP']);" >TAP</a>
 
-<div id="themify_builder_content-445" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

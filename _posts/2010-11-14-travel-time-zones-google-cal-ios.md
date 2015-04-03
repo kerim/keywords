@@ -24,7 +24,3 @@ Once you've followed the instructions in step #1, your Google calendars will wor
 
 Neither of these fixes is difficult, but they are not obvious and can cause a lot of frustration. Google should allow you to create events in a time zone other than the default one, and Apple should show you if you have "Time Zone Support" turned on within the calendar application by stating the current time zone being used by the application.
 
-<div id="themify_builder_content-2865" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

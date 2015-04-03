@@ -14,7 +14,3 @@ JOIN US in **New York City** for a massive march and rally that will show the de
 
 More information on the <a href="http://www.unitedforpeace.org/article.php?list=sub&sub=30" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.unitedforpeace.org/article.php?list=sub&sub=30', 'United For Peace']);" >United For Peace</a> website.
 
-<div id="themify_builder_content-908" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -21,7 +21,3 @@ If these civil rights violations bother you, then <a href="http://www.talkleft.c
 
 More links about the <a href="http://www.motherjones.com/news/dailymojo/2003/08/we_536_01c.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.motherjones.com/news/dailymojo/2003/08/we_536_01c.html', 'Victory Act']);" >Victory Act</a> over at <a href="http://bodyandsoul.typepad.com/blog/civil_liberties/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodyandsoul.typepad.com/blog/civil_liberties/index.html', 'Body and Soul']);" >Body and Soul</a>.
 
-<div id="themify_builder_content-1404" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

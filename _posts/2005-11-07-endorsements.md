@@ -25,7 +25,3 @@ And here is a handy guide on <a href="http://www.gothamgazette.com/article/issue
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2343" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

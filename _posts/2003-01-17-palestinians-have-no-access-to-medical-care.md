@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.haaretzdaily.com/hasen/pages/ShArt.jhtml?itemNo=252785&contrassID=2&subContrassID=14&sbSubContrassID=0&listSrc=Y" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.haaretzdaily.com/hasen/pages/ShArt.jhtml?itemNo=252785&contrassID=2&subContrassID=14&sbSubContrassID=0&listSrc=Y', 'Ha&#8217;aretz']);" >Ha&#8217;aretz</a>
 
-<div id="themify_builder_content-855" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

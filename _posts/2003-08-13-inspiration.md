@@ -23,7 +23,3 @@ Most of the great bloggers out there (look at the blogroll on the right) all are
 
 NOTE: This post started as a <a href="http://www.talkleft.com/archives/003970.html#003970" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003970.html#003970', 'comment over at Talk Left']);" >comment over at Talk Left</a>.
 
-<div id="themify_builder_content-1284" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

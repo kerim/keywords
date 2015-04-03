@@ -23,7 +23,3 @@ They keep talking about the power of the executive branch, but they don&#8217;t 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2394" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

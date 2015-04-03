@@ -28,7 +28,3 @@ Here are some stats on <a href="http://www.cdc.gov/niosh/docs/2003-124/#back" on
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/child labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/child labor', 'child labor']);"  rel="tag">child labor</a>, <a href="http://technorati.com/tag/wal-mart" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wal-mart', 'wal-mart']);"  rel="tag">wal-mart</a>, <a href="http://technorati.com/tag/U.S. Department of Labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/U.S. Department of Labor', 'U.S. Department of Labor']);"  rel="tag">U.S. Department of Labor</a>}</span>
 </div>
 
-<div id="themify_builder_content-2051" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ categories:
 
 More than 300 European academics have signed a petition calling for a boycott of Israeli cultural and research institutions in the wake of Israel&#8217;s stepped-up military action in the West Bank.
 
-<div id="themify_builder_content-78" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

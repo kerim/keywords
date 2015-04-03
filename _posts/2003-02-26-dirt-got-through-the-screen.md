@@ -14,7 +14,3 @@ Did Bush authorize the Pakistani&#8217;s to airlift Bin Laden out of the country
 
 <a href="http://www.newyorker.com/printable/?fact/020128fa_FACT" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/printable/?fact/020128fa_FACT', 'Seymour Hersh']);" >Seymour Hersh</a> in the New Yorker.
 
-<div id="themify_builder_content-978" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

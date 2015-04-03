@@ -1,8 +1,7 @@
 ---
 title: Institutional Racism Round-up
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/07/15/institutional-racism-round-up/
 hide_post_title:
   - default
@@ -62,7 +61,3 @@ There are so many stories about institutional racism going around on Facebook an
 
 > Seriously, imagine a life in which you think of other people&#8217;s safety and comfort first, before your own.
 
-<div id="themify_builder_content-3459" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ The heat of Taiwanese summer could kill SARS if people just turn off their ACs!
 
 <a href="http://www.taipeitimes.com/News/edit/archives/2003/05/21/2003052017" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/edit/archives/2003/05/21/2003052017', 'TaipeiTimes']);" >TaipeiTimes</a>
 
-<div id="themify_builder_content-1195" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

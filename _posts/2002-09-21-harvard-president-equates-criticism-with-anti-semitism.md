@@ -18,7 +18,3 @@ Read this quote by Harvard&#8217;s President. It clearly amounts to an equation 
 
 <a href="http://www.nytimes.com/2002/09/21/education/21HARV.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/09/21/education/21HARV.html', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-571" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -34,7 +34,3 @@ Having never served on a jury myself I think I would find such requirements quit
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2441" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

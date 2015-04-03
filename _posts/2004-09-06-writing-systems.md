@@ -32,7 +32,3 @@ In short:
 
 The paper also looks at Korean Hangul which is different yet again, but a little too complex for me to go into here (especially since I don&#8217;t read Korean). I also feel quite unqualified to summarize the judgments about differences in brain activity when reading Chinese and English. I&#8217;ll just leave it here and hope that this post inspires some more blogging on the topic. I&#8217;d be especially interested to see something about the results of eye movement studies comparing Chinese and English.
 
-<div id="themify_builder_content-1848" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

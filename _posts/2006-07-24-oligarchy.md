@@ -42,7 +42,3 @@ In the William Tabb article he talks about the unbelievable success Senators hav
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2493" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

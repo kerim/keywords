@@ -10,7 +10,3 @@ categories:
 
 Venezuela&#8217;s interim President Pedro Carmona has resigned after a single day in office, as protests continue in support of ousted leader Hugo Chavez.
 
-<div id="themify_builder_content-73" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -16,7 +16,3 @@ Here is the <a href="http://www.nybooks.com/articles/17015" onclick="_gaq.push([
 
 And here is a fascinating web site devoted to <a href="http://www.poopreport.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.poopreport.com/', 'human excrement']);" >human excrement</a>, including this <a href="http://www.poopreport.com/Intellectual/Content/Shitbegone/shitbegone.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.poopreport.com/Intellectual/Content/Shitbegone/shitbegone.html', 'interview']);" >interview</a> with the makers of ShitBegone Brand Toilet Paper. Don&#8217;t miss their <a href="http://www.poopreport.com/Academic/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.poopreport.com/Academic/index.html', 'Academic Poop']);" >Academic Poop</a> section. (via <a href="http://www.boingboing.net/2004/04/20/the_poop_report.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2004/04/20/the_poop_report.html', 'BoingBoing']);" >BoingBoing</a>).
 
-<div id="themify_builder_content-1649" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

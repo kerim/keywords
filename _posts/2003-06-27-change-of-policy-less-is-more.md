@@ -14,7 +14,3 @@ Finally, I would like to reorganize the site. Right now I have four blogs, most 
 
 Till then I will continue to post here &#8211; but with somewhat less frequency. You won&#8217;t really notice much change, because posts have already been rather infrequent these past few weeks.
 
-<div id="themify_builder_content-1244" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

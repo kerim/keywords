@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.warchalking.org/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.warchalking.org/index.html', 'Warchalking Web Page']);" >Warchalking Web Page</a>
 
-<div id="themify_builder_content-894" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

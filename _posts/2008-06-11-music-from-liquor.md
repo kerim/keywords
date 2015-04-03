@@ -17,7 +17,3 @@ There are three kinds of music we wish to record: folk songs still remembered by
 
 If you wish to support Chhara youth, please consider making a donation at <a href="http://vimukta.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://vimukta.org/', 'Vimukta.org']);" >Vimukta.org</a>.
 
-<div id="themify_builder_content-2803" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

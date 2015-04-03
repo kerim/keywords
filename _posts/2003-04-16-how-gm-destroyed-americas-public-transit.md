@@ -14,7 +14,3 @@ Posted on <a href="http://boingboing.net/#200153541" onclick="_gaq.push(['_track
 
 Full story over <a href="http://www.trainweb.org/mts/ctc/ctc06.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.trainweb.org/mts/ctc/ctc06.html', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1092" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

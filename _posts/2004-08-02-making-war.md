@@ -17,7 +17,3 @@ Does the U.S. go to war because it wants to, or because it has to? Jonathon Dela
 
 He quotes extensively from Maruya&#8217;s book, which seems very interesting.
 
-<div id="themify_builder_content-1784" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

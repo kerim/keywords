@@ -22,7 +22,3 @@ Walter Reich in the <a href="http://www.latimes.com/templates/misc/printstory.js
 
 Maybe this explains why over 65% of American&#8217;s still support Bush?
 
-<div id="themify_builder_content-1071" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

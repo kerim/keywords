@@ -14,7 +14,3 @@ And here is a chart that makes it all quite clear:
 
 Thanks to <a href="http://www.calpundit.com/archives/001415.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/001415.html', 'Calpundit']);" >Calpundit</a>. Here is a related <a href="http://www.washingtonpost.com/wp-dyn/articles/A10323-2003Jun3.html?nav=hptop_tb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A10323-2003Jun3.html?nav=hptop_tb', 'Washington Post']);" >Washington Post</a> story.
 
-<div id="themify_builder_content-1231" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

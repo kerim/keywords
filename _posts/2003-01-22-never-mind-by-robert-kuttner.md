@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.prospect.org/print/V14/2/kuttner-r.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/print/V14/2/kuttner-r.html', 'TAP']);" >TAP</a>
 
-<div id="themify_builder_content-874" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

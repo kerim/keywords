@@ -14,7 +14,3 @@ To take on Hillary he&#8217;s going to need a lot of money. Have you <a href="ht
 
 
 
-<div id="themify_builder_content-2754" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

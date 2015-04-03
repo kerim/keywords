@@ -34,7 +34,3 @@ More information can be found on the site of the <a href="http://hef.yam.org.tw/
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2641" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

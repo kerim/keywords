@@ -14,7 +14,3 @@ What does this mean? If it is a &#8220;known fact&#8221; then why do we need ins
 
 <a href="http://news.bbc.co.uk/2/hi/middle_east/2644783.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/middle_east/2644783.stm', 'BBC NEWS']);" >BBC NEWS</a>
 
-<div id="themify_builder_content-833" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

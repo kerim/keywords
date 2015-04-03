@@ -10,7 +10,3 @@ Sorry. The mail server was down and I had to manually re-start it. If you are su
 
 <a href="http://kerim.oxus.net/nucleus/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kerim.oxus.net/nucleus/', 'http://kerim.oxus.net/nucleus/']);" >http://kerim.oxus.net/nucleus/</a>
 
-<div id="themify_builder_content-1181" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

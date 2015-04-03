@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.sierraclub.org/currents/mark_green_printable.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sierraclub.org/currents/mark_green_printable.asp', 'Sierra Club']);" >Sierra Club</a>
 
-<div id="themify_builder_content-699" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -21,7 +21,3 @@ Click on the photo to see the complete set, or <a href="http://www.flickr.com/ph
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2585" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

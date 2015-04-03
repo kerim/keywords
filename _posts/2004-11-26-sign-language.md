@@ -11,7 +11,3 @@ The sign language presenter on the Ukrainian state-run television station &#8220
 
 (Thanks to reader, TF for the tip.)
 
-<div id="themify_builder_content-2001" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ What is really funny is the &#8220;sidebar&#8221; at the bottom of this article,
 
 <a href="http://theonion.com/onion3832/who_will_bring_closure.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://theonion.com/onion3832/who_will_bring_closure.html', 'The Onion']);" >The Onion</a>
 
-<div id="themify_builder_content-513" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

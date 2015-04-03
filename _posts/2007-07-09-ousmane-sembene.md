@@ -27,7 +27,3 @@ Sembène&#8217;s films don&#8217;t offer easy answers, and despite (or because o
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2673" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

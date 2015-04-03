@@ -10,7 +10,3 @@ categories:
 
 Pressed for profits, Internet companies are increasingly selling access to their users&#8217; postal mail addresses and telephone numbers, in addition to flooding their e-mail boxes with junk mail.
 
-<div id="themify_builder_content-65" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

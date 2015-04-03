@@ -27,7 +27,3 @@ I have to say, his students seem much more interested in debating ideas than the
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2453" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

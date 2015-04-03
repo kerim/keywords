@@ -22,7 +22,3 @@ Not only are land transport costs much higher than by sea, but the bureaucratic 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2418" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

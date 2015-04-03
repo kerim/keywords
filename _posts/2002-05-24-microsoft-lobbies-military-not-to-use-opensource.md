@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A60050-2002May22.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A60050-2002May22.html', '(Washtech.com)']);" >(Washtech.com)</a>
 
-<div id="themify_builder_content-158" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

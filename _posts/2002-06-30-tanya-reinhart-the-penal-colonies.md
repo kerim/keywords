@@ -422,7 +422,3 @@ took the poor man&#8217;s lamb, and dressed it for the man who had come to
   
 him.&#8221; (http://ebible.org/bible/hnv/2Sam.htm)
 
-<div id="themify_builder_content-301" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -34,7 +34,3 @@ UPDATE: Here are three examples:
 
 My idea is to combine these tools into a single interface, together with a traditional dictionary and some usage statistics, etc.
 
-<div id="themify_builder_content-2911" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

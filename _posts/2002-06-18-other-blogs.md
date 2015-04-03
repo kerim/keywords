@@ -10,7 +10,3 @@ categories:
 
 <a href="http://kerim.oxusnet.net/bookmarks/view_group.php?id=62" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kerim.oxusnet.net/bookmarks/view_group.php?id=62', '(Kerim&#8217;s Bookmarks)']);" >(Kerim&#8217;s Bookmarks)</a>
 
-<div id="themify_builder_content-246" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

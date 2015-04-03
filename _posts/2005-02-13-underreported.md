@@ -12,7 +12,3 @@ categories:
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/media" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/media', 'media']);"  rel="tag">media</a>, <a href="http://technorati.com/tag/news" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/news', 'news']);"  rel="tag">news</a>, <a href="http://technorati.com/tag/crisis" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/crisis', 'crisis']);"  rel="tag">crisis</a>, <a href="http://technorati.com/tag/humanitarian" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/humanitarian', 'humanitarian']);"  rel="tag">humanitarian</a>, <a href="http://technorati.com/tag/2004" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/2004', '2004']);"  rel="tag">2004</a>, <a href="http://technorati.com/tag/doctors without borders" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/doctors without borders', 'doctors without borders']);"  rel="tag">doctors without borders</a>}</span>
 </div>
 
-<div id="themify_builder_content-2048" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

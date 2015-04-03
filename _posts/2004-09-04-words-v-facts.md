@@ -15,7 +15,3 @@ A hilarious, must-see <a href="http://homepage.mac.com.nyud.net:8090/njenson/mov
 
 UPDATE: I&#8217;ve used NYU&#8217;s innovative <a href="http://www.scs.cs.nyu.edu/coral/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.scs.cs.nyu.edu/coral/', 'Coral']);" >Coral</a> service to make sure that the link remains accessible even if it receives a lot of traffic! If there is a problem with the service, the original link is <a href="http://homepage.mac.com/njenson/movies/dsbush.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://homepage.mac.com/njenson/movies/dsbush.html', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1842" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

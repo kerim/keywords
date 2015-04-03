@@ -14,7 +14,3 @@ categories:
 
 <a href="http://www.foxnews.com/printer_friendly_story/0,3566,62861,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.foxnews.com/printer_friendly_story/0,3566,62861,00.html', 'FOXNews.com']);" >FOXNews.com</a>
 
-<div id="themify_builder_content-547" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

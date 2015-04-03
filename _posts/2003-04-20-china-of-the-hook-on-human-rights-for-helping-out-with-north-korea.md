@@ -10,7 +10,3 @@ When the &#8220;United States, for the first time in a decade, decides not to su
 
 The full story is over <a href="http://beautifulhorizons.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://beautifulhorizons.blogspot.com/', 'here']);" >here</a>.
 
-<div id="themify_builder_content-1105" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -10,7 +10,3 @@ categories:
 
 (via <a href="http://www.washingtonmonthly.com/archives/individual/2004_10/005024.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonmonthly.com/archives/individual/2004_10/005024.php', 'Paul Glastris']);" >Paul Glastris</a>)
 
-<div id="themify_builder_content-1961" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

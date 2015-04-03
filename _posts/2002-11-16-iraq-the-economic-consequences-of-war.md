@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.nybooks.com/articles/15850" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nybooks.com/articles/15850', 'The New York Review of Books']);" >The New York Review of Books</a>
 
-<div id="themify_builder_content-738" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

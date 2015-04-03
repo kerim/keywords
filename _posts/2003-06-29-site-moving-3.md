@@ -12,7 +12,3 @@ This site is officially closed. Please change all your bookmarks, links, etc. to
 
 See you over there!
 
-<div id="themify_builder_content-1249" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

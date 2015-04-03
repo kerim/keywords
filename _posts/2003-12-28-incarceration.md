@@ -32,7 +32,3 @@ Of course, some communities are very upset about these reforms, having invested 
 
 UPDATE: TalkLeft has <a href="http://www.talkleft.com/archives/005352.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/005352.html', 'the latest from California']);" >the latest from California</a>, as well as <a href="http://www.talkleft.com/archives/004916.html#004916" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/004916.html#004916', 'an earlier related link']);" >an earlier related link</a>.
 
-<div id="themify_builder_content-1446" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

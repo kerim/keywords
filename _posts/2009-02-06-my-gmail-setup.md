@@ -58,7 +58,3 @@ I think that&#8217;s enough to get anyone started. If you have any other suggest
 
 &nbsp;
 
-<div id="themify_builder_content-2915" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

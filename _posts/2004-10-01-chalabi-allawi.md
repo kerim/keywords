@@ -20,7 +20,3 @@ Meanwhile, Bush wouldn&#8217;t think of calling <a href="http://slate.msn.com/id
 
 (via <a href="http://www.cursor.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cursor.org/', 'Cursor']);" >Cursor</a>)
 
-<div id="themify_builder_content-1898" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

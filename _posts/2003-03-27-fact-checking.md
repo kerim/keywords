@@ -18,7 +18,3 @@ It is worse than when the British government <a href="http://kerim.oxus.net/nucl
 
 And how about the newspapers? Don&#8217;t they have full time fact-checkers?
 
-<div id="themify_builder_content-1032" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

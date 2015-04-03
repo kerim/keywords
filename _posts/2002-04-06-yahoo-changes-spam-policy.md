@@ -40,7 +40,3 @@ express your feelings. You can reach Yahoo at:
 
 <a href="mailto:yhoocc@yahoo-inc.com" onclick="_gaq.push(['_trackEvent','mailto','yhoocc@yahoo-inc.com']);" >yhoocc@yahoo-inc.com</a>
 
-<div id="themify_builder_content-57" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

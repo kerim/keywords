@@ -20,7 +20,3 @@ On <a href="http://www.thismodernworld.com/weblog/mtarchives/week_2003_02_02.htm
 >   </p>
 > </div>
 
-<div id="themify_builder_content-925" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

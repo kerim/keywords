@@ -23,7 +23,3 @@ Bondanella <a href="http://www.criterionco.com/asp/release.asp?id=4&#38;eid=23&#
 
 All this made me think about the role of nostalgia in American culture. America too seems to be constantly re-living its adolescence, wether it is the war years of the &#8220;Great Generation&#8221; or 60s, 70s and 80s nostalgia captured by such TV fare as <a href="http://www.that70sshow.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.that70sshow.com/', 'That 70s Show']);" >That 70s Show</a> and VH1&#8217;s <a href="http://www.vh1.com/shows/dyn/i_love_the_80s/series.jhtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.vh1.com/shows/dyn/i_love_the_80s/series.jhtml', 'I love the 80s']);" >I love the 80s</a>. I&#8217;m not sure what this all means &#8211; except that perhaps it is time to for us to grow up.
 
-<div id="themify_builder_content-1451" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

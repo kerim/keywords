@@ -22,7 +22,3 @@ KEY WORDS: language spread, language contact, language variation, language chang
 
 This essay is an overview of the theoretical, methodological, pedagogical, ideological, and power-related issues of world Englishes: varieties of English used in diverse sociolinguistic contexts. The scholars in this field have critically examined theoretical and methodological frameworks of language use based on western, essentially monolingual and monocultural, frameworks of linguistic science and replaced them with frameworks that are faithful to multilingualism and language variation. This conceptual shift affords a &#8220;pluricentric&#8221; view of English, which represents diverse sociolinguistic histories, multicultural identities, multiple norms of use and acquisition, and distinct contexts of function. The implications of this shift for learning and teaching world Englishes are critically reviewed in the final sections of this essay.
 
-<div id="themify_builder_content-200" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

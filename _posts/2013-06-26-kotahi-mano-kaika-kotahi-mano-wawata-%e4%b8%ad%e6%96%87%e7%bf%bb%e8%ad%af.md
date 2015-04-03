@@ -1,8 +1,7 @@
 ---
 title: Kotahi Mano Kaika, Kotahi Mano Wawata 中文翻譯
 author: Kerim Friedman
-layout:
-  - default
+layout: post
 permalink: /archives/2013/06/26/kotahi-mano-kaika-kotahi-mano-wawata-%e4%b8%ad%e6%96%87%e7%bf%bb%e8%ad%af/
 hide_post_title:
   - default
@@ -51,7 +50,3 @@ Hana 和Megan 談到在家裡開始利用族語必備的培訓及資源，還有
 
 這個經驗雖鼓舞人心，但若要在台灣實施這些理念，尚有阻礙。我所進行的研究針對這個議題，希望在不久的未來我也有機會寫更多針對這個問題的論文。
 
-<div id="themify_builder_content-3442" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

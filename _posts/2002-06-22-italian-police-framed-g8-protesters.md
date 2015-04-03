@@ -18,7 +18,3 @@ This was reported a long time ago by &#8220;In These Times&#8221;, I&#8217;m gla
 
 <a href="http://www.guardian.co.uk/international/story/0,3604,741771,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,741771,00.html', '(Guardian)']);" >(Guardian)</a>
 
-<div id="themify_builder_content-268" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

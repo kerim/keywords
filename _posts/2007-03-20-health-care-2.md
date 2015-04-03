@@ -25,7 +25,3 @@ This is clever because such back-door approaches have long been used by neocons 
 
 Technorati Tags: <a href="http://technorati.com/tag/health%20care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/health%20care', 'health care']);" class="performancingtags"  rel="tag">health care</a>, <a href="http://technorati.com/tag/edwards" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/edwards', 'edwards']);" class="performancingtags"  rel="tag">edwards</a>, <a href="http://technorati.com/tag/medicare" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/medicare', 'medicare']);" class="performancingtags"  rel="tag">medicare</a>
 
-<div id="themify_builder_content-2597" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

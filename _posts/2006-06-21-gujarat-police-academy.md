@@ -30,7 +30,3 @@ Read <a href="http://www.tehelka.com/story_main18.asp?filename=Cr062406Glocal_3_
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2474" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -17,7 +17,3 @@ The quote is an ironic war-prayer that attacks those who invoke God to justify A
 In case you were wondering why I am quoting this. Take a look at <a />  
 &#8220;>these pictures from Al Jazeera. Or maybe you prefer to look at the pretty smoke on CNN?
 
-<div id="themify_builder_content-1047" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

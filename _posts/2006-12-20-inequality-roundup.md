@@ -27,7 +27,3 @@ I&#8217;ve been delinquent in writing up the half a dozen stories on global ineq
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2566" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

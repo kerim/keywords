@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.nytimes.com/2002/10/31/opinion/31THU1.html?ex=1036731600&en=fbf666e62a395231&ei=5062&partner=GOOGLE" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/31/opinion/31THU1.html?ex=1036731600&en=fbf666e62a395231&ei=5062&partner=GOOGLE', 'NY Times']);" >NY Times</a>
 
-<div id="themify_builder_content-700" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

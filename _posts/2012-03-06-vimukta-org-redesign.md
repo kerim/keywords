@@ -21,9 +21,6 @@ UPDATE: It seems the site is still not working well on <del datetime="2012-03-06
 
 ![http://ksyzp.webfactional.com/vimukta/][1]
 
-<div id="themify_builder_content-3023" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: https://img.skitch.com/20120306-cj23wgb3416gqgy12k7b1x21qg.png

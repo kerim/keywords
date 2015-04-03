@@ -26,7 +26,3 @@ From the <a href="http://www.nytimes.com/2003/04/08/international/worldspecial/0
 >   Later, four Reuters employees were injured, two of them seriously, when their office in the Palestine Hotel was hit, apparently by American tank fire, a spokesperson for Reuters in London said.
 > </div>
 
-<div id="themify_builder_content-1075" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

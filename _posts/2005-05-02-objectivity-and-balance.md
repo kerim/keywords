@@ -20,9 +20,6 @@ So a show with balanced news coverage has now been &#8220;balanced&#8221; by pai
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2176" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: www.pbs.org/wnet/journaleditorialreport/

@@ -45,7 +45,3 @@ So while I&#8217;m skeptical about Obama&#8217;s pragmatism and how much it can 
 
 <a href="http://en.wikipedia.org/wiki/Image:Evictbonusarmy.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Image:Evictbonusarmy.jpg', 'Wikimedia Commons']);" >Wikimedia Commons</a>.] 
 
-<div id="themify_builder_content-2782" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

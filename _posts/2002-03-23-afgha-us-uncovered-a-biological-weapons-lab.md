@@ -10,7 +10,3 @@ categories:
 
 U.S. troops battling remnants of the al Qaeda network in southeast Afghanistan (news &#8211; web sites) uncovered a biological weapons laboratory during recent mountain operations, a British government source said on Friday. 
 
-<div id="themify_builder_content-5" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

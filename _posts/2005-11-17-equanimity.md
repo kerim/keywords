@@ -22,7 +22,3 @@ Getting this kind of attention for the community and for DNTs in general was one
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2352" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

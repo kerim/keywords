@@ -15,7 +15,3 @@ Regarding stress among American soldiers, the fact that it is as high as 6% show
 
 <a href="http://keywords.oxus.net/archives/category/health/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/category/health/', 'health']);" >health</a>&#8221; category link.] 
 
-<div id="themify_builder_content-1986" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

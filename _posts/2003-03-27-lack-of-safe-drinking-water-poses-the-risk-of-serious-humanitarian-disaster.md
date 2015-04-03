@@ -28,7 +28,3 @@ Senator <a href="http://www.commondreams.org/views03/0212-07.htm" onclick="_gaq.
 
 In case you didn&#8217;t put 2 and 2 together &#8211; children under 5 are most at risk when there is no clean water, and over 50% of Iraq is under the age of 15 &#8230;
 
-<div id="themify_builder_content-1033" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

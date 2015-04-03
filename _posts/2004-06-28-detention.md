@@ -12,7 +12,3 @@ Sometimes the system just *works*! Maybe not as well as we would like, but it is
 
 UPDATE: Not everyone <a href="http://babelogue.citypages.com:8080/ecassel/2004/06/29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://babelogue.citypages.com:8080/ecassel/2004/06/29', 'thinks the news was good']);" >thinks the news was good</a> for civil liberties.
 
-<div id="themify_builder_content-1757" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

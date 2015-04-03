@@ -52,7 +52,3 @@ The part I still find inadequate is the navigation system. The various widgets a
 
 Also, on WordPress.com they should offer more widgets, themes, and plugins for people who wish to use their sites in this way.
 
-<div id="themify_builder_content-2593" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

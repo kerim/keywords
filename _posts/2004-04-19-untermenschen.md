@@ -18,7 +18,3 @@ Jeanne at <a href="http://bodyandsoul.typepad.com/blog/2004/04/far_from_najaf_.h
 
 > The Marines say they&#8217;ll change their tactics when people start cooperating; no one has any reason to cooperate&#8230;
 
-<div id="themify_builder_content-1646" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

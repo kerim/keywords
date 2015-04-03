@@ -10,7 +10,3 @@ categories:
 
 China now ranks second in the world for home internet use and could leapfrog the US as the biggest online nation in the next few years.
 
-<div id="themify_builder_content-96" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

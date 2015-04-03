@@ -20,7 +20,3 @@ From the <a href="http://ncac.org/cen_news/cn92schools.htm" onclick="_gaq.push([
 > 
 > Dylan had discussed his novel with his parents who agreed that he could use his own name as the fictional killer and his friends&#8217; names as victims if they gave permission. He was suspended by school officials for more than six weeks for making &#8220;threats of violence.&#8221; Moreover, school administrators telephoned parents of students who were named in the novel to tell them that Dylan had threatened their children without explaining it was just a story. Appeals to the School Board to lift the suspension were unsuccessful. The case is under review by the State Education Commissioner and is being watched closely by the New York Civil Liberties Union and others. 
 
-<div id="themify_builder_content-1473" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

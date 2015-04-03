@@ -22,7 +22,3 @@ This is from a NY Times Op-ed piece by Amartya Sen. I recently read Sen&#8217;s 
 
 <a href="http://www.nytimes.com/2002/05/27/opinion/27SEN.html?tntemail0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/05/27/opinion/27SEN.html?tntemail0', '(NY Times)']);" >(NY Times)</a>
 
-<div id="themify_builder_content-182" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

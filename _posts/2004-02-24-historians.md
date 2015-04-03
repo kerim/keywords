@@ -14,7 +14,3 @@ Which brings to mind C.L.R. James&#8217; preface to *<a href="http://www.wmich.e
 
 (Via <a href="http://www.crookedtimber.org/archives/001376.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/001376.html', 'Crooked Timber']);" >Crooked Timber</a> where there is much more discussion&#8230;)
 
-<div id="themify_builder_content-1534" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

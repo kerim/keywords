@@ -12,7 +12,3 @@ categories:
 
 <a href="http://weekly.ahram.org.eg/2003/620/re4.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://weekly.ahram.org.eg/2003/620/re4.htm', 'Al-Ahram Weekly']);" >Al-Ahram Weekly</a>
 
-<div id="themify_builder_content-837" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

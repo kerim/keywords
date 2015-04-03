@@ -32,7 +32,3 @@ In the end, I think we need to do better to remove the stench of corruption from
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2275" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

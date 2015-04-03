@@ -12,7 +12,3 @@ categories:
 
 From <a href="http://talkingpointsmemo.com/april0302.html#040903158am" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://talkingpointsmemo.com/april0302.html#040903158am', 'Josh Marshall']);" >Josh Marshall</a>
 
-<div id="themify_builder_content-1081" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

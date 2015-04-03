@@ -18,7 +18,3 @@ This, of course, is nothing new. In the 1980s I helped run an Amnesty Internatio
 
 Thanks to <a href="http://www.talkleft.com/archives/003315.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003315.html', 'Talk Left']);" >Talk Left</a> for the quote!
 
-<div id="themify_builder_content-1225" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

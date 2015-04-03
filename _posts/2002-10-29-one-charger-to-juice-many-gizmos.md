@@ -16,7 +16,3 @@ categories:
 
 <a href="http://www.wired.com/news/business/0,1367,56048,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wired.com/news/business/0,1367,56048,00.html', 'Wired News']);" >Wired News</a>
 
-<div id="themify_builder_content-686" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

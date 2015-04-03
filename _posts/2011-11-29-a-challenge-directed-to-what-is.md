@@ -10,7 +10,3 @@ categories:
 
 > Under no circumstances should one pay attention to those who tell one: &#8216;Don&#8217;t criticize, since you&#8217;re not capable of carrying out a reform.&#8217; That&#8217;s ministerial cabinet talk. Critique doesn&#8217;t have to be the premise of a deduction which concludes: this then is what needs to be done. It should be an instrument for those who fight, those who resist and refuse what is. Its use should be in processes of conflict and confrontation, essays in refusal. It doesn&#8217;t have to lay down the law for the law. It isn&#8217;t a stage in a programming. It is a challenge directed to what is.
 
-<div id="themify_builder_content-3011" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

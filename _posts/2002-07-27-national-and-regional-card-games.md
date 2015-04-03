@@ -14,7 +14,3 @@ Card Games from around the world, and how they are played!
 
 <a href="http://www.pagat.com/national/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pagat.com/national/index.html', 'National and regional card games']);" >National and regional card games</a>
 
-<div id="themify_builder_content-356" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

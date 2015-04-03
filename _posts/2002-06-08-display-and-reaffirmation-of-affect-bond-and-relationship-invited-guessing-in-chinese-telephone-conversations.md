@@ -16,7 +16,3 @@ categories:
   
 This article examines an interactive strategy of invited guessing in Chinese telephone conversations. Oriented toward affect bonding between the participants, invited guessing both indexes and strengthens their relationship. Caller identification, typically perceived as a procedural component in telephone conversation, is shown to be constructed as an interactive process serving social functions as well as a discourse-structural function. Its primary purpose is to signify and enhance rapport-building. The observed interactions present patterns of variation from the proposed universal sequence of telephone conversation openings, suggesting that this discourse structure can respond to variables such as the purpose of the interaction and the relationship between participants in the Chinese context. Finally, invited guessing indicates that relationship constitutes an important cultural variable shaping discourse and interaction in Chinese society.
 
-<div id="themify_builder_content-193" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

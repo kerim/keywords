@@ -14,7 +14,3 @@ categories:
 
 <a href="http://freshair.npr.org/dayFA.cfm?display=day&todayDate=03%2F14%2F2001" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://freshair.npr.org/dayFA.cfm?display=day&todayDate=03%2F14%2F2001', 'A Fresh Air Piece by Geoff Nunberg on &#8220;like&#8221;.']);" >A Fresh Air Piece by Geoff Nunberg on &#8220;like&#8221;.</a>
 
-<div id="themify_builder_content-614" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

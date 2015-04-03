@@ -20,7 +20,3 @@ and historical grounds:
 
 However, I think he might need to modify his logical argument to take into account the phrase &#8220;<a href="http://www.google.com/search?hl=en&#038;lr=&#038;ie=ISO-8859-1&#038;c2coff=1&#038;q=%22beyond+perfect%22&#038;btnG=Search" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/search?hl=en&lr=&ie=ISO-8859-1&c2coff=1&q=%22beyond+perfect%22&btnG=Search', 'beyond perfect']);" >beyond perfect</a>&#8220;!
 
-<div id="themify_builder_content-1729" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

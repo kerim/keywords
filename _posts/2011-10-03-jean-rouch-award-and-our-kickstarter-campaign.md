@@ -36,7 +36,3 @@ Those who have access to the online version of the film will be getting an updat
 
 There has been a lot of interest in using the film for teaching. We hope to be ready to start institutional sales soon. If you are interested please <a href="mailto:info@fournineandahalf.com" onclick="_gaq.push(['_trackEvent','mailto','info@fournineandahalf.com']);" >send us an email</a> and we will let you know as soon as we&#8217;ve finished the DVD. And let us know if you&#8217;d be interested in a campus visit or online discussion via Skype.
 
-<div id="themify_builder_content-3004" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

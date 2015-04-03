@@ -90,7 +90,3 @@ languages spoken on the web, but very few websites have really thought
 through the needs of multilingual users. Understanding the problem is   
 the first step.
 
-<div id="themify_builder_content-2917" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

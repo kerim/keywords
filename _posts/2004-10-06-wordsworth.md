@@ -43,7 +43,3 @@ categories:
 
 (via <a href="http://triptronix.net/ishbadiddle/archives/2004/10/06/12.11.12/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://triptronix.net/ishbadiddle/archives/2004/10/06/12.11.12/', 'Ishbadiddle']);" >Ishbadiddle</a>)
 
-<div id="themify_builder_content-1911" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

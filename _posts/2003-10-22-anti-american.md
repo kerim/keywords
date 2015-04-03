@@ -54,7 +54,3 @@ For &#8220;diverse perspectives&#8221; read: &#8220;ensure that funding complies
 
 **UPDATE**: There is <a href="http://www.salon.com/news/feature/2003/11/06/middle_east/print.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.salon.com/news/feature/2003/11/06/middle_east/print.html', 'a very good article about this in Salon']);" >a very good article about this in Salon</a>.
 
-<div id="themify_builder_content-1371" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

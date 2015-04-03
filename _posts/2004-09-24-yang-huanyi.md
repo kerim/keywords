@@ -13,7 +13,3 @@ More information on Nushu, including some corrections to common mistakes (such a
 
 UPDATE: Just to clarify: Yang Huanyi was **not** the last practitioner of nushu. This is just another myth perpetuated by a media too lazy to fact check a good story. A forthcoming issue of <a href="http://www.kluweronline.com/issn/1387-6805/contents" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.kluweronline.com/issn/1387-6805/contents', 'Nan Nü:Men, Women and Gender in Early and Imperial China']);" >Nan Nü:Men, Women and Gender in Early and Imperial China</a> will have an article on Nushu by the anthropologist <a href="http://www.sinica.edu.tw/ioe/staff/lu-fei-wen.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sinica.edu.tw/ioe/staff/lu-fei-wen.htm', 'Fei-wen Liu']);" >Fei-wen Liu</a> [劉斐玟], her web site lists other recent publications.
 
-<div id="themify_builder_content-1878" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

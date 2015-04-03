@@ -12,7 +12,3 @@ categories:
 
 And we (the US) gave them <a href="http://www.dailykos.com/archives/002834.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.dailykos.com/archives/002834.html', '$500 million last year']);" >$500 million last year</a>!
 
-<div id="themify_builder_content-1214" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

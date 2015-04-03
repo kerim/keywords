@@ -24,7 +24,3 @@ UPDATE: <a href="http://www.berkeley.edu/news/media/releases/2003/10/27_lakoff.s
 >   &#8220;&#8230;Conservatives, especially conservative think tanks, have framed virtually every issue from their perspective. They have put a huge amount of money into creating the language for their worldview and getting it out there. Progressives have done virtually nothing.&#8221;
 > </div>
 
-<div id="themify_builder_content-1379" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

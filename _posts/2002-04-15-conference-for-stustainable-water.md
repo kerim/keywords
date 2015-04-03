@@ -10,7 +10,3 @@ categories:
 
 Two million people, mostly in Africa, die needlessly each year, because water supplies are not being properly managed.
 
-<div id="themify_builder_content-77" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

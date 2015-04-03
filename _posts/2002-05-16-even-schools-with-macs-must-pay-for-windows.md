@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.theregister.co.uk/content/4/25179.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.theregister.co.uk/content/4/25179.html', '(The Register)']);" >(The Register)</a>
 
-<div id="themify_builder_content-138" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

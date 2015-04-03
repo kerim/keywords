@@ -33,7 +33,3 @@ There are way too many stray dogs around. That&#8217;s one reason why we go all 
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2594" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

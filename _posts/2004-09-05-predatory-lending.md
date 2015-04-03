@@ -48,7 +48,3 @@ More information on Predatory Lending can be found <a href="http://www.mbaa.org/
 
 It is worth reading the original article to learn how Household fought back. If your institution has an EBSCO account you can see it <a href="http://search.epnet.com/direct.asp?an=14263235&#38;db=buh&#38;site=ehost" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://search.epnet.com/direct.asp?an=14263235&db=buh&site=ehost', 'here']);" >here</a>. Or pick up a copy of *Dollars and Sense* at your local bookstore.
 
-<div id="themify_builder_content-1845" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

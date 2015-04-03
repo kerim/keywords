@@ -14,7 +14,3 @@ A recent NY Times <a href="http://www.nytimes.com/2003/02/24/international/middl
 
 I find this very hard to believe. It reminds me of a story told to my parents by the Anthropologist <a href="http://www.iwf.de/va-origins/biograph/bal_2.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iwf.de/va-origins/biograph/bal_2.htm', 'Asen Balikci']);" >Asen Balikci</a>. One day in 1962 he was out in the Afghan desert when a nomad approached on a camel. The man was crying. Balikci asked him what was wrong, and the man replied: &#8220;Marilyn Monroe is dead!&#8221; Now, he may have never seen her picture, but he sure as hell knew what was happening in the world from listening to the short wave radio! And that was in 1962. Now you are going to tell me that the **majority** of Afghanis did not know that Sept. 11 occurred? Those NY Times reporters will believe anything&#8230;
 
-<div id="themify_builder_content-977" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ I blogged <a href="http://kerim.oxus.net/nucleus/index.php?itemid=1007" onclick=
 
 Thanks to <a href="http://maxspeak.org/gm/archives/00000932.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://maxspeak.org/gm/archives/00000932.html', 'Max']);" >Max</a> for finding this.
 
-<div id="themify_builder_content-987" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

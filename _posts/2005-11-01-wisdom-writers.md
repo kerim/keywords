@@ -22,7 +22,3 @@ It seems like a great service to contact if you&#8217;d like to collect oral his
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2337" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

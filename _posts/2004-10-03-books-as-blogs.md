@@ -26,9 +26,6 @@ There are also variations on this theme, such as <a href="http://www.oneaday.org
 
 One thing that is really nice about the Pepys diary blog is that there are comments/annotations, something missing on most of the other sites. This seems to be a way to really tap into the power of the web.
 
-<div id="themify_builder_content-1903" class="themify_builder_content themify_builder themify_builder_front">
-</div>
 
-<!-- /themify_builder_content -->
 
  [1]: The Blog of Henry David Thoreau

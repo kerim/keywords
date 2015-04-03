@@ -47,7 +47,3 @@ You can learn more about their <a href="http://www.leband.net/english_newrelease
 
 UPDATE: Labor Exchange Band has a <a href="http://en.wikipedia.org/wiki/Labor_Exchange_Band" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Labor_Exchange_Band', 'Wikipedia entry']);" >Wikipedia entry</a>!
 
-<div id="themify_builder_content-1853" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -32,7 +32,3 @@ UPDATE: Turns out that making a bomb on the plane <a href="http://www.washington
 
 <!-- technorati tags end -->
 
-<div id="themify_builder_content-2500" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

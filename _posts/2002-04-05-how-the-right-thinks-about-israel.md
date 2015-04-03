@@ -10,7 +10,3 @@ categories:
 
 This article describes the bizarre views coming from far right camps in the US, like the American Enterprise Institute. They seem to think that war on Iraq, not peace in Israel, is the key to solving the problems of the Middle East.
 
-<div id="themify_builder_content-53" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

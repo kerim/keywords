@@ -10,7 +10,3 @@ categories:
 
 Turmoil that could ultimately threaten his government, from ethnic strife to battles among warlords, percolates nearly everywhere outside the capital. &#8230; Indeed, outside Kabul there seems little evidence of a central government at all.
 
-<div id="themify_builder_content-18" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

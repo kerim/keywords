@@ -12,7 +12,3 @@ categories:
 
 <a href="http://www.usatoday.com/news/opinion/2002-08-29-usat-opin-bamford_x.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.usatoday.com/news/opinion/2002-08-29-usat-opin-bamford_x.htm', 'USATODAY.com']);" >USATODAY.com</a>
 
-<div id="themify_builder_content-508" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

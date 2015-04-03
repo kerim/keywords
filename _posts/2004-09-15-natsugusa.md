@@ -9,7 +9,3 @@ categories:
 ---
 > Much ado about <a href="http://www.languagehat.com/archives/001547.php" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.languagehat.com/archives/001547.php', 'seventeen syllables']);" >seventeen syllables</a>, and a lot of fun!
 
-<div id="themify_builder_content-1863" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

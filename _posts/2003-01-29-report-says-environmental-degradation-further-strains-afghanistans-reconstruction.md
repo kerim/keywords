@@ -18,7 +18,3 @@ categories:
 
 Also see <a href="http://www.csmonitor.com/2003/0128/p06s01-wome.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.csmonitor.com/2003/0128/p06s01-wome.html', 'this CS Monitor']);" >this CS Monitor</a> article on Afghan Reconstruction
 
-<div id="themify_builder_content-899" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

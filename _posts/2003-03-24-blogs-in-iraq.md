@@ -18,7 +18,3 @@ Here is a good list of blogs in Iraq from <a href="http://www.caterina.net/archi
   
 &#8211; <a href="http://www.iraqjournal.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iraqjournal.org/', 'Iraq Journal']);" >Iraq Journal</a> from Democracy Now.
 
-<div id="themify_builder_content-1026" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

@@ -14,7 +14,3 @@ Catching up on Cambodian history as we make our way to Phnom Penh, I came across
 
 In short, it seems that the U.S. encouraged Thai claims on the Temple in order to bully Sihanouk to abandon his policy of neutrality during the Cold War, but the policy (like much U.S. foreign policy) backfired, pushing Sihanouk closer to the Communists.
 
-<div id="themify_builder_content-2966" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

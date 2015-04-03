@@ -14,7 +14,3 @@ Seems that most of the damage at the museum was in the offices. However, many pr
 
 NY Times via <a href="http://story.news.yahoo.com/news?tmpl=story&#38;cid=68&ncid=68&e=18&u=/nyt/20030501/ts_nyt/loss_estimates_are_cut_on_iraqi_artifacts__but_questions_remain" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://story.news.yahoo.com/news?tmpl=story&cid=68&ncid=68&e=18&u=/nyt/20030501/ts_nyt/loss_estimates_are_cut_on_iraqi_artifacts__but_questions_remain', 'Yahoo News']);" >Yahoo News</a>
 
-<div id="themify_builder_content-1145" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

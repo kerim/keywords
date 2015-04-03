@@ -16,7 +16,3 @@ Just in case you forgot. I imagine that by then we will know if there is going t
 
 <a href="http://uofp.meer.net/calendar.php?calid=152" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://uofp.meer.net/calendar.php?calid=152', 'United for Peace']);" >United for Peace</a>
 
-<div id="themify_builder_content-783" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

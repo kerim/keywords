@@ -20,7 +20,3 @@ But he also must use his brain:
 
 In case you didn&#8217;t know, Kobayashi hold <a href="http://en2.wikipedia.org/wiki/Takeru_Kobayashi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en2.wikipedia.org/wiki/Takeru_Kobayashi', 'the world&#8217;s record for eating Hot Dogs']);" >the world&#8217;s record for eating Hot Dogs</a>: 50 of them in 12 minutes!
 
-<div id="themify_builder_content-1402" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->

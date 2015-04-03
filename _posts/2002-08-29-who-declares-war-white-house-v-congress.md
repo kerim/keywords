@@ -14,7 +14,3 @@ Thanks to Tapped for finding this Legal blog which discusses the constitutionali
 
 <a href="http://cooped-up.blogspot.com/2002_08_25_cooped-up_archive.html#85388552" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://cooped-up.blogspot.com/2002_08_25_cooped-up_archive.html#85388552', 'Cooped Up']);" >Cooped Up</a>
 
-<div id="themify_builder_content-492" class="themify_builder_content themify_builder themify_builder_front">
-</div>
-
-<!-- /themify_builder_content -->
