@@ -5,7 +5,10 @@ highlighter:      pygments
 # Permalinks
 permalink:        /archives/:year/:month/:day/:title/
 relative_permalinks: true
+
+# Additional settings
 excerpt_separator: <!--more-->
+comments: true
 
 # Setup
 
