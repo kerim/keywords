@@ -3,6 +3,7 @@ title: Do What You Love
 author: Kerim Friedman
 layout:
   - default
+permalink: /archives/2014/11/15/do-what-you-love/
 hide_post_title:
   - default
 unlink_post_title:
