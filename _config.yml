@@ -61,11 +61,20 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Kerim"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "categories:"
         field:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
+          alterable: "true"
           options:
             - name: "academic"
               value: "academic"
