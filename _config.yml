@@ -39,6 +39,7 @@ github:
 # Prose 
 prose:
   siteurl: 'http://keywords.oxus.net'
+  rooturl: '_posts'
   media: 'media'
   ignore:
     - index.md
