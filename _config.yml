@@ -41,7 +41,7 @@ github:
 
 prose:
   siteurl: 'http://keywords.oxus.net'
-  site: 'http://kerim.github.io/keywords'
+#  site: 'http://kerim.github.io/keywords'
   rooturl: '_posts'
   media: 'media'
 # relativeLinks: 'http://keywords.oxus.net/links.jsonp' (I don't have such a file, not sure why I would need it?)
