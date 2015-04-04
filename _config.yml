@@ -115,6 +115,8 @@ prose:
               value: "notable"
             - name: "politics"
               value: "politics"
+            - name: "philosophy"
+              value: "philosophy"
             - name: "race"
               value: "race"
             - name: "taiwan"
