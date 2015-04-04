@@ -3,6 +3,8 @@ author: Kerim
 layout: post
 published: true
 title: Philosophy Podcasts
+"categories:": 
+  - philosophy
 ---
 
 One of the joys of being on sabbatical has been time to read and study philosophy. Equipped with my Bose [QuietComfort 20i](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_20/index.jsp) noise cancelling headphones I can clearly hear podcasts as I walk Juno around the streets and riverside parks of Taipei. Here are some quick notes on what I've heard so far. <!--more-->
