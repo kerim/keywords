@@ -50,6 +50,10 @@ prose:
     - robots.txt
     - /wp-content
     - /public
+    - index.html
+    - 404.html
+    - LICENSE.md
+    - README.md
     
   metadata:
     _posts:
