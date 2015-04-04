@@ -35,10 +35,11 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
-  
+
+# Prose 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://kerim.github.io/keywords/'
+  siteurl: 'http://keywords.oxus.net/'
   media: 'media'
   ignore:
     - index.md
