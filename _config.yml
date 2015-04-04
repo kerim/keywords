@@ -43,6 +43,7 @@ prose:
   siteurl: 'http://keywords.oxus.net'
   rooturl: '_posts'
   media: 'media'
+# relativeLinks: 'http://keywords.oxus.net/links.jsonp' (I don't have such a file, not sure why I would need it?)
   ignore:
     - index.md
     - _config.yml
