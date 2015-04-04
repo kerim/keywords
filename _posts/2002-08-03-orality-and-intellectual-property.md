@@ -8,13 +8,13 @@ categories:
 ---
 Some references I found:
 
-> <div>
->   &#8220;Greaves, Thomas. "Tribal Rights." Valuing Local Knowledge: Indigenous People and Intellectual Property Rights. Ed. Stephen Brush and Doreen Stabinsky. Washington D.C.: Island Press, 1996.</p> 
+
+>   &#8220;Greaves, Thomas. "Tribal Rights." Valuing Local Knowledge: Indigenous People and Intellectual Property Rights. Ed. Stephen Brush and Doreen Stabinsky. Washington D.C.: Island Press, 1996. 
 >   
->   <p>
+>   
 >     Harrison, Simon. "Ritual As Intellectual Property." Man v. 27, June 1992, pp.225-44.&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://alexia.lis.uiuc.edu/~hearne/450FL_SuppBib.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://alexia.lis.uiuc.edu/~hearne/450FL_SuppBib.html', 'Besty Hearne-LIS 450FL Supplemental Bibliography']);" >Besty Hearne-LIS 450FL Supplemental Bibliography</a>
 

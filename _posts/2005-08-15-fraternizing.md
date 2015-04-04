@@ -21,7 +21,7 @@ If, as <a href="http://www.doonesbury.com/strip/dailydose/index.html?uc_full_dat
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/NLRB" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/NLRB', 'NLRB']);"  rel="tag">NLRB</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

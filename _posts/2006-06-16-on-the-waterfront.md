@@ -15,7 +15,7 @@ For instance, this scene where he goes into a Brooklyn deli with J. Kevin McGowa
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Elia Kazan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Elia Kazan', 'Elia Kazan']);"  rel="tag">Elia Kazan</a>, <a href="http://www.technorati.com/tag/Hoboken" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Hoboken', 'Hoboken']);"  rel="tag">Hoboken</a>, <a href="http://www.technorati.com/tag/Longshoreman" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Longshoreman', 'Longshoreman']);"  rel="tag">Longshoreman</a>, <a href="http://www.technorati.com/tag/Marlon Brando" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Marlon Brando', 'Marlon Brando']);"  rel="tag">Marlon Brando</a>, <a href="http://www.technorati.com/tag/new york city" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/new york city', 'new york city']);"  rel="tag">new york city</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -22,7 +22,7 @@ Ching, Leo T. S. 2000. &#8220;Savage Construction and Civility Making: the Musha
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Aboriginal" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Aboriginal', 'Aboriginal']);"  rel="tag">Aboriginal</a>, <a href="http://technorati.com/tag/魏德聖" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/魏德聖', '魏德聖']);"  rel="tag">魏德聖</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://technorati.com/tag/Wushe" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Wushe', 'Wushe']);"  rel="tag">Wushe</a>, <a href="http://technorati.com/tag/原住民" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/原住民', '原住民']);"  rel="tag">原住民</a>, <a href="http://technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://technorati.com/tag/賽德克巴萊" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/賽德克巴萊', '賽德克巴萊']);"  rel="tag">賽德克巴萊</a>, <a href="http://technorati.com/tag/霧社事件" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/霧社事件', '霧社事件']);"  rel="tag">霧社事件</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -8,9 +8,9 @@ categories:
 ---
 This is a great new site for the anti-war blogsphere.
 
-> <div>
+
 >   &#8220;We hereby invite bloggers of the left, the right, and other political persuasions to add their voices to this group endeavor.&#8221;
-> </div>
+
 
 <a href="http://www.nowarblog.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/', 'No War Blog']);" >No War Blog</a>
 

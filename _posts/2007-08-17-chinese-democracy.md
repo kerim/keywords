@@ -41,7 +41,7 @@ And third, from <a href="http://www.washingtonmonthly.com/features/2007/0707.Lar
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

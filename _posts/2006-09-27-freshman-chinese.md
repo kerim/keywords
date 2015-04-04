@@ -17,7 +17,7 @@ Until now.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/teaching" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/teaching', 'teaching']);"  rel="tag">teaching</a>, <a href="http://www.technorati.com/tag/writing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/writing', 'writing']);"  rel="tag">writing</a>, <a href="http://www.technorati.com/tag/chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/chinese', 'chinese']);"  rel="tag">chinese</a>, <a href="http://www.technorati.com/tag/中文" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中文', '中文']);"  rel="tag">中文</a>, <a href="http://www.technorati.com/tag/Taiwan Aborigines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Taiwan Aborigines', 'Taiwan Aborigines']);"  rel="tag">Taiwan Aborigines</a>, <a href="http://www.technorati.com/tag/原住民" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/原住民', '原住民']);"  rel="tag">原住民</a>, <a href="http://www.technorati.com/tag/education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/education', 'education']);"  rel="tag">education</a>, <a href="http://www.technorati.com/tag/english" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/english', 'english']);"  rel="tag">english</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

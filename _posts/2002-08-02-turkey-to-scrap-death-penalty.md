@@ -8,13 +8,13 @@ categories:
 ---
 Now if only the US would do the same &#8230;
 
-> <div>
->   &#8220;The Turkish parliament has voted to abolish the death penalty, and allow broadcasts in the Kurdish language.</p> 
+
+>   &#8220;The Turkish parliament has voted to abolish the death penalty, and allow broadcasts in the Kurdish language. 
 >   
->   <p>
+>   
 >     Turkish deputies have been debating a package of reforms aimed at easing the way for the European Union to set a date for the opening of accession negotiations.&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://news.bbc.co.uk/1/hi/world/europe/2168563.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/1/hi/world/europe/2168563.stm', 'BBC NEWS']);" >BBC NEWS</a>
 

@@ -11,14 +11,14 @@ categories:
   - Old Blog Import
 ---
 <div class="posterous_bookmarklet_entry">
-  <a href="http://keywords.oxus.net/wp-content/uploads/2010/03/media_http1bpblogspot_lbzHq.jpg.scaled1000.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/wp-content/uploads/2010/03/media_http1bpblogspot_lbzHq.jpg.scaled1000.jpg', '']);" ><img src="http://keywords.oxus.net/wp-content/uploads/2010/03/media_http1bpblogspot_lbzHq.jpg.scaled1000-300x225.jpg" width="500" height="375" /></a></p> 
+  <a href="http://keywords.oxus.net/wp-content/uploads/2010/03/media_http1bpblogspot_lbzHq.jpg.scaled1000.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/wp-content/uploads/2010/03/media_http1bpblogspot_lbzHq.jpg.scaled1000.jpg', '']);" ><img src="http://keywords.oxus.net/wp-content/uploads/2010/03/media_http1bpblogspot_lbzHq.jpg.scaled1000-300x225.jpg" width="500" height="375" /></a> 
   
   <div class="posterous_quote_citation">
     via <a href="http://lostnewyorkcity.blogspot.com/2010/03/view-from-1978.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://lostnewyorkcity.blogspot.com/2010/03/view-from-1978.html', 'lostnewyorkcity.blogspot.com']);" >lostnewyorkcity.blogspot.com</a>
-  </div>
   
-  <p>
+  
+  
     I recently heard Julie Hayden&rsquo;s &ldquo;Day-Old Baby Rats&rdquo; on the&nbsp;<a href="http://www.newyorker.com/online/2010/03/22/100322on_audio_moore" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/online/2010/03/22/100322on_audio_moore', 'New Yorker Fiction Podcast']);" >New Yorker Fiction Podcast</a>. It got me thinking about NY in the 70s, when I was a kid. I&#8217;m not nostalgic about that time &mdash; I remember the smell of stale piss in the subways &mdash; but I do feel that the NY I remember is somehow &#8220;lost.&#8221; So I was happy to see these pictures which evoke that time as well as the story did.
-  </p>
-</div>
+  
+
 

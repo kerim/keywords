@@ -19,7 +19,7 @@ An important new group blog has been launched. Here is a statement from one of t
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/development" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/development', 'development']);"  rel="tag">development</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

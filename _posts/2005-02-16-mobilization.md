@@ -10,5 +10,5 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/election2004" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/election2004', 'election2004']);"  rel="tag">election2004</a>, <a href="http://technorati.com/tag/grassroots mobilization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/grassroots mobilization', 'grassroots mobilization']);"  rel="tag">grassroots mobilization</a>, <a href="http://technorati.com/tag/voter turnout" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/voter turnout', 'voter turnout']);"  rel="tag">voter turnout</a>}</span>
-</div>
+
 

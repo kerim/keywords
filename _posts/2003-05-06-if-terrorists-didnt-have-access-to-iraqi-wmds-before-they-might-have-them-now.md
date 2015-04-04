@@ -6,9 +6,9 @@ permalink: /archives/2003/05/06/if-terrorists-didnt-have-access-to-iraqi-wmds-be
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   The UN nuclear watchdog agency has urged Washington to allow it to investigate nuclear sites in Iraq that have reportedly been looted.
-> </div>
+
 
 <a href="http://news.bbc.co.uk/2/hi/middle_east/3002169.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/middle_east/3002169.stm', 'BBC']);" >BBC</a>
 

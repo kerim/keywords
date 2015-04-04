@@ -19,7 +19,7 @@ Amen.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bush v. gore" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bush v. gore', 'bush v. gore']);"  rel="tag">bush v. gore</a>, <a href="http://technorati.com/tag/eminent domain" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/eminent domain', 'eminent domain']);"  rel="tag">eminent domain</a>, <a href="http://technorati.com/tag/kelo v. city of new london" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/kelo v. city of new london', 'kelo v. city of new london']);"  rel="tag">kelo v. city of new london</a>, <a href="http://technorati.com/tag/supreme court" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/supreme court', 'supreme court']);"  rel="tag">supreme court</a>, <a href="http://technorati.com/tag/takings" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/takings', 'takings']);"  rel="tag">takings</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

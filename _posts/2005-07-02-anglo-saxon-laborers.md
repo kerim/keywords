@@ -21,7 +21,7 @@ If he was right, I&#8217;d perhaps be willing to assume that the unprotected wor
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Ireland" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Ireland', 'Ireland']);"  rel="tag">Ireland</a>, <a href="http://technorati.com/tag/labor markets" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/labor markets', 'labor markets']);"  rel="tag">labor markets</a>, <a href="http://technorati.com/tag/unions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/unions', 'unions']);"  rel="tag">unions</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

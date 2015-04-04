@@ -16,7 +16,7 @@ I was wondering why nobody has yet copied this in the US, but then I remembered 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/naked" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/naked', 'naked']);"  rel="tag">naked</a>, <a href="http://www.technorati.com/tag/weather" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/weather', 'weather']);"  rel="tag">weather</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

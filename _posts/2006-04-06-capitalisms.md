@@ -19,7 +19,7 @@ The problem, I believe, is the assumption (on both the Left and the Right) that 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/bono" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bono', 'bono']);"  rel="tag">bono</a>, <a href="http://www.technorati.com/tag/capitalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/capitalism', 'capitalism']);"  rel="tag">capitalism</a>, <a href="http://www.technorati.com/tag/gates" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/gates', 'gates']);"  rel="tag">gates</a>, <a href="http://www.technorati.com/tag/globalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/globalization', 'globalization']);"  rel="tag">globalization</a>, <a href="http://www.technorati.com/tag/libaral communists" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/libaral communists', 'libaral communists']);"  rel="tag">libaral communists</a>, <a href="http://www.technorati.com/tag/stiglitz" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/stiglitz', 'stiglitz']);"  rel="tag">stiglitz</a>, <a href="http://www.technorati.com/tag/zizek" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/zizek', 'zizek']);"  rel="tag">zizek</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

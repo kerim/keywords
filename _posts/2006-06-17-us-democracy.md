@@ -44,7 +44,7 @@ UPDATE: More trashing of this article <a href="http://www.zonaeuropa.com/200606.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/United States" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/United States', 'United States']);"  rel="tag">United States</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/美國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/美國', '美國']);"  rel="tag">美國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

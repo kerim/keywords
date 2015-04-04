@@ -33,11 +33,11 @@ Based on my own experience with this test I can make an educated guess at which 
 UPDATE: Thanks to the ever-vigilant Tim May, a <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/003032.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://itre.cis.upenn.edu/~myl/languagelog/archives/003032.html', 'link']);" >link</a> to a Language Log post that discusses the research in more detail.
 
 <div style="text-align: right">
-</div>
+
 
 <div style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/brain" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/brain', 'brain']);" rel="tag">brain</a>, <a href="http://www.technorati.com/tag/multil" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/multil', 'multil']);" rel="tag">multil</a>, <a href="http://www.technorati.com/tag/neuroscience" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/neuroscience', 'neuroscience']);" rel="tag">neuroscience</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

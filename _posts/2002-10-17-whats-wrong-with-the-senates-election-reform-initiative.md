@@ -8,15 +8,13 @@ categories:
 ---
 This is from a letter from the Leadership Conference on Civil Rights regarding the ID requirements in the legislation passed by the Senate.
 
-> <div>
->   &#8220;The conference report language, however, does contain several troubling provisions:</p> 
+
+>   &#8220;The conference report language, however, does contain several troubling provisions: 
 >   
->   <p>
+>   
 >     First, the report contains a requirement that all persons seeking to register must provide the state with a drivers license number or, in the event they do not have one, the last four digits of their social security number. Any person who has either number but does not provide it
->   </p>
 >   
->   <div id="themify_builder_content-646" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
 >   
->   <!-- /themify_builder_content -->
+
+>   
+>  

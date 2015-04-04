@@ -21,7 +21,7 @@ Here&#8217;s <a href="http://www.boingboing.net/2005/06/24/sat_photos_document_.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/cities" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/cities', 'cities']);"  rel="tag">cities</a>, <a href="http://technorati.com/tag/Harare" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Harare', 'Harare']);"  rel="tag">Harare</a>, <a href="http://technorati.com/tag/Neuwirth" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Neuwirth', 'Neuwirth']);"  rel="tag">Neuwirth</a>, <a href="http://technorati.com/tag/Shan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Shan', 'Shan']);"  rel="tag">Shan</a>, <a href="http://technorati.com/tag/squatter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/squatter', 'squatter']);"  rel="tag">squatter</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

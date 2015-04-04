@@ -17,7 +17,7 @@ More information and registration <a href="http://www.civictaipei.org/WF_Activit
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -17,7 +17,7 @@ I won&#8217;t even attempt to summarize the discussion (read <a href="http://itr
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/fuzzy logic" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/fuzzy logic', 'fuzzy logic']);"  rel="tag">fuzzy logic</a>, <a href="http://technorati.com/tag/rice" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rice', 'rice']);"  rel="tag">rice</a>, <a href="http://technorati.com/tag/zojirushi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/zojirushi', 'zojirushi']);"  rel="tag">zojirushi</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

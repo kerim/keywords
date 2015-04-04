@@ -18,7 +18,7 @@ Some illustrations from the book can be found on <a href="http://www.edwardtufte
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/art" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/art', 'art']);"  rel="tag">art</a>, <a href="http://www.technorati.com/tag/cubism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/cubism', 'cubism']);"  rel="tag">cubism</a>, <a href="http://www.technorati.com/tag/Tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Tufte', 'Tufte']);"  rel="tag">Tufte</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

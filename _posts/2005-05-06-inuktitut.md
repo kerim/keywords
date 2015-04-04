@@ -17,7 +17,7 @@ Kunuk is &#8220;Zacharias Kunuk, director of the 2001 film *<a href="http://www.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Canada" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Canada', 'Canada']);"  rel="tag">Canada</a>, <a href="http://technorati.com/tag/Aboriginal" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Aboriginal', 'Aboriginal']);"  rel="tag">Aboriginal</a>, <a href="http://technorati.com/tag/Film" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Film', 'Film']);"  rel="tag">Film</a>, <a href="http://technorati.com/tag/Zacharias Kunuk" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Zacharias Kunuk', 'Zacharias Kunuk']);"  rel="tag">Zacharias Kunuk</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -15,7 +15,7 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/George W. Bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/George W. Bush', 'George W. Bush']);"  rel="tag">George W. Bush</a>, <a href="http://www.technorati.com/tag/the onion" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/the onion', 'the onion']);"  rel="tag">the onion</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

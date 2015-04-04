@@ -38,7 +38,7 @@ In the William Tabb article he talks about the unbelievable success Senators hav
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/creamy layer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/creamy layer', 'creamy layer']);"  rel="tag">creamy layer</a>, <a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>, <a href="http://www.technorati.com/tag/the rich" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/the rich', 'the rich']);"  rel="tag">the rich</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

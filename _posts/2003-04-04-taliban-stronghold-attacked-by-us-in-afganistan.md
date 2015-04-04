@@ -8,13 +8,13 @@ categories:
 ---
 From the [Washington Post][1]:
 
-> <div>
->   &#8220;We discovered a base with tents, food, weapons. It was here that Taliban coming from Pakistan would stay before moving out to other parts of the country,&#8221; said Fazluddin Agha, district police chief of Spin Boldak. </p> 
+
+>   &#8220;We discovered a base with tents, food, weapons. It was here that Taliban coming from Pakistan would stay before moving out to other parts of the country,&#8221; said Fazluddin Agha, district police chief of Spin Boldak.  
 >   
->   <p>
+>   
 >     &#8230;Evidence is mounting in the southern regions of Afghanistan that the Taliban is reorganizing and has found an ally in Gulbuddin Hekmatyar, a rebel commander who has been labeled a terrorist by the United States and hunted by its troops.
->   </p>
-> </div>
+>   
+
 
 But this last bit shouldn&#8217;t be news to anyone! Not only is it old news, but guess who was the largest recipient of US military aid (via Pakistan&#8217;s ISI) during the war against the Soviets?
 

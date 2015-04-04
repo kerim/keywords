@@ -17,7 +17,7 @@ And if you haven&#8217;t heard *The Shape of Jazz to Come* &#8230;
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Ornette Coleman" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ornette Coleman', 'Ornette Coleman']);"  rel="tag">Ornette Coleman</a>, <a href="http://www.technorati.com/tag/consumption" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/consumption', 'consumption']);"  rel="tag">consumption</a>, <a href="http://www.technorati.com/tag/taste" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taste', 'taste']);"  rel="tag">taste</a>, <a href="http://www.technorati.com/tag/Bourdieu" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bourdieu', 'Bourdieu']);"  rel="tag">Bourdieu</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

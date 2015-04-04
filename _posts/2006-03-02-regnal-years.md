@@ -23,7 +23,7 @@ Wikipedia explains the regnal system used in Taiwan:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/calendar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/calendar', 'calendar']);"  rel="tag">calendar</a>, <a href="http://www.technorati.com/tag/農歷" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/農歷', '農歷']);"  rel="tag">農歷</a>, <a href="http://www.technorati.com/tag/公歷" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/公歷', '公歷']);"  rel="tag">公歷</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -22,7 +22,7 @@ PS: Can you believe my luck? Just as I was snapping this picture of some confusi
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/london" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/london', 'london']);"  rel="tag">london</a>, <a href="http://www.technorati.com/tag/signs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/signs', 'signs']);"  rel="tag">signs</a>, <a href="http://www.technorati.com/tag/transportation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/transportation', 'transportation']);"  rel="tag">transportation</a>, <a href="http://www.technorati.com/tag/travel" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/travel', 'travel']);"  rel="tag">travel</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

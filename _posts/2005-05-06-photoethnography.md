@@ -15,7 +15,7 @@ I&#8217;m just going to steal Lorenz&#8217; entire <a href="http://www.antropolo
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/photography" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photography', 'photography']);"  rel="tag">photography</a>, <a href="http://technorati.com/tag/ethnography" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ethnography', 'ethnography']);"  rel="tag">ethnography</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

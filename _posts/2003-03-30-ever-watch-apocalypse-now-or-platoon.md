@@ -8,7 +8,7 @@ categories:
 ---
 I don&#8217;t usually read <a href="http://www.nytimes.com/2003/03/30/opinion/30DOWD.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/30/opinion/30DOWD.html', 'Maureen Dowd']);" >Maureen Dowd</a>, but some times she is right on target:
 
-> <div>
+
 >   Why is all this a surprise again? I know our hawks avoided serving in Vietnam, but didn&#8217;t they, like, read about it?
-> </div>
+
 

@@ -30,7 +30,7 @@ The only people it won&#8217;t appeal to are those footing the bill in Washingto
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/big idea" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/big idea', 'big idea']);"  rel="tag">big idea</a>, <a href="http://technorati.com/tag/democracy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/democracy', 'democracy']);"  rel="tag">democracy</a>, <a href="http://technorati.com/tag/Democrat" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Democrat', 'Democrat']);"  rel="tag">Democrat</a>, <a href="http://technorati.com/tag/democrats" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/democrats', 'democrats']);"  rel="tag">democrats</a>, <a href="http://technorati.com/tag/rick perlstein" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rick perlstein', 'rick perlstein']);"  rel="tag">rick perlstein</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

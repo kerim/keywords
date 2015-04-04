@@ -8,11 +8,9 @@ categories:
 ---
 This is a nice article by Kristoff:
 
-> <div>
->   &#8220;Still, we shouldn&#8217;t demonize all of Iraq </p> 
+
+>   &#8220;Still, we shouldn&#8217;t demonize all of Iraq  
 >   
->   <div id="themify_builder_content-599" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

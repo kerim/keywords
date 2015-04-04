@@ -12,13 +12,13 @@ categories:
 ---
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_medium_quote">
-    <p>
+    
       Look, I support the ACLU. But, seriously; give those people everything they want, the whole Bill of Rights, and it would not cost the country a thing. It would be no big deal. Give labor anything it wants, even a lousy ten-man machine shop, and every drop of it is blood. It all comes out of a bottom line.
-    </p>
+    
   </blockquote>
   
-  <p>
+  
     From <a href="http://www.amazon.com/Which-Side-Are-You-Revised/dp/1565848861" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/Which-Side-Are-You-Revised/dp/1565848861', ' Which Side Are You On?: Trying to Be for Labor When It&#8217;s Flat on Its Back ']);" > Which Side Are You On?: Trying to Be for Labor When It&#8217;s Flat on Its Back </a>
-  </p>
-</div>
+  
+
 

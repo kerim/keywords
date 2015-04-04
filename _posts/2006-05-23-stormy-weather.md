@@ -13,7 +13,7 @@ I finally got my camera from the states, but I&#8217;ve been enjoying taking pic
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Treo650" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Treo650', 'Treo650']);"  rel="tag">Treo650</a>, <a href="http://www.technorati.com/tag/Hualian" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Hualian', 'Hualian']);"  rel="tag">Hualian</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/花蓮" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/花蓮', '花蓮']);"  rel="tag">花蓮</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

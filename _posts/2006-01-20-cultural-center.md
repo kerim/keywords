@@ -17,7 +17,7 @@ The Budhan Theatre has indeed transformed Chharanagar from an urben ghetto on th
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Ahmedabad" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ahmedabad', 'Ahmedabad']);"  rel="tag">Ahmedabad</a>, <a href="http://www.technorati.com/tag/budhan theatre" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/budhan theatre', 'budhan theatre']);"  rel="tag">budhan theatre</a>, <a href="http://www.technorati.com/tag/chharanagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/chharanagar', 'chharanagar']);"  rel="tag">chharanagar</a>, <a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

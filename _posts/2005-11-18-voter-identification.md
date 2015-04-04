@@ -26,7 +26,7 @@ What were the objections?
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/civil rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/civil rights', 'civil rights']);"  rel="tag">civil rights</a>, <a href="http://www.technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>, <a href="http://www.technorati.com/tag/voting" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/voting', 'voting']);"  rel="tag">voting</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

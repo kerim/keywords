@@ -15,7 +15,7 @@ If you click on the image it will take you to the flickr page where I&#8217;ve a
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/maps', 'maps']);"  rel="tag">maps</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/花蓮" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/花蓮', '花蓮']);"  rel="tag">花蓮</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

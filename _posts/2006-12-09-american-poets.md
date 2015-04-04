@@ -25,7 +25,7 @@ I love this <a href="http://jacketmagazine.com/12/blac-stat.html" onclick="_gaq.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/poetry" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/poetry', 'poetry']);"  rel="tag">poetry</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -28,7 +28,7 @@ But I figure that about 90% of my passwords fall in this category.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/passwords" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/passwords', 'passwords']);"  rel="tag">passwords</a>, <a href="http://www.technorati.com/tag/travel" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/travel', 'travel']);"  rel="tag">travel</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

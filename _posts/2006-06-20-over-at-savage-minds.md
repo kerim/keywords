@@ -23,7 +23,7 @@ Finally, fellow Savage Mind Alex Golub is doing a great job with our <a href="ht
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -26,7 +26,7 @@ I think positive training is the right way to go, and I just bought a number of 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Clicker" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Clicker', 'Clicker']);"  rel="tag">Clicker</a>, <a href="http://www.technorati.com/tag/behavior" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/behavior', 'behavior']);"  rel="tag">behavior</a>, <a href="http://www.technorati.com/tag/dog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dog', 'dog']);"  rel="tag">dog</a>, <a href="http://www.technorati.com/tag/training" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/training', 'training']);"  rel="tag">training</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

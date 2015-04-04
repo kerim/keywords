@@ -6,11 +6,9 @@ permalink: /archives/2002/12/20/assasination-but-thats-not-what-rumsfeld-calls-i
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;The military&#8217;s previous experience with assassination programs suggests some of the difficulties involved. In the late nineteen-sixties, during the Vietnam War, American Special Forces units worked with the C.I.A. in what became known as the Phoenix Program. The program started small: targets believed to be working for the North</p> 
+
+>   &#8220;The military&#8217;s previous experience with assassination programs suggests some of the difficulties involved. In the late nineteen-sixties, during the Vietnam War, American Special Forces units worked with the C.I.A. in what became known as the Phoenix Program. The program started small: targets believed to be working for the North 
 >   
->   <div id="themify_builder_content-809" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

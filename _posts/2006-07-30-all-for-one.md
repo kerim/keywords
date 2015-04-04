@@ -15,7 +15,7 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Dumas" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Dumas', 'Dumas']);"  rel="tag">Dumas</a>, <a href="http://www.technorati.com/tag/france" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/france', 'france']);"  rel="tag">france</a>, <a href="http://www.technorati.com/tag/literature" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/literature', 'literature']);"  rel="tag">literature</a>, <a href="http://www.technorati.com/tag/Three Musketeers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Three Musketeers', 'Three Musketeers']);"  rel="tag">Three Musketeers</a>, <a href="http://www.technorati.com/tag/translation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/translation', 'translation']);"  rel="tag">translation</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

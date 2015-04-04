@@ -22,7 +22,7 @@ NOTE: &#8220;Fruit&#8221; is a literal translation of his Chinese name, but I su
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/fruit chan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/fruit chan', 'fruit chan']);"  rel="tag">fruit chan</a>, <a href="http://technorati.com/tag/Hong Kong" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Hong Kong', 'Hong Kong']);"  rel="tag">Hong Kong</a>, <a href="http://technorati.com/tag/陳果" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/陳果', '陳果']);"  rel="tag">陳果</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

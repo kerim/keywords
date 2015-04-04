@@ -25,7 +25,7 @@ Membership has its privileges.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/lakoff" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/lakoff', 'lakoff']);"  rel="tag">lakoff</a>, <a href="http://www.technorati.com/tag/Hacker and Pierson" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Hacker and Pierson', 'Hacker and Pierson']);"  rel="tag">Hacker and Pierson</a>, <a href="http://www.technorati.com/tag/off center" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/off center', 'off center']);"  rel="tag">off center</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

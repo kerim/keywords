@@ -8,11 +8,9 @@ categories:
 ---
 Although phrased as a sort of Haggada, and some of the facts are slightly questionable, this is a generally good overview of the problems with the war on Iraq and well worth taking a look at.
 
-> <div>
->   &#8220;Like people everywhere, most people in the US think it</p> 
+
+>   &#8220;Like people everywhere, most people in the US think it 
 >   
->   <div id="themify_builder_content-754" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

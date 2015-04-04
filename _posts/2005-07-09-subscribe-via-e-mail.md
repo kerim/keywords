@@ -24,7 +24,7 @@ UPDATE: Oh, and if you still occasionally get emails from Bloglet.com, see the b
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bloglet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bloglet', 'bloglet']);"  rel="tag">bloglet</a>, <a href="http://technorati.com/tag/email" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/email', 'email']);"  rel="tag">email</a>, <a href="http://technorati.com/tag/rss" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rss', 'rss']);"  rel="tag">rss</a>, <a href="http://technorati.com/tag/rssfwd" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rssfwd', 'rssfwd']);"  rel="tag">rssfwd</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

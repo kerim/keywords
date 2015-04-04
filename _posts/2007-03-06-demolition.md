@@ -31,7 +31,7 @@ Below is the body of <a href="http://www.petitiononline.com/sambhav/petition.htm
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/DNT" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/DNT', 'DNT']);"  rel="tag">DNT</a>, <a href="http://www.technorati.com/tag/Maninagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Maninagar', 'Maninagar']);"  rel="tag">Maninagar</a>, <a href="http://www.technorati.com/tag/nomads" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/nomads', 'nomads']);"  rel="tag">nomads</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

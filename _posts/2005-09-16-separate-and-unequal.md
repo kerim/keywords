@@ -31,7 +31,7 @@ It is even more disheartening when you learn what goes on in these schools, wher
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/brown v. board of education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/brown v. board of education', 'brown v. board of education']);"  rel="tag">brown v. board of education</a>, <a href="http://www.technorati.com/tag/education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/education', 'education']);"  rel="tag">education</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -19,7 +19,7 @@ Live and learn.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/berlin" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/berlin', 'berlin']);"  rel="tag">berlin</a>, <a href="http://technorati.com/tag/donut" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/donut', 'donut']);"  rel="tag">donut</a>, <a href="http://technorati.com/tag/jfk" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/jfk', 'jfk']);"  rel="tag">jfk</a>, <a href="http://technorati.com/tag/Kennedy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Kennedy', 'Kennedy']);"  rel="tag">Kennedy</a>, <a href="http://technorati.com/tag/Orson Wells" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Orson Wells', 'Orson Wells']);"  rel="tag">Orson Wells</a>, <a href="http://technorati.com/tag/war of the worlds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/war of the worlds', 'war of the worlds']);"  rel="tag">war of the worlds</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

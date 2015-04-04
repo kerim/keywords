@@ -31,5 +31,5 @@ See <a href="http://www.flickr.com/photos/kerim/sets/88319/" onclick="_gaq.push(
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://technorati.com/tag/photos" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photos', 'photos']);"  rel="tag">photos</a>, <a href="http://technorati.com/tag/photography" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photography', 'photography']);"  rel="tag">photography</a>}</span>
-</div>
+
 

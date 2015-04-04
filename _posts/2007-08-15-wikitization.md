@@ -57,7 +57,7 @@ UPDATE: This post has been <a href="http://www.internazionale.it/interblog/index
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/wikipedia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wikipedia', 'wikipedia']);"  rel="tag">wikipedia</a>, <a href="http://www.technorati.com/tag/wikis" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wikis', 'wikis']);"  rel="tag">wikis</a>, <a href="http://www.technorati.com/tag/Web%202.0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Web%202.0', 'Web 2.0']);"  rel="tag">Web 2.0</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

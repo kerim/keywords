@@ -32,7 +32,7 @@ Now, as I pointed out above, Pāṇini died a few centuries before Devanagiri ca
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Devanagari" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Devanagari', 'Devanagari']);"  rel="tag">Devanagari</a>, <a href="http://www.technorati.com/tag/Hindi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Hindi', 'Hindi']);"  rel="tag">Hindi</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

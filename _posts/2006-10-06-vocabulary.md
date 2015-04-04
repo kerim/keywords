@@ -28,7 +28,7 @@ UPDATE: Google now offers the ability to do a <a href="http://pinyin.info/news/2
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/Chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Chinese', 'Chinese']);"  rel="tag">Chinese</a>, <a href="http://www.technorati.com/tag/Dictionary" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Dictionary', 'Dictionary']);"  rel="tag">Dictionary</a>, <a href="http://www.technorati.com/tag/中文" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中文', '中文']);"  rel="tag">中文</a>, <a href="http://www.technorati.com/tag/辭典" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/辭典', '辭典']);"  rel="tag">辭典</a>, <a href="http://www.technorati.com/tag/google" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/google', 'google']);"  rel="tag">google</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

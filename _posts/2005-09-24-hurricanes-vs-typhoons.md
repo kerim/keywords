@@ -15,7 +15,7 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/hurricanes" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hurricanes', 'hurricanes']);"  rel="tag">hurricanes</a>, <a href="http://www.technorati.com/tag/rita" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/rita', 'rita']);"  rel="tag">rita</a>, <a href="http://www.technorati.com/tag/typhoon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/typhoon', 'typhoon']);"  rel="tag">typhoon</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -14,7 +14,7 @@ A <a href="http://www.washingtonmonthly.com/archives/individual/2006_07/009204.p
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

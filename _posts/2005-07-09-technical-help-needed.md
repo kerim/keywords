@@ -21,7 +21,7 @@ UPDATE: All fixed! Thanks to the ever helpful <a href="http://en.wiktionary.org/
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/lazyweb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/lazyweb', 'lazyweb']);"  rel="tag">lazyweb</a>, <a href="http://technorati.com/tag/wiki" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wiki', 'wiki']);"  rel="tag">wiki</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

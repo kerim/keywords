@@ -24,7 +24,7 @@ According to John Berger (of *Ways of Seeing* fame, who is now a novelist living
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/disc" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/disc', 'disc']);"  rel="tag">disc</a>, <a href="http://www.technorati.com/tag/France" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/France', 'France']);"  rel="tag">France</a>, <a href="http://www.technorati.com/tag/Jacques Chirac" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Jacques Chirac', 'Jacques Chirac']);"  rel="tag">Jacques Chirac</a>, <a href="http://www.technorati.com/tag/political" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/political', 'political']);"  rel="tag">political</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

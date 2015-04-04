@@ -8,9 +8,9 @@ categories:
 ---
 See if your represetnative stood up to Bush or caved in. Either way write to them and let them know what you think!
 
-> <div>
+
 >   &#8220;The 296-133 roll call Thursday by which the House voted for a resolution to authorize President Bush to use military force in Iraq&#8221;
-> </div>
+
 
 <a href="http://www.nytimes.com/2002/10/10/international/10AP-IROL.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/10/international/10AP-IROL.html', 'NY Times']);" >NY Times</a>
 

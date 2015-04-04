@@ -17,7 +17,7 @@ The <a href="http://en.beijing2008.com/63/32/column212033263.shtml" onclick="_ga
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/calligraphy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/calligraphy', 'calligraphy']);"  rel="tag">calligraphy</a>, <a href="http://www.technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://www.technorati.com/tag/graphic design" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/graphic design', 'graphic design']);"  rel="tag">graphic design</a>, <a href="http://www.technorati.com/tag/graphics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/graphics', 'graphics']);"  rel="tag">graphics</a>, <a href="http://www.technorati.com/tag/olympics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/olympics', 'olympics']);"  rel="tag">olympics</a>, <a href="http://www.technorati.com/tag/tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tufte', 'tufte']);"  rel="tag">tufte</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

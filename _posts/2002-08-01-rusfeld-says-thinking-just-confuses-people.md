@@ -9,13 +9,13 @@ categories:
 Hey, lets just bomb them &#8211; who cares what the facts are?  
 
 
-> <div>
->   &#8220;As the panel met, Defence Minister Donald Rumsfeld insisted that no decision had been taken about attacking Iraq and said those who were asking questions about the issue were complicating matters.</p> 
+
+>   &#8220;As the panel met, Defence Minister Donald Rumsfeld insisted that no decision had been taken about attacking Iraq and said those who were asking questions about the issue were complicating matters. 
 >   
->   <p>
+>   
 >     "The more the question is asked, the more it&#8217;s discussed in the press, the greater the confusion that exists in the world and in the public and in the Congress on the issue," he said.&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://news.bbc.co.uk/1/hi/world/middle_east/2165948.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/1/hi/world/middle_east/2165948.stm', 'BBC NEWS']);" >BBC NEWS</a>
 

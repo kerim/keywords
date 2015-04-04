@@ -27,5 +27,5 @@ UPDATE: Mark Liberman <a href="http://itre.cis.upenn.edu/~myl/languagelog/archiv
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/language" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/language', 'language']);"  rel="tag">language</a>, <a href="http://technorati.com/tag/saussure" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/saussure', 'saussure']);"  rel="tag">saussure</a>, <a href="http://technorati.com/tag/linguistics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/linguistics', 'linguistics']);"  rel="tag">linguistics</a>, <a href="http://technorati.com/tag/linguistic anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/linguistic anthropology', 'linguistic anthropology']);"  rel="tag">linguistic anthropology</a>, <a href="http://technorati.com/tag/post-structuralism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/post-structuralism', 'post-structuralism']);"  rel="tag">post-structuralism</a>}</span>
-</div>
+
 

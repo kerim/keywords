@@ -21,7 +21,7 @@ I have to think about this some more&#8230;
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>, <a href="http://www.technorati.com/tag/poverty" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/poverty', 'poverty']);"  rel="tag">poverty</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

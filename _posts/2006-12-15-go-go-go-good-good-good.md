@@ -19,7 +19,7 @@ Don&#8217;t get me wrong. Taiwan&#8217;s rail system is one of the best in the w
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/train" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/train', 'train']);"  rel="tag">train</a>, <a href="http://www.technorati.com/tag/rail" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/rail', 'rail']);"  rel="tag">rail</a>, <a href="http://www.technorati.com/tag/tickets" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tickets', 'tickets']);"  rel="tag">tickets</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

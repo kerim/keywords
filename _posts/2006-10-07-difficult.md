@@ -24,7 +24,7 @@ I left a comment suggesting he take a look at <a href="http://www.howstuffworks.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/teaching" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/teaching', 'teaching']);"  rel="tag">teaching</a>, <a href="http://www.technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

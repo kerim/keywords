@@ -24,5 +24,5 @@ See my earlier post on “<a href="http://keywords.oxus.net/archives/2005/01/22/
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/race" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/race', 'race']);"  rel="tag">race</a>, <a href="http://technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://technorati.com/tag/africa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/africa', 'africa']);"  rel="tag">africa</a>, <a href="http://technorati.com/tag/stereotypes" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/stereotypes', 'stereotypes']);"  rel="tag">stereotypes</a>}</span>
-</div>
+
 

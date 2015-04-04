@@ -6,25 +6,25 @@ permalink: /archives/2003/05/11/sars-on-the-rise-in-taiwan/
 categories:
   - Old Blog Import
 ---
-> <div>
->   The east Asian Sars outbreak, which Chinese officials said showed signs of declining in Beijing, today appeared to be accelerating in Taiwan with the single largest daily increase in cases on the island. </p> 
+
+>   The east Asian Sars outbreak, which Chinese officials said showed signs of declining in Beijing, today appeared to be accelerating in Taiwan with the single largest daily increase in cases on the island.  
 >   
->   <p>
+>   
 >     It reported 18 new Sars cases, the most since the virus first struck there two months ago, and authorities fear the disease may have spread to the south of the island from the capital, Taipei.
->   </p>
 >   
->   <p>
+>   
+>   
 >     &#8230;The leap in new cases on the island has brought its total to 149, and came a day after the World Health Organisation (WHO) advised against all but essential travel to Taipei.
->   </p>
-> </div>
+>   
+
 
 <a href="http://www.guardian.co.uk/sars/story/0,13036,952508,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/sars/story/0,13036,952508,00.html', 'Guardian UK']);" >Guardian UK</a>
 
 SARS is also more deadly than previously thought:
 
-> <div>
+
 >   Analyzing what it said was more complete data, the World Health Organization (WHO) said Wednesday that the estimated overall death rate from SARS was about 15 percent &#8212; double its previous estimate.
-> </div>
+
 
 Although the rates vary quite considerably by age.
 

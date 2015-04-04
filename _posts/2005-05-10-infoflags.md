@@ -16,7 +16,7 @@ A <a href="http://www.brazilianartists.net/home/flags/index2.htm" onclick="_gaq.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/braz" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/braz', 'braz']);"  rel="tag">braz</a>, <a href="http://technorati.com/tag/flags" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/flags', 'flags']);"  rel="tag">flags</a>, <a href="http://technorati.com/tag/infographics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/infographics', 'infographics']);"  rel="tag">infographics</a>, <a href="http://technorati.com/tag/tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tufte', 'tufte']);"  rel="tag">tufte</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

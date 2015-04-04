@@ -29,7 +29,7 @@ Anyone want to give me a research grant to investigate further?
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/food" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/food', 'food']);"  rel="tag">food</a>, <a href="http://www.technorati.com/tag/ice cream" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/ice cream', 'ice cream']);"  rel="tag">ice cream</a>, <a href="http://www.technorati.com/tag/seafood" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/seafood', 'seafood']);"  rel="tag">seafood</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/蝦冰蟹醬" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/蝦冰蟹醬', '蝦冰蟹醬']);"  rel="tag">蝦冰蟹醬</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

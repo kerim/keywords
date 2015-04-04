@@ -20,7 +20,7 @@ And don&#8217;t miss Ozma&#8217;s <a href="http://savageminds.org/2005/07/24/ant
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/jihad" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/jihad', 'jihad']);"  rel="tag">jihad</a>, <a href="http://technorati.com/tag/terrorism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/terrorism', 'terrorism']);"  rel="tag">terrorism</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

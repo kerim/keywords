@@ -18,7 +18,7 @@ I&#8217;m off to Taiwan at 4 AM! I&#8217;ll be blogging about my trip here on *K
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/Kerim Friedman" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Kerim Friedman', 'Kerim Friedman']);"  rel="tag">Kerim Friedman</a>, <a href="http://technorati.com/tag/Keywords" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Keywords', 'Keywords']);"  rel="tag">Keywords</a>, <a href="http://technorati.com/tag/savage minds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/savage minds', 'savage minds']);"  rel="tag">savage minds</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

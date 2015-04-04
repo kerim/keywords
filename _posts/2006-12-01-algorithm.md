@@ -18,7 +18,7 @@ Hmmm, I ordered a vegetarian meal, sat in the aisle seat &#8230; no wonder they 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/surveillance" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/surveillance', 'surveillance']);"  rel="tag">surveillance</a>, <a href="http://www.technorati.com/tag/civil rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/civil rights', 'civil rights']);"  rel="tag">civil rights</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

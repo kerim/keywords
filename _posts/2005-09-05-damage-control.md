@@ -42,7 +42,7 @@ UPDATE: Republican <a href="http://www.washingtonmonthly.com/archives/individual
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bush', 'bush']);"  rel="tag">bush</a>, <a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>, <a href="http://www.technorati.com/tag/new orleans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/new orleans', 'new orleans']);"  rel="tag">new orleans</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

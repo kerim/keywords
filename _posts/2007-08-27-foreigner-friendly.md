@@ -34,7 +34,7 @@ This is just a start, please help add more sites. Eventually we may need additio
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/Accessiblity" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Accessiblity', 'Accessiblity']);"  rel="tag">Accessiblity</a>, <a href="http://www.technorati.com/tag/Web%20Design" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Web%20Design', 'Web Design']);"  rel="tag">Web Design</a>, <a href="http://www.technorati.com/tag/Forms" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Forms', 'Forms']);"  rel="tag">Forms</a>, <a href="http://www.technorati.com/tag/ID" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/ID', 'ID']);"  rel="tag">ID</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

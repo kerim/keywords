@@ -9,15 +9,15 @@ categories:
 The posts listed below are NOT written by me. They are
 
 <noscript>
-  <p>
-    Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/KerimsClips" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://feeds.feedburner.com/KerimsClips', '']);" ></a><br />Powered by FeedBurner
-  </p>
   
-  <p>
+    Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/KerimsClips" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://feeds.feedburner.com/KerimsClips', '']);" ></a><br />Powered by FeedBurner
+  
+  
+  
     </noscript>
-  </p>
+  
   
   <div id="themify_builder_content-2521" class="themify_builder_content themify_builder themify_builder_front">
-  </div>
   
-  <!-- /themify_builder_content -->
+  
+ 

@@ -31,7 +31,7 @@ This isn&#8217;t to say that unemployment isn&#8217;t a big problem in France (I
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/unemployment" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/unemployment', 'unemployment']);"  rel="tag">unemployment</a>, <a href="http://www.technorati.com/tag/Europe" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Europe', 'Europe']);"  rel="tag">Europe</a>, <a href="http://www.technorati.com/tag/neoliberalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/neoliberalism', 'neoliberalism']);"  rel="tag">neoliberalism</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

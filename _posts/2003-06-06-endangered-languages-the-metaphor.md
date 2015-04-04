@@ -12,15 +12,15 @@ I recently came across an article in the NY Times that discusses the concept of 
   
 Berreby then ruminates upon the analogy, stating:
 
-> <div>
+
 >   How, really, are the panda and Ubykh equivalent? The panda, once gone, is gone forever. If the information and political will are present, Ubykh can be revived 500 years from now. Hebrew, after all, was brought back from ancient texts into daily use after 2,000 years.
-> </div>
+
 
 So far, so good, (although see below about the question of language revival). But then he starts to slip:
 
-> <div>
+
 >   It would be a terrible thing to run out of languages. But there is no danger of that, because the reserve of language, unlike the gas tank, is refueled every day, as ordinary people engage in the creative and ingenious act of talking. Old words, constructions and pronunciations drop away, new ones are taken up, and, relentlessly, the language changes.
-> </div>
+
 
 Already he has moved from criticizing the endangered species metaphor to imposing his own metaphor, that of language as an endless, renewable, human resource. But this new metaphor deliberately obscures the issues at the heart of language endangerment. It isn&#8217;t &#8220;language&#8221; in the abstract that is in danger, or even simply the diversity of languages (although I would debate his implied claim that new languages are emerging at anywhere near the rate that old ones are disappearing). The concern is with *specific* languages, spoken by *specific* groups of people.
 
@@ -28,23 +28,23 @@ He attempts to address that concern by claiming that languages, like Ubykh &#822
 
 Then he goes on to say something sensible, only once again to seek to undermine it. Here is the sensible bit.
 
-> <div>
->   James Crawford, a thoughtful writer about language and a preservationist, notes that &#8220;language death does not happen in privileged communities.&#8221;</p> 
+
+>   James Crawford, a thoughtful writer about language and a preservationist, notes that &#8220;language death does not happen in privileged communities.&#8221; 
 >   
->   <p>
+>   
 >     &#8220;It happens to the dispossessed and the disempowered, peoples who most need their cultural resources to survive,&#8221; he continues.
->   </p>
 >   
->   <p>
+>   
+>   
 >     This is certainly true; many of the dying languages were systematically attacked by missionaries and governments in cruel, despicable ways. The game they lost was rigged. Abuses continue to be committed in the name of education, modernization and national identity, so the preservationists do good work in noting and protesting such practices.
->   </p>
-> </div>
+>   
+
 
 This could be a great critique of the &#8220;endangered language&#8221; metaphor &#8211; pointing out how it is not a natural phenomenon, but a social and political one. But this is not what Berreby is interested in doing. Instead, he attacks those who try to preserve dying languages by teaching them to the next generation:
 
-> <div>
+
 >   Language bullies who try to shame a child into learning his grandfather&#8217;s language are not morally different from the language bullies who tried to shame the grandfather into learning English.
-> </div>
+
 
 Are such &#8220;language bullies&#8221; really a problem? It might be if you believed that learning languages was a zero-sum game, that learning one language restricts your ability to learn another one. Many monolingual Americans seem to believe this, as has been shown by the English-only movement, but elsewhere in the world people grow up learning three or four languages without any difficulty!
 

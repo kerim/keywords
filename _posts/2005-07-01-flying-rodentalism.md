@@ -23,7 +23,7 @@ Now back to orientalism. [**Warning**, spoilers ahead.]
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Batman" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Batman', 'Batman']);"  rel="tag">Batman</a>, <a href="http://technorati.com/tag/orientalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/orientalism', 'orientalism']);"  rel="tag">orientalism</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

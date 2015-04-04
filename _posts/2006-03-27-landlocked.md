@@ -18,7 +18,7 @@ Not only are land transport costs much higher than by sea, but the bureaucratic 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/development" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/development', 'development']);"  rel="tag">development</a>, <a href="http://www.technorati.com/tag/globalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/globalization', 'globalization']);"  rel="tag">globalization</a>, <a href="http://www.technorati.com/tag/landlocked" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/landlocked', 'landlocked']);"  rel="tag">landlocked</a>, <a href="http://www.technorati.com/tag/trade" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/trade', 'trade']);"  rel="tag">trade</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

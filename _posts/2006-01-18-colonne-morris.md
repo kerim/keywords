@@ -18,7 +18,7 @@ Soon their number will drop to 550&#8230;
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/Berlin" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Berlin', 'Berlin']);"  rel="tag">Berlin</a>, <a href="http://www.technorati.com/tag/colonne Morris" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/colonne Morris', 'colonne Morris']);"  rel="tag">colonne Morris</a>, <a href="http://www.technorati.com/tag/karambolage" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/karambolage', 'karambolage']);"  rel="tag">karambolage</a>, <a href="http://www.technorati.com/tag/Litfaßsäule" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Litfaßsäule', 'Litfaßsäule']);"  rel="tag">Litfaßsäule</a>, <a href="http://www.technorati.com/tag/Paris" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Paris', 'Paris']);"  rel="tag">Paris</a>, <a href="http://www.technorati.com/tag/Vienna" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Vienna', 'Vienna']);"  rel="tag">Vienna</a>
-</p>
+
 
 <!-- technorati tags end -->
 

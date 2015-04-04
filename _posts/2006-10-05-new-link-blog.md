@@ -21,7 +21,7 @@ PS: <span style="text-decoration: line-through;">I know the styling is a bit off
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Google Reader" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Google Reader', 'Google Reader']);"  rel="tag">Google Reader</a>, <a href="http://www.technorati.com/tag/RSS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/RSS', 'RSS']);"  rel="tag">RSS</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

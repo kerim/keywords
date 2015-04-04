@@ -10,31 +10,31 @@ Tapped highlights some of Hersh&#8217;s New Yorker article on how Rumsfeld under
 
 From the <a href="http://www.newyorker.com/printable/?fact/030407fa_fact1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.newyorker.com/printable/?fact/030407fa_fact1', 'Hersh article']);" >Hersh article</a>:
 
-> <div>
+
 >   On at least six occasions &#8230; when Rumsfeld and his deputies were presented with operational plans &#8212; the Iraqi assault was designated Plan 1003 &#8212; he insisted that the number of ground troops be sharply reduced. Rumsfeld&#8217;s faith in precision bombing and his insistence on streamlined military operations has had profound consequences for the ability of the armed forces to fight effectively overseas. &#8220;They&#8217;ve got no resources,&#8221; a former high-level intelligence official said. &#8220;He was so focussed on proving his point &#8212; that the Iraqis were going to fall apart.&#8221;
-> </div>
+
 
 <a href="http://www.prospect.org/weblog/archives/2003/03/index.html#000886" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prospect.org/weblog/archives/2003/03/index.html#000886', 'Tapped']);" >Tapped</a> adds this:
 
-> <div>
+
 >   Elsewhere in the piece, Hersh explains how Rumsfeld stocked the joint staff with generals who would tell him what he wanted to hear, and threw out the Pentagon&#8217;s main blueprint for war planning.
-> </div>
+
 
 And the NY Times reports on <a href="http://www.nytimes.com/2003/03/31/international/worldspecial/31CAPI.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/03/31/international/worldspecial/31CAPI.html', 'Rumsfeld&#8217;s denial']);" >Rumsfeld&#8217;s denial</a>:
 
-> <div>
+
 >   Because the war plan thus far has failed to deliver the lightning victory that many had wished for but none now say they had predicted, challenges to Mr. Rumsfeld&#8217;s leadership are couched in terms of the current war effort. But they clearly reflect long-simmering disputes with many senior military officers, especially among Army ground commanders.
-> </div>
+
 
 But this is the disturbing part:
 
-> <div>
->   Mr. Rumsfeld said he was not concerned that the United States had yet to find any weapons of mass destruction. He said that most of such weapons are believed to be at sites closer to Baghdad and that troops had not yet reached them. </p> 
+
+>   Mr. Rumsfeld said he was not concerned that the United States had yet to find any weapons of mass destruction. He said that most of such weapons are believed to be at sites closer to Baghdad and that troops had not yet reached them.  
 >   
->   <p>
+>   
 >     &#8220;We know where they are,&#8221; he said on &#8220;This Week.&#8221;&#8221;They are in the area around Tikrit and Baghdad and east, west, south and north.&#8221;
->   </p>
-> </div>
+>   
+
 
 If they know where they are &#8211; why didn&#8217;t they tell the inspectors? And what does it mean for the troops when they enter Baghdad?
 

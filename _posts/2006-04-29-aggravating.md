@@ -30,7 +30,7 @@ Having never served on a jury myself I think I would find such requirements quit
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dictionary" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dictionary', 'dictionary']);"  rel="tag">dictionary</a>, <a href="http://www.technorati.com/tag/instructions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/instructions', 'instructions']);"  rel="tag">instructions</a>, <a href="http://www.technorati.com/tag/jury" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/jury', 'jury']);"  rel="tag">jury</a>, <a href="http://www.technorati.com/tag/langauge" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/langauge', 'langauge']);"  rel="tag">langauge</a>, <a href="http://www.technorati.com/tag/Moussaoui" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Moussaoui', 'Moussaoui']);"  rel="tag">Moussaoui</a>, <a href="http://www.technorati.com/tag/research" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/research', 'research']);"  rel="tag">research</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

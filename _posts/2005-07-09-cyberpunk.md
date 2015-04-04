@@ -55,7 +55,7 @@ I took a few liberties, but I think you&#8217;ll get the idea, although you real
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/mp3" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/mp3', 'mp3']);"  rel="tag">mp3</a>, <a href="http://technorati.com/tag/music" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/music', 'music']);"  rel="tag">music</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

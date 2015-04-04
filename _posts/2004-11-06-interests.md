@@ -32,6 +32,6 @@ Let me end with a quote I use in my dissertation (which isn&#8217;t quite done, 
 > 
 > <div id="themify_builder_content-1972" class="themify_builder_content themify_builder themify_builder_front">
 >
-> </div>
+
 > 
-> <!-- /themify_builder_content -->
+>

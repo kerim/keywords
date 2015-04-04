@@ -18,7 +18,7 @@ Getting this kind of attention for the community and for DNTs in general was one
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

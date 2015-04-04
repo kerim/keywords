@@ -22,7 +22,7 @@ UPDATE: Turns out that Juno swimming is a spectator sport! We went back today an
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/swimming" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/swimming', 'swimming']);"  rel="tag">swimming</a>, <a href="http://www.technorati.com/tag/dog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dog', 'dog']);"  rel="tag">dog</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

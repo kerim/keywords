@@ -40,7 +40,7 @@ More on Roberts <a href="http://saveourcourts.civilrights.org/supremecourt/detai
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/John Roberts" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/John Roberts', 'John Roberts']);"  rel="tag">John Roberts</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

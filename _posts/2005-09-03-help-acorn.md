@@ -24,7 +24,7 @@ Donating to ACORN will help ensure that it isn&#8217;t only <a href="http://www.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/ACORN" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/ACORN', 'ACORN']);"  rel="tag">ACORN</a>, <a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

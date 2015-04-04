@@ -6,9 +6,9 @@ permalink: /archives/2003/02/15/over-six-million/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   More than six million protesters took to the streets around the globe on Saturday to send a passionate message to President Bush not to invade Iraq and to give peace a chance.
-> </div>
+
 
 I don&#8217;t think <a href="http://www.abcnews.go.com/wire/US/reuters20030215_262.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.abcnews.go.com/wire/US/reuters20030215_262.html', 'this story']);" >this story</a> has even gotten the attention it deserves. I mean, has there ever been an international protest on this scale ever before in history?
 

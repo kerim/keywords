@@ -25,7 +25,7 @@ PS: If you are in my Multimedia class, you might want to <a href="http://en.wiki
 
 <div style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/詹天佑" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/詹天佑', '詹天佑']);" rel="tag">詹天佑</a>, <a href="http://www.technorati.com/tag/talking%20heads" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/talking%20heads', 'talking heads']);" rel="tag">talking heads</a>, <a href="http://www.technorati.com/tag/Zhan%20Tianyou" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Zhan%20Tianyou', 'Zhan Tianyou']);" rel="tag">Zhan Tianyou</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

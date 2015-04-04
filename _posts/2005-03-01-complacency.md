@@ -17,7 +17,7 @@ Sacco also has a new book coming out about Bosnia this summer: *[War&#8217;s End
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/comics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/comics', 'comics']);"  rel="tag">comics</a>, <a href="http://technorati.com/tag/joe sacco" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/joe sacco', 'joe sacco']);"  rel="tag">joe sacco</a>, <a href="http://technorati.com/tag/bosnia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bosnia', 'bosnia']);"  rel="tag">bosnia</a>, <a href="http://technorati.com/tag/iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/iraq', 'iraq']);"  rel="tag">iraq</a>, <a href="http://technorati.com/tag/embedded" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/embedded', 'embedded']);"  rel="tag">embedded</a>, <a href="http://technorati.com/tag/palestine" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/palestine', 'palestine']);"  rel="tag">palestine</a>, <a href="http://technorati.com/tag/comix" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/comix', 'comix']);"  rel="tag">comix</a>, <a href="http://technorati.com/tag/cartoon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/cartoon', 'cartoon']);"  rel="tag">cartoon</a>, <a href="http://technorati.com/tag/journalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/journalism', 'journalism']);"  rel="tag">journalism</a>}</span>
-</div>
+
 
 
 

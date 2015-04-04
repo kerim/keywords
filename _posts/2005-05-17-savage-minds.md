@@ -21,7 +21,7 @@ For more information about the blog&#8217;s name, and the reason we have pansies
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/Bloggers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Bloggers', 'Bloggers']);"  rel="tag">Bloggers</a>, <a href="http://technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

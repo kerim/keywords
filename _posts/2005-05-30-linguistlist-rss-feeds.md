@@ -13,7 +13,7 @@ The <a href="http://linguistlist.org/" onclick="_gaq.push(['_trackEvent', 'outbo
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/linguistic anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/linguistic anthropology', 'linguistic anthropology']);"  rel="tag">linguistic anthropology</a>, <a href="http://technorati.com/tag/linguistics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/linguistics', 'linguistics']);"  rel="tag">linguistics</a>, <a href="http://technorati.com/tag/listserve" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/listserve', 'listserve']);"  rel="tag">listserve</a>, <a href="http://technorati.com/tag/rss" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rss', 'rss']);"  rel="tag">rss</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

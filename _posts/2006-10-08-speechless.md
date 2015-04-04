@@ -16,7 +16,7 @@ Watch <a href="http://www.youtube.com/watch?v=MInHphR4zBg" onclick="_gaq.push(['
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/rumsfeld" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/rumsfeld', 'rumsfeld']);"  rel="tag">rumsfeld</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

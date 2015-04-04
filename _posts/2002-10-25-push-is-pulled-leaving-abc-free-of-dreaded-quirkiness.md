@@ -6,9 +6,9 @@ permalink: /archives/2002/10/25/push-is-pulled-leaving-abc-free-of-dreaded-quirk
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Farewell, Jim Prufrock. Adios, Mary Sloman. We wish you were on a network that could afford to stick its neck out and keep it out there for a full season.&#8221;
-> </div>
+
 
 <a href="http://seattlepi.nwsource.com/tv/92524_tv24.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://seattlepi.nwsource.com/tv/92524_tv24.shtml', 'Seattle Pi']);" >Seattle Pi</a>
 

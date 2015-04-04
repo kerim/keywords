@@ -23,7 +23,7 @@ UPDATE: Shashwati reminds me that I&#8217;m a certified bartender, having gradua
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/hoochandhamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hoochandhamlet', 'hoochandhamlet']);"  rel="tag">hoochandhamlet</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/gujarat" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/gujarat', 'gujarat']);"  rel="tag">gujarat</a>, <a href="http://www.technorati.com/tag/gandhi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/gandhi', 'gandhi']);"  rel="tag">gandhi</a>, <a href="http://www.technorati.com/tag/hoboken" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hoboken', 'hoboken']);"  rel="tag">hoboken</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

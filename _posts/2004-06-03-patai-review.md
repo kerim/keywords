@@ -120,6 +120,6 @@ Patai is an anthropologist who was born in Hungary, studied with orientalists su
 > 
 > <div id="themify_builder_content-1725" class="themify_builder_content themify_builder themify_builder_front">
 >
-> </div>
+
 > 
-> <!-- /themify_builder_content -->
+>

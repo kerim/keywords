@@ -20,7 +20,7 @@ The joke itself is a **spoiler**, so I&#8217;m putting it below the fold (althou
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/ang lee" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/ang lee', 'ang lee']);"  rel="tag">ang lee</a>, <a href="http://www.technorati.com/tag/brokeback mountain" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/brokeback mountain', 'brokeback mountain']);"  rel="tag">brokeback mountain</a>, <a href="http://www.technorati.com/tag/film" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/film', 'film']);"  rel="tag">film</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

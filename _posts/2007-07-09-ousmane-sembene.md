@@ -23,7 +23,7 @@ Sembène&#8217;s films don&#8217;t offer easy answers, and despite (or because o
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Africa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Africa', 'Africa']);"  rel="tag">Africa</a>, <a href="http://www.technorati.com/tag/Ousmane Sembène" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ousmane Sembène', 'Ousmane Sembène']);"  rel="tag">Ousmane Sembène</a>, <a href="http://www.technorati.com/tag/film" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/film', 'film']);"  rel="tag">film</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

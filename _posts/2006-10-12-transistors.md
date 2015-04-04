@@ -33,7 +33,7 @@ Good luck Rashi!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Bhasha" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bhasha', 'Bhasha']);"  rel="tag">Bhasha</a>, <a href="http://www.technorati.com/tag/Adivasi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Adivasi', 'Adivasi']);"  rel="tag">Adivasi</a>, <a href="http://www.technorati.com/tag/development" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/development', 'development']);"  rel="tag">development</a>, <a href="http://www.technorati.com/tag/radio" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/radio', 'radio']);"  rel="tag">radio</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

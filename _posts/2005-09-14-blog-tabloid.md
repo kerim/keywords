@@ -28,7 +28,7 @@ The big issue, in my mind, would be hyperlinks. So many blog articles link elsew
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/blog tabloid" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/blog tabloid', 'blog tabloid']);"  rel="tag">blog tabloid</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

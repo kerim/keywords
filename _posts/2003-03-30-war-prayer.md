@@ -10,9 +10,9 @@ The following is a quote from an anti-war article Mark Twain submitted in 1905 t
 
 The quote is an ironic war-prayer that attacks those who invoke God to justify American Imperialism:
 
-> <div>
+
 >   &#8221;O Lord our God, help us to tear their soldiers to bloody shreds with our shells; help us to cover their smiling fields with the pale forms of their patriot dead; help us to drown the thunder of the guns with the shrieks of their wounded, writhing in pain; help us to lay waste their humble homes with a hurricane of fire; . . . help us to turn them out roofless with their little children to wander unfriended the wastes of their desolated land. . . . We ask it, in the spirit of love, of Him Who is the Source of Love.&#8221;
-> </div>
+
 
 In case you were wondering why I am quoting this. Take a look at <a />  
 &#8220;>these pictures from Al Jazeera. Or maybe you prefer to look at the pretty smoke on CNN?

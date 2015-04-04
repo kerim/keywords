@@ -15,7 +15,7 @@ What really struck me, however, were the opening credits by <a href="http://en.w
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/James Bond" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/James Bond', 'James Bond']);"  rel="tag">James Bond</a>, <a href="http://www.technorati.com/tag/Homo-erotic" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Homo-erotic', 'Homo-erotic']);"  rel="tag">Homo-erotic</a>}</span>
-</div></p> 
+ 
 
 <!-- technorati tags end -->
 

@@ -31,5 +31,5 @@ When Shashwati asked why they called it that the manager responded that it was b
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://technorati.com/tag/fast food" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/fast food', 'fast food']);"  rel="tag">fast food</a>, <a href="http://technorati.com/tag/ice cream" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ice cream', 'ice cream']);"  rel="tag">ice cream</a>, <a href="http://technorati.com/tag/Hitler" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Hitler', 'Hitler']);"  rel="tag">Hitler</a>}</span>
-</div>
+
 

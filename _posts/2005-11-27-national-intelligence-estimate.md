@@ -12,7 +12,7 @@ Last week, former Senator Bob Graham wrote an op-ed in the *Washington Post* whe
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Bob Graham" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bob Graham', 'Bob Graham']);"  rel="tag">Bob Graham</a>, <a href="http://www.technorati.com/tag/Bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bush', 'Bush']);"  rel="tag">Bush</a>, <a href="http://www.technorati.com/tag/CIA" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/CIA', 'CIA']);"  rel="tag">CIA</a>, <a href="http://www.technorati.com/tag/Iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Iraq', 'Iraq']);"  rel="tag">Iraq</a>, <a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 
@@ -62,6 +62,6 @@ Kevin&#8217;s list:
                             **What We Know Now:** Al-Haideri told his story while strapped to a polygraph. He failed. The CIA knew from the start that he had made up the entire account, apparently in the hopes of securing a visa. <a href="http://www.rollingstone.com/politics/story/_/id/8798997?pageid=rs.Home&#038;pageregion=single7&#038;rnd=1132253345109&#038;has-player=false" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.rollingstone.com/politics/story/_/id/8798997?pageid=rs.Home&pageregion=single7&rnd=1132253345109&has-player=false', 'Link.']);" >Link.</a> </ol> 
                             
                             <div id="themify_builder_content-2360" class="themify_builder_content themify_builder themify_builder_front">
-                            </div>
                             
-                            <!-- /themify_builder_content -->
+                            
+                           

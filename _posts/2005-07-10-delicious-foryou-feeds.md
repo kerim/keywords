@@ -16,7 +16,7 @@ The only thing I&#8217;m wondering is how long it will be before I start getting
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/del.icio.us" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/del.icio.us', 'del.icio.us']);"  rel="tag">del.icio.us</a>, <a href="http://technorati.com/tag/folksonomy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/folksonomy', 'folksonomy']);"  rel="tag">folksonomy</a>, <a href="http://technorati.com/tag/rss" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rss', 'rss']);"  rel="tag">rss</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

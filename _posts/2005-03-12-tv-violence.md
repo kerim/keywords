@@ -39,5 +39,5 @@ A friend wrote <a href="http://www.sugarpictures.com/News/News_Item14_hillary.ht
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/politics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/politics', 'politics']);"  rel="tag">politics</a>, <a href="http://technorati.com/tag/television" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/television', 'television']);"  rel="tag">television</a>, <a href="http://technorati.com/tag/PBS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/PBS', 'PBS']);"  rel="tag">PBS</a>, <a href="http://technorati.com/tag/violence" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/violence', 'violence']);"  rel="tag">violence</a>, <a href="http://technorati.com/tag/hillary clinton" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/hillary clinton', 'hillary clinton']);"  rel="tag">hillary clinton</a>}</span>
-</div>
+
 

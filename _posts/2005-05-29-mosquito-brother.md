@@ -22,7 +22,7 @@ The gangsters were obviously not too scared of the Police, who took the opportun
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Gangster" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Gangster', 'Gangster']);"  rel="tag">Gangster</a>, <a href="http://technorati.com/tag/Hsu Hai-ching" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Hsu Hai-ching', 'Hsu Hai-ching']);"  rel="tag">Hsu Hai-ching</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://technorati.com/tag/許海清" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/許海清', '許海清']);"  rel="tag">許海清</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

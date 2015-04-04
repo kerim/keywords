@@ -18,7 +18,7 @@ This is a photo that I took of a Sikh march in Paris in January 2004 protesting 
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/banlieues" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/banlieues', 'banlieues']);"  rel="tag">banlieues</a>, <a href="http://www.technorati.com/tag/France" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/France', 'France']);"  rel="tag">France</a>, <a href="http://www.technorati.com/tag/Sikh" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Sikh', 'Sikh']);"  rel="tag">Sikh</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>, <a href="http://www.technorati.com/tag/turban" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/turban', 'turban']);"  rel="tag">turban</a>
-</p>
+
 
 <!-- technorati tags end -->
 

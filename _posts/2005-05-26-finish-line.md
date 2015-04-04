@@ -12,7 +12,7 @@ Another anthropology grad student/blogger <a href="http://healthhacker.org/sator
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/Bloggers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Bloggers', 'Bloggers']);"  rel="tag">Bloggers</a>, <a href="http://technorati.com/tag/dissertation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/dissertation', 'dissertation']);"  rel="tag">dissertation</a>, <a href="http://technorati.com/tag/graduate student" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/graduate student', 'graduate student']);"  rel="tag">graduate student</a>, <a href="http://technorati.com/tag/thesis" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/thesis', 'thesis']);"  rel="tag">thesis</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

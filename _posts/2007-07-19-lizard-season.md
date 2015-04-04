@@ -30,7 +30,7 @@ Or a monkey:
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/dog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dog', 'dog']);"  rel="tag">dog</a>, <a href="http://www.technorati.com/tag/monkey" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/monkey', 'monkey']);"  rel="tag">monkey</a>, <a href="http://www.technorati.com/tag/lizard" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/lizard', 'lizard']);"  rel="tag">lizard</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

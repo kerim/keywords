@@ -8,15 +8,13 @@ categories:
 ---
 Republican Congressman Ron Paul gave a wonderful interview on Bill Moyers program <a href="http://www.pbs.org/now/thisweek/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/now/thisweek/index.html', 'NOW']);" >NOW</a>, about why he is against war in Iraq. Here is a statement he read to Congress on September 10th:
 
-> <div>
->   &#8221;<br /> <br /> QUESTIONS THAT WON&#8217;T BE ASKED ABOUT IRAQ</p> 
+
+>   &#8221;<br /> <br /> QUESTIONS THAT WON&#8217;T BE ASKED ABOUT IRAQ 
 >   
->   <p>
+>   
 >     Soon we hope to have hearings on the pending war with Iraq. I am concerned there are some questions that won
->   </p>
 >   
->   <div id="themify_builder_content-618" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
 >   
->   <!-- /themify_builder_content -->
+
+>   
+>  

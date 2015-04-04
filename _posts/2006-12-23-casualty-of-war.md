@@ -17,7 +17,7 @@ On December 12th, Stephen Colbert&#8217;s &#8220;Word&#8221; was &#8221; Casualt
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Stephen Colbert" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Stephen Colbert', 'Stephen Colbert']);"  rel="tag">Stephen Colbert</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

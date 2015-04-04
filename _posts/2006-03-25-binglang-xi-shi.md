@@ -27,7 +27,7 @@ Although, interestingly, these action figures seem to use the term: Lamei 辣妹
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/betelnut" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/betelnut', 'betelnut']);"  rel="tag">betelnut</a>, <a href="http://www.technorati.com/tag/檳榔西施" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/檳榔西施', '檳榔西施']);"  rel="tag">檳榔西施</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

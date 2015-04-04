@@ -10,9 +10,9 @@ categories:
 ---
 A huge amount of discussion over at <a href="http://www.crookedtimber.org/archives/000410.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crookedtimber.org/archives/000410.html', 'Crooked Timber']);" >Crooked Timber</a>, and now <a href="http://calpundit.com/archives/002038.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://calpundit.com/archives/002038.html', 'Calpudit']);" >Calpudit</a>, about the use of Time Travel in fictional narratives. I have to say that I find Brian Weatherson&#8217;s approach to be very limiting. He says:
 
-> <div>
+
 >   Philosophers normally break time-travel stories into two categories: those that do make sense within a &#8216;one-dimensional&#8217; view of time and those that don&#8217;t.
-> </div>
+
 
 By this distinction he means movies &#8220;require that there be a single complete and coherent story that can be told of the history of the world&#8221; and those which don&#8217;t. He offers *12 Monkies* as an example of the one-dimensional view (albeit a clever one), and *Back to the Future* as one where time-travel produces alternate versions of the future. But here is my problem &#8211; as a philosopher why does he feel constrained by the same narrative conventions as the works he addresses? That is, why does he feel it necessary to talk about time-travel movies in their own terms? While it does have the benefit of simplifying the discussion, isn&#8217;t it important to recognize that time-travel is simply a *narrative device*? Once we accept that, how is the one-dimensional view of time-travel any different from a *flashback*? Think about a movie like *Memento*. How is that any different from a time travel movie?
 

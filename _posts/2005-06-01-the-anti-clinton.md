@@ -19,7 +19,7 @@ Go read for yourself, starting with <a href="http://www.tpmcafe.com/story/2005/5
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/John Edwards" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/John Edwards', 'John Edwards']);"  rel="tag">John Edwards</a>, <a href="http://technorati.com/tag/poverty" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/poverty', 'poverty']);"  rel="tag">poverty</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

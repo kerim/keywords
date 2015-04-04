@@ -23,7 +23,7 @@ UPDATE: <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/002146.html
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/language police" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/language police', 'language police']);"  rel="tag">language police</a>, <a href="http://technorati.com/tag/microsoft word" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/microsoft word', 'microsoft word']);"  rel="tag">microsoft word</a>, <a href="http://technorati.com/tag/proscriptivism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/proscriptivism', 'proscriptivism']);"  rel="tag">proscriptivism</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

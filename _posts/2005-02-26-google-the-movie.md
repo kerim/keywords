@@ -13,5 +13,5 @@ Via <a href="http://mithras.blogs.com/blog/2005/02/google_movie_li.html" onclick
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/google" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/google', 'google']);"  rel="tag">google</a>, <a href="http://technorati.com/tag/movies" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/movies', 'movies']);"  rel="tag">movies</a>, <a href="http://technorati.com/tag/sms" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/sms', 'sms']);"  rel="tag">sms</a>}</span>
-</div>
+
 

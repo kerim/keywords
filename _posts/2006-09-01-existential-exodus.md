@@ -16,7 +16,7 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/books" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/books', 'books']);"  rel="tag">books</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

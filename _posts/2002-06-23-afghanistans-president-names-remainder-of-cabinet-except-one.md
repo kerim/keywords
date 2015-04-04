@@ -6,9 +6,9 @@ permalink: /archives/2002/06/23/afghanistans-president-names-remainder-of-cabine
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Afghanistan&#8217;s newly elected President Hamid Karzai named all but one of his 29 members of Cabinet on Saturday, leaving the women&#8217;s affairs ministry vacant, his spokesman Ahmed Yusuf Nuristani said.&#8221;
-> </div>
+
 
 <a href="http://www.afgha.com/article.php?sid=15093&mode=thread&order=0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.afgha.com/article.php?sid=15093&mode=thread&order=0', '(Afgha.com)']);" >(Afgha.com)</a>
 

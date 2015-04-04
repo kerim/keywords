@@ -11,7 +11,7 @@ Following <a href="http://joi.ito.com/archives/2004/10/22/get_down_and_get_taggy
 
 > <div class="personquote">
 >   David Weinberger
-> </div>
+
 > 
 > <a href="http://www.hyperorg.com/blogger/mtarchive/003227.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hyperorg.com/blogger/mtarchive/003227.html', 'Metadata without tears']);" >Metadata without tears</a>
 > 

@@ -14,7 +14,7 @@ UPDATE: Transcontinental direction reversed. Thanks TF!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/food" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/food', 'food']);"  rel="tag">food</a>, <a href="http://www.technorati.com/tag/april fools" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/april fools', 'april fools']);"  rel="tag">april fools</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

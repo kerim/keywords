@@ -21,7 +21,7 @@ However you spell it, happy holidays!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/spelling" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/spelling', 'spelling']);"  rel="tag">spelling</a>, <a href="http://www.technorati.com/tag/religion" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/religion', 'religion']);"  rel="tag">religion</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

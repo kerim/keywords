@@ -10,7 +10,7 @@ Way back in August, the Army Times reported a story about how a retired U.S. off
 
 Now, more than six months later, &#8220;The US army&#8217;s senior ground commander in Iraq, General William Wallace, warned that long supply lines and Iraqi guerrilla-style tactics had reduced the chances of a swift military victory.&#8221; But, here&#8217;s the part that the <a href="http://news.bbc.co.uk/2/low/middle_east/2894231.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/low/middle_east/2894231.stm', 'BBC has reported']);" >BBC has reported</a> is &#8220;causing some unease in the Pentagon&#8221;:
 
-> <div>
+
 >   &#8220;The enemy we&#8217;re fighting is different from the one we&#8217;d war-gamed against,&#8221; he told The <a href="http://www.washingtonpost.com/wp-dyn/articles/A38166-2003Mar27.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A38166-2003Mar27.html', 'Washington Post']);" >Washington Post</a>..
-> </div>
+
 

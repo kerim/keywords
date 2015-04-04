@@ -23,7 +23,7 @@ Now I feel compelled to try to see <a href="http://en.wikipedia.org/wiki/Edward_
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/Edward%20Yang" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Edward%20Yang', 'Edward Yang']);"  rel="tag">Edward Yang</a>, <a href="http://www.technorati.com/tag/楊德昌" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/楊德昌', '楊德昌']);"  rel="tag">楊德昌</a>, <a href="http://www.technorati.com/tag/film" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/film', 'film']);"  rel="tag">film</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

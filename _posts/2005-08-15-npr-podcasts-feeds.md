@@ -12,7 +12,7 @@ After wasting an afternoon figuring out how to set up <a href="http://macupdate.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/podcasting" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/podcasting', 'podcasting']);"  rel="tag">podcasting</a>, <a href="http://technorati.com/tag/npr" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/npr', 'npr']);"  rel="tag">npr</a>, <a href="http://technorati.com/tag/radio" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/radio', 'radio']);"  rel="tag">radio</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

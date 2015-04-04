@@ -21,7 +21,7 @@ I&#8217;ll post updates as the story develops. It is just too strange not to hav
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

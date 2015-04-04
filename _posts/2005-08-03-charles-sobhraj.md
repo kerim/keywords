@@ -18,7 +18,7 @@ Read <a href="http://blog.shashwati.com/2005/08/03/eunuch-alley-and-snakebyte-in
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Charles Sobhraj" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Charles Sobhraj', 'Charles Sobhraj']);"  rel="tag">Charles Sobhraj</a>, <a href="http://technorati.com/tag/Shashwati Talukdar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Shashwati Talukdar', 'Shashwati Talukdar']);"  rel="tag">Shashwati Talukdar</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

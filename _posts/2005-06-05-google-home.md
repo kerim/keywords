@@ -17,7 +17,7 @@ Also, via the <a href="http://www.mcwetboy.net/maproom/2005/06/a_literary_map_of
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/7 train" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/7 train', '7 train']);"  rel="tag">7 train</a>, <a href="http://technorati.com/tag/Google" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Google', 'Google']);"  rel="tag">Google</a>, <a href="http://technorati.com/tag/jackson heights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/jackson heights', 'jackson heights']);"  rel="tag">jackson heights</a>, <a href="http://technorati.com/tag/maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/maps', 'maps']);"  rel="tag">maps</a>, <a href="http://technorati.com/tag/wallpaper" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wallpaper', 'wallpaper']);"  rel="tag">wallpaper</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

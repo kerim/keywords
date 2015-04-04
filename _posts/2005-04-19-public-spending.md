@@ -29,5 +29,5 @@ UPDATE: A <a href="http://blog.shashwati.com/2005/04/21/looking-at-bangladesh-an
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/privatization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/privatization', 'privatization']);"  rel="tag">privatization</a>, <a href="http://technorati.com/tag/health care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/health care', 'health care']);"  rel="tag">health care</a>, <a href="http://technorati.com/tag/insurance" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/insurance', 'insurance']);"  rel="tag">insurance</a>, <a href="http://technorati.com/tag/developing world" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/developing world', 'developing world']);"  rel="tag">developing world</a>, <a href="http://technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/china', 'china']);"  rel="tag">china</a>}</span>
-</div>
+
 

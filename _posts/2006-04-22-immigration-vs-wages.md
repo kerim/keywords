@@ -39,7 +39,7 @@ In short, the impact of immigration on wages is inconsequential compared with th
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/America" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/America', 'America']);"  rel="tag">America</a>, <a href="http://www.technorati.com/tag/immigration" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/immigration', 'immigration']);"  rel="tag">immigration</a>, <a href="http://www.technorati.com/tag/wages" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wages', 'wages']);"  rel="tag">wages</a>, <a href="http://www.technorati.com/tag/working-class" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/working-class', 'working-class']);"  rel="tag">working-class</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

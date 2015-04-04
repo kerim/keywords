@@ -27,7 +27,7 @@ PS: Can a day go by during which I don&#8217;t have to add another blog to my li
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://www.technorati.com/tag/music" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/music', 'music']);"  rel="tag">music</a>, <a href="http://www.technorati.com/tag/video" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/video', 'video']);"  rel="tag">video</a>, <a href="http://www.technorati.com/tag/xinjiang" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/xinjiang', 'xinjiang']);"  rel="tag">xinjiang</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

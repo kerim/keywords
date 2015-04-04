@@ -17,7 +17,7 @@ For a more detailed linguistic map of the region, see <a href="http://www.gmi.or
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Scripts" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Scripts', 'Scripts']);"  rel="tag">Scripts</a>, <a href="http://www.technorati.com/tag/Maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Maps', 'Maps']);"  rel="tag">Maps</a>, <a href="http://www.technorati.com/tag/South Asia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/South Asia', 'South Asia']);"  rel="tag">South Asia</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://www.technorati.com/tag/Pakistan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Pakistan', 'Pakistan']);"  rel="tag">Pakistan</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

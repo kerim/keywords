@@ -28,7 +28,7 @@ UPDATE: More from <a href="http://blog.shashwati.com/2006/01/03/on-finding-a-map
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Ahmedabad" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ahmedabad', 'Ahmedabad']);"  rel="tag">Ahmedabad</a>, <a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/Maninagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Maninagar', 'Maninagar']);"  rel="tag">Maninagar</a>, <a href="http://www.technorati.com/tag/nomads" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/nomads', 'nomads']);"  rel="tag">nomads</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

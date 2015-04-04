@@ -36,7 +36,7 @@ In Epstien&#8217;s world, none of this matters, because the fiction of efficient
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/DNA" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/DNA', 'DNA']);"  rel="tag">DNA</a>, <a href="http://www.technorati.com/tag/economics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/economics', 'economics']);"  rel="tag">economics</a>, <a href="http://www.technorati.com/tag/genetic testing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/genetic testing', 'genetic testing']);"  rel="tag">genetic testing</a>, <a href="http://www.technorati.com/tag/law" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/law', 'law']);"  rel="tag">law</a>, <a href="http://www.technorati.com/tag/Richard Epstein" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Richard Epstein', 'Richard Epstein']);"  rel="tag">Richard Epstein</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

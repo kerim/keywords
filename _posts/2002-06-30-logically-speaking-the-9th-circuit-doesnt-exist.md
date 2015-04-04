@@ -8,11 +8,9 @@ categories:
 ---
 Another good commentary on the 9th Circuit decision from Slate &#8230;
 
-> <div>
->   &#8220;So as a matter of logic, there is something to be said for the 9th Circuit panel&#8217;s conclusion. If we really believe that private religious activity is to be protected and government religious activity to be prohibited, this sure looks like government religious activity?</p> 
+
+>   &#8220;So as a matter of logic, there is something to be said for the 9th Circuit panel&#8217;s conclusion. If we really believe that private religious activity is to be protected and government religious activity to be prohibited, this sure looks like government religious activity? 
 >   
->   <div id="themify_builder_content-305" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

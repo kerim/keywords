@@ -22,7 +22,7 @@ The book *<a href="http://www.worldcatlibraries.org/wcpa/top3mset/5db9ca2b2f8a03
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/Alleyne Ireland" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Alleyne Ireland', 'Alleyne Ireland']);"  rel="tag">Alleyne Ireland</a>, <a href="http://www.technorati.com/tag/colonization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/colonization', 'colonization']);"  rel="tag">colonization</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>
-</p>
+
 
 <!-- technorati tags end -->
 

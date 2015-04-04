@@ -20,5 +20,5 @@ If they can make commercial applications of such technology it would be fantasti
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/sub vocal speech" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/sub vocal speech', 'sub vocal speech']);"  rel="tag">sub vocal speech</a>, <a href="http://technorati.com/tag/subvocalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/subvocalization', 'subvocalization']);"  rel="tag">subvocalization</a>, <a href="http://technorati.com/tag/cell phones" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/cell phones', 'cell phones']);"  rel="tag">cell phones</a>, <a href="http://technorati.com/tag/airplains" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/airplains', 'airplains']);"  rel="tag">airplains</a>, <a href="http://technorati.com/tag/FAA" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/FAA', 'FAA']);"  rel="tag">FAA</a>, <a href="http://technorati.com/tag/conversation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/conversation', 'conversation']);"  rel="tag">conversation</a>}</span>
-</div>
+
 

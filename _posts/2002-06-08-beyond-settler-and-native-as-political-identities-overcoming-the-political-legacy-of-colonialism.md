@@ -6,9 +6,9 @@ permalink: /archives/2002/06/08/beyond-settler-and-native-as-political-identitie
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Comparative Studies in Society and History (2001), 43:651-664 Cambridge University Press&#8221;
-> </div>
+
 
 <a href="http://www.journals.cambridge.org/bin/bladerunner?REQUNIQ=1023558951&REQSESS=880019&118000REQEVENT=&REQINT1=92667" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.journals.cambridge.org/bin/bladerunner?REQUNIQ=1023558951&REQSESS=880019&118000REQEVENT=&REQINT1=92667', 'Cambridge Journals Online &#8211; CUP Abstract Page']);" >Cambridge Journals Online &#8211; CUP Abstract Page</a>  
 <!--more-->

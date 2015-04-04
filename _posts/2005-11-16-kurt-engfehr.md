@@ -19,7 +19,7 @@ We&#8217;ve raised $6,816 so far! Thank you everyone. That puts us about a grand
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/film" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/film', 'film']);"  rel="tag">film</a>, <a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

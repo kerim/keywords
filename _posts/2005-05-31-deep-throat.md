@@ -21,7 +21,7 @@ On Tom Tomorrow&#8217;s blog a reader suggested that Felt was Deep Throat <a hre
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/deep throat" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/deep throat', 'deep throat']);"  rel="tag">deep throat</a>, <a href="http://technorati.com/tag/nixon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/nixon', 'nixon']);"  rel="tag">nixon</a>, <a href="http://technorati.com/tag/watergate" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/watergate', 'watergate']);"  rel="tag">watergate</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

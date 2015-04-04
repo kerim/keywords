@@ -26,7 +26,7 @@ In short, regional differences can become more or less important depending on mu
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Aboriginal" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Aboriginal', 'Aboriginal']);"  rel="tag">Aboriginal</a>, <a href="http://technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://technorati.com/tag/dialect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/dialect', 'dialect']);"  rel="tag">dialect</a>, <a href="http://technorati.com/tag/Serbo-croatian" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Serbo-croatian', 'Serbo-croatian']);"  rel="tag">Serbo-croatian</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

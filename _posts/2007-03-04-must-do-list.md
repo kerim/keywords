@@ -13,7 +13,7 @@ Below the fold is the entire text of a *NY Times* editorial listing &#8220;<a hr
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/congress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/congress', 'congress']);"  rel="tag">congress</a>, <a href="http://www.technorati.com/tag/cheney" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/cheney', 'cheney']);"  rel="tag">cheney</a>, <a href="http://www.technorati.com/tag/bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bush', 'bush']);"  rel="tag">bush</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -8,11 +8,9 @@ categories:
 ---
 A new film argues that there is enough evidence to warrent a human rights investigation into what happened to missing POWs from the uprising in Mazar-i-Sharif.
 
-> <div>
->   &#8221; Doran</p> 
+
+>   &#8221; Doran 
 >   
->   <div id="themify_builder_content-251" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

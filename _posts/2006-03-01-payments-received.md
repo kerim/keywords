@@ -16,7 +16,7 @@ It seems that one stamp is not enough. It is a little out of focus, but you can 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/bureucracy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bureucracy', 'bureucracy']);"  rel="tag">bureucracy</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/東華大學" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/東華大學', '東華大學']);"  rel="tag">東華大學</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -16,7 +16,7 @@ What I want to know is, when Kyle <a href="http://www.oneredpaperclip.blogspot.c
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/barter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/barter', 'barter']);"  rel="tag">barter</a>, <a href="http://www.technorati.com/tag/house" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/house', 'house']);"  rel="tag">house</a>, <a href="http://www.technorati.com/tag/paperclip" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/paperclip', 'paperclip']);"  rel="tag">paperclip</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

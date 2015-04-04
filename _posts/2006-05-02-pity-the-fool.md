@@ -24,7 +24,7 @@ It is a natural mistake, but it reminds us how hard it is to master the <a href=
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/AAVE" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/AAVE', 'AAVE']);"  rel="tag">AAVE</a>, <a href="http://www.technorati.com/tag/Black English" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Black English', 'Black English']);"  rel="tag">Black English</a>, <a href="http://www.technorati.com/tag/Eubonics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Eubonics', 'Eubonics']);"  rel="tag">Eubonics</a>, <a href="http://www.technorati.com/tag/grammar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/grammar', 'grammar']);"  rel="tag">grammar</a>, <a href="http://www.technorati.com/tag/Linguistics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Linguistics', 'Linguistics']);"  rel="tag">Linguistics</a>, <a href="http://www.technorati.com/tag/Mr. T" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Mr. T', 'Mr. T']);"  rel="tag">Mr. T</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

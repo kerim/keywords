@@ -24,7 +24,7 @@ Towards the end of <a href="http://dontbeatmesir.com" onclick="_gaq.push(['_trac
 
 <p style="text-align: center;">
   <a href="http://www.razoo.com/story/Budhan-Childrens-Theater?referral_code=sw" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.razoo.com/story/Budhan-Childrens-Theater?referral_code=sw', '']);" ><img class="aligncenter" style="border: 0px;" src="http://assets1.razoo.com/status/razoo/basic/Budhan-Childrens-Theater.png" alt="Online fundraising for Budhan Children's Theater" width="213" height="123" /></a>
-</p>
+
 
 You can also help by sharing this blog post with a friend, or by posting it to Twitter or Facebook.
 

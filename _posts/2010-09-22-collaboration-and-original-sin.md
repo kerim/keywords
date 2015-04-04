@@ -13,8 +13,8 @@ categories:
 <span style="font-size: large;">In my paper I want to: </span> 
 
 <blockquote class="webkit-indent-blockquote" style="margin: 0 0 0 40px; border: none; padding: 0px;">
-  <div>
+  
     <span style="font-size: large;">move us away from an ‘original sin’ narrative in which anthropologists discover the importance of collaboration only after being cast out of the Imperial Garden of Eden by post-colonial critique.</span>
-  </div>
+  
 </blockquote>
 

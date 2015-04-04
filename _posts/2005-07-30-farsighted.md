@@ -13,7 +13,7 @@ Could someone please explain to me how, when we can see all the way to other gal
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/astronomy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/astronomy', 'astronomy']);"  rel="tag">astronomy</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

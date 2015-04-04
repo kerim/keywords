@@ -24,7 +24,7 @@ If only we could write <a href="http://www.ushistory.org/declaration/document/" 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bush', 'Bush']);"  rel="tag">Bush</a>, <a href="http://www.technorati.com/tag/fascism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/fascism', 'fascism']);"  rel="tag">fascism</a>, <a href="http://www.technorati.com/tag/United States" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/United States', 'United States']);"  rel="tag">United States</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

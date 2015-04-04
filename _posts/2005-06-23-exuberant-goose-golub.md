@@ -12,7 +12,7 @@ All those Chinese speakers out there reading this blog, <a href="http://alex.gol
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Chinese', 'Chinese']);"  rel="tag">Chinese</a>, <a href="http://technorati.com/tag/names" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/names', 'names']);"  rel="tag">names</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

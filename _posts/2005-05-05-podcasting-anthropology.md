@@ -15,7 +15,7 @@ Mark Auslander has an <a href="http://www.bjournals.com/users/mausland/2264.html
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/podcasting" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/podcasting', 'podcasting']);"  rel="tag">podcasting</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

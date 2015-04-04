@@ -12,5 +12,5 @@ Why, oh why, do they <a href="http://keywords.oxus.net/archives/2004/04/10/antic
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Stephen Chow" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Stephen Chow', 'Stephen Chow']);"  rel="tag">Stephen Chow</a>,<a href="http://technorati.com/tag/ Kung Fu Hustle" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ Kung Fu Hustle', ' Kung Fu Hustle']);"  rel="tag"> Kung Fu Hustle</a>, <a href="http://technorati.com/tag/Shaolin Soccer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Shaolin Soccer', 'Shaolin Soccer']);"  rel="tag">Shaolin Soccer</a>}</span>
-</div>
+
 

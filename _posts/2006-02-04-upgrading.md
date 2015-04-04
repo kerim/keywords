@@ -20,7 +20,7 @@ If you notice anything funky let me know!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/upgrade" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/upgrade', 'upgrade']);"  rel="tag">upgrade</a>, <a href="http://www.technorati.com/tag/wordpress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wordpress', 'wordpress']);"  rel="tag">wordpress</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

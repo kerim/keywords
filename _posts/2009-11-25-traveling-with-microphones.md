@@ -25,11 +25,11 @@ No matter how small film and video equipment gets, it is still like packing for 
   * The <a href="http://www.rei.com/product/768857" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.rei.com/product/768857', 'Pelican 1080 hard case']);" >Pelican 1080 hard case</a> has&nbsp;adjustable&nbsp;interior padding and is what most people recommended.
   * And someone else suggested <a href="http://www.elighters.com/accessories-cigar-cases-cigar-tubes.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.elighters.com/accessories-cigar-cases-cigar-tubes.html', 'cigar tubes']);" >cigar tubes</a>, or boxes.
 
-<div>
-  If you have any other ideas, let me know!
-</div>
 
-<div>
+  If you have any other ideas, let me know!
+
+
+
   UPDATE: Also told to look at gun cases, like <a href="http://www.cabelas.com/cabelas/en/templates/product/standard-item.jsp;jsessionid=LSLRGG0EP3W13LAQBBISCOVMCAEFEIWE?_DARGS=/cabelas/en/common/catalog/item-link.jsp_A&_DAV=&id=0005618222778a&navCount=0&podId=0005618&parentId=&masterpathid=&navAction=push&catalogCode=XK&rid=&parentType=&indexId=&cmCat=netcon&cm_ven=netcon&cm_cat=Google&cm_pla=doskocil%20gun%20cases&cm_ite=netcon&hasJS=true&_requestid=30763" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cabelas.com/cabelas/en/templates/product/standard-item.jsp;jsessionid=LSLRGG0EP3W13LAQBBISCOVMCAEFEIWE?_DARGS=/cabelas/en/common/catalog/item-link.jsp_A&_DAV=&id=0005618222778a&navCount=0&podId=0005618&parentId=&masterpathid=&navAction=push&catalogCode=XK&rid=&parentType=&indexId=&cmCat=netcon&cm_ven=netcon&cm_cat=Google&cm_pla=doskocil%20gun%20cases&cm_ite=netcon&hasJS=true&_requestid=30763', 'this one']);" >this one</a>, which can be cheaper than Pelican cases. Also a brand by the name of Doskocil.&nbsp;
-</div>
+
 

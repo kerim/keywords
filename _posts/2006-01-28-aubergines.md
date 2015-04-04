@@ -21,7 +21,7 @@ UPDATE: Arnold Zwicky <a href="http://languagelog.ldc.upenn.edu/nll/?p=870" onc
 
 <div style="text-align:right;">
   <span style="font-size: x-small;">{<a href="http://www.technorati.com/tag/fascism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/fascism', 'fascism']);" rel="tag">fascism</a>, <a href="http://www.technorati.com/tag/food" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/food', 'food']);" rel="tag">food</a>, <a href="http://www.technorati.com/tag/menu" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/menu', 'menu']);" rel="tag">menu</a>, <a href="http://www.technorati.com/tag/Narendra Modi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Narendra Modi', 'Narendra Modi']);" rel="tag">Narendra Modi</a>, <a href="http://www.technorati.com/tag/rss" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/rss', 'rss']);" rel="tag">rss</a>, <a href="http://www.technorati.com/tag/spelling" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/spelling', 'spelling']);" rel="tag">spelling</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

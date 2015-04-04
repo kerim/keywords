@@ -13,5 +13,5 @@ Unfortunately, the realities of the contemporary publishing industry are such th
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/books" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/books', 'books']);"  rel="tag">books</a>, <a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/linguistic anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/linguistic anthropology', 'linguistic anthropology']);"  rel="tag">linguistic anthropology</a>, <a href="http://technorati.com/tag/publishing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/publishing', 'publishing']);"  rel="tag">publishing</a>, <a href="http://technorati.com/tag/open source" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/open source', 'open source']);"  rel="tag">open source</a>}</span>
-</div>
+
 

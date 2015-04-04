@@ -36,5 +36,5 @@ That&#8217;s just a small sample of the pictures student&#8217;s talked about. I
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/flickr" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/flickr', 'flickr']);"  rel="tag">flickr</a>, <a href="http://technorati.com/tag/gallery" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/gallery', 'gallery']);"  rel="tag">gallery</a>, <a href="http://technorati.com/tag/photography" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/photography', 'photography']);"  rel="tag">photography</a>, <a href="http://technorati.com/tag/teaching" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/teaching', 'teaching']);"  rel="tag">teaching</a>, <a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/visual anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/visual anthropology', 'visual anthropology']);"  rel="tag">visual anthropology</a>}</span>
-</div>
+
 

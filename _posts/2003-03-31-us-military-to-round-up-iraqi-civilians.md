@@ -8,9 +8,9 @@ categories:
 ---
 &#8220;If you aren&#8217;t with us you are against us.&#8221; So now, since the Iraqi&#8217;s didn&#8217;t jump for joy at the arrival of US forces, we will start arresting civilians.
 
-> <div>
+
 >   U.S. forces have started rounding up Iraqi men in civilian clothes suspected of being involved with paramilitary squads that have been attacking them in southern Iraq and may ship some of them to the detention center at the U.S. naval base at Guantanamo Bay, Cuba, military officers said today.
-> </div>
+
 
 In the <a href="http://www.washingtonpost.com/wp-dyn/articles/A55178-2003Mar30.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A55178-2003Mar30.html', 'Washington Post']);" >Washington Post</a>.
 

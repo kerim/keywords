@@ -25,7 +25,7 @@ Here is a snippet from &#8220;Conditions of the Working Class in China&#8221;:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://www.technorati.com/tag/labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/labor', 'labor']);"  rel="tag">labor</a>, <a href="http://www.technorati.com/tag/privatization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/privatization', 'privatization']);"  rel="tag">privatization</a>, <a href="http://www.technorati.com/tag/勞工階級" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/勞工階級', '勞工階級']);"  rel="tag">勞工階級</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -19,7 +19,7 @@ Madhava Prasad <a href="http://www.india-seminar.com/2003/525/525%20madhava%20pr
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bollywood" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bollywood', 'bollywood']);"  rel="tag">bollywood</a>, <a href="http://technorati.com/tag/Calcutta" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Calcutta', 'Calcutta']);"  rel="tag">Calcutta</a>, <a href="http://technorati.com/tag/tollywood" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tollywood', 'tollywood']);"  rel="tag">tollywood</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

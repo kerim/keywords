@@ -11,7 +11,7 @@ categories:
 ---
 I&#8217;ve been delinquent in writing up the half a dozen stories on global inequality which I&#8217;ve been meaning to blog about, so here they all are in one go:
 
-  * &#8220;the richest 2% of adults in the world <a href="http://neweconomist.blogs.com/new_economist/2006/12/wealth.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://neweconomist.blogs.com/new_economist/2006/12/wealth.html', 'own more than half of global household wealth']);" >own more than half of global household wealth</a>.&#8221;</p> 
+  * &#8220;the richest 2% of adults in the world <a href="http://neweconomist.blogs.com/new_economist/2006/12/wealth.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://neweconomist.blogs.com/new_economist/2006/12/wealth.html', 'own more than half of global household wealth']);" >own more than half of global household wealth</a>.&#8221; 
   * That&#8217;s looking at wealth, rather than income, but Michael Turton sent me a link to this great dynamic chart which tracks <a href="http://tools.google.com/gapminder/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://tools.google.com/gapminder/', 'global income inequality']);" >global income inequality</a> as well as a host of other demographic factors, such as life expectancy and concentration of populations in urban areas. 
   * Michael also has this post about <a href="http://michaelturton.blogspot.com/2006/12/m-shaped-taiwan-income.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://michaelturton.blogspot.com/2006/12/m-shaped-taiwan-income.html', 'income inequality in Taiwan']);" >income inequality in Taiwan</a>. 
   * The importance of wealth, as opposed to income, can be seen in this great editorial piece about inequality in Korea: &#8220;Forty percent of Korean households and half of Seoul&#8217;s citizens don&#8217;t own their own home. The more housing costs rise, the more they help to <a href="http://english.hani.co.kr/arti/english_edition/e_editorial/178465.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://english.hani.co.kr/arti/english_edition/e_editorial/178465.html', 'define people&#8217;s class status']);" >define people&#8217;s class status</a>.&#8221; (Thanks <a href="http://kotaji.blogsome.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://kotaji.blogsome.com/', 'Kotaji']);" >Kotaji</a>!) 
@@ -23,7 +23,7 @@ I&#8217;ve been delinquent in writing up the half a dozen stories on global ineq
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>, <a href="http://www.technorati.com/tag/wealth" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wealth', 'wealth']);"  rel="tag">wealth</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

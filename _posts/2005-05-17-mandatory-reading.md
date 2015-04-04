@@ -14,7 +14,7 @@ And <a href="http://www.nybooks.com/articles/18034" onclick="_gaq.push(['_trackE
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bill moyers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bill moyers', 'bill moyers']);"  rel="tag">bill moyers</a>, <a href="http://technorati.com/tag/liberal media" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/liberal media', 'liberal media']);"  rel="tag">liberal media</a>, <a href="http://technorati.com/tag/memo" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/memo', 'memo']);"  rel="tag">memo</a>, <a href="http://technorati.com/tag/newsweek" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/newsweek', 'newsweek']);"  rel="tag">newsweek</a>, <a href="http://technorati.com/tag/pbs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/pbs', 'pbs']);"  rel="tag">pbs</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

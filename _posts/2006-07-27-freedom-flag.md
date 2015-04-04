@@ -23,7 +23,7 @@ Also see Laure Ghorayeb&#8217;s <a href="http://www.laureghorayeb.blogspot.com/"
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/lebanon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/lebanon', 'lebanon']);"  rel="tag">lebanon</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

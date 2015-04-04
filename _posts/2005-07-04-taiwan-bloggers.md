@@ -18,7 +18,7 @@ UPDATE: <a href="http://www.flickr.com/photos/askareiko/tags/kerims/" onclick="_
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bloggers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bloggers', 'bloggers']);"  rel="tag">bloggers</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://technorati.com/tag/Taiwanbloggers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwanbloggers', 'Taiwanbloggers']);"  rel="tag">Taiwanbloggers</a>, <a href="http://technorati.com/tag/毒茶" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/毒茶', '毒茶']);"  rel="tag">毒茶</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

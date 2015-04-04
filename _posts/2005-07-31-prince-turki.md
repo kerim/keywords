@@ -30,7 +30,7 @@ If there is any substance to these charges, the *New York Times* is being a litt
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Prince Turki al-Faisal" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Prince Turki al-Faisal', 'Prince Turki al-Faisal']);"  rel="tag">Prince Turki al-Faisal</a>, <a href="http://technorati.com/tag/Saudi Arabia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Saudi Arabia', 'Saudi Arabia']);"  rel="tag">Saudi Arabia</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -8,11 +8,9 @@ categories:
 ---
 In case you didn&#8217;t already read about this:
 
-> <div>
->   &#8220;Operation TIPS</p> 
+
+>   &#8220;Operation TIPS 
 >   
->   <div id="themify_builder_content-352" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

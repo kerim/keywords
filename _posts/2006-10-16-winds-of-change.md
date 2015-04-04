@@ -13,7 +13,7 @@ Via <a href="http://www.washingtonmonthly.com/archives/individual/2006_10/009790
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/kansas" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/kansas', 'kansas']);"  rel="tag">kansas</a>, <a href="http://www.technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>, <a href="http://www.technorati.com/tag/democrats" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/democrats', 'democrats']);"  rel="tag">democrats</a>, <a href="http://www.technorati.com/tag/election" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/election', 'election']);"  rel="tag">election</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

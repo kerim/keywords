@@ -16,5 +16,5 @@ This led me to check on a statistic I hadn&#8217;t looked at in a while: the num
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/statistics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/statistics', 'statistics']);"  rel="tag">statistics</a>, <a href="http://technorati.com/tag/iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/iraq', 'iraq']);"  rel="tag">iraq</a>, <a href="http://technorati.com/tag/casualities" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/casualities', 'casualities']);"  rel="tag">casualities</a>}</span>
-</div>
+
 

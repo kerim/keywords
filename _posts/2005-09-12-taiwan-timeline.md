@@ -17,7 +17,7 @@ Please see my site for links to <a href="http://wiki.oxus.net/Taiwan_Timeline#Ot
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/history" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/history', 'history']);"  rel="tag">history</a>, <a href="http://www.technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -26,7 +26,7 @@ UPDATE: Maybe she won&#8217;t be <a href="http://www.washingtonmonthly.com/archi
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Harriet Miers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Harriet Miers', 'Harriet Miers']);"  rel="tag">Harriet Miers</a>, <a href="http://www.technorati.com/tag/Supreme Court" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Supreme Court', 'Supreme Court']);"  rel="tag">Supreme Court</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

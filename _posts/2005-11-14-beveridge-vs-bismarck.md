@@ -23,7 +23,7 @@ If Taiwan is going to improve its system, it will likely be by moving even more 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/health care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/health care', 'health care']);"  rel="tag">health care</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

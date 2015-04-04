@@ -23,7 +23,7 @@ UPDATE: I&#8217;ve created an <a href="http://r1.sharedcopy.com/11o1muk9" onclic
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/wordpress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wordpress', 'wordpress']);"  rel="tag">wordpress</a>, <a href="http://www.technorati.com/tag/web%20design" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/web%20design', 'web design']);"  rel="tag">web design</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

@@ -106,9 +106,9 @@ UPDATES
   * <a href="http://dissenter.firedoglake.com/2012/09/14/myths-vs-facts-in-the-chicago-teachers-union-strike/?utm_source=twitterfeed&utm_medium=twitter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dissenter.firedoglake.com/2012/09/14/myths-vs-facts-in-the-chicago-teachers-union-strike/?utm_source=twitterfeed&utm_medium=twitter', 'Myths vs. Facts in the Chicago Teachers Union Strike']);" >Myths vs. Facts in the Chicago Teachers Union Strike</a>
   * <a href="http://www.washingtonpost.com/blogs/answer-sheet/post/why-rahm-emanuel-and-the-new-york-times-are-wrong-about-teacher-evaluation/2012/09/12/d0c53044-fce7-11e1-a31e-804fccb658f9_blog.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/blogs/answer-sheet/post/why-rahm-emanuel-and-the-new-york-times-are-wrong-about-teacher-evaluation/2012/09/12/d0c53044-fce7-11e1-a31e-804fccb658f9_blog.html', 'Why Rahm Emanuel and The New York Times are wrong about teacher evaluation']);" >Why Rahm Emanuel and The New York Times are wrong about teacher evaluation</a>
 
-<div>
+
   VICTORY!
-</div>
+
 
   * <a href="http://bit.ly/QiD6x1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bit.ly/QiD6x1', 'CTU Summary of What they Won VS. What Rahm Wanted In Contract [PDF]']);" >CTU Summary of What they Won VS. What Rahm Wanted In Contract [PDF]</a>
   * <a href="http://labornotes.org/2012/09/chicago-teachers-raise-bar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://labornotes.org/2012/09/chicago-teachers-raise-bar', 'Chicago Teachers Raise the Bar']);" >Chicago Teachers Raise the Bar</a>

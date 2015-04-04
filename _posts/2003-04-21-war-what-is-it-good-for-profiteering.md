@@ -8,15 +8,15 @@ categories:
 ---
 It seems the Betchel group &#8211; which got the contract for <a href="http://www.nytimes.com/2003/04/21/opinion/21HERB.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/04/21/opinion/21HERB.html', 'rebuilding Iraq']);" >rebuilding Iraq</a>
 
-> <div>
+
 >   Last week Mr. Shultz&#8217;s Bechtel Group was able to demonstrate exactly what wars are good for. The Bush administration gave it the first big Iraqi reconstruction contract, a prized $680 million deal over 18 months that puts Bechtel in the driver&#8217;s seat for the long-term reconstruction of the country, which could cost $100 billion or more.
-> </div>
+
 
 is responsible for huge costs overruns in Boston:
 
-> <div>
+
 >   The Globe determined that at least $1.1 billion in construction cost overruns, or two-thirds of the cost growth to date, are tied to Bechtel mistakes.
-> </div>
+
 
 In the <a href="http://www.boston.com/globe/metro/packages/bechtel/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boston.com/globe/metro/packages/bechtel/', 'Boston Globe']);" >Boston Globe</a>.
 

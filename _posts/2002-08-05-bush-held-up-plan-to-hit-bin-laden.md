@@ -6,9 +6,9 @@ permalink: /archives/2002/08/05/bush-held-up-plan-to-hit-bin-laden/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;The Bush administration sat on a Clinton-era plan to attack al-Qaida in Afghanistan for eight months because of political hostility to the outgoing president and competing priorities, it was reported yesterday.&#8221;
-> </div>
+
 
 <a href="http://www.guardian.co.uk/international/story/0,3604,769362,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/international/story/0,3604,769362,00.html', 'Guardian Unlimited']);" >Guardian Unlimited</a>
 

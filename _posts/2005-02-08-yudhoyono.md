@@ -18,5 +18,5 @@ See an <a href="http://keywords.oxus.net/archives/2005/01/05/acehnese/" onclick=
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/human rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/human rights', 'human rights']);"  rel="tag">human rights</a>, <a href="http://technorati.com/tag/aceh" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/aceh', 'aceh']);"  rel="tag">aceh</a>, <a href="http://technorati.com/tag/indonesia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/indonesia', 'indonesia']);"  rel="tag">indonesia</a>, <a href="http://technorati.com/tag/tsunami" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tsunami', 'tsunami']);"  rel="tag">tsunami</a>}</span>
-</div>
+
 

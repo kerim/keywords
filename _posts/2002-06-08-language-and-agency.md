@@ -6,9 +6,9 @@ permalink: /archives/2002/06/08/language-and-agency/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Annu. Rev. Anthropol. 2001. 30:109-137.&#8221;
-> </div>
+
 
 <a href="http://anthro.annualreviews.org/cgi/content/abstract/30/1/109" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://anthro.annualreviews.org/cgi/content/abstract/30/1/109', 'AR Anthropol. &#8212; Abstracts: Ahearn 30 (1): 109']);" >AR Anthropol. &#8212; Abstracts: Ahearn 30 (1): 109</a>  
 <!--more-->

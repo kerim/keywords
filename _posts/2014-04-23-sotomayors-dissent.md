@@ -45,8 +45,8 @@ categories:
 > > 
 > > <div id="themify_builder_content-3510" class="themify_builder_content themify_builder themify_builder_front">
 > >
-> > </div>
+> 
 > > 
-> > <!-- /themify_builder_content -->
+> >
 
  [1]: https://www.evernote.com/shard/s1/sh/64e94dbd-8d83-4b91-9124-ea2364932e1c/6250daf593474e059119757531c48de5/deep/0/How-Minorities-Have-Fared-in-States-With-Affirmative-Action-Bans---Interactive-Graphic---NYTimes.com.png

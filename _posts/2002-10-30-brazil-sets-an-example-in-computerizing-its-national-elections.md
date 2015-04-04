@@ -6,9 +6,9 @@ permalink: /archives/2002/10/30/brazil-sets-an-example-in-computerizing-its-nati
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;"Certainly Brazil is way ahead of the United States right now in terms both of the technology and administration of the election process," said Robert Pastor, director of the Center for Democracy and Election Management at American University in Washington.&#8221;
-> </div>
+
 
 <a href="http://www.nytimes.com/2002/10/30/international/americas/30RIO.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/10/30/international/americas/30RIO.html', 'NY Times']);" >NY Times</a>
 

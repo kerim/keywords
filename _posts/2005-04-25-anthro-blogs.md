@@ -19,7 +19,7 @@ No need to feel like chopped liver any more Alex! I added you, along with <a hre
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>, <a href="http://technorati.com/tag/wiki" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wiki', 'wiki']);"  rel="tag">wiki</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

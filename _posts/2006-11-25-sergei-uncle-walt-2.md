@@ -29,7 +29,7 @@ Here is another picture which Eisenstein sent to his best friend back home:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Disney" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Disney', 'Disney']);"  rel="tag">Disney</a>, <a href="http://www.technorati.com/tag/Eisenstein" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Eisenstein', 'Eisenstein']);"  rel="tag">Eisenstein</a>, <a href="http://www.technorati.com/tag/McCarthy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/McCarthy', 'McCarthy']);"  rel="tag">McCarthy</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

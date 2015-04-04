@@ -17,7 +17,7 @@ Via <a href="http://cyber.law.harvard.edu/globalvoices/?p=153" onclick="_gaq.pus
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/music" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/music', 'music']);"  rel="tag">music</a>, <a href="http://technorati.com/tag/afghanistan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/afghanistan', 'afghanistan']);"  rel="tag">afghanistan</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

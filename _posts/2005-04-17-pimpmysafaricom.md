@@ -12,5 +12,5 @@ Up until very recently my favorite browser was <a href="http://www.omnigroup.com
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/firefox" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/firefox', 'firefox']);"  rel="tag">firefox</a>, <a href="http://technorati.com/tag/safari" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/safari', 'safari']);"  rel="tag">safari</a>, <a href="http://technorati.com/tag/omniweb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/omniweb', 'omniweb']);"  rel="tag">omniweb</a>, <a href="http://technorati.com/tag/scrapbook" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/scrapbook', 'scrapbook']);"  rel="tag">scrapbook</a>, <a href="http://technorati.com/tag/extensions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/extensions', 'extensions']);"  rel="tag">extensions</a>, <a href="http://technorati.com/tag/macosx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/macosx', 'macosx']);"  rel="tag">macosx</a>}</span>
-</div>
+
 

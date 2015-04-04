@@ -22,5 +22,5 @@ Human Rights First (formerly the Lawyers Committee for Human Rights) has a campa
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/human rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/human rights', 'human rights']);"  rel="tag">human rights</a>, <a href="http://technorati.com/tag/blogging" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blogging', 'blogging']);"  rel="tag">blogging</a>, <a href="http://technorati.com/tag/iran" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/iran', 'Iran']);"  rel="tag">Iran</a>, <a href="http://technorati.com/tag/Arash Sigarchi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Arash Sigarchi', 'Arash Sigarchi']);"  rel="tag">Arash Sigarchi</a>}</span>
-</div>
+
 

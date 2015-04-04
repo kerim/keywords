@@ -18,7 +18,7 @@ I earlier suggested we should adopt India&#8217;s practice of referring to the b
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

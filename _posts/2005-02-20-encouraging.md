@@ -21,5 +21,5 @@ Encouraging people to learn English is one thing, threatening to take their chil
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/language" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/language', 'language']);"  rel="tag">language</a>, <a href="http://technorati.com/tag/politics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/politics', 'politics']);"  rel="tag">politics</a>, <a href="http://technorati.com/tag/immigration" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/immigration', 'immigration']);"  rel="tag">immigration</a>, <a href="http://technorati.com/tag/English" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/English', 'English']);"  rel="tag">English</a>}</span>
-</div>
+
 

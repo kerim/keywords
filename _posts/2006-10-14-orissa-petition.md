@@ -11,7 +11,7 @@ Our friend filmmaker Vinod Raja (who made an <a href="http://keywords.oxus.net/a
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Orissa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Orissa', 'Orissa']);"  rel="tag">Orissa</a>, <a href="http://www.technorati.com/tag/indigenous rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/indigenous rights', 'indigenous rights']);"  rel="tag">indigenous rights</a>, <a href="http://www.technorati.com/tag/Kashipur" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Kashipur', 'Kashipur']);"  rel="tag">Kashipur</a>, <a href="http://www.technorati.com/tag/petition" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/petition', 'petition']);"  rel="tag">petition</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 
@@ -20,7 +20,7 @@ Our friend filmmaker Vinod Raja (who made an <a href="http://keywords.oxus.net/a
 
 > **Stop Utkal Alumina.  Stop Birlas, Alcan From Looting Orissa’s Natural Wealth.   
 >    
-> Fraudulent public hearing being staged on October 17th to push anti-people mining project through…</p> 
+> Fraudulent public hearing being staged on October 17th to push anti-people mining project through… 
 > 
 > The local  people of Kashipur have resisted the intrusion of multinational mining corporations  for the last thirteen years.  They have resisted through peaceful and democratic means, withstanding lathi charge, jailings, beatings, and police firings.  But the multinational corporates and their local agents in the administration are trying to  proceed by any hook and crook available,  undermining all democratic processes.   
 >    
@@ -49,6 +49,6 @@ Our friend filmmaker Vinod Raja (who made an <a href="http://keywords.oxus.net/a
 > 
 > <div id="themify_builder_content-2528" class="themify_builder_content themify_builder themify_builder_front">
 >
-> </div>
+
 > 
-> <!-- /themify_builder_content -->
+>

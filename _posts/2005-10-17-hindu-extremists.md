@@ -22,7 +22,7 @@ UPDATE: <a href="http://uchicagolaw.typepad.com/faculty/2005/11/india_a_democra_
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/BJP" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/BJP', 'BJP']);"  rel="tag">BJP</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://www.technorati.com/tag/religion" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/religion', 'religion']);"  rel="tag">religion</a>, <a href="http://www.technorati.com/tag/RSS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/RSS', 'RSS']);"  rel="tag">RSS</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -14,5 +14,5 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/labor', 'labor']);"  rel="tag">labor</a>, <a href="http://technorati.com/tag/aaa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/aaa', 'aaa']);"  rel="tag">aaa</a>, <a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/referendum" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/referendum', 'referendum']);"  rel="tag">referendum</a>, <a href="http://technorati.com/tag/ballot" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ballot', 'ballot']);"  rel="tag">ballot</a>}</span>
-</div>
+
 

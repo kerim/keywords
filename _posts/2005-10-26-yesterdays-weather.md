@@ -17,7 +17,7 @@ Some web sites do give you access to <a href="http://www.weather.com" onclick="_
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/weather" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/weather', 'weather']);"  rel="tag">weather</a>, <a href="http://www.technorati.com/tag/lazyweb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/lazyweb', 'lazyweb']);"  rel="tag">lazyweb</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

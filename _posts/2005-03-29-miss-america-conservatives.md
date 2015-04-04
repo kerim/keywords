@@ -20,5 +20,5 @@ Sometimes a blog post deserves to be quoted at length. Such is the case with <a 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/compassionate conservatism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/compassionate conservatism', 'compassionate conservatism']);"  rel="tag">compassionate conservatism</a>, <a href="http://technorati.com/tag/miss america" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/miss america', 'miss america']);"  rel="tag">miss america</a>, <a href="http://technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>}</span>
-</div>
+
 

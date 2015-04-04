@@ -8,13 +8,13 @@ categories:
 ---
 Tom Tomorrow had a link to this very scary story:
 
-> <div>
->   &#8220;A federal "No Fly" list, intended to keep terrorists from boarding planes, is snaring peace activists at San Francisco International and other U. S. airports, triggering complaints that civil liberties are being trampled.</p> 
+
+>   &#8220;A federal "No Fly" list, intended to keep terrorists from boarding planes, is snaring peace activists at San Francisco International and other U. S. airports, triggering complaints that civil liberties are being trampled. 
 >   
->   <p>
+>   
 >     And while several federal agencies acknowledge that they contribute names to the congressionally mandated list, none of them, when contacted by The Chronicle, could or would say which agency is responsible for managing the list.&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/09/27/MN181034.DTL&type=printable" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/09/27/MN181034.DTL&type=printable', 'SF Gate']);" >SF Gate</a>
 

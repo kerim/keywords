@@ -16,7 +16,7 @@ The <a href="http://www.latimes.com/business/la-fi-airlines14apr14,1,5540724.sto
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/union" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/union', 'union']);"  rel="tag">union</a>, <a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>, <a href="http://www.technorati.com/tag/airlines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/airlines', 'airlines']);"  rel="tag">airlines</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -18,7 +18,7 @@ By way of comparison, the *Washington Post* has started a new service whereby ev
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Krugman" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Krugman', 'Krugman']);"  rel="tag">Krugman</a>, <a href="http://www.technorati.com/tag/New York Times" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/New York Times', 'New York Times']);"  rel="tag">New York Times</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -28,7 +28,7 @@ And **third**, <a href="http://www.pkarchive.org/column/091905.html" onclick="_g
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>, <a href="http://www.technorati.com/tag/poverty" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/poverty', 'poverty']);"  rel="tag">poverty</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

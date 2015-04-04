@@ -20,7 +20,7 @@ UPDATE: An obituary by <a href="http://www.guardian.co.uk/print/0,3858,5186129-1
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://technorati.com/tag/Fei Xiaotong" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Fei Xiaotong', 'Fei Xiaotong']);"  rel="tag">Fei Xiaotong</a>, <a href="http://technorati.com/tag/sociology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/sociology', 'sociology']);"  rel="tag">sociology</a>, <a href="http://technorati.com/tag/孝通" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/孝通', '孝通']);"  rel="tag">孝通</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

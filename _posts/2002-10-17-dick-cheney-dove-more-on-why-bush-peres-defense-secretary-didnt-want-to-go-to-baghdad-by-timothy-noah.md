@@ -9,9 +9,9 @@ categories:
 This is amazingly a quote by Dick Cheney (from 1991) on why it didn&#8217;t make sense to seek regime change!  
 
 
-> <div>
+
 >   &#8220;You deploy a force, you win the war, and the problem goes away, and it doesn&#8217;t work that way in the Middle East; it never has and isn&#8217;t likely to in my lifetime&#8221;
-> </div>
+
 
 <a href="http://slate.msn.com/?id=2072609&device=" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slate.msn.com/?id=2072609&device=', 'Slate']);" >Slate</a>
 

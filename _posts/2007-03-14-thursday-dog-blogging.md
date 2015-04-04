@@ -29,7 +29,7 @@ There are way too many stray dogs around. That&#8217;s one reason why we go all 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dog', 'dog']);"  rel="tag">dog</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -11,7 +11,7 @@ To those 8 million American workers who were recently &#8220;promoted&#8221; to 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/unions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/unions', 'unions']);"  rel="tag">unions</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

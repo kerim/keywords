@@ -22,7 +22,7 @@ The second story shows how the efforts to keep our own crimes a secret are impac
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>, <a href="http://www.technorati.com/tag/torture" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/torture', 'torture']);"  rel="tag">torture</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -35,7 +35,7 @@ For more on The Five Friendlies, including a history of Olympic mascots, check o
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://www.technorati.com/tag/manga" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/manga', 'manga']);"  rel="tag">manga</a>, <a href="http://www.technorati.com/tag/olympics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/olympics', 'olympics']);"  rel="tag">olympics</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

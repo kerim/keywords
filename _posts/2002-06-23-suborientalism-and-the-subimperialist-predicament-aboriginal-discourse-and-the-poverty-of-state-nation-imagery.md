@@ -13,9 +13,9 @@ Fred Yen Liang Chiu
 Also:  
 
 
-> <div>
+
 >   &#8220;Nationalist Social Sciences and the Fabrication of Subimperial Subjects in Taiwan<br /> <br /> Monanen Malialiaves, Ah Neng&#8217;s Critique<br /> <br /> Kang Chao and Marshall Johnson&#8221;
-> </div>
+
 
 <a href="http://depts.washington.edu/position/8_1.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://depts.washington.edu/position/8_1.html', '8.1 Subimperialism']);" >8.1 Subimperialism</a>
 

@@ -11,12 +11,12 @@ My first &#8220;<a href="http://keywords.oxus.net/archives/cat_feeds.html" oncli
 
 Here are the feeds:
 
-  * <a href="http://www.wordspy.com/rss3.xml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wordspy.com/rss3.xml', 'RSS Feed (Latest Word)']);" >RSS Feed (Latest Word)</a></p> 
+  * <a href="http://www.wordspy.com/rss3.xml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wordspy.com/rss3.xml', 'RSS Feed (Latest Word)']);" >RSS Feed (Latest Word)</a> 
       * <a href="http://www.wordspy.com/rss.xml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wordspy.com/rss.xml', 'RSS Feed (Last 10 Words)']);" >RSS Feed (Last 10 Words)</a> 
           * <a href="http://www.wordspy.com/rss2.xml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wordspy.com/rss2.xml', 'RSS Feed (Last 10 Defns)']);" >RSS Feed (Last 10 Defns)</a> (This is the one I use.) </ul> 
             See all &#8220;<a href="http://keywords.oxus.net/archives/cat_feeds.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://keywords.oxus.net/archives/cat_feeds.html', 'feeds']);" >feeds</a>&#8221; posts.
             
             <div id="themify_builder_content-1554" class="themify_builder_content themify_builder themify_builder_front">
-            </div>
             
-            <!-- /themify_builder_content -->
+            
+           

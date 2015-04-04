@@ -15,7 +15,7 @@ I think a lot of the reason why we enjoy reading blogs so much is that what othe
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Reading" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Reading', 'Reading']);"  rel="tag">Reading</a>, <a href="http://www.technorati.com/tag/Nancy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Nancy', 'Nancy']);"  rel="tag">Nancy</a>, <a href="http://www.technorati.com/tag/Blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Blogs', 'Blogs']);"  rel="tag">Blogs</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

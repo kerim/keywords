@@ -18,7 +18,7 @@ tags:
 ---
 A lot of times, when looking for the ideal software for a particular task, I find that I end up having to choose between two applications: there might be one that has a nice, slick, interface, but another which has the functionality I need. Or perhaps one which is an online app and another which runs on my desktop. Sometimes I reluctantly pick one, other times I'm stuck using two applications. Here is a list of applications I wish could be merged: 
 
-<div>
+
   <ul>
     <li>
       <a href="http://www.evernote.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.evernote.com/', 'Evernote']);" >Evernote</a> & <a href="http://www.ironicsoftware.com/yep/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ironicsoftware.com/yep/index.html', 'Yep']);" >Yep</a>
@@ -45,5 +45,5 @@ A lot of times, when looking for the ideal software for a particular task, I fin
       <a href="http://wordpress.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://wordpress.org/', 'WordPress']);" >WordPress</a> & <a href="http://posterous.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://posterous.com/', 'Posterous']);" >Posterous</a>
     </li>
   </ul>
-</div>
+
 

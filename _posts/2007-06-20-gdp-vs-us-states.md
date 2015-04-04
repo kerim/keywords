@@ -17,7 +17,7 @@ Via <a href="http://strangemaps.wordpress.com/2007/06/10/131-us-states-renamed-f
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/maps', 'maps']);"  rel="tag">maps</a>, <a href="http://www.technorati.com/tag/GDP" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/GDP', 'GDP']);"  rel="tag">GDP</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

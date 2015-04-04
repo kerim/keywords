@@ -12,14 +12,14 @@ categories:
 ---
 I'm working as a consultant for an institutional website here in Taiwan. I wrote up a list of general principles for good website design to let them know what my priorities are. Here is my list. Let me know if you have any comments or thoughts!
 
-<div>
+
   <ul>
     <li>
       <b>Valid XHTML</b>
     </li>
     <ul>
       <li>
-        All sites should endeavor to comply, as much as possible, with industry standards for valid code. This will insure greater accessibility to your site and improve cross-browser compatibility. </p>
+        All sites should endeavor to comply, as much as possible, with industry standards for valid code. This will insure greater accessibility to your site and improve cross-browser compatibility. 
       </li>
       <li>
         <a href="http://validator.w3.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://validator.w3.org/', 'http://validator.w3.org/']);"  target="_blank">http://validator.w3.org/</a>
@@ -43,7 +43,7 @@ I'm working as a consultant for an institutional website here in Taiwan. I wrote
     </li>
     <ul>
       <li>
-        All sites should work on all modern browsers. You should test your sites on Firefox, IE, Google Chrome, and Safari and on Different versions of Windows (XP, Vista), different language systems (Chinese and English) and different operating systems (Linux and Mac OS X) </p>
+        All sites should work on all modern browsers. You should test your sites on Firefox, IE, Google Chrome, and Safari and on Different versions of Windows (XP, Vista), different language systems (Chinese and English) and different operating systems (Linux and Mac OS X) 
       </li>
       <li>
         <a href="http://browsershots.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://browsershots.org/', 'http://browsershots.org/']);"  target="_blank">http://browsershots.org/</a>
@@ -80,5 +80,5 @@ I'm working as a consultant for an institutional website here in Taiwan. I wrote
       </li>
     </ul>
   </ul>
-</div>
+
 

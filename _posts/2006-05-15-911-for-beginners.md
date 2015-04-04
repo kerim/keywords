@@ -29,7 +29,7 @@ Please offer your suggestions in the comments section. Thanks!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/911" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/911', '911']);"  rel="tag">911</a>, <a href="http://www.technorati.com/tag/afghanistan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/afghanistan', 'afghanistan']);"  rel="tag">afghanistan</a>, <a href="http://www.technorati.com/tag/america" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/america', 'america']);"  rel="tag">america</a>, <a href="http://www.technorati.com/tag/iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/iraq', 'iraq']);"  rel="tag">iraq</a>, <a href="http://www.technorati.com/tag/United States" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/United States', 'United States']);"  rel="tag">United States</a>, <a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

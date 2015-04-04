@@ -21,7 +21,7 @@ Benjamin Zimmer then <a href="http://itre.cis.upenn.edu/~myl/languagelog/archive
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/America" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/America', 'America']);"  rel="tag">America</a>, <a href="http://www.technorati.com/tag/english" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/english', 'english']);"  rel="tag">english</a>, <a href="http://www.technorati.com/tag/immigration" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/immigration', 'immigration']);"  rel="tag">immigration</a>, <a href="http://www.technorati.com/tag/national anthem" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/national anthem', 'national anthem']);"  rel="tag">national anthem</a>, <a href="http://www.technorati.com/tag/nationalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/nationalism', 'nationalism']);"  rel="tag">nationalism</a>, <a href="http://www.technorati.com/tag/spanish" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/spanish', 'spanish']);"  rel="tag">spanish</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

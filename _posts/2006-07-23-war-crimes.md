@@ -18,7 +18,7 @@ And, just in case you think the comparison is unfair, please answer <a href="htt
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/israel" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/israel', 'israel']);"  rel="tag">israel</a>, <a href="http://www.technorati.com/tag/lebanon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/lebanon', 'lebanon']);"  rel="tag">lebanon</a>, <a href="http://www.technorati.com/tag/terrorism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/terrorism', 'terrorism']);"  rel="tag">terrorism</a>, <a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>, <a href="http://www.technorati.com/tag/Alan Dershowitz" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Alan Dershowitz', 'Alan Dershowitz']);"  rel="tag">Alan Dershowitz</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

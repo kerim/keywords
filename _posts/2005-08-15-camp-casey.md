@@ -18,7 +18,7 @@ UPDATE: <a href="http://flickr.com/photos/tags/cindysheehan/" onclick="_gaq.push
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Cindy Sheehan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Cindy Sheehan', 'Cindy Sheehan']);"  rel="tag">Cindy Sheehan</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

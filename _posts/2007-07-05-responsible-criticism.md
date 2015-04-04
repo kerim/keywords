@@ -51,7 +51,7 @@ UPDATE: Edited for clarity.
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/NY%20Times" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/NY%20Times', 'NY Times']);"  rel="tag">NY Times</a>, <a href="http://www.technorati.com/tag/Michael%20Moore" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Michael%20Moore', 'Michael Moore']);"  rel="tag">Michael Moore</a>, <a href="http://www.technorati.com/tag/Sicko" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Sicko', 'Sicko']);"  rel="tag">Sicko</a>, <a href="http://www.technorati.com/tag/health%20care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/health%20care', 'health care']);"  rel="tag">health care</a>, <a href="http://www.technorati.com/tag/activism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/activism', 'activism']);"  rel="tag">activism</a>, <a href="http://www.technorati.com/tag/Brecht" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Brecht', 'Brecht']);"  rel="tag">Brecht</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

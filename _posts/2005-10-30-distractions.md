@@ -18,7 +18,7 @@ Now I don&#8217;t feel so bad about spending so much time on <a href="http://hoo
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Getting things done" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Getting things done', 'Getting things done']);"  rel="tag">Getting things done</a>, <a href="http://www.technorati.com/tag/gtd" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/gtd', 'gtd']);"  rel="tag">gtd</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

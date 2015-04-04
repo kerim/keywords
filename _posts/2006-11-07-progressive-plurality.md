@@ -16,7 +16,7 @@ One can only hope &#8230;
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Election 06" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Election 06', 'Election 06']);"  rel="tag">Election 06</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

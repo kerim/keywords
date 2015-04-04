@@ -12,7 +12,7 @@ categories:
 ---
 <div class="thumbnail">
   <a href="http://gaza.jottit.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://gaza.jottit.com', '']);" ><img src="http://img.skitch.com/20090119-m1yig383583dhm1ten41crrfb1.preview.jpg" alt="Understanding Gaza: Home" /></a>
-</div>
+
 
   
   

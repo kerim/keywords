@@ -18,7 +18,7 @@ I just love that <a href="http://www.cleantechindia.com/eichtml/02100443.htm" on
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/forecast" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/forecast', 'forecast']);"  rel="tag">forecast</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://www.technorati.com/tag/sunlight" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/sunlight', 'sunlight']);"  rel="tag">sunlight</a>, <a href="http://www.technorati.com/tag/weather" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/weather', 'weather']);"  rel="tag">weather</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

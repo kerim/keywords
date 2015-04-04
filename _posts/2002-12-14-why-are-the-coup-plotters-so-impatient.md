@@ -6,11 +6,9 @@ permalink: /archives/2002/12/14/why-are-the-coup-plotters-so-impatient/
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;This high pro-coup intensity against Venezuelan democracy enters a new paradox. The Bolivarian Constitution of 1999, born from the breast of a Constituent Assembly and approved by referendum of the citizens is, without a doubt, the most democratic in Latin America. As such, it provides for removal of elected public officials. Its Article 72 stipulates that </p> 
+
+>   &#8220;This high pro-coup intensity against Venezuelan democracy enters a new paradox. The Bolivarian Constitution of 1999, born from the breast of a Constituent Assembly and approved by referendum of the citizens is, without a doubt, the most democratic in Latin America. As such, it provides for removal of elected public officials. Its Article 72 stipulates that  
 >   
->   <div id="themify_builder_content-794" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

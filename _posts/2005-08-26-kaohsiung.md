@@ -19,7 +19,7 @@ Via <a href="http://michaelturton.blogspot.com/2005/08/friday-august-26-blog-rou
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/riot" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/riot', 'riot']);"  rel="tag">riot</a>, <a href="http://www.technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://www.technorati.com/tag/Thailand" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Thailand', 'Thailand']);"  rel="tag">Thailand</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

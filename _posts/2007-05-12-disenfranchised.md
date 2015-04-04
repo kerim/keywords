@@ -35,7 +35,7 @@ CHART: Share of population barred from voting by felon disenfranchisement laws.
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/prisons" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/prisons', 'prisons']);"  rel="tag">prisons</a>, <a href="http://www.technorati.com/tag/african%20american" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/african%20american', 'african american']);"  rel="tag">african american</a>, <a href="http://www.technorati.com/tag/vote" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/vote', 'vote']);"  rel="tag">vote</a>, <a href="http://www.technorati.com/tag/HIV" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/HIV', 'HIV']);"  rel="tag">HIV</a>, <a href="http://www.technorati.com/tag/poverty" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/poverty', 'poverty']);"  rel="tag">poverty</a>, <a href="http://www.technorati.com/tag/crime" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/crime', 'crime']);"  rel="tag">crime</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

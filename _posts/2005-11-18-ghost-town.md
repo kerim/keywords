@@ -26,7 +26,7 @@ Many of those being evicted are the poor:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>, <a href="http://www.technorati.com/tag/migration" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/migration', 'migration']);"  rel="tag">migration</a>, <a href="http://www.technorati.com/tag/eviction" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/eviction', 'eviction']);"  rel="tag">eviction</a>, <a href="http://www.technorati.com/tag/poverty" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/poverty', 'poverty']);"  rel="tag">poverty</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

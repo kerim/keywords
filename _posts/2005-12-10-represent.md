@@ -17,7 +17,7 @@ You would think it would be news. Publishers were happy to sell papers with abov
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/communitarianism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/communitarianism', 'communitarianism']);"  rel="tag">communitarianism</a>, <a href="http://www.technorati.com/tag/CRAN" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/CRAN', 'CRAN']);"  rel="tag">CRAN</a>, <a href="http://www.technorati.com/tag/Patrick Lozès" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Patrick Lozès', 'Patrick Lozès']);"  rel="tag">Patrick Lozès</a>, <a href="http://www.technorati.com/tag/republicanism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/republicanism', 'republicanism']);"  rel="tag">republicanism</a>
-</p>
+
 
 <!-- technorati tags end -->
 

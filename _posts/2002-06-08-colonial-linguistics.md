@@ -6,9 +6,9 @@ permalink: /archives/2002/06/08/colonial-linguistics/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Annu. Rev. Anthropol. 2001. 30:19-39.&#8221;
-> </div>
+
 
 <a href="http://anthro.annualreviews.org/cgi/content/abstract/30/1/19" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://anthro.annualreviews.org/cgi/content/abstract/30/1/19', 'AR Anthropol. &#8212; Abstracts: Errington 30 (1): 19']);" >AR Anthropol. &#8212; Abstracts: Errington 30 (1): 19</a>  
 <!--more-->

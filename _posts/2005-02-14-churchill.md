@@ -41,5 +41,5 @@ If Churchill did deliberately misrepresent the work of other scholars, his acade
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Ward Churchill" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Ward Churchill', 'Ward Churchill']);"  rel="tag">Ward Churchill</a>, <a href="http://technorati.com/tag/Native Americans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Native Americans', 'Native Americans']);"  rel="tag">Native Americans</a>, <a href="http://technorati.com/tag/smallpox" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/smallpox', 'smallpox']);"  rel="tag">smallpox</a>, <a href="http://technorati.com/tag/culture war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/culture war', 'culture war']);"  rel="tag">culture war</a>, <a href="http://technorati.com/tag/Bill O" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Bill O', 'Bill O&#8217;Reilly']);" Reilly" rel="tag">Bill O&#8217;Reilly</a>}</span>
-</div>
+
 

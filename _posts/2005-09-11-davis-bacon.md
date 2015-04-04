@@ -22,7 +22,7 @@ Meanwhile, <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/09
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

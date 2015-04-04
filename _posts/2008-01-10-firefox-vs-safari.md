@@ -56,6 +56,6 @@ Found Replacements:
     UPDATE: Added Evernote on 3/30
     
     <div id="themify_builder_content-2783" class="themify_builder_content themify_builder themify_builder_front">
-    </div>
     
-    <!-- /themify_builder_content -->
+    
+   

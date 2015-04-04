@@ -87,7 +87,7 @@ UPDATE: A <a href="http://triptronix.net/ishbadiddle/archives/2005/09/06/15.13.0
 Mark Schmitt <a href="http://markschmitt.typepad.com/decembrist/2005/09/1800getaclue.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://markschmitt.typepad.com/decembrist/2005/09/1800getaclue.html', 'has this']);" >has this</a> from the *<a href="http://www.sltrib.com/utah/ci_3004197" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.sltrib.com/utah/ci_3004197', 'Salt Lake City Tribute']);" >Salt Lake City Tribute</a>*  
 
 
-> 1,000 highly trained search-and-rescure firefighters who left their homes to volunteer in the Gulf, and found themselves instead sitting in hotel in Atlanta for two days being trained to be &#8220;community relations workers&#8221; for FEMA, a job which would consist exclusively of handing out fliers with the phone number 1-800-621-FEMA</p> 
+> 1,000 highly trained search-and-rescure firefighters who left their homes to volunteer in the Gulf, and found themselves instead sitting in hotel in Atlanta for two days being trained to be &#8220;community relations workers&#8221; for FEMA, a job which would consist exclusively of handing out fliers with the phone number 1-800-621-FEMA 
 > 
 > &#8230; It&#8217;s all too much to believe &#8212; the wasted days, the misuse of skilled volunteers, the photo-op. But then I realized the most ridiculous thing of all: <a href="http://www.forbes.com/technology/ebusiness/feeds/ap/2005/09/06/ap2209245.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.forbes.com/technology/ebusiness/feeds/ap/2005/09/06/ap2209245.html', 'NOBODY IN NEW ORLEANS A WORKING TELEPHONE YET']);" >NOBODY IN NEW ORLEANS A WORKING TELEPHONE YET</a>!
 
@@ -115,7 +115,7 @@ UPDATE: Kevin Drum just doesn&#8217;t let up on FEMA. Two more posts, <a href="h
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>, <a href="http://www.technorati.com/tag/new orleans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/new orleans', 'new orleans']);"  rel="tag">new orleans</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

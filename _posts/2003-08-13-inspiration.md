@@ -13,9 +13,9 @@ One myth that never seems to go away is the &#8220;divine inspiration&#8221; of 
 
 For all my admiration for <a href="http://www.garyhartnews.com/hart/blog/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.garyhartnews.com/hart/blog/', 'Gary Hart&#8217;s blogging']);" >Gary Hart&#8217;s blogging</a>, he is <a href="http://www.nytimes.com/2003/08/13/opinion/13DOWD.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/08/13/opinion/13DOWD.html', 'quoted by Maureen Dowd']);" >quoted by Maureen Dowd</a>, in today&#8217;s New York Times as saying something completely absurd:
 
-> <div>
+
 >   Gary Hart, who began his blog in March, doesn&#8217;t bother to read other digital diarists. &#8220;If you&#8217;re James Joyce,&#8221; he said slyly, &#8220;you don&#8217;t read other authors.&#8221;
-> </div>
+
 
 &#8220;Now there&#8217;s a man with a future in blogging.&#8221; she concludes. But he is simply wrong. Joyce, if anything, was one of history&#8217;s most avaricious readers. He loved the classics, of course, but also modern writers such as <a href="http://www.robotwisdom.com/jaj/tastes.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.robotwisdom.com/jaj/tastes.html', 'Ibsen, Tolstoy, Flaubert, Yeats, Chekhov, Beckett, Dostoevski &#8230;']);" >Ibsen, Tolstoy, Flaubert, Yeats, Chekhov, Beckett, Dostoevski &#8230;</a>
 

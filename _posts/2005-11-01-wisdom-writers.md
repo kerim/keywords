@@ -18,7 +18,7 @@ It seems like a great service to contact if you&#8217;d like to collect oral his
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/oral history" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/oral history', 'oral history']);"  rel="tag">oral history</a>}</span>
-</div></p> 
+ 
 
 <!-- technorati tags end -->
 

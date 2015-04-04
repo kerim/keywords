@@ -8,11 +8,9 @@ categories:
 ---
 By Todd Gitlin:
 
-> <div>
->   &#8220;Bush</p> 
+
+>   &#8220;Bush 
 >   
->   <div id="themify_builder_content-626" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

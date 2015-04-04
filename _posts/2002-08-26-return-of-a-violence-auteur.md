@@ -8,11 +8,9 @@ categories:
 ---
 Tarantino returns next year!
 
-> <div>
->   &#8220;"Kill Bill," in contrast, pays homage to the "grindhouse" exploitation films produced by the Shaw brothers of Hong Kong and others. Unlike the current hits, which avoid serious bloodshed, these cult films </p> 
+
+>   &#8220;"Kill Bill," in contrast, pays homage to the "grindhouse" exploitation films produced by the Shaw brothers of Hong Kong and others. Unlike the current hits, which avoid serious bloodshed, these cult films  
 >   
->   <div id="themify_builder_content-482" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

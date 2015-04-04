@@ -24,5 +24,5 @@ These are important points.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Ward Churchill" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Ward Churchill', 'Ward Churchill']);"  rel="tag">Ward Churchill</a>, <a href="http://technorati.com/tag/free speech" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/free speech', 'free speech']);"  rel="tag">free speech</a>, <a href="http://technorati.com/tag/ACLU" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ACLU', 'ACLU']);"  rel="tag">ACLU</a>, <a href="http://technorati.com/tag/Colorado" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Colorado', 'Colorado']);"  rel="tag">Colorado</a>, <a href="http://technorati.com/tag/tenure" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tenure', 'tenure']);"  rel="tag">tenure</a>}</span>
-</div>
+
 

@@ -18,7 +18,7 @@ UPDATE: I seem to have gotten the blogs working on my own. I tried this <a href=
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/.htaccess" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/.htaccess', '.htaccess']);"  rel="tag">.htaccess</a>, <a href="http://www.technorati.com/tag/textdrive" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/textdrive', 'textdrive']);"  rel="tag">textdrive</a>, <a href="http://www.technorati.com/tag/unix" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/unix', 'unix']);"  rel="tag">unix</a>, <a href="http://www.technorati.com/tag/web host" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/web host', 'web host']);"  rel="tag">web host</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

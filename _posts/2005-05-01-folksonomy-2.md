@@ -19,7 +19,7 @@ UPDATE: Unfortunately, it seems this did not make it to the May issue. They will
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/del.icio.us" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/del.icio.us', 'del.icio.us']);"  rel="tag">del.icio.us</a>, <a href="http://technorati.com/tag/flickr" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/flickr', 'flickr']);"  rel="tag">flickr</a>, <a href="http://technorati.com/tag/folksonomy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/folksonomy', 'folksonomy']);"  rel="tag">folksonomy</a>, <a href="http://technorati.com/tag/online publishing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/online publishing', 'online publishing']);"  rel="tag">online publishing</a>, <a href="http://technorati.com/tag/wiki" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wiki', 'wiki']);"  rel="tag">wiki</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

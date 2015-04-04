@@ -11,7 +11,7 @@ I was going to write a short piece linking to two great Chinese-character relate
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Chinese', 'Chinese']);"  rel="tag">Chinese</a>, <a href="http://www.technorati.com/tag/漢字" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/漢字', '漢字']);"  rel="tag">漢字</a>, <a href="http://www.technorati.com/tag/語言" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/語言', '語言']);"  rel="tag">語言</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

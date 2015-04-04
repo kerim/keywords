@@ -8,11 +8,9 @@ categories:
 ---
 An interesting article, although it would be more interesting if it addressed the union-busting aspects of switching funds from state to religious schools.
 
-> <div>
->   &#8220;The hysteria over yesterday&#8217;s 9th Circuit decision to ashcan the Pledge of Allegiance quieted today when the Supreme Court handed down its decision in Zelman v. Simmons-Harris, proclaiming that there&#8217;s still a place for God, sectarianism, and religious chauvinism in this country. The high court upheld the constitutionality of Cleveland&#8217;s voucher program?</p> 
+
+>   &#8220;The hysteria over yesterday&#8217;s 9th Circuit decision to ashcan the Pledge of Allegiance quieted today when the Supreme Court handed down its decision in Zelman v. Simmons-Harris, proclaiming that there&#8217;s still a place for God, sectarianism, and religious chauvinism in this country. The high court upheld the constitutionality of Cleveland&#8217;s voucher program? 
 >   
->   <div id="themify_builder_content-295" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

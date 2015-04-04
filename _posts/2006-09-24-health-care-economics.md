@@ -19,7 +19,7 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/krugman" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/krugman', 'krugman']);"  rel="tag">krugman</a>, <a href="http://www.technorati.com/tag/health care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/health care', 'health care']);"  rel="tag">health care</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

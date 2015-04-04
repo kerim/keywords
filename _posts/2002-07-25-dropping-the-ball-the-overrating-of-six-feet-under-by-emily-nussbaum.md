@@ -9,11 +9,9 @@ categories:
 Pretty much how I feel about the show.  
 
 
-> <div>
->   &#8220;Six Feet Under may have won an outrageous 23 Emmy nominations, but it&#8217;s really just Ally McBeal in mortality drag: dream sequences, romanticized narcissism, fake-o self-conscious dialogue, meaning-of-life montages and all. The characters may be grown-ups, but the show isn&#8217;t about death and mortality at all; it&#8217;s about adolescence?</p> 
+
+>   &#8220;Six Feet Under may have won an outrageous 23 Emmy nominations, but it&#8217;s really just Ally McBeal in mortality drag: dream sequences, romanticized narcissism, fake-o self-conscious dialogue, meaning-of-life montages and all. The characters may be grown-ups, but the show isn&#8217;t about death and mortality at all; it&#8217;s about adolescence? 
 >   
->   <div id="themify_builder_content-345" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

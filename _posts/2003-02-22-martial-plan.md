@@ -6,17 +6,17 @@ permalink: /archives/2003/02/22/martial-plan/
 categories:
   - Old Blog Import
 ---
-> <div>
->   It&#8217;s not that the Bush administration is always stingy. In fact, right now it is offering handouts right and left. Most notably, it has offered the Turkish government $26 billion in grants and loans if it ignores popular opposition and supports the war.</p> 
+
+>   It&#8217;s not that the Bush administration is always stingy. In fact, right now it is offering handouts right and left. Most notably, it has offered the Turkish government $26 billion in grants and loans if it ignores popular opposition and supports the war. 
 >   
->   <p>
+>   
 >     &#8230;So how much money for Afghan reconstruction did the administration put in its 2004 budget?
->   </p>
 >   
->   <p>
+>   
+>   
 >     None. The Bush team forgot about it.
->   </p>
-> </div>
+>   
+
 
 A wonderful article by <a href="http://www.nytimes.com/2003/02/21/opinion/21KRUG.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2003/02/21/opinion/21KRUG.html', 'Krugman']);" >Krugman</a>!
 

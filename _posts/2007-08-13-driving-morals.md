@@ -57,7 +57,7 @@ Having now received my driver&#8217;s license I look forward to going on some ex
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/Driving" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Driving', 'Driving']);"  rel="tag">Driving</a>, <a href="http://www.technorati.com/tag/Driver%27s%20License" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Driver%27s%20License', 'Driver&#8217;s License ']);"  rel="tag">Driver&#8217;s License </a>, <a href="http://www.technorati.com/tag/Testing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Testing', 'Testing']);"  rel="tag">Testing</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/駕照" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/駕照', '駕照']);"  rel="tag">駕照</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

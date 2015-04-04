@@ -6,9 +6,9 @@ permalink: /archives/2002/06/09/allen-on-roediggers-wages-of-whiteness/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;AMERICAN EXCEPTIONALISM&#8217;S WHITE BLINDSPOT&#8221;
-> </div>
+
 
 <a href="http://eserver.org/clogic/4-2/allen.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://eserver.org/clogic/4-2/allen.html', '(Cultural Logic)']);" >(Cultural Logic)</a>  
 <!--more-->

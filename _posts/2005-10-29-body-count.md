@@ -44,7 +44,7 @@ This is enemy combatants, not civilians, which they still don&#8217;t count.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/body count" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/body count', 'body count']);"  rel="tag">body count</a>, <a href="http://www.technorati.com/tag/iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/iraq', 'iraq']);"  rel="tag">iraq</a>, <a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

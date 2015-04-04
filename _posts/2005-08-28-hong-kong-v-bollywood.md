@@ -26,7 +26,7 @@ Further reading: GreenCine has a nice round up of <a href="http://www.greencine.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Bollywood" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bollywood', 'Bollywood']);"  rel="tag">Bollywood</a>, <a href="http://www.technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://www.technorati.com/tag/Hong Kong" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Hong Kong', 'Hong Kong']);"  rel="tag">Hong Kong</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

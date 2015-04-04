@@ -6,11 +6,9 @@ permalink: /archives/2002/09/18/veni-vidi-vouchers-why-the-battle-for-school-vou
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;The Blaine amendments are named for James G. Blaine, a congressman and senator from Maine who, in the mid-1870s, unsuccessfully attempted to win passage of an amendment to the U.S. Constitution that would have gone far beyond the First Amendment prohibitions regarding religion and banned all assistance to religious institutions. Blaine&#8217;s proposed amendment passed the House of Representatives with the required two-thirds supermajority but only received a majority?</p> 
+
+>   &#8220;The Blaine amendments are named for James G. Blaine, a congressman and senator from Maine who, in the mid-1870s, unsuccessfully attempted to win passage of an amendment to the U.S. Constitution that would have gone far beyond the First Amendment prohibitions regarding religion and banned all assistance to religious institutions. Blaine&#8217;s proposed amendment passed the House of Representatives with the required two-thirds supermajority but only received a majority? 
 >   
->   <div id="themify_builder_content-556" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

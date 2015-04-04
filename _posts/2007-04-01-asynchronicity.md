@@ -22,7 +22,7 @@ Or at least I don&#8217;t think you do. I just downloaded <a href="http://iconfa
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Twitter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Twitter', 'Twitter']);"  rel="tag">Twitter</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

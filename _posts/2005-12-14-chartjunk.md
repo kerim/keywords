@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Images
 ---
-**Guest post by tf</p> 
+**Guest post by tf 
 
 </strong>
 
@@ -20,7 +20,7 @@ As of November 7th, *Le Monde* has changed its look. The new format makes greate
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/chartjunk" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/chartjunk', 'chartjunk']);"  rel="tag">chartjunk</a>, <a href="http://www.technorati.com/tag/Edward Tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Edward Tufte', 'Edward Tufte']);"  rel="tag">Edward Tufte</a>, <a href="http://www.technorati.com/tag/Le Monde" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Le Monde', 'Le Monde']);"  rel="tag">Le Monde</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>
-</p>
+
 
 <!-- technorati tags end -->
 

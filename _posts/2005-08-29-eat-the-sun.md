@@ -33,7 +33,7 @@ They even have recipes. More recipes for solar cooking can be found <a href="htt
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Mary Frank" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Mary Frank', 'Mary Frank']);"  rel="tag">Mary Frank</a>, <a href="http://www.technorati.com/tag/solar cooking" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/solar cooking', 'solar cooking']);"  rel="tag">solar cooking</a>, <a href="http://www.technorati.com/tag/solar oven" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/solar oven', 'solar oven']);"  rel="tag">solar oven</a>}</span>
-</div></p> 
+ 
 
 <!-- technorati tags end -->
 

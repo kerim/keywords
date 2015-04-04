@@ -11,10 +11,10 @@ categories:
   - Old Blog Import
 ---
 <div class="posterous_bookmarklet_entry">
-  <img src="http://keywords.oxus.net/wp-content/uploads/2010/06/media_http25mediatumb_DmxBC.gif.scaled500-219x300.gif" width="500" height="684" /></p> 
+  <img src="http://keywords.oxus.net/wp-content/uploads/2010/06/media_http25mediatumb_DmxBC.gif.scaled500-219x300.gif" width="500" height="684" /> 
   
   <div class="posterous_quote_citation">
     via <a href="http://newyorker.tumblr.com/post/745982200/in-this-weeks-issue-george-packer-on-the" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://newyorker.tumblr.com/post/745982200/in-this-weeks-issue-george-packer-on-the', 'newyorker.tumblr.com']);" >newyorker.tumblr.com</a>
-  </div></p>
-</div>
+  
+
 

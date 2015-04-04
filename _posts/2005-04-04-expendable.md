@@ -23,5 +23,5 @@ More from the <a href="http://www.jwj.org/SLAP/slap.htm" onclick="_gaq.push(['_t
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/washington university" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/washington university', 'washington university']);"  rel="tag">washington university</a>, <a href="http://technorati.com/tag/living wage" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/living wage', 'living wage']);"  rel="tag">living wage</a>, <a href="http://technorati.com/tag/st. louis" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/st. louis', 'st. louis']);"  rel="tag">st. louis</a>}</span>
-</div>
+
 

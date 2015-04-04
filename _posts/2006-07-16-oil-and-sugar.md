@@ -19,7 +19,7 @@ The gas station owned by the local sugar company is run by a very jolly family. 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/shopping" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/shopping', 'shopping']);"  rel="tag">shopping</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

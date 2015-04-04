@@ -15,7 +15,7 @@ I guess that whole Schiavo thing didn&#8217;t do so well in the polls.<!-- techn
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/abortion" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/abortion', 'abortion']);"  rel="tag">abortion</a>, <a href="http://technorati.com/tag/Florida" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Florida', 'Florida']);"  rel="tag">Florida</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

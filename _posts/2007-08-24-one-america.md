@@ -147,7 +147,7 @@ The text of <a href="http://johnedwards.com/news/speeches/20070823-hanover-speec
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/John Edwards" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/John Edwards', 'John Edwards']);"  rel="tag">John Edwards</a>, <a href="http://www.technorati.com/tag/class" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/class', 'class']);"  rel="tag">class</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

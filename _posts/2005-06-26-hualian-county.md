@@ -23,7 +23,7 @@ But as lovely as it is here, I must head back to Taipei tomorrow!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/hualian" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/hualian', 'hualian']);"  rel="tag">hualian</a>, <a href="http://technorati.com/tag/花蓮" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/花蓮', '花蓮']);"  rel="tag">花蓮</a>, <a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

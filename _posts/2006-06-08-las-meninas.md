@@ -21,7 +21,7 @@ Trying to sort out the implications of all these texts, modified by kings and pu
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Las Meninas" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Las Meninas', 'Las Meninas']);"  rel="tag">Las Meninas</a>, <a href="http://www.technorati.com/tag/Velazquez" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Velazquez', 'Velazquez']);"  rel="tag">Velazquez</a>, <a href="http://www.technorati.com/tag/Foucault" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Foucault', 'Foucault']);"  rel="tag">Foucault</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

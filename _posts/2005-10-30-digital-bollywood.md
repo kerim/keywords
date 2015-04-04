@@ -26,7 +26,7 @@ Of course, they *could* just make better films &#8230; &#8220;only one in 12 mov
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Bollywood" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bollywood', 'Bollywood']);"  rel="tag">Bollywood</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

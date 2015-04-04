@@ -20,7 +20,7 @@ But the best part of the whole site are the comments. Like this one by blogger <
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Donald Trump" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Donald Trump', 'Donald Trump']);"  rel="tag">Donald Trump</a>, <a href="http://technorati.com/tag/Kozlowski" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Kozlowski', 'Kozlowski']);"  rel="tag">Kozlowski</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

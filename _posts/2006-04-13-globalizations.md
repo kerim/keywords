@@ -21,7 +21,7 @@ Gray has a bone to pick about the environmental aspects of Globalization, which 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/globalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/globalization', 'globalization']);"  rel="tag">globalization</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -81,9 +81,9 @@ The protester&#8217;s <a href="http://bit.ly/occupylysupport" onclick="_gaq.push
 </li>
 <li id="fn-3499-2">
   &#8220;The great bulk of gains went to the top 1 percent. In turn, the bulk of the gains of the top 1 percent went to the top 0.1 percent; and the bulk of those gains went to the top 0.01 percent.&#8221; <a href="http://truth-out.org/opinion/item/19031-the-very-rich-are-getting-much-richer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://truth-out.org/opinion/item/19031-the-very-rich-are-getting-much-richer', 'The (Very) Rich Are Getting (Much) Richer']);" >The (Very) Rich Are Getting (Much) Richer</a>&#160;<a href="#fnref-3499-2" rev="footnote">&#8617;</a> </fn></footnotes> <div id="themify_builder_content-3499" class="themify_builder_content themify_builder themify_builder_front">
-  </div>
   
-  <!-- /themify_builder_content -->
+  
+ 
 
  [1]: ttp://blogs.nottingham.ac.uk/chinapolicyinstitute/2013/10/15/will-the-constitution-become-nominal-too-reflections-on-taiwans-nominal-national-day/
  [2]: http://chinaperspectives.revues.org/5301

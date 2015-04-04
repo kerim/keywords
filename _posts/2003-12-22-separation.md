@@ -13,15 +13,15 @@ I&#8217;ve been trying to understand how it is that the French can feel so stron
 
 In the U.S., the separation exists in order to prevent the state from interfering with people&#8217;s religious beliefs. That is basically how the Supreme Court viewed the law <a href="http://en.wikipedia.org/wiki/Separation_of_church_and_state#United_States_of_America" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Separation_of_church_and_state#United_States_of_America', 'until the end of World War II']);" >until the end of World War II</a>:
 
-> <div>
+
 >   Until 1947, American courts interpreted the First Amendment as keeping Congress from interfering with the state decisions on which religion, if any, the state would establish. The First Amendment reads, &#8220;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof&#8230;&#8221; (The phrase, &#8220;separation of church and state&#8221;, does not appear in the Constitution.) For example, in 1854 the State Supreme Court of Maine declared that the localschool board had the right to expel a fifteen-year old girl for refusing to read aloud a portion of theKing James translation of the Bible to her class; her family&#8217;s religion required her to read only the Douay Catholic translation of the Bible.
-> </div>
+
 
 In France, on the other hand, the law was created by Republicans, who wanted to <a href="http://216.239.41.104/search?q=cache:s6qqRNwRClAJ:mondediplo.com/2003/08/09gresh+%22How+religion+was+excluded+from+public+life%22+Gresh&#38;hl=en&#38;ie=UTF-8" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://216.239.41.104/search?q=cache:s6qqRNwRClAJ:mondediplo.com/2003/08/09gresh+%22How+religion+was+excluded+from+public+life%22+Gresh&hl=en&ie=UTF-8', 'prevent the Catholic Church, and the Pope, from interfering in the political affairs of the French state']);" >prevent the Catholic Church, and the Pope, from interfering in the political affairs of the French state</a>:
 
-> <div>
+
 >   According to the religious historian Alain Boyer, &#8220;secularism became a watchword that can only be understood in opposition to the triumphant clericalism of the 19th century, when the [Catholic] church sought to direct states and impose Christian policies&#8221; (1). The republican majority in parliament had no intention of rooting out religion. It simply wanted to restrict the power of the Catholic church, which was the traditional ally of the royalists, drawing on the support of other religious groups, notably Protestants.
-> </div>
+
 
 So, whereas Americans are likely to see the ban on the Hijab as an interference in someone&#8217;s right to practice their own religion, the French are likely to see it as maintaining a barrier that prevents religion from entering into politics.
 

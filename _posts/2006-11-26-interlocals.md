@@ -33,7 +33,7 @@ I know many pro-Green English language bloggers will not like some of what they 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Translation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Translation', 'Translation']);"  rel="tag">Translation</a>, <a href="http://www.technorati.com/tag/Global Voices Online" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Global Voices Online', 'Global Voices Online']);"  rel="tag">Global Voices Online</a>, <a href="http://www.technorati.com/tag/Interlocals" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Interlocals', 'Interlocals']);"  rel="tag">Interlocals</a>, <a href="http://www.technorati.com/tag/Chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Chinese', 'Chinese']);"  rel="tag">Chinese</a>, <a href="http://www.technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>, <a href="http://www.technorati.com/tag/中文" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中文', '中文']);"  rel="tag">中文</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

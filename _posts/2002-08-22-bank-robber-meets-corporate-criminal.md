@@ -10,13 +10,13 @@ This is written by an inmate at the Metropolitan Detention Center in downtown Lo
 
 
 
-> <div>
->   &#8220;Keating, Boesky and Milken collectively swindled Wall Street out of more than $500 million. Yet together they served less than 10 years. I know a man serving 20 years for an $800 heist.</p> 
+
+>   &#8220;Keating, Boesky and Milken collectively swindled Wall Street out of more than $500 million. Yet together they served less than 10 years. I know a man serving 20 years for an $800 heist. 
 >   
->   <p>
+>   
 >     Americans say they want to see greedy, dishonest CEOs punished. But in truth, most Americans are more afraid of boys from the housing projects holding them up in an alley for 20 bucks than they are of having their pensions and portfolios gutted by Wall Street scoundrels.&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://www.alternet.org/story.html?StoryID=13848" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.alternet.org/story.html?StoryID=13848', 'AlterNet']);" >AlterNet</a>
 

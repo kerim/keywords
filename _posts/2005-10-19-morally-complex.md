@@ -17,7 +17,7 @@ I really appreciate this because I&#8217;ve seen some of those ernest Indian doc
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/acting like a thief" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/acting like a thief', 'acting like a thief']);"  rel="tag">acting like a thief</a>, <a href="http://www.technorati.com/tag/Denotified Tribes" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Denotified Tribes', 'Denotified Tribes']);"  rel="tag">Denotified Tribes</a>, <a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

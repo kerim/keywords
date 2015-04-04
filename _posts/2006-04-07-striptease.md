@@ -13,7 +13,7 @@ I&#8217;m rather worried that when the show&#8217;s creators finally tell us how
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Lost" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Lost', 'Lost']);"  rel="tag">Lost</a>, <a href="http://www.technorati.com/tag/TV" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/TV', 'TV']);"  rel="tag">TV</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

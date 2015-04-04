@@ -8,9 +8,9 @@ categories:
 ---
 Read my debate with Radley Balko of Foxnews.com:
 
-> <div>
+
 >   &#8220;It is interesting how ideologically motivated writers tend to create straw men of the views they wish to attack. It is a lot easier to make fun of Bono than Amartya Sen!&#8221;
-> </div>
+
 
 <a href="http://www.nowarblog.org/archives/000112.html#000112" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nowarblog.org/archives/000112.html#000112', 'No War Blog']);" >No War Blog</a>
 

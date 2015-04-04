@@ -13,5 +13,5 @@ UPDATE: <a href="http://weblog.burningbird.net/archives/2005/02/01/throttling-th
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/SPAM" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/SPAM', 'SPAM']);"  rel="tag">SPAM</a>, <a href="http://technorati.com/tag/trackback" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/trackback', 'trackback']);"  rel="tag">trackback</a>, <a href="http://technorati.com/tag/technorati" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/technorati', 'technorati']);"  rel="tag">technorati</a>, <a href="http://technorati.com/tag/wordpress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wordpress', 'wordpress']);"  rel="tag">wordpress</a>}</span>
-</div>
+
 

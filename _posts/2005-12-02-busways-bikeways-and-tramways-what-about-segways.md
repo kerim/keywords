@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Politics
 ---
-**Guest post by tf</p> 
+**Guest post by tf 
 
 </strong>
 
@@ -24,7 +24,7 @@ At the same time, a <a href="http://www.tramway.paris.fr/" onclick="_gaq.push(['
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/banlieues" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/banlieues', 'banlieues']);"  rel="tag">banlieues</a>, <a href="http://www.technorati.com/tag/Bertrand Delanoë" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bertrand Delanoë', 'Bertrand Delanoë']);"  rel="tag">Bertrand Delanoë</a>, <a href="http://www.technorati.com/tag/bicycles" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bicycles', 'bicycles']);"  rel="tag">bicycles</a>, <a href="http://www.technorati.com/tag/bus lanes" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bus lanes', 'bus lanes']);"  rel="tag">bus lanes</a>, <a href="http://www.technorati.com/tag/buses" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/buses', 'buses']);"  rel="tag">buses</a>, <a href="http://www.technorati.com/tag/public transportation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/public transportation', 'public transportation']);"  rel="tag">public transportation</a>, <a href="http://www.technorati.com/tag/Paris" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Paris', 'Paris']);"  rel="tag">Paris</a>, <a href="http://www.technorati.com/tag/Segway" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Segway', 'Segway']);"  rel="tag">Segway</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>, <a href="http://www.technorati.com/tag/tramway" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tramway', 'tramway']);"  rel="tag">tramway</a>
-</p>
+
 
 <!-- technorati tags end -->
 

@@ -23,7 +23,7 @@ It also presents a bureaucratic problem. Although newer computers can handle alm
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://www.technorati.com/tag/japan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/japan', 'japan']);"  rel="tag">japan</a>, <a href="http://www.technorati.com/tag/漢字" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/漢字', '漢字']);"  rel="tag">漢字</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/日本" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/日本', '日本']);"  rel="tag">日本</a>, <a href="http://www.technorati.com/tag/語言" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/語言', '語言']);"  rel="tag">語言</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -25,7 +25,7 @@ If only the FBI would use &#8220;Sir/Madam&#8221; &#8230; and then sign their me
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/spam" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/spam', 'spam']);"  rel="tag">spam</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

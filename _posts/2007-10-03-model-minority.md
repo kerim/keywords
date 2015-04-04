@@ -17,7 +17,7 @@ This <a href="http://www.nytimes.com/2007/10/02/us/02hindu.html" onclick="_gaq.p
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/hindus" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hindus', 'hindus']);"  rel="tag">hindus</a>, <a href="http://www.technorati.com/tag/jews" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/jews', 'jews']);"  rel="tag">jews</a>, <a href="http://www.technorati.com/tag/minority" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/minority', 'minority']);"  rel="tag">minority</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

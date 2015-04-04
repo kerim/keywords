@@ -17,7 +17,7 @@ Click on the photo to see the complete set, or <a href="http://www.flickr.com/ph
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/Kerala" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Kerala', 'Kerala']);"  rel="tag">Kerala</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

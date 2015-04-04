@@ -31,7 +31,7 @@ PS: If you can offer support in the way of help with web/graphic design, promoti
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Chharanagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Chharanagar', 'Chharanagar']);"  rel="tag">Chharanagar</a>, <a href="http://www.technorati.com/tag/Denotified Tribes" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Denotified Tribes', 'Denotified Tribes']);"  rel="tag">Denotified Tribes</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -15,7 +15,7 @@ Where can I submit myself for reprogramming?
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/education', 'education']);"  rel="tag">education</a>, <a href="http://www.technorati.com/tag/human rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/human rights', 'human rights']);"  rel="tag">human rights</a>, <a href="http://www.technorati.com/tag/IB" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/IB', 'IB']);"  rel="tag">IB</a>, <a href="http://www.technorati.com/tag/international Baccalaureate" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/international Baccalaureate', 'international Baccalaureate']);"  rel="tag">international Baccalaureate</a>, <a href="http://www.technorati.com/tag/UNIS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/UNIS', 'UNIS']);"  rel="tag">UNIS</a>, <a href="http://www.technorati.com/tag/united nations" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/united nations', 'united nations']);"  rel="tag">united nations</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -22,7 +22,7 @@ Surely, it is this particular remark that got the opposition all steamed?
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/carrots" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/carrots', 'carrots']);"  rel="tag">carrots</a>, <a href="http://www.technorati.com/tag/cauliflowers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/cauliflowers', 'cauliflowers']);"  rel="tag">cauliflowers</a>, <a href="http://www.technorati.com/tag/democracy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/democracy', 'democracy']);"  rel="tag">democracy</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>
-</p>
+
 
 <!-- technorati tags end -->
 

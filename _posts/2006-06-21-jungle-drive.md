@@ -20,7 +20,7 @@ As far as I can tell, Jungle Disc is only charging what Amazon.com is charging. 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/.mac" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/.mac', '.mac']);"  rel="tag">.mac</a>, <a href="http://www.technorati.com/tag/online storage" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/online storage', 'online storage']);"  rel="tag">online storage</a>, <a href="http://www.technorati.com/tag/webdav" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/webdav', 'webdav']);"  rel="tag">webdav</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

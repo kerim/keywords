@@ -11,7 +11,7 @@ It looks like Rita will <a href="http://sfgate.com/cgi-bin/article.cgi?f=/n/a/20
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>, <a href="http://www.technorati.com/tag/rita" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/rita', 'rita']);"  rel="tag">rita</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

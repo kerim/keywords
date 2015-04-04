@@ -11,7 +11,7 @@ Those who haven&#8217;t been reading my other blog, *<a href="http://savageminds
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/Guns, Germs and Steel" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Guns, Germs and Steel', 'Guns, Germs and Steel']);"  rel="tag">Guns, Germs and Steel</a>, <a href="http://technorati.com/tag/Jared Diamond" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Jared Diamond', 'Jared Diamond']);"  rel="tag">Jared Diamond</a>, <a href="http://technorati.com/tag/Savage Minds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Savage Minds', 'Savage Minds']);"  rel="tag">Savage Minds</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -22,7 +22,7 @@ UPDATE: Looking at my post I realize that my attempt at a cute Chinese example d
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Chinese', 'Chinese']);"  rel="tag">Chinese</a>, <a href="http://technorati.com/tag/etymology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/etymology', 'etymology']);"  rel="tag">etymology</a>, <a href="http://technorati.com/tag/logic" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/logic', 'logic']);"  rel="tag">logic</a>, <a href="http://technorati.com/tag/rhetoric" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rhetoric', 'rhetoric']);"  rel="tag">rhetoric</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

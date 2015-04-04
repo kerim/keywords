@@ -12,13 +12,13 @@ categories:
 ---
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_medium_quote">
-    <p>
+    
       Eight out of ten voters told exit pollsters that they are frightened by the economy; four out of ten report that their own families are still worse off than they once were. Columnists say that this explains why they turned on President Obama and deserted the Democrats. But that is not a solution to the puzzle; it is part of it. The economy is improving; private sector jobs are increasing. True, the improvement is slow—no doubt slower than everyone hoped and many people expected. <strong>But if someone has burned down your house you would not fire your new contractor because he has not rebuilt it overnight and then hire the arsonist to finish the job.</strong>
-    </p>
+    
   </blockquote>
   
   <div class="posterous_quote_citation">
     via <a href="http://www.nybooks.com/blogs/nyrblog/2010/nov/05/americans-against-themselves/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nybooks.com/blogs/nyrblog/2010/nov/05/americans-against-themselves/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29', 'nybooks.com']);" >nybooks.com</a>
-  </div></p>
-</div>
+  
+
 

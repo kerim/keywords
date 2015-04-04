@@ -15,16 +15,16 @@ This post is for people using Samsung laser printers with Apple Time Capsule (al
 I eventually found a solution which works for me on Apple&#8217;s support forums. There are so many similar threads its hard to know which one to look at for the answer. I found the answer in <a href="http://discussions.apple.com/thread.jspa?messageID=8995520#8995520" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://discussions.apple.com/thread.jspa?messageID=8995520#8995520', 'this thread']);" >this thread</a>:
 
 <blockquote class="posterous_short_quote">
-  <p>
+  
     Open AirPort Utility>select the Time Capsule>Manual Setup>Select the &#8220;Printers&#8221; tab at the top>check the box in front of &#8220;Share printers over Ethernet WAN port&#8221;>click update at the bottom and Voila!!
-  </p>
+  
 </blockquote>
 
-<div>
-  That&#8217;s it. Hope it helps!
-</div>
 
-<div>
+  That&#8217;s it. Hope it helps!
+
+
+
   UPDATE: Hmmm. Immediately after post this, the printer stopped working again&#8230; Should have kept my mouth shut!
-</div>
+
 

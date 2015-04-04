@@ -34,7 +34,7 @@ Please, <a href="http://www.usalone.net/cgi-bin/oen.cgi?qnum=25" onclick="_gaq.p
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/House Bill 3146" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/House Bill 3146', 'House Bill 3146']);"  rel="tag">House Bill 3146</a>, <a href="http://www.technorati.com/tag/Senate Bills 1349 and 1504" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Senate Bills 1349 and 1504', 'Senate Bills 1349 and 1504']);"  rel="tag">Senate Bills 1349 and 1504</a>, <a href="http://www.technorati.com/tag/Community Access" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Community Access', 'Community Access']);"  rel="tag">Community Access</a>, <a href="http://www.technorati.com/tag/P.E.G." onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/P.E.G.', 'P.E.G.']);"  rel="tag">P.E.G.</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

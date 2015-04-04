@@ -11,7 +11,7 @@ The BBC <a href="http://news.bbc.co.uk/1/hi/world/americas/4350860.stm" onclick=
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/peace" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/peace', 'peace']);"  rel="tag">peace</a>, <a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -30,7 +30,7 @@ It seems that Crazy English is now a successful company and brand name, employin
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://technorati.com/tag/Crazy English" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Crazy English', 'Crazy English']);"  rel="tag">Crazy English</a>, <a href="http://technorati.com/tag/english" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/english', 'english']);"  rel="tag">english</a>, <a href="http://technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -27,7 +27,7 @@ If you like **Acting Like a Thief**, please help <a href="http://hoochandhamlet.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/acting like a thief" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/acting like a thief', 'acting like a thief']);"  rel="tag">acting like a thief</a>, <a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

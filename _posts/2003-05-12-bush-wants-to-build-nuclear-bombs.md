@@ -8,9 +8,9 @@ categories:
 ---
 Yup:
 
-> <div>
+
 >   Our states are going bankrupt, social services are cut to the bone , the economy is in deep trouble, and Bush wants to build nuclear bombs?
-> </div>
+
 
 <a href="http://www.talkleft.com/archives/003137.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.talkleft.com/archives/003137.html', 'Talk Left']);" >Talk Left</a>
 

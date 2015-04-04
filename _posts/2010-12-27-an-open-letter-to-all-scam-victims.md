@@ -41,5 +41,5 @@ This is the best Nigeria scam e-mail I've seen so far.
   <p />
   Yours sincerely,
   <br /> Emmanuela Awure (Mrs)<br /> Oversea Communication Department
-</div>
+
 

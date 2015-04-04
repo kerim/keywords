@@ -6,9 +6,9 @@ permalink: /archives/2002/06/08/the-anthropology-of-reform-and-the-reform-of-ant
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Annu. Rev. Anthropol. 2001. 30:139-161.&#8221;
-> </div>
+
 
 <a href="http://anthro.annualreviews.org/cgi/content/abstract/30/1/139" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://anthro.annualreviews.org/cgi/content/abstract/30/1/139', 'AR Anthropol. &#8212; Abstracts: Harrell 30 (1): 139']);" >AR Anthropol. &#8212; Abstracts: Harrell 30 (1): 139</a>  
 <!--more-->

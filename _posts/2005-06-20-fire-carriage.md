@@ -21,7 +21,7 @@ Now, I know that this comes from a book by Paul Theroux, but I really don&#8217;
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://technorati.com/tag/etymology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/etymology', 'etymology']);"  rel="tag">etymology</a>, <a href="http://technorati.com/tag/privatization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/privatization', 'privatization']);"  rel="tag">privatization</a>, <a href="http://technorati.com/tag/train" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/train', 'train']);"  rel="tag">train</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

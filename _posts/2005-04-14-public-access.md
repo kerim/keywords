@@ -21,5 +21,5 @@ Giving communities power over producing their own media content will not elimina
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/media" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/media', 'media']);"  rel="tag">media</a>, <a href="http://technorati.com/tag/pbs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/pbs', 'pbs']);"  rel="tag">pbs</a>, <a href="http://technorati.com/tag/culture war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/culture war', 'culture war']);"  rel="tag">culture war</a>}</span>
-</div>
+
 

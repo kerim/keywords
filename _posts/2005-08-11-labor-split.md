@@ -25,7 +25,7 @@ But, not surprisingly, the most insightful comment about the whole thing came fr
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/AFL-CIO" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/AFL-CIO', 'AFL-CIO']);"  rel="tag">AFL-CIO</a>, <a href="http://technorati.com/tag/SEIU" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/SEIU', 'SEIU']);"  rel="tag">SEIU</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

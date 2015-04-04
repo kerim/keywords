@@ -6,9 +6,9 @@ permalink: /archives/2002/05/11/uganda-rebels-massacre-villagers/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Ugandan rebels from the Lord&#8217;s Resistance Army (LRA) have killed several hundred Sudanese civilians in the past week, Ugandan army and Sudan Catholic Church officials have said.&#8221;
-> </div>
+
 
 <a href="http://news.bbc.co.uk/hi/english/world/africa/newsid_1981000/1981951.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/hi/english/world/africa/newsid_1981000/1981951.stm', '(BBC )']);" >(BBC )</a>
 

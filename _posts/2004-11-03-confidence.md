@@ -9,7 +9,7 @@ categories:
 Couldn&#8217;t sleep. Ohio still too close to call. How could it be so close? Perhaps the answer is in the story of<a href="http://www.nytimes.com/2004/11/03/international/europe/03love.html?ex=1257138000&#38;en=23682285a120675e&#38;ei=5090&#38;partner=rssuserland" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2004/11/03/international/europe/03love.html?ex=1257138000&en=23682285a120675e&ei=5090&partner=rssuserland', ' Ms. Medvedeva']);" > Ms. Medvedeva</a>, a &#8220;young, brown-eyed and curvy, a pediatric dentist who quotes 19th-century poetry and cooks delicious meals. She lives near the Caspian Sea in southern Russia but is eager to travel.&#8221;  
 
 
-> Ms. Medvedeva is one of scores, perhaps hundreds, of fictional characters in a resurgent Internet hustle that has become a Russian boom industry this year. Using fake names, forged visas and snapshots of young Russian women, a new crop of on-line swindlers is luring Western victims into highly successful confidence games.</p> 
+> Ms. Medvedeva is one of scores, perhaps hundreds, of fictional characters in a resurgent Internet hustle that has become a Russian boom industry this year. Using fake names, forged visas and snapshots of young Russian women, a new crop of on-line swindlers is luring Western victims into highly successful confidence games. 
 > 
 > Each is an escalating flirtation between an unsuspecting man and a Russian grifter masquerading as a young woman. It typically ends when the victim wires money to Russia to pay for visas and airfare for a consummation of the affair. Then the beloved disappears.
 

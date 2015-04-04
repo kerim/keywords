@@ -22,7 +22,7 @@ My brother reports on how the media is reacting to the riots in France:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/France" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/France', 'France']);"  rel="tag">France</a>, <a href="http://www.technorati.com/tag/riot" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/riot', 'riot']);"  rel="tag">riot</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

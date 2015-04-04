@@ -14,13 +14,13 @@ categories:
 ---
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_long_quote">
-    <p>
+    
       But Skype requires me to look at you while you&#8217;re talking, which is totally ridiculous. The only sci-fi show that understood this was <i>Star Trek</i>. Bones and Jim would use their flip phones to talk quickly about beaming or health issues. The only time they&#8217;d fire up the videophone was when a Klingon was sitting in a spaceship 20 yards away with guns pointed at them. Even then I think Sulu was checking out <a href="http://GoFugYourself.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://GoFugYourself.com', 'GoFugYourself.com']);"  target="_blank">GoFugYourself.com</a>
-    </p>
+    
   </blockquote>
   
   <div class="posterous_quote_citation">
     via <a href="http://www.time.com/time/magazine/article/0,9171,1952314,00.html?xid=rss-topstories" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.time.com/time/magazine/article/0,9171,1952314,00.html?xid=rss-topstories', 'time.com']);" >time.com</a>
-  </div></p>
-</div>
+  
+
 

@@ -12,10 +12,10 @@ categories:
 ---
 <span style="font-size: medium;">For some strange reason, Taiwanese love Plurk. So even though I don&#8217;t use it myself, I&#8217;d like to have my status updates posted there. The problem is that Plurk allows posting to Twitter, but not the other way around. After some research, I finally figured a work around. The trick is to use both&nbsp;<a href="http://Ping.fm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://Ping.fm', 'Ping.fm']);" ><span style="font-size: medium;">Ping.fm</span></a><span style="font-size: medium;"> and </span><a href="http://twitterfeed.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitterfeed.com/', 'Twitterfeed']);" ><span style="font-size: medium;">Twitterfeed</span></a><span style="font-size: medium;">.&nbsp;</span></span>
 
-<div>
-  <span style="font-size: medium;">Here are the steps:</span></p> 
+
+  <span style="font-size: medium;">Here are the steps:</span> 
   
-  <div>
+  
     <ol>
       <li>
         <span style="font-size: medium;">Set up a Ping.fm account.</span>
@@ -34,17 +34,17 @@ categories:
       </li>
     </ol>
     
-    <div>
+    
       <span style="font-size: medium;">That&#8217;s it. I hope this is helpful.</span>
-    </div>
+    
     
     <p />
     
-    <div>
+    
       <span style="font-size: large;"><span style="font-size: medium;">Here is </span><a href="http://www.plurk.com/kerim" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.plurk.com/kerim', 'my Plurk page']);" ><span style="font-size: medium;">my Plurk page</span></a><span style="font-size: medium;">.</span></span>
-    </div>
+    
     
     <p />
-  </div>
-</div>
+  
+
 

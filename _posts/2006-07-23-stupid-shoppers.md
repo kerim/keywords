@@ -26,7 +26,7 @@ Unfortunately, the chances of any kind of government regulation to enforce hones
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/shopping" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/shopping', 'shopping']);"  rel="tag">shopping</a>, <a href="http://www.technorati.com/tag/consumerism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/consumerism', 'consumerism']);"  rel="tag">consumerism</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

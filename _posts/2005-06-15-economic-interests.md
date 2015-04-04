@@ -22,7 +22,7 @@ Even if they never personally benefit from various client-patron relationships, 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/democrats" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/democrats', 'democrats']);"  rel="tag">democrats</a>, <a href="http://technorati.com/tag/economic interests" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/economic interests', 'economic interests']);"  rel="tag">economic interests</a>, <a href="http://technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

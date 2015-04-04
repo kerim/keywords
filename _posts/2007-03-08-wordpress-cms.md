@@ -18,7 +18,7 @@ So how do you do it?
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/wordpress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wordpress', 'wordpress']);"  rel="tag">wordpress</a>, <a href="http://www.technorati.com/tag/cms" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/cms', 'cms']);"  rel="tag">cms</a>, <a href="http://www.technorati.com/tag/web 2.0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/web 2.0', 'web 2.0']);"  rel="tag">web 2.0</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

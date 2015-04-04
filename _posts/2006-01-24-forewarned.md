@@ -19,7 +19,7 @@ They keep talking about the power of the executive branch, but they don&#8217;t 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/bush" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bush', 'bush']);"  rel="tag">bush</a>, <a href="http://www.technorati.com/tag/FEMA" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/FEMA', 'FEMA']);"  rel="tag">FEMA</a>, <a href="http://www.technorati.com/tag/memo" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/memo', 'memo']);"  rel="tag">memo</a>, <a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

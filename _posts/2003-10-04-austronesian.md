@@ -9,21 +9,21 @@ categories:
 ---
 <img src="http://keywords.oxus.net/images/abodist.jpg" height="401" width="294" align="left" border="0" hspace="10" vspace="10" />There is a lot of talk about languages in Taiwan these days, especially since the announcement of a draft of a proposed &#8220;<a href="http://www.taipeitimes.com/News/edit/archives/2003/09/25/2003069193" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/edit/archives/2003/09/25/2003069193', 'national languages development law']);" >national languages development law</a>&#8220;:
 
-> <div>
+
 >   The intent behind this legislation is to protect and preserve disadvantaged languages which are in danger of extinction after being marginalized by the forced usage of Mandarin for so many decades. Under the proposed law, all languages used in Taiwan would become national languages and be given equal status.
-> </div>
+
 
 This is great news, but there is a serious problem with such an effort, it seems people are not quite sure just how many languages are there in Taiwan? Even the President is a little confused:
 
-> <div>
+
 >   Chen said that there are 29 languages spoken in Taiwan, including Taiwanese, mandarin, Hakka and more than a dozen aboriginal languages.
-> </div>
+
 
 However, the paper corrects him, saying:
 
-> <div>
+
 >   According to UNESCO statistics, however, there are only 22 languages left in Taiwan and the other seven have disappeared.
-> </div>
+
 
 22? How did they get that number? There are three Chinese languages: <a href="http://www.zhongwen.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.zhongwen.com/', 'Mandarin']);" >Mandarin</a>, <a href="http://www.hoklo.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hoklo.org/', 'Hakka, and Hoklo']);" >Hakka, and Hoklo</a>, there is no dispute about that. (Well, you could say there are more if you count the languages spoken by <a href="http://www.taipeitimes.com/News/taiwan/archives/2003/10/01/2003069953" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2003/10/01/2003069953', 'foreign brides']);" >foreign brides</a>, older immigrants from the Mainland, and foreign workers, but lets not get too complicated&#8230;) And Japanese is counted, because many older people who lived in Taiwan during the <a href="http://www.wikipedia.org/wiki/History_of_Taiwan#Japanese_Rule" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wikipedia.org/wiki/History_of_Taiwan#Japanese_Rule', 'Japanese Colonial Era']);" >Japanese Colonial Era</a>, still speak Japanese. Maybe they count English as well? Who knows?
 

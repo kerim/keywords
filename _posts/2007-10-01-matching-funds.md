@@ -15,7 +15,7 @@ Edwards is a lot smarter than the press gives him credit for. I haven&#8217;t gi
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/John Edwards" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/John Edwards', 'John Edwards']);"  rel="tag">John Edwards</a>, <a href="http://www.technorati.com/tag/Election" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Election', 'Election']);"  rel="tag">Election</a>, <a href="http://www.technorati.com/tag/Campaign Funding" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Campaign Funding', 'Campaign Funding']);"  rel="tag">Campaign Funding</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

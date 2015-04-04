@@ -17,7 +17,7 @@ And speaking of Elizabeth Warren, see Daniel Gross&#8217; <a href="http://slate.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://technorati.com/tag/class" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/class', 'class']);"  rel="tag">class</a>, <a href="http://technorati.com/tag/labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/labor', 'labor']);"  rel="tag">labor</a>, <a href="http://technorati.com/tag/supreme court" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/supreme court', 'supreme court']);"  rel="tag">supreme court</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

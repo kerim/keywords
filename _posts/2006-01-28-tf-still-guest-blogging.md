@@ -13,7 +13,7 @@ I haven&#8217;t thanked TF for his wonderful guest blogging while I was in India
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/guest" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/guest', 'guest']);"  rel="tag">guest</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

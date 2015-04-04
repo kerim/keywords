@@ -22,7 +22,7 @@ Below is a picture of my new stamp and a test sheet of paper.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dong hwa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dong hwa', 'dong hwa']);"  rel="tag">dong hwa</a>, <a href="http://www.technorati.com/tag/email" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/email', 'email']);"  rel="tag">email</a>, <a href="http://www.technorati.com/tag/gtd" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/gtd', 'gtd']);"  rel="tag">gtd</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/東華大學" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/東華大學', '東華大學']);"  rel="tag">東華大學</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

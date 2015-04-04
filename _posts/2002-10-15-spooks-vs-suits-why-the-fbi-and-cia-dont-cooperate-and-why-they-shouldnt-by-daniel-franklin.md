@@ -6,11 +6,9 @@ permalink: /archives/2002/10/15/spooks-vs-suits-why-the-fbi-and-cia-dont-coopera
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;While geography represents an obvious difference between the FBI and the CIA?</p> 
+
+>   &#8220;While geography represents an obvious difference between the FBI and the CIA? 
 >   
->   <div id="themify_builder_content-642" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

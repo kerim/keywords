@@ -13,7 +13,7 @@ Are you an anthropology blogger? If you are, and you aren&#8217;t on <a href="ht
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>, <a href="http://technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

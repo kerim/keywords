@@ -21,7 +21,7 @@ I haven&#8217;t kept up with Kureishi&#8217;s work since the first two brilliant
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bombing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bombing', 'bombing']);"  rel="tag">bombing</a>, <a href="http://technorati.com/tag/kureishi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/kureishi', 'kureishi']);"  rel="tag">kureishi</a>, <a href="http://technorati.com/tag/london" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/london', 'london']);"  rel="tag">london</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -26,7 +26,7 @@ Read <a href="http://www.tehelka.com/story_main18.asp?filename=Cr062406Glocal_3_
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/chharanagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/chharanagar', 'chharanagar']);"  rel="tag">chharanagar</a>, <a href="http://www.technorati.com/tag/Dilip D" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Dilip D', 'Dilip D&#8217;Souza']);" Souza" rel="tag">Dilip D&#8217;Souza</a>, <a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/police" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/police', 'police']);"  rel="tag">police</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -10,26 +10,26 @@ This is the single best newspaper article on &#8220;globalization&#8221; written
 
 
 
-> <div>
->   &#8220;It is often said that globalization is a force of nature, as unstoppable and difficult to contain as a storm. This is untrue and misleading. Globalization is a powerful phenomenon &#8212; but it is not irreversible, and indeed the previous wave of globalization, at the turn of the last century, was stopped dead by World War I. Today it would be more likely for globalization to be sabotaged by its own inequities, as disillusioned nations withdraw from a system they see as indifferent or harmful to the poor.</p> 
+
+>   &#8220;It is often said that globalization is a force of nature, as unstoppable and difficult to contain as a storm. This is untrue and misleading. Globalization is a powerful phenomenon &#8212; but it is not irreversible, and indeed the previous wave of globalization, at the turn of the last century, was stopped dead by World War I. Today it would be more likely for globalization to be sabotaged by its own inequities, as disillusioned nations withdraw from a system they see as indifferent or harmful to the poor. 
 >   
->   <p>
+>   
 >     Globalization&#8217;s supporters portray it as the peeling away of distortions to reveal a clean and elegant system of international commerce, the one nature intended. It is anything but. The accord creating the W.T.O. is 22,500 pages long &#8212; not exactly a free trade agreement. All globalization, it seems, is local, the rules drawn up by, and written to benefit, powerful nations and powerful interests within those nations. Globalization has been good for the United States, but even in this country, the gains go disproportionately to the wealthy and to big business.
->   </p>
 >   
->   <p>
+>   
+>   
 >     [And I had to quote this too:] 
 >     
->     <p>
->       The World Bank calculated that the intellectual-property rules will result in a transfer of $40 billion a year from poor countries to corporations in the developed world.&#8221;
->     </p></div> </blockquote> 
 >     
->     <p>
+>       The World Bank calculated that the intellectual-property rules will result in a transfer of $40 billion a year from poor countries to corporations in the developed world.&#8221;
+>      </blockquote> 
+>     
+>     
 >       <a href="http://www.nytimes.com/2002/08/18/magazine/18GLOBAL.html?tntemail0=&pagewanted=all&position=top" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/08/18/magazine/18GLOBAL.html?tntemail0=&pagewanted=all&position=top', 'The NY Times Magazine']);" >The NY Times Magazine</a>
->     </p>
+>     
 >     
 >     <div id="themify_builder_content-455" class="themify_builder_content themify_builder themify_builder_front">
 >
->     </div>
 >     
->     <!-- /themify_builder_content -->
+>     
+>    

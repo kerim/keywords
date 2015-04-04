@@ -6,17 +6,17 @@ permalink: /archives/2002/12/12/mac-addicts-to-the-rescue/
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;Mac Addicts to the Rescue</p> 
+
+>   &#8220;Mac Addicts to the Rescue 
 >   
->   <p>
+>   
 >     or
->   </p>
 >   
->   <p>
+>   
+>   
 >     How I Caught a Counterfeiter with a Little Help from my Friends&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://www.remodern.com/caught.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.remodern.com/caught.html', 'Mac Addicts to the Rescue']);" >Mac Addicts to the Rescue</a>
 

@@ -8,9 +8,9 @@ categories:
 ---
 <a href="http://www.nathannewman.org/log/archives/001456.shtml" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nathannewman.org/log/archives/001456.shtml', 'A good question']);" >A good question</a>:
 
-> <div>
+
 >   So when did &#8220;free trade&#8221; come to mean the US dictating to other countries whether they can have publicly-owned utilities?
-> </div>
+
 
 Especially when such utilities are understood to be <a href="http://www.progress.org/archive/fold74.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.progress.org/archive/fold74.htm', 'natural monopolies']);" >natural monopolies</a> &#8211; &#8220;defined in economics as an industry where the fixed cost of the capital goods is so high that it is not profitable for a second firm to enter and compete&#8221;.
 

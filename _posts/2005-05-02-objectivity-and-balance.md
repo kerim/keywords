@@ -16,7 +16,7 @@ So a show with balanced news coverage has now been &#8220;balanced&#8221; by pai
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/cpb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/cpb', 'cpb']);"  rel="tag">cpb</a>, <a href="http://technorati.com/tag/Journal Editorial Report" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Journal Editorial Report', 'Journal Editorial Report']);"  rel="tag">Journal Editorial Report</a>, <a href="http://technorati.com/tag/Now" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Now', 'Now']);"  rel="tag">Now</a>, <a href="http://technorati.com/tag/pbs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/pbs', 'pbs']);"  rel="tag">pbs</a>, <a href="http://technorati.com/tag/race" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/race', 'race']);"  rel="tag">race</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

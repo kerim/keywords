@@ -6,9 +6,9 @@ permalink: /archives/2002/06/08/display-and-reaffirmation-of-affect-bond-and-rel
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Language in Society (2002), 31:85-112 Cambridge University Press&#8221;
-> </div>
+
 
 <a href="http://www.journals.cambridge.org/bin/bladerunner?REQUNIQ=1023559629&REQSESS=908820&118000REQEVENT=&REQINT1=99371" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.journals.cambridge.org/bin/bladerunner?REQUNIQ=1023559629&REQSESS=908820&118000REQEVENT=&REQINT1=99371', 'Cambridge Journals Online &#8211; CUP Abstract Page']);" >Cambridge Journals Online &#8211; CUP Abstract Page</a>  
 <!--more-->

@@ -15,13 +15,13 @@ categories:
   - Notable
 ---
 <blockquote class="twitter-tweet">
-  <p>
-    Remember when anthropology of memory was a big thing? Maybe it’s time for the anthropology of remembering the anthropology of memory? <a href="https://twitter.com/search/?q=%23fb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/search/?q=%23fb', '#fb']);" ><s>#</s><b>fb</b></a>
-  </p>
   
-  <p>
+    Remember when anthropology of memory was a big thing? Maybe it’s time for the anthropology of remembering the anthropology of memory? <a href="https://twitter.com/search/?q=%23fb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/search/?q=%23fb', '#fb']);" ><s>#</s><b>fb</b></a>
+  
+  
+  
     &mdash; Kerim Friedman 傅可恩 (@kerim) <a href="https://twitter.com/kerim/status/241189537924132864" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/kerim/status/241189537924132864', 'August 30, 2012']);"  data-datetime="2012-08-30T15:04:01+00:00">August 30, 2012</a>
-  </p>
+  
 </blockquote>
 
 

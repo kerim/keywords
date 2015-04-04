@@ -8,9 +8,9 @@ categories:
 ---
 True? The Guradian thinks that the failure of Abdullah&#8217;s peace plan may have something to do with it.
 
-> <div>
+
 >   &#8220;Saudi Arabia is teetering on the brink of collapse, fuelling Foreign Office fears of an extremist takeover of one of the West&#8217;s key allies in the war on terror.&#8221;
-> </div>
+
 
 <a href="http://www.observer.co.uk/waronterrorism/story/0,1373,764615,00.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.observer.co.uk/waronterrorism/story/0,1373,764615,00.html', 'Guardian Unlimited']);" >Guardian Unlimited</a>
 

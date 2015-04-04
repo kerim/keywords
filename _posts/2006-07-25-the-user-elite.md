@@ -18,7 +18,7 @@ First of all, lets make it clear that neither Digg nor Wikipedia content is prod
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/digg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/digg', 'digg']);"  rel="tag">digg</a>, <a href="http://www.technorati.com/tag/Web 2.0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Web 2.0', 'Web 2.0']);"  rel="tag">Web 2.0</a>, <a href="http://www.technorati.com/tag/wikipedia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/wikipedia', 'wikipedia']);"  rel="tag">wikipedia</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 
@@ -38,7 +38,7 @@ This brings us to the second issue, which is that, because of the narrow demogra
 
 The second issue came up in Mark Glaser&#8217;s <a href="http://www.pbs.org/mediashift/2006/07/digging_deepershould_community.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.pbs.org/mediashift/2006/07/digging_deepershould_community.html', 'coverage']);" >coverage</a> of the Digg controversy. He quotes &#8220;virtual-reality pioneer, composer, author and tech guru <a href="http://www.jaronlanier.com/general.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jaronlanier.com/general.html', 'Jaron Lanier']);" >Jaron Lanier</a>&#8220;:
 
-> [Lanier] worried that sites such as Digg and Reddit were signs of a deeper problem surrounding newsgathering — that we have more news analysts than people on the ground doing hard-nosed reporting.</p> 
+> [Lanier] worried that sites such as Digg and Reddit were signs of a deeper problem surrounding newsgathering — that we have more news analysts than people on the ground doing hard-nosed reporting. 
 > 
 > “It’s true we have a surplus of interpreters of news, as from bloggers, so in a sense we have a gigantic staff of volunteer public analysts, but we are starved for raw data,” he said. “We can read what a blogger on the ground in Israel or Lebanon is experiencing this week, and that is important, but there are almost no unbiased investigative reporters of consequence helping us understand what is going on from a perspective other than that of an ‘ordinary’ person on the ground. This lack is in part a failure of the Internet to serve humanity.”
 > 

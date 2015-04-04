@@ -28,7 +28,7 @@ In the end, I think we need to do better to remove the stench of corruption from
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/election2000" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/election2000', 'election2000']);"  rel="tag">election2000</a>, <a href="http://technorati.com/tag/election2004" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/election2004', 'election2004']);"  rel="tag">election2004</a>, <a href="http://technorati.com/tag/florida" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/florida', 'florida']);"  rel="tag">florida</a>, <a href="http://technorati.com/tag/Ohio" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Ohio', 'Ohio']);"  rel="tag">Ohio</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

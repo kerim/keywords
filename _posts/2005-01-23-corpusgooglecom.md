@@ -20,5 +20,5 @@ UPDATE: But is Google&#8217;s search feature &#8220;<a href="http://itre.cis.upe
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/language" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/language', 'language']);"  rel="tag">language</a>, <a href="http://technorati.com/tag/linguistics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/linguistics', 'linguistics']);"  rel="tag">linguistics</a>, <a href="http://technorati.com/tag/google" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/google', 'google']);"  rel="tag">google</a>}</span>
-</div>
+
 

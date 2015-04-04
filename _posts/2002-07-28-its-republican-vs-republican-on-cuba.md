@@ -8,13 +8,13 @@ categories:
 ---
 Why the Cuban trade embargo might be lifted:
 
-> <div>
->   &#8220;"I feel at some point that the farm state politics will overwhelm the Florida politics," Mr. Flake said.</p> 
+
+>   &#8220;"I feel at some point that the farm state politics will overwhelm the Florida politics," Mr. Flake said. 
 >   
->   <p>
+>   
 >     Mr. Flake said he believed that his position would ultimately prevail because the needs of farm state lawmakers would trump White House concerns about losing favor with Florida voters.&#8221;
->   </p>
-> </div>
+>   
+
 
 <a href="http://www.nytimes.com/2002/07/28/politics/28ROVE.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2002/07/28/politics/28ROVE.html', 'NY Times']);" >NY Times</a>
 

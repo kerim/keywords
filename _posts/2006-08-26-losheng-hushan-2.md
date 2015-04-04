@@ -20,7 +20,7 @@ And <a href="http://en.wildatheart.org.tw/archives/hushan_dam_petition_your_help
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/environment" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/environment', 'environment']);"  rel="tag">environment</a>, <a href="http://www.technorati.com/tag/leprosy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/leprosy', 'leprosy']);"  rel="tag">leprosy</a>, <a href="http://www.technorati.com/tag/taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/taiwan', 'taiwan']);"  rel="tag">taiwan</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

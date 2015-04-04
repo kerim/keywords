@@ -20,5 +20,5 @@ Nathan Newman <a href="http://www.nathannewman.org/log/archives/002363.shtml" on
 >   * Whites are two to three times more likely to receive a kidney transplant than non-whites, and three times more likely to undergo bypass surgery.
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/health care" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/health care', 'health care']);"  rel="tag">health care</a>, <a href="http://technorati.com/tag/african americans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/african americans', 'african americans']);"  rel="tag">african americans</a>, <a href="http://technorati.com/tag/republicans" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/republicans', 'republicans']);"  rel="tag">republicans</a>}</span>
-</div>
+
 

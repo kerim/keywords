@@ -32,7 +32,7 @@ For more information on the debt hemorrhage of the American family, be sure to r
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

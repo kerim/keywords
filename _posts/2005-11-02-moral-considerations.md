@@ -19,7 +19,7 @@ Of course, Kissinger and others can pretend that it is not a moral choice, becau
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Henry Kissinger" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Henry Kissinger', 'Henry Kissinger']);"  rel="tag">Henry Kissinger</a>, <a href="http://www.technorati.com/tag/morality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/morality', 'morality']);"  rel="tag">morality</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

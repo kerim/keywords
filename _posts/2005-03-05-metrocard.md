@@ -25,5 +25,5 @@ On a side note, I was surprised by two things in the following graphic: First, t
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/MTA" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/MTA', 'MTA']);"  rel="tag">MTA</a>, <a href="http://technorati.com/tag/subway" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/subway', 'subway']);"  rel="tag">subway</a>, <a href="http://technorati.com/tag/fare hike" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/fare hike', 'fare hike']);"  rel="tag">fare hike</a>, <a href="http://technorati.com/tag/new york" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/new york', 'new york']);"  rel="tag">new york</a>, <a href="http://technorati.com/tag/nyc" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/nyc', 'nyc']);"  rel="tag">nyc</a>, <a href="http://technorati.com/tag/budget" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/budget', 'budget']);"  rel="tag">budget</a>}</span>
-</div>
+
 

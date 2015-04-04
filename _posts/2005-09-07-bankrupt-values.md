@@ -33,7 +33,7 @@ And yet another Kevin Drum piece (sheesh), about how the Republicans are using K
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://www.technorati.com/tag/elizabeth warren" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/elizabeth warren', 'elizabeth warren']);"  rel="tag">elizabeth warren</a>, <a href="http://www.technorati.com/tag/katrina" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/katrina', 'katrina']);"  rel="tag">katrina</a>, <a href="http://www.technorati.com/tag/Lakoff" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Lakoff', 'Lakoff']);"  rel="tag">Lakoff</a>, <a href="http://www.technorati.com/tag/tax cuts" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tax cuts', 'tax cuts']);"  rel="tag">tax cuts</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

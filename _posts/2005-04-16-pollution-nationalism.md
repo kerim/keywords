@@ -47,5 +47,5 @@ UPDATE: Here is a good <a href="http://simonworld.mu.nu/archives/075515.php" onc
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/environmentalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/environmentalism', 'environmentalism']);"  rel="tag">environmentalism</a>, <a href="http://technorati.com/tag/nationalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/nationalism', 'nationalism']);"  rel="tag">nationalism</a>, <a href="http://technorati.com/tag/china" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/china', 'china']);"  rel="tag">china</a>, <a href="http://technorati.com/tag/japan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/japan', 'japan']);"  rel="tag">japan</a>, <a href="http://technorati.com/tag/protest" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/protest', 'protest']);"  rel="tag">protest</a>, <a href="http://technorati.com/tag/riot" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/riot', 'riot']);"  rel="tag">riot</a>}</span>
-</div>
+
 

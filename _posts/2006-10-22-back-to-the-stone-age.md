@@ -15,7 +15,7 @@ Related: This <a href="http://www.thenation.com/doc/20011029/corson/5" onclick="
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/back to the stone age" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/back to the stone age', 'back to the stone age']);"  rel="tag">back to the stone age</a>, <a href="http://www.technorati.com/tag/bombing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/bombing', 'bombing']);"  rel="tag">bombing</a>, <a href="http://www.technorati.com/tag/language" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/language', 'language']);"  rel="tag">language</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

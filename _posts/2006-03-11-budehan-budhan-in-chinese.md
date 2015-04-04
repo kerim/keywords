@@ -23,7 +23,7 @@ Thanks Zonble!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/acting like a thief" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/acting like a thief', 'acting like a thief']);"  rel="tag">acting like a thief</a>, <a href="http://www.technorati.com/tag/chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/chinese', 'chinese']);"  rel="tag">chinese</a>, <a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/tran" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tran', 'tran']);"  rel="tag">tran</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -19,7 +19,7 @@ The description of the program reminded me of a lady I once knew who had studied
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/elocution" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/elocution', 'elocution']);"  rel="tag">elocution</a>, <a href="http://www.technorati.com/tag/call centers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/call centers', 'call centers']);"  rel="tag">call centers</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>
-</p>
+
 
 <!-- technorati tags end -->
 

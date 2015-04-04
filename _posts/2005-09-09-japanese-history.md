@@ -24,7 +24,7 @@ There is also a new book that is worth noting: *<a href="http://www.amazon.com/e
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/education', 'education']);"  rel="tag">education</a>, <a href="http://www.technorati.com/tag/East Asia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/East Asia', 'East Asia']);"  rel="tag">East Asia</a>, <a href="http://www.technorati.com/tag/history" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/history', 'history']);"  rel="tag">history</a>, <a href="http://www.technorati.com/tag/Japan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Japan', 'Japan']);"  rel="tag">Japan</a>, <a href="http://www.technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

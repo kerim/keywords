@@ -27,7 +27,7 @@ UPDATE: TextDrive quickly contacted me to let me know that my IP was banned for 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/lazyweb" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/lazyweb', 'lazyweb']);"  rel="tag">lazyweb</a>, <a href="http://technorati.com/tag/precondition failed" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/precondition failed', 'precondition failed']);"  rel="tag">precondition failed</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -15,7 +15,7 @@ This is so important that I can&#8217;t believe the *NY Times* wants you to pay 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Chad" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Chad', 'Chad']);"  rel="tag">Chad</a>, <a href="http://www.technorati.com/tag/Darfur" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Darfur', 'Darfur']);"  rel="tag">Darfur</a>, <a href="http://www.technorati.com/tag/genocide" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/genocide', 'genocide']);"  rel="tag">genocide</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

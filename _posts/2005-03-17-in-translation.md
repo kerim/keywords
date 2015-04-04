@@ -15,5 +15,5 @@ More information on Lost via the <a href="http://www.lost-tv.com/" onclick="_gaq
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Lost" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Lost', 'Lost']);"  rel="tag">Lost</a>, <a href="http://technorati.com/tag/ABC" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ABC', 'ABC']);"  rel="tag">ABC</a>, <a href="http://technorati.com/tag/Daniel Dae Kim" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Daniel Dae Kim', 'Daniel Dae Kim']);"  rel="tag">Daniel Dae Kim</a>, <a href="http://technorati.com/tag/Yoon-jin Kim" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Yoon-jin Kim', 'Yoon-jin Kim']);"  rel="tag">Yoon-jin Kim</a>, <a href="http://technorati.com/tag/Korean" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Korean', 'Korean']);"  rel="tag">Korean</a>}</span>
-</div>
+
 

@@ -8,15 +8,15 @@ categories:
 ---
 <a href="http://atrios.blogspot.com/#200199279" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://atrios.blogspot.com/#200199279', 'Echaton']);" >Echaton</a>:
 
-> <div>
->   You know, lying.</p> 
+
+>   You know, lying. 
 >   
->   <p>
+>   
 >     &#8230;Hey, they didn&#8217;t lie about blowjobs or anything REALLY important.
->   </p>
 >   
->   <p>
+>   
+>   
 >     Well, it was nice to be right about this all along. I&#8217;m so thrilled that 150+ soldiers had to die before I was validated.
->   </p>
-> </div>
+>   
+
 

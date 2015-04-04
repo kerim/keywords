@@ -11,13 +11,13 @@ categories:
 ---
 Opposition to Bilingual Education is popping up again in yet another state &#8211; <a href="http://www.jacksonville.com/tu-online/stories/081003/opi_13233174.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jacksonville.com/tu-online/stories/081003/opi_13233174.html', 'this time its Florida']);" >this time its Florida</a>:
 
-> <div>
->   The unfortunate reality is that it takes away the incentive to learn English. That dooms many of them to low-wage, physically demanding jobs &#8212; not exactly the American dream.</p> 
+
+>   The unfortunate reality is that it takes away the incentive to learn English. That dooms many of them to low-wage, physically demanding jobs &#8212; not exactly the American dream. 
 >   
->   <p>
+>   
 >     &#8230; Bilingual education, particularly, has been a disaster.
->   </p>
-> </div>
+>   
+
 
 Neither of these claims is true. First of all, the data used in the editorial is based on a 2002 report on Bilingual Education in New York by the Lexington Institute, <a href="http://www.azusausd.k12.ca.us/bilingual/pdf%5CKrashen123.pdf" onclick="_gaq.push(['_trackEvent','download','http://www.azusausd.k12.ca.us/bilingual/pdf%5CKrashen123.pdf']);" >an organization devoted to ending Bilingual Education</a>. A separate report by the <a href="http://www.prldef.org/policy.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.prldef.org/policy.htm', 'Puerto Rican Legal Defense and Education Fund']);" >Puerto Rican Legal Defense and Education Fund</a>, drawing on some of the same government data, found Bilingual Education in New York to be effective, while so-called &#8220;reforms&#8221; only made things worse.
 

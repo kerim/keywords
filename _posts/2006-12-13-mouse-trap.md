@@ -12,7 +12,7 @@ Thinking of building a better mouse trap? Now with Google patent search you can 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/patents" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/patents', 'patents']);"  rel="tag">patents</a>}</span>
-</div></p> 
+ 
 
 <!-- technorati tags end -->
 

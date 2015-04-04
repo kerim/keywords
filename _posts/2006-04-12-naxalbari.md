@@ -40,7 +40,7 @@ UPDATE: A more <a href="http://burning.typepad.com/burningman/2006/01/maoist_res
 
 <div style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/adivasi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/adivasi', 'adivasi']);" rel="tag">adivasi</a>, <a href="http://www.technorati.com/tag/farmers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/farmers', 'farmers']);" rel="tag">farmers</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);" rel="tag">India</a>, <a href="http://www.technorati.com/tag/Maoists" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Maoists', 'Maoists']);" rel="tag">Maoists</a>, <a href="http://www.technorati.com/tag/Naxalites" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Naxalites', 'Naxalites']);" rel="tag">Naxalites</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

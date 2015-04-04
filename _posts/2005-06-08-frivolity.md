@@ -16,7 +16,7 @@ So the middle classes are knee high in debt because their kids need iPods and fa
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>, <a href="http://technorati.com/tag/elizabeth warren" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/elizabeth warren', 'elizabeth warren']);"  rel="tag">elizabeth warren</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

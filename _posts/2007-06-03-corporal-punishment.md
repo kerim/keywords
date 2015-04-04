@@ -30,7 +30,7 @@ More information can be found on the site of the <a href="http://hef.yam.org.tw/
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/corporal punishment" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/corporal punishment', 'corporal punishment']);"  rel="tag">corporal punishment</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -31,7 +31,7 @@ Finally, one last note [warning, a spoiler ahead (the stuff about the wife getti
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Constant Gardner" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Constant Gardner', 'Constant Gardner']);"  rel="tag">Constant Gardner</a>, <a href="http://www.technorati.com/tag/Darfur" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Darfur', 'Darfur']);"  rel="tag">Darfur</a>, <a href="http://www.technorati.com/tag/Pharma" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Pharma', 'Pharma']);"  rel="tag">Pharma</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

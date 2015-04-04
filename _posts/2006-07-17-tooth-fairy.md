@@ -13,7 +13,7 @@ When I was a kid the tooth fairy only gave me a quarter, <a href="http://www.too
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/inflation" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inflation', 'inflation']);"  rel="tag">inflation</a>, <a href="http://www.technorati.com/tag/stem cells" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/stem cells', 'stem cells']);"  rel="tag">stem cells</a>, <a href="http://www.technorati.com/tag/tooth fairy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tooth fairy', 'tooth fairy']);"  rel="tag">tooth fairy</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

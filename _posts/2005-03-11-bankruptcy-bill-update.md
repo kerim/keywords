@@ -17,5 +17,5 @@ One question I have is, where was <a href="http://www.moveon.org" onclick="_gaq.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://technorati.com/tag/social security" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/social security', 'social security']);"  rel="tag">social security</a>, <a href="http://technorati.com/tag/congress" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/congress', 'congress']);"  rel="tag">congress</a>, <a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>}</span>
-</div>
+
 

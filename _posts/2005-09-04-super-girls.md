@@ -19,7 +19,7 @@ And don&#8217;t miss ESWN&#8217;s post on &#8220;<a href="http://www.zonaeuropa.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://www.technorati.com/tag/super girls" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/super girls', 'super girls']);"  rel="tag">super girls</a>, <a href="http://www.technorati.com/tag/中國" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/中國', '中國']);"  rel="tag">中國</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

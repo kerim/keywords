@@ -35,7 +35,7 @@ Official estimates say that the number of <a href="http://www.iht.com/articles/2
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/China" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/China', 'China']);"  rel="tag">China</a>, <a href="http://www.technorati.com/tag/literacy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/literacy', 'literacy']);"  rel="tag">literacy</a>, <a href="http://www.technorati.com/tag/writing" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/writing', 'writing']);"  rel="tag">writing</a>, <a href="http://www.technorati.com/tag/Chinese" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Chinese', 'Chinese']);"  rel="tag">Chinese</a>, <a href="http://www.technorati.com/tag/inequality" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/inequality', 'inequality']);"  rel="tag">inequality</a>, <a href="http://www.technorati.com/tag/education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/education', 'education']);"  rel="tag">education</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

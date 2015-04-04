@@ -14,5 +14,5 @@ Not my picture, but one I found on Flickr using the &#8220;<a href="http://flick
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/chinese new year" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/chinese new year', 'chinese new year']);"  rel="tag">chinese new year</a>, <a href="http://technorati.com/tag/rooster" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rooster', 'rooster']);"  rel="tag">rooster</a>}</span>
-</div>
+
 

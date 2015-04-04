@@ -16,7 +16,7 @@ I&#8217;ve had too many conversations with ordinary middle class Indians who see
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Hitler" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Hitler', 'Hitler']);"  rel="tag">Hitler</a>, <a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://www.technorati.com/tag/Muslims" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Muslims', 'Muslims']);"  rel="tag">Muslims</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -14,7 +14,7 @@ The Wikipedia <a href="http://en.wikipedia.org/wiki/Synchronicity_%28disambiguat
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/macosx" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/macosx', 'macosx']);"  rel="tag">macosx</a>, <a href="http://www.technorati.com/tag/tools" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tools', 'tools']);"  rel="tag">tools</a>, <a href="http://www.technorati.com/tag/online" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/online', 'online']);"  rel="tag">online</a>, <a href="http://www.technorati.com/tag/sync" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/sync', 'sync']);"  rel="tag">sync</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

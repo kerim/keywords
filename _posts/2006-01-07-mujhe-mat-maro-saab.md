@@ -28,7 +28,7 @@ The people on the street outside IIM and the residents of <a href="http://keywor
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Ahmedabad" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ahmedabad', 'Ahmedabad']);"  rel="tag">Ahmedabad</a>, <a href="http://www.technorati.com/tag/dnt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dnt', 'dnt']);"  rel="tag">dnt</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

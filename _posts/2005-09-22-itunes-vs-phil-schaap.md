@@ -24,7 +24,7 @@ As with Bremser, I am a big fan of iTMS, but it always seems strange to me that 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/jazz" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/jazz', 'jazz']);"  rel="tag">jazz</a>, <a href="http://www.technorati.com/tag/phil schaap" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/phil schaap', 'phil schaap']);"  rel="tag">phil schaap</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

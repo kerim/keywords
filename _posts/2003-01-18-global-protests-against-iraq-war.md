@@ -6,9 +6,9 @@ permalink: /archives/2003/01/18/global-protests-against-iraq-war/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;More than 50,000 Americans converged on the National Mall in the centre of Washington, in one of the biggest protests since the build-up for war began.&#8221;
-> </div>
+
 
 <a href="http://news.bbc.co.uk/2/hi/middle_east/2672809.stm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.bbc.co.uk/2/hi/middle_east/2672809.stm', 'BBC NEWS']);" >BBC NEWS</a>
 

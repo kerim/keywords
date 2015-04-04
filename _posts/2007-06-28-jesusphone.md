@@ -25,7 +25,7 @@ I may never get an iPhone, but I&#8217;m glad it exists.
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/Apple" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Apple', 'Apple']);"  rel="tag">Apple</a>, <a href="http://www.technorati.com/tag/iPhone" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/iPhone', 'iPhone']);"  rel="tag">iPhone</a>, <a href="http://www.technorati.com/tag/mobile%20phone" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/mobile%20phone', 'mobile phone']);"  rel="tag">mobile phone</a>, <a href="http://www.technorati.com/tag/cell%20phone" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/cell%20phone', 'cell phone']);"  rel="tag">cell phone</a>, <a href="http://www.technorati.com/tag/Web%202.0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Web%202.0', 'Web 2.0']);"  rel="tag">Web 2.0</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

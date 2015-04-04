@@ -20,5 +20,5 @@ UPDATE: Another suggestion for how to reform the bankruptcy system is to make de
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>, <a href="http://technorati.com/tag/hr 685" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/hr 685', 'hr 685']);"  rel="tag">hr 685</a>, <a href="http://technorati.com/tag/credit card companies" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/credit card companies', 'credit card companies']);"  rel="tag">credit card companies</a>, <a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>, <a href="http://technorati.com/tag/health insurance" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/health insurance', 'health insurance']);"  rel="tag">health insurance</a>, <a href="http://technorati.com/tag/moveon" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/moveon', 'moveon']);"  rel="tag">moveon</a>}</span>
-</div>
+
 

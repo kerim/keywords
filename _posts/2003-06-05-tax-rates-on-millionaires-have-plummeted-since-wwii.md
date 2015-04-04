@@ -6,9 +6,9 @@ permalink: /archives/2003/06/05/tax-rates-on-millionaires-have-plummeted-since-w
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   Effective tax rates on millionaires have plummeted over the last 50 years while tax rates on the middle class have quintupled.
-> </div>
+
 
 And here is a chart that makes it all quite clear:
 

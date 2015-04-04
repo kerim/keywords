@@ -20,7 +20,7 @@ This is partially because the city has worked hard to make it easier to apply fo
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/bloomberg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bloomberg', 'bloomberg']);"  rel="tag">bloomberg</a>, <a href="http://technorati.com/tag/food stamps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/food stamps', 'food stamps']);"  rel="tag">food stamps</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

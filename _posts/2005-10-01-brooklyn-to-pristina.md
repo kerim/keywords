@@ -17,7 +17,7 @@ I&#8217;m always amazed at limitless ability people have for self-deception. But
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Lord of War" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Lord of War', 'Lord of War']);"  rel="tag">Lord of War</a>, <a href="http://www.technorati.com/tag/Klaartje Quirijns" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Klaartje Quirijns', 'Klaartje Quirijns']);"  rel="tag">Klaartje Quirijns</a>, <a href="http://www.technorati.com/tag/The Brooklyn Connection" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/The Brooklyn Connection', 'The Brooklyn Connection']);"  rel="tag">The Brooklyn Connection</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

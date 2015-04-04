@@ -18,5 +18,5 @@ Via <a href="http://pinkofeministhellcat.typepad.com/pinko_feminist_hellcat/2005
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/feminism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/feminism', 'feminism']);"  rel="tag">feminism</a>, <a href="http://technorati.com/tag/Andrea Dworkin" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Andrea Dworkin', 'Andrea Dworkin']);"  rel="tag">Andrea Dworkin</a>, <a href="http://technorati.com/tag/rape" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rape', 'rape']);"  rel="tag">rape</a>}</span>
-</div>
+
 

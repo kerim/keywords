@@ -43,7 +43,7 @@ Letter from <a href="http://sambhav.2006.googlepages.com/home" onclick="_gaq.pus
 
 <p style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/DNT" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/DNT', 'DNT']);"  rel="tag">DNT</a>, <a href="http://www.technorati.com/tag/Maninagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Maninagar', 'Maninagar']);"  rel="tag">Maninagar</a>, <a href="http://www.technorati.com/tag/Ahmedabad" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ahmedabad', 'Ahmedabad']);"  rel="tag">Ahmedabad</a>, <a href="http://www.technorati.com/tag/Nomads" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Nomads', 'Nomads']);"  rel="tag">Nomads</a>, <a href="http://www.technorati.com/tag/Poverty" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Poverty', 'Poverty']);"  rel="tag">Poverty</a>, <a href="http://www.technorati.com/tag/Demolition" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Demolition', 'Demolition']);"  rel="tag">Demolition</a>}</span>
-</p>
+
 
 <!-- technorati tags end -->
 

@@ -12,11 +12,11 @@ categories:
 ---
 Since there isn&#8217;t (yet) any easy way to sync <a href="http://www.google.com/chrome" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/chrome', 'Google Chrome']);" >Google Chrome</a>&nbsp;extensions across computers, I&#8217;m using this post to keep a list of my currently installed Chrome extensions. Hopefully it is useful for other people as well.
 
-<div>
-  <strong>Essential Extensions</strong>
-</div>
 
-<div>
+  <strong>Essential Extensions</strong>
+
+
+
   <ul>
     <li>
       <a href="http://www.switchersblog.com/2010/01/a-1password-alpha-for-chromium-is-here.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.switchersblog.com/2010/01/a-1password-alpha-for-chromium-is-here.html', '1Password']);" >1Password</a>
@@ -53,11 +53,11 @@ Since there isn&#8217;t (yet) any easy way to sync <a href="http://www.google.co
     </li>
   </ul>
   
-  <div>
-    <strong>Also useful</strong>
-  </div>
   
-  <div>
+    <strong>Also useful</strong>
+  
+  
+  
     <ul>
       <li>
         <a href="https://chrome.google.com/extensions/detail/lpkkkfmknbafcieimbiepmaibamkndkh?hl=en" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://chrome.google.com/extensions/detail/lpkkkfmknbafcieimbiepmaibamkndkh?hl=en', 'AutoMap']);" >AutoMap</a>
@@ -96,6 +96,6 @@ Since there isn&#8217;t (yet) any easy way to sync <a href="http://www.google.co
         <a href="https://chrome.google.com/extensions/detail/cfjegdffnhcebgpfhkglkfndolliicdi?hl=en" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://chrome.google.com/extensions/detail/cfjegdffnhcebgpfhkglkfndolliicdi?hl=en', '']);" ></a><a href="https://chrome.google.com/extensions/detail/ckibcdccnfeookdmbahgiakhnjcddpki?hl=en" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://chrome.google.com/extensions/detail/ckibcdccnfeookdmbahgiakhnjcddpki?hl=en', 'Webpage Screenshot']);" >Webpage Screenshot</a>
       </li>
     </ul>
-  </div>
-</div>
+  
+
 

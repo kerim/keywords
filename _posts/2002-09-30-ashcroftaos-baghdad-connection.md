@@ -8,11 +8,9 @@ categories:
 ---
 Another Newsweek story! Ashcroft and the MKO &#8230;
 
-> <div>
->   &#8220;THE 27-PAGE DOCUMENT</p> 
+
+>   &#8220;THE 27-PAGE DOCUMENT 
 >   
->   <div id="themify_builder_content-598" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

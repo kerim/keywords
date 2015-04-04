@@ -17,7 +17,7 @@ UPDATE: <a href="http://japundit.com/archives/2005/06/29/when-girls-do-it/" oncl
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Japan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Japan', 'Japan']);"  rel="tag">Japan</a>, <a href="http://technorati.com/tag/Katrina Watts" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Katrina Watts', 'Katrina Watts']);"  rel="tag">Katrina Watts</a>, <a href="http://technorati.com/tag/Sumo" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Sumo', 'Sumo']);"  rel="tag">Sumo</a>, <a href="http://technorati.com/tag/Women" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Women', 'Women']);"  rel="tag">Women</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

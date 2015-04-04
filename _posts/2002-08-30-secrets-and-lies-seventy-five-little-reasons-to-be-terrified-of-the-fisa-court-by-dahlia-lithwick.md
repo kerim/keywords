@@ -6,11 +6,9 @@ permalink: /archives/2002/08/30/secrets-and-lies-seventy-five-little-reasons-to-
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;The Fourth Amendment guarantees that "the right &#8230; against unreasonable searches and seizures ?</p> 
+
+>   &#8220;The Fourth Amendment guarantees that "the right &#8230; against unreasonable searches and seizures ? 
 >   
->   <div id="themify_builder_content-494" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

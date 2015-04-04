@@ -16,7 +16,7 @@ We&#8217;ve been *very busy* over at Savage Minds &#8211; promoting Open Access 
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Open Access" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Open Access', 'Open Access']);"  rel="tag">Open Access</a>, <a href="http://www.technorati.com/tag/Anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Anthropology', 'Anthropology']);"  rel="tag">Anthropology</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -11,5 +11,5 @@ I&#8217;m heading to Taiwan this summer, and I&#8217;m looking forward to <a hre
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Taiwan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Taiwan', 'Taiwan']);"  rel="tag">Taiwan</a>, <a href="http://technorati.com/tag/Bloggers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Bloggers', 'Bloggers']);"  rel="tag">Bloggers</a>, <a href="http://technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>, <a href="http://technorati.com/tag/Meetup" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Meetup', 'Meetup']);"  rel="tag">Meetup</a>, <a href="http://technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://technorati.com/tag/台北" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/台北', '台北']);"  rel="tag">台北</a>}</span>
-</div>
+
 

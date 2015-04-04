@@ -24,7 +24,7 @@ Also see the <a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/003738
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Stephen Pinker" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Stephen Pinker', 'Stephen Pinker']);"  rel="tag">Stephen Pinker</a>, <a href="http://www.technorati.com/tag/George Lakoff " onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/George Lakoff ', 'George Lakoff ']);"  rel="tag">George Lakoff </a>, <a href="http://www.technorati.com/tag/Geoff Nunberg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Geoff Nunberg', 'Geoff Nunberg']);"  rel="tag">Geoff Nunberg</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

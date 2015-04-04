@@ -12,8 +12,8 @@ categories:
   
   <p class="wp-caption-text">
     Photo by Ereine
-  </p>
-</div>
+  
+
 
 Former Clinton White House adviser and prominent blogger, Brad DeLong <a href="http://www.ft.com/cms/s/0/963b81bc-1b1d-11de-8aa3-0000779fd2ac.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.ft.com/cms/s/0/963b81bc-1b1d-11de-8aa3-0000779fd2ac.html', 'says']);" >says</a>: “We have to ask ourselves: Do we want to revive our economy, or do we want to punish the bankers?” But critics of the Geithner plan are not saying he&#8217;s being too soft on the bankers because they want to see blood. They are saying it because the bankers are the problem and as long as they are calling the shots we won&#8217;t be able to revive the economy. Take a look at the following charts:
 

@@ -26,7 +26,7 @@ UPDATE: These two are just a drop in the bucket.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Abu Bakker Qassim" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Abu Bakker Qassim', 'Abu Bakker Qassim']);"  rel="tag">Abu Bakker Qassim</a>, <a href="http://www.technorati.com/tag/A" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/A', 'A&#8217;del Abdu al-Hakim']);" del Abdu al-Hakim" rel="tag">A&#8217;del Abdu al-Hakim</a>, <a href="http://www.technorati.com/tag/Abu Bakker Qassim" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Abu Bakker Qassim', 'Abu Bakker Qassim']);"  rel="tag">Abu Bakker Qassim</a>, <a href="http://www.technorati.com/tag/Guantanamo" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Guantanamo', 'Guantanamo']);"  rel="tag">Guantanamo</a>, <a href="http://www.technorati.com/tag/Supreme Court" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Supreme Court', 'Supreme Court']);"  rel="tag">Supreme Court</a>, <a href="http://www.technorati.com/tag/Uighurs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Uighurs', 'Uighurs']);"  rel="tag">Uighurs</a>, <a href="http://www.technorati.com/tag/war on terror" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war on terror', 'war on terror']);"  rel="tag">war on terror</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

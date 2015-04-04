@@ -21,5 +21,5 @@ From the BBC:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/spelling" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/spelling', 'spelling']);"  rel="tag">spelling</a>, <a href="http://technorati.com/tag/Sedan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Sedan', 'Sedan']);"  rel="tag">Sedan</a>, <a href="http://technorati.com/tag/Sudan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Sudan', 'Sudan']);"  rel="tag">Sudan</a>, <a href="http://technorati.com/tag/nuclear" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/nuclear', 'nuclear']);"  rel="tag">nuclear</a>}</span>
-</div>
+
 

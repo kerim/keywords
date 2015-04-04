@@ -14,7 +14,7 @@ France&#8217;s next presidential elections are due in about fifteen months: the 
 
 <p style="text-align:right;font-size:10px;">
   Technorati Tags: <a href="http://www.technorati.com/tag/campaign" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/campaign', 'campaign']);"  rel="tag">campaign</a>, <a href="http://www.technorati.com/tag/France" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/France', 'France']);"  rel="tag">France</a>, <a href="http://www.technorati.com/tag/president" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/president', 'president']);"  rel="tag">president</a>, <a href="http://www.technorati.com/tag/tf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tf', 'tf']);"  rel="tag">tf</a>
-</p>
+
 
 <!-- technorati tags end -->
 

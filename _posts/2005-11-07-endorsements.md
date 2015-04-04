@@ -21,7 +21,7 @@ And here is a handy guide on <a href="http://www.gothamgazette.com/article/issue
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Bloomberg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Bloomberg', 'Bloomberg']);"  rel="tag">Bloomberg</a>, <a href="http://www.technorati.com/tag/Ferrer" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Ferrer', 'Ferrer']);"  rel="tag">Ferrer</a>, <a href="http://www.technorati.com/tag/election" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/election', 'election']);"  rel="tag">election</a>, <a href="http://www.technorati.com/tag/new york city" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/new york city', 'new york city']);"  rel="tag">new york city</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

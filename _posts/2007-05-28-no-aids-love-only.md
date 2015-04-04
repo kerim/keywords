@@ -22,7 +22,7 @@ I liked the graphics on these Taiwanese AIDS awareness flyers:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/AIDS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/AIDS', 'AIDS']);"  rel="tag">AIDS</a>, <a href="http://www.technorati.com/tag/graphic design" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/graphic design', 'graphic design']);"  rel="tag">graphic design</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

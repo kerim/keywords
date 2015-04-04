@@ -11,14 +11,14 @@ categories:
   - Old Blog Import
 ---
 <div class="posterous_bookmarklet_entry">
-  </p> 
+   
   
   <div class="posterous_quote_citation">
     via <a href="http://www.youtube.com/watch?v=nZ-VjUKAsao&feature=player_embedded" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.youtube.com/watch?v=nZ-VjUKAsao&feature=player_embedded', 'youtube.com']);" >youtube.com</a>
-  </div>
   
-  <p>
+  
+  
     This week, at TED India, inventor Pranav Mistry announced that the technology will be released as open source&#8230;in a matter of months. <a href="http://www.boingboing.net/2009/11/12/sixth-sense-technolo.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+boingboing/iBag+(Boing+Boing)&utm_content=Google+Reader" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.boingboing.net/2009/11/12/sixth-sense-technolo.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+boingboing/iBag+(Boing+Boing)&utm_content=Google+Reader', 'Read More']);" >Read More</a>
-  </p>
-</div>
+  
+
 

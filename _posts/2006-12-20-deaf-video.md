@@ -16,7 +16,7 @@ Via <a href="http://www.metafilter.com/mefi/57171" onclick="_gaq.push(['_trackEv
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Deaf" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Deaf', 'Deaf']);"  rel="tag">Deaf</a>, <a href="http://www.technorati.com/tag/vlog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/vlog', 'vlog']);"  rel="tag">vlog</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

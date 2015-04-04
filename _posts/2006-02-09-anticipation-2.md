@@ -16,7 +16,7 @@ Tune in next week for the **big news**!
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/adventure" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/adventure', 'adventure']);"  rel="tag">adventure</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

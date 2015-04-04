@@ -11,7 +11,7 @@ categories:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Burma" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Burma', 'Burma']);"  rel="tag">Burma</a>, <a href="http://www.technorati.com/tag/activism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/activism', 'activism']);"  rel="tag">activism</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

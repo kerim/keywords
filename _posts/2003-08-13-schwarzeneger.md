@@ -11,9 +11,9 @@ categories:
 ---
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A53646-2003Aug13.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A53646-2003Aug13.html', 'Ah-nold is on the board of U.S. English']);" >Ah-nold is on the board of U.S. English</a>:
 
-> <div>
+
 >   While media reports in recent days have focused on Schwarzenegger&#8217;s support for Proposition 187, the controversial 1994 referendum that denied government benefits to illegal aliens, virtually nothing has been said about the multi-millionaire actor&#8217;s 15-year association with U.S. English, an organization that seeks to establish English as the official language of the United States and also has ties to right-wing nationalist movements &#8230;
-> </div>
+
 
 Why is it that immigrants often the most anti-immigrant?
 

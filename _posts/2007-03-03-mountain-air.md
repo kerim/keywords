@@ -20,7 +20,7 @@ As I said in my <a href="http://keywords.oxus.net/archives/2007/03/01/juno/" onc
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dog', 'dog']);"  rel="tag">dog</a>, <a href="http://www.technorati.com/tag/hualien" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hualien', 'hualien']);"  rel="tag">hualien</a>, <a href="http://www.technorati.com/tag/台灣" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/台灣', '台灣']);"  rel="tag">台灣</a>, <a href="http://www.technorati.com/tag/花蓮" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/花蓮', '花蓮']);"  rel="tag">花蓮</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

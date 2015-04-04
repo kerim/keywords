@@ -16,7 +16,7 @@ Sometimes I worry that luck is rationed out like water during a draught and that
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/luck" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/luck', 'luck']);"  rel="tag">luck</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

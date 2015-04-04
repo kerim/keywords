@@ -15,7 +15,7 @@ See all my <a href="http://del.icio.us/kerim/firefox-essentials" onclick="_gaq.p
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/extensions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/extensions', 'extensions']);"  rel="tag">extensions</a>, <a href="http://www.technorati.com/tag/firefox" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/firefox', 'firefox']);"  rel="tag">firefox</a>, <a href="http://www.technorati.com/tag/tabs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tabs', 'tabs']);"  rel="tag">tabs</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

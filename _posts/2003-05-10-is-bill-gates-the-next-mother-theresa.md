@@ -13,13 +13,13 @@ Personally, I agree with OneMan in terms of what it takes to really effect long-
 
 But it is true that charity isn&#8217;t a long-term solution &#8211; and in some cases it can actually hurt, creating more dependence. I think that Gates was smart in that health issues are one where more is always better &#8211; especially if spent wisely. Considering that the charity money spent by the US and UN in more generous times helped to eliminate some diseases from the face of the globe (spending, by the way, far less than Gates), I have high hopes for his initiatives. But it is interesting to look at his ideology. He is a firm believer in capitalism and in markets, thinking that they are simply &#8220;broken&#8221; in the poorest parts of the world:
 
-> <div>
->   Gates may not show his hand politically, but he is surprisingly willing to critique the almighty market, going so far as to call the plight of poor women and children in developing nations &#8220;a failure of capitalism.&#8221; In rich nations, he notes, market forces deliver advanced medical services to the population, but in poor nations, especially in the area of infectious diseases, &#8220;[capitalism] has let us down.&#8221;</p> 
+
+>   Gates may not show his hand politically, but he is surprisingly willing to critique the almighty market, going so far as to call the plight of poor women and children in developing nations &#8220;a failure of capitalism.&#8221; In rich nations, he notes, market forces deliver advanced medical services to the population, but in poor nations, especially in the area of infectious diseases, &#8220;[capitalism] has let us down.&#8221; 
 >   
->   <p>
+>   
 >     One can sense the frustration of a successful computer programmer in Gates&#8217; approach. As he stresses repeatedly, when a plane crashes in India and 100 people die, it makes news all over the world. Meanwhile, 8,000 children are dying every day of preventable illnesses, and there is no coverage. Gates doesn&#8217;t come out and call this disparity a &#8220;bug&#8221; in global attention span software, but he does label it &#8220;a mistake.&#8221; And he intends to correct it.
->   </p>
-> </div>
+>   
+
 
 The problem with this view, of course, is that it overlooks the important interrelationships between the places where capitalism supposedly works and the places it doesn&#8217;t. After all, colonialism historically shaped the political structure of these states to fuel capitalism in the wealthiest of countries. Secondly, even in the most successful capitalist states, like the US, income inequality is growing worse, not better. As <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0385720270/qid=1052576476" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/exec/obidos/tg/detail/-/0385720270/qid=1052576476', 'Amartya Sen']);" >Amartya Sen</a> has pointed out, inequality is often more important than base income. African-American men have lower life expectancies than (in terms of income alone) much poorer men in China and India because (according to Sen) inequality in the US is so much greater.
 

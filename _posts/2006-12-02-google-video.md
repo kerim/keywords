@@ -20,7 +20,7 @@ Below is a low-resolution 3 minute preview of Acting Like a Thief:
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/hooch and hamlet" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/hooch and hamlet', 'hooch and hamlet']);"  rel="tag">hooch and hamlet</a>, <a href="http://www.technorati.com/tag/chharanagar" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/chharanagar', 'chharanagar']);"  rel="tag">chharanagar</a>, <a href="http://www.technorati.com/tag/mahasweta devi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/mahasweta devi', 'mahasweta devi']);"  rel="tag">mahasweta devi</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

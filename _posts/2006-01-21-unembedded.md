@@ -32,7 +32,7 @@ Photographs, updates, and more can be found on the publisher&#8217;s <a href="ht
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/embedded" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/embedded', 'embedded']);"  rel="tag">embedded</a>, <a href="http://www.technorati.com/tag/iraq" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/iraq', 'iraq']);"  rel="tag">iraq</a>, <a href="http://www.technorati.com/tag/journalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/journalism', 'journalism']);"  rel="tag">journalism</a>, <a href="http://www.technorati.com/tag/photography" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/photography', 'photography']);"  rel="tag">photography</a>, <a href="http://www.technorati.com/tag/photojournalism" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/photojournalism', 'photojournalism']);"  rel="tag">photojournalism</a>, <a href="http://www.technorati.com/tag/photos" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/photos', 'photos']);"  rel="tag">photos</a>, <a href="http://www.technorati.com/tag/unembedded" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/unembedded', 'unembedded']);"  rel="tag">unembedded</a>, <a href="http://www.technorati.com/tag/war" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/war', 'war']);"  rel="tag">war</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

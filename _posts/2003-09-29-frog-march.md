@@ -8,15 +8,15 @@ categories:
   - Law
   - Politics
 ---
-> <div>
+
 >   <b>FROGMARCH</b> verb [mid-19th century and still in use] <a href="http://slacktivist.typepad.com/slacktivist/2003/09/frogmarch.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://slacktivist.typepad.com/slacktivist/2003/09/frogmarch.html', 'to carry someone face down, one person holding onto each limb']);" >to carry someone face down, one person holding onto each limb</a>; used on drunks or recalcitrant prisoners.
-> </div>
+
 
 In case your wonder, the term was used by Joseph Wilson to in reference to alleged leaks by senior White House officials, exposing his wife as <a href="http://www.calpundit.com/archives/002276.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/002276.html', 'an undercover CIA operative specializing in &#8220;weapons of mass destruction']);" >an undercover CIA operative specializing in &#8220;weapons of mass destruction</a>.&#8221;
 
-> <div>
+
 >   At the end of the day, it&#8217;s of keen interest to me to see whether or not we can <a href="http://www.calpundit.com/archives/002009.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.calpundit.com/archives/002009.html', 'get Karl Rove frog-marched out of the White House in handcuffs']);" >get Karl Rove frog-marched out of the White House in handcuffs</a>. And trust me, when I use that name, I measure my words.
-> </div>
+
 
 Such leaks, if they are exposed to be true, are a violation of federal law.
 

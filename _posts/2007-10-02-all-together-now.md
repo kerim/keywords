@@ -15,7 +15,7 @@ The problem is, the dog has nothing to think about all day except training human
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/dog" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/dog', 'dog']);"  rel="tag">dog</a>, <a href="http://www.technorati.com/tag/training" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/training', 'training']);"  rel="tag">training</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

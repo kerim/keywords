@@ -15,7 +15,7 @@ I don&#8217;t think it is just about personal power. I think it is about subvert
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Miers" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Miers', 'Miers']);"  rel="tag">Miers</a>, <a href="http://www.technorati.com/tag/Executive Power" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Executive Power', 'Executive Power']);"  rel="tag">Executive Power</a>, <a href="http://www.technorati.com/tag/Roberts" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Roberts', 'Roberts']);"  rel="tag">Roberts</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

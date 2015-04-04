@@ -17,7 +17,7 @@ At least this time the story got national attention. Even Sonia Gandhi visited t
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/adivasi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/adivasi', 'adivasi']);"  rel="tag">adivasi</a>, <a href="http://www.technorati.com/tag/globalization" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/globalization', 'globalization']);"  rel="tag">globalization</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/tribals" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/tribals', 'tribals']);"  rel="tag">tribals</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -8,9 +8,9 @@ categories:
 ---
 The &#8220;war on terror&#8221; comes at a time when terrorism is at its lowest total since 1969:
 
-> <div>
+
 >   In its annual report to Congress on terrorism, the State Department said that the 199 recorded terrorist incidents last year represented a 44 percent drop from the previous year, and was the lowest total since 1969.
-> </div>
+
 
 <a href="http://www.iht.com/cgi-bin/generic.cgi?template=articleprint.tmplh&#38;ArticleId=95522" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.iht.com/cgi-bin/generic.cgi?template=articleprint.tmplh&ArticleId=95522', 'International Herald Tribune']);" >International Herald Tribune</a>
 

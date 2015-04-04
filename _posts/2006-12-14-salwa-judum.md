@@ -17,7 +17,7 @@ There is also a 9 minute <a href="http://www.youtube.com/watch?v=Qjfmt6-TZVw" on
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/India" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/India', 'India']);"  rel="tag">India</a>, <a href="http://www.technorati.com/tag/adivasi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/adivasi', 'adivasi']);"  rel="tag">adivasi</a>, <a href="http://www.technorati.com/tag/Salwa Judum" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Salwa Judum', 'Salwa Judum']);"  rel="tag">Salwa Judum</a>, <a href="http://www.technorati.com/tag/Maoists" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Maoists', 'Maoists']);"  rel="tag">Maoists</a>, <a href="http://www.technorati.com/tag/South Asia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/South Asia', 'South Asia']);"  rel="tag">South Asia</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

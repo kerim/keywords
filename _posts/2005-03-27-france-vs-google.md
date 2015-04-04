@@ -20,5 +20,5 @@ UPDATE: Maybe <a href="http://www.albinoblacksheep.com/text/victories.html" oncl
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/Google" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Google', 'Google']);"  rel="tag">Google</a>, <a href="http://technorati.com/tag/France" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/France', 'France']);"  rel="tag">France</a>, <a href="http://technorati.com/tag/Google Print" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Google Print', 'Google Print']);"  rel="tag">Google Print</a>, <a href="http://technorati.com/tag/Microsoft" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Microsoft', 'Microsoft']);"  rel="tag">Microsoft</a>}</span>
-</div>
+
 

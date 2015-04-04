@@ -30,5 +30,5 @@ UPDATE: <a href="http://www.villagevoice.com/news/0021,harkavy,15052,5.html" onc
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/wal-mart" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/wal-mart', 'wal-mart']);"  rel="tag">wal-mart</a>, <a href="http://technorati.com/tag/Jonquiere" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Jonquiere', 'Jonquiere']);"  rel="tag">Jonquiere</a>, <a href="http://technorati.com/tag/labor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/labor', 'labor']);"  rel="tag">labor</a>, <a href="http://technorati.com/tag/union" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/union', 'union']);"  rel="tag">union</a>, <a href="http://technorati.com/tag/afl-cio" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/afl-cio', 'afl-cio']);"  rel="tag">afl-cio</a>}</span>
-</div>
+
 

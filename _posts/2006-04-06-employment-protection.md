@@ -21,7 +21,7 @@ How inconvenient for the folks at *the Economist*&#8230;
 
 <div style="text-align: right">
   <span style="font-size: x-small">{<a href="http://www.technorati.com/tag/France" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/France', 'France']);" rel="tag">France</a>, <a href="http://www.technorati.com/tag/unemployment" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/unemployment', 'unemployment']);" rel="tag">unemployment</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

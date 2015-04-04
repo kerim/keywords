@@ -44,7 +44,7 @@ Any explanation of America&#8217;s unusually high incarceration rates can not be
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/African American" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/African American', 'African American']);"  rel="tag">African American</a>, <a href="http://www.technorati.com/tag/America" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/America', 'America']);"  rel="tag">America</a>, <a href="http://www.technorati.com/tag/prison" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/prison', 'prison']);"  rel="tag">prison</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

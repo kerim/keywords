@@ -15,7 +15,7 @@ I love Indian bureaucratese! My new favorite term is &#8220;the creamy layer&#82
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Indian English" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Indian English', 'Indian English']);"  rel="tag">Indian English</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

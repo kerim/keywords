@@ -8,9 +8,9 @@ categories:
 ---
 Yesterday was the anniversary of the first brick thrown in this famous comic!
 
-> <div>
+
 >   &#8220;On July 26, 1910, the mouse hurled a brick at the cat, thus inaugurating a major element of a relationship that would last over a third of a century.&#8221;
-> </div>
+
 
 <a href="http://www.toonopedia.com/krazy.htm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.toonopedia.com/krazy.htm', 'Don Markstein&#8217;s Toonopedia: Krazy Kat']);" >Don Markstein&#8217;s Toonopedia: Krazy Kat</a>
 

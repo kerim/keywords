@@ -12,13 +12,13 @@ categories:
 ---
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_medium_quote">
-    <p>
+    
       THE BATTLE between the State and Maoists is well known. But in Chhattisgarh, another battle has been fast gathering steam — between the State and civil society, between a policed existence and the idea of democracy, between coerced media and free speech. Himanshu Kumar is now at the centre of that battle
-    </p>
+    
   </blockquote>
   
   <div class="posterous_quote_citation">
     via <a href="http://tehelka.com/story_main43.asp?filename=Ne160110life_behind.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://tehelka.com/story_main43.asp?filename=Ne160110life_behind.asp', 'tehelka.com']);" >tehelka.com</a> and <a href="http://twitter.com/vinaysreenivasa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/vinaysreenivasa', '@vinaysreenivasa']);" >@vinaysreenivasa</a>
-  </div></p>
-</div>
+  
+
 

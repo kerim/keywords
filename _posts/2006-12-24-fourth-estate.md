@@ -18,7 +18,7 @@ On the Media had an <a href="http://www.onthemedia.org/transcripts/2006/12/22/04
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/press" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/press', 'press']);"  rel="tag">press</a>, <a href="http://www.technorati.com/tag/civil rights" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/civil rights', 'civil rights']);"  rel="tag">civil rights</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -6,9 +6,9 @@ permalink: /archives/2003/05/15/jeb-bush-appoints-legal-counsel-to-fetus/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   Florida Governor Jeb Bushs orders that a guardian be appointed for a fetus . Abortion rights advocates are angry.
-> </div>
+
 
 As they should be!
 

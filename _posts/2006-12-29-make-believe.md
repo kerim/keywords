@@ -18,7 +18,7 @@ It seems that <a href="http://donkeyod.wordpress.com/2006/12/22/democrats-and-th
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/John Edwards" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/John Edwards', 'John Edwards']);"  rel="tag">John Edwards</a>, <a href="http://www.technorati.com/tag/Economy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Economy', 'Economy']);"  rel="tag">Economy</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

@@ -17,7 +17,7 @@ Thanks. I just hope we can keep it up!<!-- technorati tags start -->
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/anthropology" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/anthropology', 'anthropology']);"  rel="tag">anthropology</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

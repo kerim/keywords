@@ -20,7 +20,7 @@ I&#8217;m up now, but I&#8217;m going to take a nap. Skype me.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/blogs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/blogs', 'blogs']);"  rel="tag">blogs</a>, <a href="http://www.technorati.com/tag/poem" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/poem', 'poem']);"  rel="tag">poem</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

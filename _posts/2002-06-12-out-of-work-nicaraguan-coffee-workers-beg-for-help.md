@@ -6,9 +6,9 @@ permalink: /archives/2002/06/12/out-of-work-nicaraguan-coffee-workers-beg-for-he
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;Thousands of unemployed Nicaraguan coffee workers, struggling to find a way to survive the third year of a global coffee crisis, are again lining the nation&#8217;s highways to beg for help.&#8221;
-> </div>
+
 
 <a href="http://www.washingtonpost.com/wp-dyn/articles/A37266-2002Jun12.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.washingtonpost.com/wp-dyn/articles/A37266-2002Jun12.html', ' (washingtonpost.com)']);" > (washingtonpost.com)</a>
 

@@ -22,5 +22,5 @@ That date is somewhat controversial, but hopefully this data will help clear thi
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/genetics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/genetics', 'genetics']);"  rel="tag">genetics</a>, <a href="http://technorati.com/tag/identity" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/identity', 'identity']);"  rel="tag">identity</a>, <a href="http://technorati.com/tag/ethnicity" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/ethnicity', 'ethnicity']);"  rel="tag">ethnicity</a>, <a href="http://technorati.com/tag/race" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/race', 'race']);"  rel="tag">race</a>, <a href="http://technorati.com/tag/dna" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/dna', 'dna']);"  rel="tag">dna</a>}</span>
-</div>
+
 

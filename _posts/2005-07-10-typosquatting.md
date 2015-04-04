@@ -20,7 +20,7 @@ But owning a sequence of letters isn&#8217;t the half of it. Major companies oft
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/copyright" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/copyright', 'copyright']);"  rel="tag">copyright</a>, <a href="http://technorati.com/tag/google" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/google', 'google']);"  rel="tag">google</a>, <a href="http://technorati.com/tag/url" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/url', 'url']);"  rel="tag">url</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

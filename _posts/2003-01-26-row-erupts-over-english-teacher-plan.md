@@ -8,9 +8,9 @@ categories:
 ---
 Seems the MOE may not even have the right to block the hiring of English teachers from other countries!
 
-> <div>
+
 >   &#8220;Can the MOE halt the import of Filipinos and Indians to teach English in Taiwan?&#8221;
-> </div>
+
 
 <a href="http://www.taipeitimes.com/News/taiwan/archives/2003/01/26/192460" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2003/01/26/192460', 'Taipei Times']);" >Taipei Times</a>
 

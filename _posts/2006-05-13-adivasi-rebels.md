@@ -20,7 +20,7 @@ In April I <a href="http://keywords.oxus.net/archives/2006/04/12/naxalbari/" onc
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/adivasi" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/adivasi', 'adivasi']);"  rel="tag">adivasi</a>, <a href="http://www.technorati.com/tag/india" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/india', 'india']);"  rel="tag">india</a>, <a href="http://www.technorati.com/tag/maoists" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/maoists', 'maoists']);"  rel="tag">maoists</a>, <a href="http://www.technorati.com/tag/Naxalites" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Naxalites', 'Naxalites']);"  rel="tag">Naxalites</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

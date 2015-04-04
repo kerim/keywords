@@ -19,7 +19,7 @@ It was the same for me. Why is that?
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Vonnegut" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Vonnegut', 'Vonnegut']);"  rel="tag">Vonnegut</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

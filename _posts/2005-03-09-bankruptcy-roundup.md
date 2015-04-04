@@ -21,5 +21,5 @@ I&#8217;ll add more to this list as I find them.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/debt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/debt', 'debt']);"  rel="tag">debt</a>, <a href="http://technorati.com/tag/usury" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/usury', 'usury']);"  rel="tag">usury</a>, <a href="http://technorati.com/tag/credit card" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/credit card', 'credit card']);"  rel="tag">credit card</a>, <a href="http://technorati.com/tag/Elizabeth Warren" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/Elizabeth Warren', 'Elizabeth Warren']);"  rel="tag">Elizabeth Warren</a>, <a href="http://technorati.com/tag/bankruptcy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/bankruptcy', 'bankruptcy']);"  rel="tag">bankruptcy</a>}</span>
-</div>
+
 

@@ -6,9 +6,9 @@ permalink: /archives/2002/11/09/half-a-million-march-in-anti-war-rally-in-italy/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;FLORENCE, Italy (Reuters) &#8211; More than half a million anti-war protesters from across Europe marched through this Italian Renaissance city on Saturday in a loud and colorful demonstration denouncing any possible U.S. attack on Iraq.&#8221;
-> </div>
+
 
 <a href="http://www.nytimes.com/reuters/international/international-italy-globalisation.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/reuters/international/international-italy-globalisation.html', 'NY Times']);" >NY Times</a>
 

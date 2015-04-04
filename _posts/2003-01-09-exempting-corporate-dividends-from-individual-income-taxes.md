@@ -10,11 +10,9 @@ Is it unfair for corporate dividends to be taxed twice &#8211; as the Wall Stree
 
 
 
-> <div>
->   &#8220;Supporters of eliminating the taxation of corporate dividends typically argue that such a change is necessary to end the &#8220;double taxation&#8221; of these dividends. Double taxation arises because, in theory, corporations pay dividends out of their after-tax earnings, and these payments are subsequently taxed as part of the shareholders</p> 
+
+>   &#8220;Supporters of eliminating the taxation of corporate dividends typically argue that such a change is necessary to end the &#8220;double taxation&#8221; of these dividends. Double taxation arises because, in theory, corporations pay dividends out of their after-tax earnings, and these payments are subsequently taxed as part of the shareholders 
 >   
->   <div id="themify_builder_content-821" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
+
 >   
->   <!-- /themify_builder_content -->
+>  

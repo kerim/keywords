@@ -25,7 +25,7 @@ OK. I got that out of my system now.
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/Garrison Keillor" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/Garrison Keillor', 'Garrison Keillor']);"  rel="tag">Garrison Keillor</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

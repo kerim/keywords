@@ -24,7 +24,7 @@ This really seems like the strongest argument I&#8217;ve seen yet for eliminatin
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://technorati.com/tag/election2004" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/election2004', 'election2004']);"  rel="tag">election2004</a>, <a href="http://technorati.com/tag/maps" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/maps', 'maps']);"  rel="tag">maps</a>, <a href="http://technorati.com/tag/rural" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/rural', 'rural']);"  rel="tag">rural</a>, <a href="http://technorati.com/tag/tufte" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/tufte', 'tufte']);"  rel="tag">tufte</a>, <a href="http://technorati.com/tag/urban" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://technorati.com/tag/urban', 'urban']);"  rel="tag">urban</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 

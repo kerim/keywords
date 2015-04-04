@@ -6,15 +6,13 @@ permalink: /archives/2002/08/23/foreign-prisoners-becoming-a-problem-for-karzai/
 categories:
   - Old Blog Import
 ---
-> <div>
->   &#8220;Several hundred Pakistanis have been released since the spring, but the International Committee of the Red Cross, which has visited many of the prisoners, say 1,000 to 1,200 Pakistani prisoners remain.</p> 
+
+>   &#8220;Several hundred Pakistanis have been released since the spring, but the International Committee of the Red Cross, which has visited many of the prisoners, say 1,000 to 1,200 Pakistani prisoners remain. 
 >   
->   <p>
+>   
 >     The prisoners&#8217; plight has become a political issue in Pakistan, where Islamic clerics responded to Sept. 11 by whipping up militant fervor and sending thousands of men and teenage boys
->   </p>
 >   
->   <div id="themify_builder_content-478" class="themify_builder_content themify_builder themify_builder_front">
->
->   </div>
 >   
->   <!-- /themify_builder_content -->
+
+>   
+>  

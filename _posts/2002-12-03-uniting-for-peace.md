@@ -6,9 +6,9 @@ permalink: /archives/2002/12/03/uniting-for-peace/
 categories:
   - Old Blog Import
 ---
-> <div>
+
 >   &#8220;United for Peace is a new national campaign that brings together a broad range of organizations throughout the United States to help coordinate our work against a U.S. war on Iraq.&#8221;
-> </div>
+
 
 <a href="http://www.unitedforpeace.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.unitedforpeace.org/', 'United for Peace Homepage']);" >United for Peace Homepage</a>
 

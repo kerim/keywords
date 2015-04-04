@@ -19,7 +19,7 @@ Unfortunately, the Democratic Party isn&#8217;t desperate enough to give up thei
 
 <div style="text-align:right;">
   <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/democracy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/democracy', 'democracy']);"  rel="tag">democracy</a>, <a href="http://www.technorati.com/tag/democrats" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/democrats', 'democrats']);"  rel="tag">democrats</a>, <a href="http://www.technorati.com/tag/drm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/drm', 'drm']);"  rel="tag">drm</a>, <a href="http://www.technorati.com/tag/voting" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/voting', 'voting']);"  rel="tag">voting</a>}</span>
-</div>
+
 
 <!-- technorati tags end -->
 
