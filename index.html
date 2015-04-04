@@ -14,9 +14,14 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
     
-    
+      {% if post.content contains "<!-- more -->" %}
     {{ post.excerpt }}
     <p align="Right"><a href="http://keywords.oxus.net/{{ post.url }}">Continue reading...</a></p>
+    {% else %}
+    {{ post.content }}
+    {% endif %}
+    
+    
   </div>
   {% endfor %}
 </div>
