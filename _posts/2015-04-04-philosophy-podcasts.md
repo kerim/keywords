@@ -15,10 +15,10 @@ I really enjoyed Dreyfus' course, even with all the sound problems, long silence
 
 ## Hegel
 
-J.M. Bernstein's [lectures on Hegel's Phenomenology of Spirit](http://www.bernsteintapes.com/hegellist.html)  
+J.M. Bernstein's [lectures on Hegel's Phenomenology of Spirit](http://www.bernsteintapes.com/hegellist.html) are fantastic. Bernstein is a masterful lecturer and it is such a pleasure listening to these talks. Some sections I have listened to multiple times before going on -- and not because they are confusing, quiet the opposite... There is so much richness, detail, and even humor in them that they inspire one to be a better lecturer. I'm only about 1/3rd of the way through right now - it is long course, but I'm really treasuring these. 
 
-Bernstein is a masterful lecturer and it is such a pleasure listening to these talks. Some I have listened to multiple times before going on. There is so much richness, detail, and even humor in them that they inspire one to be a better lecturer. I'm only about 1/3rd of the way through right now - it is a big book and a long course, but I'm really treasuring these. I had never really been able to get into Hegel in any serious way before and I really feel like this course has opened my eyes to the profound influence of Hegel on so many thinkers that I admire while also showing how each of them only saw a part of the whole and often misunderstood how the whole project worked. 
+I had never really been able to get into Hegel in any serious way before and I really feel like this course has opened my eyes to the profound influence of Hegel on so many thinkers that I admire while also showing how each of them only saw a part of the whole and often misunderstood how the whole project worked. 
 
 ## What's next? 
 
-More podcasts.
+I'm tempted by Dreyfus' [course on Merleau-Ponty](http://ist-socrates.berkeley.edu/~hdreyfus/188_s05/html/Lectures.html) and Bernstein's [course on Kant](http://www.bernsteintapes.com/kantlist.html), but there are also a large number of [other great philosophy courses available online](http://www.openculture.com/philosophy_free_courses). Or maybe I'll listen to Peter Adamson's podcast, the [History of Philosophy Without Any Gaps](http://www.historyofphilosophy.net). It would be great to find stuff that is more contemporary, or less Eurocentric, but I'm honestly happy to take whatever I can find online.
