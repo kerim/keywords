@@ -45,6 +45,12 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - CNAME
+    - atom.xml
+    - robots.txt
+    - /wp-content
+    - /public
+    
   metadata:
     _posts:
       - name: "layout"
