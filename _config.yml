@@ -36,7 +36,9 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-# Prose 
+# prose.io settings
+# https://github.com/prose/prose/wiki/Prose-Configuration
+
 prose:
   siteurl: 'http://keywords.oxus.net'
   rooturl: '_posts'
