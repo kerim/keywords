@@ -26,6 +26,7 @@ baseurl:          /keywords
 author:
   name:           'Kerim Friedman'
   url:            https://twitter.com/kerim
+  email: 'kerim.mail@oxus.net'
 
 paginate:         15
 
