@@ -35,3 +35,69 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+  
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://kerim.github.io/keywords/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "post"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "academic"
+              value: "academic"
+            - name: "announcements"
+              value: "announcements"
+		 - name: "culture"
+			value: "culture"
+		- name: "education"
+			value: "education"
+		- name: "gender"
+			value: "gender"
+		- name: "health"
+			value: "health"
+            - name: "images"
+              value: "images"
+            - name: "india"
+              value: "india"
+		 - name: "info-tech"
+			value: "info-tech"
+		- name: "invited"
+			value: "invited"
+		- name: "juno"
+			value: "juno"
+		- name: "labor"
+		value: "labor"
+		- name: "language"
+			value: "language"
+		- name: "law"
+			value: "law"
+            - name: "links"
+              value: "links"
+            - name: "notable"
+              value: "notable"
+		 - name: "politics"
+			value: "politics"
+		- name: "race"
+			value: "race"
+		- name: "taiwan"
+			value: "taiwan"
+		- name: "the-economy"
+		value: "the-economy"
+		- name: "the-environment"
+		value: "the-environment"
+		- name: "blog-post"
+		value: "blog-post"
