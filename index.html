@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }} <a href="http://keywords.oxus.net/{{ post.url }}#disqus_thread"></a></span>
+    <span class="post-date">{{ post.date | date_to_string }} <a href="http://keywords.oxus.net{{ post.url }}#disqus_thread"></a></span>
     
       {% if post.content contains "&lt;!--more--&gt;" %}
     {{ post.excerpt }}
