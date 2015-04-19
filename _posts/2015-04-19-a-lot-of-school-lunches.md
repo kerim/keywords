@@ -14,6 +14,6 @@ title: A lot of school lunches
 
 From [a post](http://keywords.oxus.net/archives/2003/12/05/accountability/) I wrote back in 2003:
 
-> A study by the Defense Department’s inspector general found that the Pentagon couldn’t properly account for more than a trillion dollars in monies spent.
+> A study by the Defense Department’s inspector general found that the Pentagon couldn’t properly account for **more than a trillion dollars** in monies spent.
 
 That's a lot of school lunches, affordable housing, environmental subsidies, NEH grants, etc...
