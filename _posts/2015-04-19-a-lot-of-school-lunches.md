@@ -1,7 +1,7 @@
 ---
 author: Kerim
 layout: post
-published: false
+published: true
 title: A lot of school lunches
 "categories:": 
   - politics
