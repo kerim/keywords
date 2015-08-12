@@ -8,6 +8,7 @@ title: Embassy to Rome
   - "the-economy"
 ---
 
+
 In 155 BCE Rome fined Athens 500 talents for the sacking of Oropus. This was a huge amount for Athens to pay, so they sent the leading philosophers of the Stoic (Diogenes), Academic (Carneades, representing what is also known as the Skeptic school), and Peripatetic (Critolaus) schools to Rome to negotiate the fine. (The Epicureans were notoriously uninterested in politics, so there was no point in asking them.) It seems they were successful in significantly reducing the fine down to about 100[^1], but it was also an important event in the history of philosophy as it accelerated the adoption of Hellenistic philosophy by the Romans.
 
 Of the three, the skeptic Carneades seems to have made the [biggest impression](https://en.wikipedia.org/wiki/Carneades) on the Romans:
