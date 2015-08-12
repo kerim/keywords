@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
- extensions: ["footnotes"]
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
