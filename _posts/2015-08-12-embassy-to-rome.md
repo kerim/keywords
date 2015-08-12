@@ -1,7 +1,7 @@
 ---
 author: Kerim
 layout: post
-published: false
+published: true
 title: Embassy to Rome
 "categories:": 
   - philosophy
