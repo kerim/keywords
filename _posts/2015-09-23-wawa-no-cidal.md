@@ -1,6 +1,9 @@
 ---
 author: Kerim
-"categories:": null
+"categories:": 
+  - culture
+  - images
+  - taiwan
 published: false
 title: Wawa No Cidal
 ---
