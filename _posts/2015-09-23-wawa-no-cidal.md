@@ -13,7 +13,7 @@ title: Wawa No Cidal
 
 Some preliminary thoughts on having just seen 太陽的孩子 Wawa No Cidal. 
 
-<div class="js-video">
+<div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVmybJR0qEI" frameborder="0" allowfullscreen></iframe>
 </div>
 
