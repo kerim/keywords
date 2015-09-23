@@ -4,9 +4,10 @@ author: Kerim
   - culture
   - images
   - taiwan
-published: false
+published: true
 title: Wawa No Cidal
 ---
+
 
 Some preliminary thoughts on having just seen 太陽的孩子 Wawa No Cidal. 
 
