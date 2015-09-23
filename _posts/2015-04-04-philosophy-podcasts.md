@@ -27,4 +27,4 @@ I'm tempted by Dreyfus' [course on Merleau-Ponty](http://ist-socrates.berkeley.e
 
 ## Update (Sept. 23, 2015)
 
-I decided to listen to the History of Philosophy podcast which turns out to not be Eurocentric. In fact, Peter Adamson is a specialist on philosophy in the Islamic world and he spends a lot of time on this facinating topic. Also, he just launched a new podcast on the [History of Philosophy in India](http://historyofphilosophy.net/india)! (Still looking for something good on Chinese philosophy...)
+I decided to listen to the History of Philosophy podcast which turns out to not be as Eurocentric as I had feared. In fact, Peter Adamson is a specialist on philosophy in the Islamic world and he spends a lot of time on this facinating topic. Also, he just launched a new podcast on the [History of Philosophy in India](http://historyofphilosophy.net/india)! (Still looking for something good on Chinese philosophy...)
