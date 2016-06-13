@@ -3,7 +3,7 @@ author: Kerim
 layout: post
 "categories:": 
   - politics
-  - ethnicity
+  - race
   - taiwan
 published: true
 title: Explaining Israel to Taiwanese
