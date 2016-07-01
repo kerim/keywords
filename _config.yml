@@ -125,3 +125,5 @@ prose:
               value: "the-environment"
             - name: "blog-post"
               value: "blog-post"
+            - name: "keywords"
+              value: "keywords"
