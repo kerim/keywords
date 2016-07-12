@@ -10,8 +10,9 @@ title: Getting to Hongqiao from Pudong
 So let's say you bought the cheapest plane ticket you could get, even though it involved a five hour layover in Shanghai, but it was only when you were heading out to the airport that you noticed the layover also involved *switching airports* in Shanghai! Fear not, this post is intended to help you make your connecting flight. When it happened to me I discovered that most of the relevant online information was out of date or confusing, so hopefully this will help others navigate their journey! 
 
 This post covers the trip from Shanghai Pudong International Airport 上海浦东国际机场 (上海浦東國際機場) to Shanghai Hongqiao International Airport 上海虹桥国际机场 (上海虹橋國際機場). I assume that it should help those going in the opposite direction as well, but I haven't personally made that trip. 
+<!-- more -->
 
-<!-- more -->## Arrival
+## Arrival
 
 When you arrive at Pudong the first thing you need to do is get your luggage and go through immigration. If you are arriving in China from a different city than your destination you may be eligible for a 144-hour visa-exemption. Check [this site] for more information. If you are lucky, someone is working at the separate counter set up for this and you can skip the big line. (It was closed when we arrived late at night going the other direction, but was open on the returning flight which arrived during the day.) Make sure to have a print out with your connecting flight information.
 
