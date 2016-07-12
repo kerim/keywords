@@ -16,6 +16,7 @@ This post covers the trip from Shanghai Pudong International Airport 上海浦�
 When you arrive at Pudong the first thing you need to do is get your luggage and go through immigration. If you are arriving in China from a different city than your destination you may be eligible for a 144-hour visa-exemption. Check [this site] for more information. If you are lucky, someone is working at the separate counter set up for this and you can skip the big line. (It was closed when we arrived late at night going the other direction, but was open on the returning flight which arrived during the day.) Make sure to have a print out with your connecting flight information.
 
 ## Maglev
+
 After collecting your luggage (if any) and exiting customs, take the escalator to the right and head up to the second floor. There you will see a passage to terminal 2:
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev1.jpg)
 
@@ -28,6 +29,8 @@ At the end you will see a ticket booth just to the right of the Maglev entrance.
 You will have to have your luggage X-rayed on the way through to the Maglev train, but it is very quick and you don't need to take out your laptop, etc. Once inside you can't go down to the platform until the train arrives.
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev4.jpg)
 
+## Subway Line 2
+
 There is only one stop: Longyang Road Station 龙阳路站 (龍陽路站). Once you get out, just take the escalator down towards subway 上海地铁 (上海地鐵) line #2. 
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev5.jpg)
 
@@ -36,6 +39,8 @@ At the bottom of the escalator you have to cross the street, and have your lugga
 
 I couldn't find a down-escalator, so I ended up having to carry my luggage down one flight of stairs. Not sure if there is an alternative? At the bottom take the side that is NOT going back to Pudong Airport!
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev7.jpg)
+
+## Subway Line 10
 
 Once at the Hongqiao airport exit you will probably have to transfer to a train that takes you to Terminal 1 (the exit is at Terminal 2), but check with your ticket. For this train, follow the signs for subway line 10, and take it one stop. (You can still use the same metro pass for this.)
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev8.jpg)
