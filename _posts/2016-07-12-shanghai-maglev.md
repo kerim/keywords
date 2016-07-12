@@ -43,7 +43,7 @@ At the bottom of the escalator you have to cross the street, and have your lugga
 I couldn't find a down-escalator, so I ended up having to carry my luggage down one flight of stairs. Not sure if there is an alternative? At the bottom take the side that is NOT going back to Pudong Airport!
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev7.jpg)
 
-The Line 2 journey is about 50 min.
+The Line 2 journey is about 50 min. Here's [a list](https://www.travelchinaguide.com/cityguides/shanghai/transportation/subway-stations.htm) of all the train stops.
 
 ## Subway Line 10
 
