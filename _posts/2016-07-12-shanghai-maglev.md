@@ -30,6 +30,8 @@ At the end you will see a ticket booth just to the right of the Maglev entrance.
 You will have to have your luggage X-rayed on the way through to the Maglev train, but it is very quick and you don't need to take out your laptop, etc. Once inside you can't go down to the platform until the train arrives.
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev4.jpg)
 
+The Maglev journey is about 8 min.
+
 ## Subway Line 2
 
 There is only one stop: Longyang Road Station 龙阳路站 (龍陽路站). Once you get out, just take the escalator down towards subway 上海地铁 (上海地鐵) line #2. 
@@ -41,6 +43,8 @@ At the bottom of the escalator you have to cross the street, and have your lugga
 I couldn't find a down-escalator, so I ended up having to carry my luggage down one flight of stairs. Not sure if there is an alternative? At the bottom take the side that is NOT going back to Pudong Airport!
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev7.jpg)
 
+The Line 2 journey is about 50 min.
+
 ## Subway Line 10
 
 Once at the Hongqiao airport exit you will probably have to transfer to a train that takes you to Terminal 1 (the exit is at Terminal 2), but check with your ticket. For this train, follow the signs for subway line 10, and take it one stop. (You can still use the same metro pass for this.)
@@ -51,6 +55,8 @@ After getting out at Terminal one, there is a five minute walk under a covered w
 
 Once in Terminal 1, the escalator to the check-in counters is straight ahead and to the left.
 ![](http://keywords.oxus.net/media/2016-07-12/shanghaimaglev10.jpg)
+
+Getting from Terminal 2 to Terminal 1 takes about 15 min.
 
 Good luck! If anything is different from what is reported here, please leave a comment...
 
