@@ -14,7 +14,7 @@ This post covers the trip from Shanghai Pudong International Airport 上海浦�
 
 ## Arrival
 
-When you arrive at Pudong the first thing you need to do is get your luggage and go through immigration. If you are arriving in China from a different city than your destination you may be eligible for a 144-hour visa-exemption. Check [this site] for more information. If you are lucky, someone is working at the separate counter set up for this and you can skip the big line. (It was closed when we arrived late at night going the other direction, but was open on the returning flight which arrived during the day.) Make sure to have a print out with your connecting flight information.
+When you arrive at Pudong the first thing you need to do is get your luggage and go through immigration. If you are arriving in China from a different city than your destination you may be eligible for a 144-hour visa-exemption. Check [this site](https://www.travelchinaguide.com/embassy/visa/free-transit-144hour.htm) for more information. If you are lucky, someone is working at the separate counter set up for this and you can skip the big line. (It was closed when we arrived late at night going the other direction, but was open on the returning flight which arrived during the day.) Make sure to have a print out with your connecting flight information.
 
 ## Maglev
 
