@@ -13,7 +13,7 @@ title: Wawa No Cidal
 
 Some preliminary thoughts on having just seen 太陽的孩子 Wawa No Cidal. 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//uVmybJR0qEI' frameborder='0' allowfullscreen></iframe></div>
+{% include youtube.html id="uVmybJR0qEI" %}
 <br/>
 First of all, this is an emotionally charged film that shows some of the real issues facing indigenous peoples in Taiwan without reducing them to stereotypes. It also deserves credit for making extensive use of the Amis language. For all these reasons everyone should watch and support this film. Having said all that, I really wish they had spent some more time on the screenplay. There were a lot of scenes that were insufficiently motivated and several dramatic tensions that were never sufficiently developed. (e.g. A sixth grader looks at a medical prescription and intuitively knows that this would be a better cancer treatment than what her grandfather is getting? An Amis police officer gets scolded by a grandmother and looks sick but doesn't really do anything other than look sick? An old school friend changes enough to help the local community but not enough to really do anything to help the community? etc.) These things matter because I fear they will limit the films appeal to a mostly local audience.
 
