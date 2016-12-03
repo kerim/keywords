@@ -1,5 +1,6 @@
 # Dependencies
 markdown:        kramdown
+theme: jekyll-swiss
 
 # Permalinks
 permalink:        /archives/:year/:month/:day/:title/
@@ -7,6 +8,17 @@ permalink:        /archives/:year/:month/:day/:title/
 # Additional settings
 excerpt_separator: <!--more-->
 comments: true
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: kerim
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: black
+
+# Additional Gems
 gems:
 - jekyll-mentions
 - jemoji
