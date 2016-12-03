@@ -40,8 +40,8 @@ url:              http://kerim.github.io
 baseurl:          /keywords
 
 author:
-  name:           'Kerim Friedman'
-  url:            https://twitter.com/kerim
+  name:           'Kerim'
+  url:            https://kerim.oxus.net
   email: 'kerim.mail@oxus.net'
 
 paginate:         15
