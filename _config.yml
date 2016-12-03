@@ -30,7 +30,7 @@ gems:
 title:            Keywords
 tagline:          'Better than yelling at the TV'
 description:      'The personal blog of <a href="http://kerim.oxus.net/">P. Kerim Friedman 傅可恩</a>. For his academic blogging please visit <a href="http://savageminds.org/">Savage Minds</a>.<br/><br/><a href="https://twitter.com/@kerim" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/kerimfriedman" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://plus.google.com/+KerimFriedman/about" target="_blank"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/kerim/" target="_blank" target="_blank"><i class="fa fa-flickr"></i></a>'
-url:              http://kerim.github.io/
+url:              http://kerim.github.io
 baseurl:          /keywords
 
 author:
@@ -40,11 +40,6 @@ author:
 
 paginate:         15
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
 
 # prose.io settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
