@@ -1,28 +1,18 @@
-	<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!DOCTYPE html>
+<html>
 
   {% include head.html %}
 
-  <body class="theme-base-08">
+  <body>
 
-    {% include sidebar.html %}
+    {% include header.html %}
 
-    <div class="content container">
+    <div>
       {{ content }}
     </div>
 
-    <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'keywords';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>
-    
+    {% include footer.html %}
+
   </body>
+
 </html>
