@@ -2,9 +2,6 @@
 markdown:        kramdown
 theme: jekyll-swiss
 
-# Permalinks
-permalink:        /archives/:year/:month/:day/:title/
-
 # Additional settings
 excerpt_separator: <!--more-->
 comments: true
@@ -44,7 +41,11 @@ author:
   url:            https://kerim.oxus.net
   email: 'kerim.mail@oxus.net'
 
-paginate:         15
+# Outputting
+permalink:        /archives/:year/:month/:day/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # prose.io settings
