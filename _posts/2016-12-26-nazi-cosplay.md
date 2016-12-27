@@ -27,7 +27,7 @@ Michael Turton has been documenting Taiwan's strange obsession with [Nazi kitsch
 
 The difference being that Nazi imagery is still widely used throughout much of the world as a symbol of ethnic hatred.
 
-## 2. Nor is it the first time this school has been in hot water for doing something tasteless.
+## 2. Nor is it the only tasteless thing the school did that day.
 
 <img src="http://d.pr/i/FdYH+" alt="Wushe cosplay" title="Wushe cosplay" width="400px"/> 
 
