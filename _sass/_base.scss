@@ -61,6 +61,10 @@ a {
   color: red;
 }
 
+.prose lh-condensed a {
+  color: black;
+}
+
 a:hover {
   text-decoration: underline;
 }
