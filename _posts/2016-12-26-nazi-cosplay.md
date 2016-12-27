@@ -6,6 +6,7 @@ layout: post
 published: true
 title: Nazi Cosplay
 ---
+
 So this happened:
 
 <img src="http://d.pr/i/I5iJ+" alt="nazi cosplay" title="nazi cosplay" width="400px" />
