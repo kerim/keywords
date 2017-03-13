@@ -5,7 +5,7 @@ layout: post
 - blog-post
 - images
 published: true
-title: Ceci n'est pas Andy Warhol
+title: Ceci n&#39;est pas Andy Warhol
 ---
 
 ![](/media/2017-03-13_garbagecan.jpg)
