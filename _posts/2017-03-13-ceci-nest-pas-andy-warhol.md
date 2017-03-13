@@ -2,7 +2,6 @@
 author: Kerim
 layout: post
 "categories:": 
-- blog-post
 - images
 published: true
 title: Ceci n&#39;est pas Andy Warhol
