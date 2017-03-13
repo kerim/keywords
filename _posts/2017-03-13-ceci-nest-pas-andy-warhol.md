@@ -4,6 +4,7 @@ layout: post
 "categories:": 
 - images
 published: true
+comments: true
 title: Ceci n'est pas Andy Warhol
 ---
 ## Ceci n'est pas Andy Warhol
