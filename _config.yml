@@ -28,7 +28,7 @@ link1: http://kerim.oxus.net
 theme_color: black
 
 # Additional Gems
-gems:
+plugins:
 - jekyll-mentions
 - jemoji
 - jekyll-redirect-from
