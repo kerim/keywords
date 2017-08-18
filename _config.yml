@@ -6,6 +6,12 @@ theme: jekyll-swiss
 excerpt_separator: <!--more-->
 comments: true
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: keywords
+    
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link1: twitter
