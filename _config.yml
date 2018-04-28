@@ -39,7 +39,7 @@ plugins:
 
 title:            Keywords
 tagline:          'Better than yelling at the TV'
-description:      'The personal blog of <a href="http://kerim.oxus.net/">P. Kerim Friedman 傅可恩</a>. For his academic blogging please visit <a href="http://anthrodendum.org/">anthro{dendum}</a>.'
+description:      'The personal blog of <a href="http://kerim.oxus.net/">P. Kerim Friedman 傅可恩</a>. Short (link) posts are on his <a href="http://micro.oxus.net/">microblog</a>. For his academic blogging please visit <a href="http://anthrodendum.org/">anthro{dendum}</a>.'
 url:              http://keywords.oxus.net
 
 author:
