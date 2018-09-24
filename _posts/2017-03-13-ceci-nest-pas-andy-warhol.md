@@ -1,11 +1,7 @@
----
-author: Kerim
-layout: post
-"categories:": 
-- images
-published: true
-title: Ceci n&#39;est pas Andy Warhol
----
+Date: 03/13/2017
+tag:images
+
+# Ceci n&#39;est pas Andy Warhol
 
 ![](/media/2017-03-13_garbagecan.jpg)
 
